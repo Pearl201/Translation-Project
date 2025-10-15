@@ -1,0 +1,690 @@
+en_1. Bingley instantly prevailed on Miss Bennet to avoid the confinement of such an intrusion, and walk away with him into the shrubbery.
+bal_1.
+en_2. They both set off; and the conjectures of the remaining three continued, though with little satisfaction, till the door was thrown open, and their visitor entered.
+bal_2.
+en_3. It was Lady Catherine de Bourgh.
+bal_3.
+en_4. They were of course all intending to be surprised: but their astonishment was beyond their expectation; and on the part of Mrs. Bennet and Kitty, though she was perfectly unknown to them, even inferior to what Elizabeth felt.
+bal_4.
+en_5. She entered the room with an air more than usually ungracious, made no other reply to Elizabeth’s salutation than a slight inclination of the head, and sat down without saying a word.
+bal_5.
+en_6. Elizabeth had mentioned her name to her mother on her Ladyship’s entrance, though no request of introduction had been made.
+bal_6.
+en_7. Mrs. Bennet, all amazement, though flattered by having a guest of such high importance, received her with the utmost politeness.
+bal_7.
+en_8. After sitting for a moment in silence, she said, very stiffly, to Elizabeth,-- “I hope you are well, Miss Bennet.
+bal_8.
+en_9. That lady, I suppose, is your mother?”
+bal_9.
+en_10. Elizabeth replied very concisely that she was.
+bal_10.
+en_11. “And _that_, I suppose, is one of your sisters?”
+bal_11.
+en_12. “Yes, madam,” said Mrs. Bennet, delighted to speak to a Lady Catherine.
+bal_12.
+en_13. “She is my youngest girl but one.
+bal_13.
+en_14. My youngest of all is lately married, and my eldest is somewhere about the ground, walking with a young man, who, I believe, will soon become a part of the family.”
+bal_14.
+en_15. “You have a very small park here,” returned Lady Catherine, after a short silence.
+bal_15.
+en_16. “It is nothing in comparison of Rosings, my Lady, I dare say; but, I assure you, it is much larger than Sir William Lucas’s.”
+bal_16.
+en_17. “This must be a most inconvenient sitting-room for the evening in summer: the windows are full west.”
+bal_17.
+en_18. Mrs. Bennet assured her that they never sat there after dinner; and then added,-- “May I take the liberty of asking your Ladyship whether you left Mr. and Mrs. Collins well?”
+bal_18.
+en_19. “Yes, very well.
+bal_19.
+en_20. I saw them the night before last.”
+bal_20.
+en_21. Elizabeth now expected that she would produce a letter for her from Charlotte, as it seemed the only probable motive for her calling.
+bal_21.
+en_22. But no letter appeared, and she was completely puzzled.
+bal_22.
+en_23. Mrs. Bennet, with great civility, begged her Ladyship to take some refreshment: but Lady Catherine very resolutely, and not very politely, declined eating anything; and then, rising up, said to Elizabeth,-- “Miss Bennet, there seemed to be a prettyish kind of a little wilderness on one side of your lawn.
+bal_23.
+en_24. I should be glad to take a turn in it, if you will favour me with your company.”
+bal_24.
+en_25. “Go, my dear,” cried her mother, “and show her Ladyship about the different walks.
+bal_25.
+en_26. I think she will be pleased with the hermitage.”
+bal_26.
+en_27. Elizabeth obeyed; and, running into her own room for her parasol, attended her noble guest downstairs.
+bal_27.
+en_28. As they passed through the hall, Lady Catherine opened the doors into the dining-parlour and drawing-room, and pronouncing them, after a short survey, to be decent-looking rooms, walked on.
+bal_28.
+en_29. Her carriage remained at the door, and Elizabeth saw that her waiting-woman was in it.
+bal_29.
+en_30. They proceeded in silence along the gravel walk that led to the copse; Elizabeth was determined to make no effort for conversation with a woman who was now more than usually insolent and disagreeable.
+bal_30.
+en_31. [Illustration: “After a short survey”
+bal_31.
+en_32. [_Copyright 1894 by George Allen._]] “How could I ever think her like her nephew?” said she, as she looked in her face.
+bal_32.
+en_33. As soon as they entered the copse, Lady Catherine began in the following manner:-- “You can be at no loss, Miss Bennet, to understand the reason of my journey hither.
+bal_33.
+en_34. Your own heart, your own conscience, must tell you why I come.”
+bal_34.
+en_35. Elizabeth looked with unaffected astonishment.
+bal_35.
+en_36. “Indeed, you are mistaken, madam; I have not been at all able to account for the honour of seeing you here.”
+bal_36.
+en_37. “Miss Bennet,” replied her Ladyship, in an angry tone, “you ought to know that I am not to be trifled with.
+bal_37.
+en_38. But however insincere _you_ may choose to be, you shall not find _me_ so.
+bal_38.
+en_39. My character has ever been celebrated for its sincerity and frankness; and in a cause of such moment as this, I shall certainly not depart from it.
+bal_39.
+en_40. A report of a most alarming nature reached me two days ago.
+bal_40.
+en_41. I was told, that not only your sister was on the point of being most advantageously married, but that _you_--that
+bal_41.
+en_42. Miss Elizabeth Bennet would, in all likelihood, be soon afterwards united to my nephew--my own nephew, Mr. Darcy.
+bal_42.
+en_43. Though I _know_ it must be a scandalous falsehood, though I would not injure him so much as to suppose the truth of it possible, I instantly resolved on setting off for this place, that I might make my sentiments known to you.”
+bal_43.
+en_44. “If you believed it impossible to be true,” said Elizabeth, colouring with astonishment and disdain, “I wonder you took the trouble of coming so far.
+bal_44.
+en_45. What could your Ladyship propose by it?”
+bal_45.
+en_46. “At once to insist upon having such a report universally contradicted.”
+bal_46.
+en_47. “Your coming to Longbourn, to see me and my family,” said Elizabeth coolly, “will be rather a confirmation of it--if, indeed, such a report is in existence.”
+bal_47.
+en_48. “If!
+bal_48.
+en_49. do you then pretend to be ignorant of it?
+bal_49.
+en_50. Has it not been industriously circulated by yourselves?
+bal_50.
+en_51. Do you not know that such a report is spread abroad?”
+bal_51.
+en_52. “I never heard that it was.”
+bal_52.
+en_53. “And can you likewise declare, that there is no _foundation_ for it?”
+bal_53.
+en_54. “I do not pretend to possess equal frankness with your Ladyship.
+bal_54.
+en_55. _
+bal_55.
+en_56. You_ may ask questions which _I_ shall not choose to answer.”
+bal_56.
+en_57. “This is not to be borne.
+bal_57.
+en_58. Miss Bennet, I insist on being satisfied.
+bal_58.
+en_59. Has he, has my nephew, made you an offer of marriage?”
+bal_59.
+en_60. “Your Ladyship has declared it to be impossible.”
+bal_60.
+en_61. “It ought to be so; it must be so, while he retains the use of his reason.
+bal_61.
+en_62. But _your_ arts and allurements may, in a moment of infatuation, have made him forget what he owes to himself and to all his family.
+bal_62.
+en_63. You may have drawn him in.”
+bal_63.
+en_64. “If I have, I shall be the last person to confess it.”
+bal_64.
+en_65. “Miss Bennet, do you know who I am?
+bal_65.
+en_66. I have not been accustomed to such language as this.
+bal_66.
+en_67. I am almost the nearest relation he has in the world, and am entitled to know all his dearest concerns.”
+bal_67.
+en_68. “But you are not entitled to know _mine_; nor will such behaviour as this ever induce me to be explicit.”
+bal_68.
+en_69. “Let me be rightly understood.
+bal_69.
+en_70. This match, to which you have the presumption to aspire, can never take place.
+bal_70.
+en_71. No, never.
+bal_71.
+en_72. Mr. Darcy is engaged to _my daughter_.
+bal_72.
+en_73. Now, what have you to say?”
+bal_73.
+en_74. “Only this,--that if he is so, you can have no reason to suppose he will make an offer to me.”
+bal_74.
+en_75. Lady Catherine hesitated for a moment, and then replied,-- “The engagement between them is of a peculiar kind.
+bal_75.
+en_76. From their infancy, they have been intended for each other.
+bal_76.
+en_77. It was the favourite wish of _his_ mother, as well as of hers.
+bal_77.
+en_78. While in their cradles we planned the union; and now, at the moment when the wishes of both sisters would be accomplished, is their marriage to be prevented by a young woman of inferior birth, of no importance in the world, and wholly unallied to the family?
+bal_78.
+en_79. Do you pay no regard to the wishes of his friends--to his tacit engagement with Miss de Bourgh?
+bal_79.
+en_80. Are you lost to every feeling of propriety and delicacy?
+bal_80.
+en_81. Have you not heard me say, that from his earliest hours he was destined for his cousin?”
+bal_81.
+en_82. “Yes; and I had heard it before.
+bal_82.
+en_83. But what is that to me?
+bal_83.
+en_84. If there is no other objection to my marrying your nephew, I shall certainly not be kept from it by knowing that his mother and aunt wished him to marry Miss de Bourgh.
+bal_84.
+en_85. You both did as much as you could in planning the marriage.
+bal_85.
+en_86. Its completion depended on others.
+bal_86.
+en_87. If Mr. Darcy is neither by honour nor inclination confined to his cousin, why is not he to make another choice?
+bal_87.
+en_88. And if I am that choice, why may not I accept him?”
+bal_88.
+en_89. “Because honour, decorum, prudence--nay, interest--forbid it.
+bal_89.
+en_90. Yes, Miss Bennet, interest; for do not expect to be noticed by his family or friends, if you wilfully act against the inclinations of all.
+bal_90.
+en_91. You will be censured, slighted, and despised, by everyone connected with him.
+bal_91.
+en_92. Your alliance will be a disgrace; your name will never even be mentioned by any of us.”
+bal_92.
+en_93. “These are heavy misfortunes,” replied Elizabeth.
+bal_93.
+en_94. “But the wife of Mr. Darcy must have such extraordinary sources of happiness necessarily attached to her situation, that she could, upon the whole, have no cause to repine.”
+bal_94.
+en_95. “Obstinate, headstrong girl!
+bal_95.
+en_96. I am ashamed of you!
+bal_96.
+en_97. Is this your gratitude for my attentions to you last spring?
+bal_97.
+en_98. Is nothing due to me on that score?
+bal_98.
+en_99. Let us sit down.
+bal_99.
+en_100. You are to understand, Miss Bennet, that I came here with the determined resolution of carrying my purpose; nor will I be dissuaded from it.
+bal_100.
+en_101. I have not been used to submit to any person’s whims.
+bal_101.
+en_102. I have not been in the habit of brooking disappointment.”
+bal_102.
+en_103. “_That_ will make your Ladyship’s situation at present more pitiable; but it will have no effect on _me_.”
+bal_103.
+en_104. “I will not be interrupted!
+bal_104.
+en_105. Hear me in silence.
+bal_105.
+en_106. My daughter and my nephew are formed for each other.
+bal_106.
+en_107. They are descended, on the maternal side, from the same noble line; and, on the father’s, from respectable, honourable, and ancient, though untitled, families.
+bal_107.
+en_108. Their fortune on both sides is splendid.
+bal_108.
+en_109. They are destined for each other by the voice of every member of their respective houses; and what is to divide them?--the upstart pretensions of a young woman without family, connections, or fortune!
+bal_109.
+en_110. Is this to be endured?
+bal_110.
+en_111. But it must not, shall not be!
+bal_111.
+en_112. If you were sensible of your own good, you would not wish to quit the sphere in which you have been brought up.”
+bal_112.
+en_113. “In marrying your nephew, I should not consider myself as quitting that sphere.
+bal_113.
+en_114. He is a gentleman; I am a gentleman’s daughter; so far we are equal.”
+bal_114.
+en_115. “True.
+bal_115.
+en_116. You _are_ a gentleman’s daughter.
+bal_116.
+en_117. But what was your mother?
+bal_117.
+en_118. Who are your uncles and aunts?
+bal_118.
+en_119. Do not imagine me ignorant of their condition.”
+bal_119.
+en_120. “Whatever my connections may be,” said Elizabeth, “if your nephew does not object to them, they can be nothing to _you_.”
+bal_120.
+en_121. “Tell me, once for all, are you engaged to him?”
+bal_121.
+en_122. Though Elizabeth would not, for the mere purpose of obliging Lady Catherine, have answered this question, she could not but say, after a moment’s deliberation,-- “I am not.”
+bal_122.
+en_123. Lady Catherine seemed pleased.
+bal_123.
+en_124. “And will you promise me never to enter into such an engagement?”
+bal_124.
+en_125. “I will make no promise of the kind.”
+bal_125.
+en_126. “Miss Bennet, I am shocked and astonished.
+bal_126.
+en_127. I expected to find a more reasonable young woman.
+bal_127.
+en_128. But do not deceive yourself into a belief that I will ever recede.
+bal_128.
+en_129. I shall not go away till you have given me the assurance I require.”
+bal_129.
+en_130. “And I certainly _never_ shall give it.
+bal_130.
+en_131. I am not to be intimidated into anything so wholly unreasonable.
+bal_131.
+en_132. Your Ladyship wants Mr. Darcy to marry your daughter; but would my giving you the wished-for promise make _their_ marriage at all more probable?
+bal_132.
+en_133. Supposing him to be attached to me, would _my_ refusing to accept his hand make him wish to bestow it on his cousin?
+bal_133.
+en_134. Allow me to say, Lady Catherine, that the arguments with which you have supported this extraordinary application have been as frivolous as the application was ill-judged.
+bal_134.
+en_135. You have widely mistaken my character, if you think I can be worked on by such persuasions as these.
+bal_135.
+en_136. How far your nephew might approve of your interference in _his_ affairs, I cannot tell; but you have certainly no right to concern yourself in mine.
+bal_136.
+en_137. I must beg, therefore, to be importuned no further on the subject.”
+bal_137.
+en_138. “Not so hasty, if you please.
+bal_138.
+en_139. I have by no means done.
+bal_139.
+en_140. To all the objections I have already urged I have still another to add.
+bal_140.
+en_141. I am no stranger to the particulars of your youngest sister’s infamous elopement.
+bal_141.
+en_142. I know it all; that the young man’s marrying her was a patched-up business, at the expense of your father and uncle.
+bal_142.
+en_143. And is _such_ a girl to be my nephew’s sister?
+bal_143.
+en_144. Is _her_ husband, who is the son of his late father’s steward, to be his brother?
+bal_144.
+en_145. Heaven and earth!--of what are you thinking?
+bal_145.
+en_146. Are the shades of Pemberley to be thus polluted?”
+bal_146.
+en_147. “You can _now_ have nothing further to say,” she resentfully answered.
+bal_147.
+en_148. “You have insulted me, in every possible method.
+bal_148.
+en_149. I must beg to return to the house.”
+bal_149.
+en_150. And she rose as she spoke.
+bal_150.
+en_151. Lady Catherine rose also, and they turned back.
+bal_151.
+en_152. Her Ladyship was highly incensed.
+bal_152.
+en_153. “You have no regard, then, for the honour and credit of my nephew!
+bal_153.
+en_154. Unfeeling, selfish girl!
+bal_154.
+en_155. Do you not consider that a connection with you must disgrace him in the eyes of everybody?”
+bal_155.
+en_156. “Lady Catherine, I have nothing further to say.
+bal_156.
+en_157. You know my sentiments.”
+bal_157.
+en_158. “You are then resolved to have him?”
+bal_158.
+en_159. “I have said no such thing.
+bal_159.
+en_160. I am only resolved to act in that manner, which will, in my own opinion, constitute my happiness, without reference to _you_, or to any person so wholly unconnected with me.”
+bal_160.
+en_161. “It is well.
+bal_161.
+en_162. You refuse, then, to oblige me.
+bal_162.
+en_163. You refuse to obey the claims of duty, honour, and gratitude.
+bal_163.
+en_164. You are determined to ruin him in the opinion of all his friends, and make him the contempt of the world.”
+bal_164.
+en_165. “Neither duty, nor honour, nor gratitude,” replied Elizabeth, “has any possible claim on me, in the present instance.
+bal_165.
+en_166. No principle of either would be violated by my marriage with Mr. Darcy.
+bal_166.
+en_167. And with regard to the resentment of his family, or the indignation of the world, if the former _were_ excited by his marrying me, it would not give me one moment’s concern--and the world in general would have too much sense to join in the scorn.”
+bal_167.
+en_168. “And this is your real opinion!
+bal_168.
+en_169. This is your final resolve!
+bal_169.
+en_170. Very well.
+bal_170.
+en_171. I shall now know how to act.
+bal_171.
+en_172. Do not imagine, Miss Bennet, that your ambition will ever be gratified.
+bal_172.
+en_173. I came to try you.
+bal_173.
+en_174. I hoped to find you reasonable; but depend upon it I will carry my point.”
+bal_174.
+en_175. In this manner Lady Catherine talked on till they were at the door of the carriage, when, turning hastily round, she added,-- “I take no leave of you, Miss Bennet.
+bal_175.
+en_176. I send no compliments to your mother.
+bal_176.
+en_177. You deserve no such attention.
+bal_177.
+en_178. I am most seriously displeased.”
+bal_178.
+en_179. Elizabeth made no answer; and without attempting to persuade her Ladyship to return into the house, walked quietly into it herself.
+bal_179.
+en_180. She heard the carriage drive away as she proceeded upstairs.
+bal_180.
+en_181. Her mother impatiently met her at the door of her dressing-room, to ask why Lady Catherine would not come in again and rest herself.
+bal_181.
+en_182. “She did not choose it,” said her daughter; “she would go.”
+bal_182.
+en_183. “She is a very fine-looking woman!
+bal_183.
+en_184. and her calling here was prodigiously civil!
+bal_184.
+en_185. for she only came, I suppose, to tell us the Collinses were well.
+bal_185.
+en_186. She is on her road somewhere, I dare say; and so, passing through Meryton, thought she might as well call on you.
+bal_186.
+en_187. I suppose she had nothing particular to say to you, Lizzy?”
+bal_187.
+en_188. Elizabeth was forced to give in to a little falsehood here; for to acknowledge the substance of their conversation was impossible.
+bal_188.
+en_189. [Illustration: “But now it comes out” ] CHAPTER LVII.
+bal_189.
+en_190. [Illustration] The discomposure of spirits which this extraordinary visit threw Elizabeth into could not be easily overcome; nor could she for many hours learn to think of it less than incessantly.
+bal_190.
+en_191. Lady Catherine, it appeared, had actually taken the trouble of this journey from Rosings for the sole purpose of breaking off her supposed engagement with Mr. Darcy.
+bal_191.
+en_192. It was a rational scheme, to be sure!
+bal_192.
+en_193. but from what the report of their engagement could originate, Elizabeth was at a loss to imagine; till she recollected that _his_ being the intimate friend of Bingley, and _her_ being the sister of Jane, was enough, at a time when the expectation of one wedding made everybody eager for another, to supply the idea.
+bal_193.
+en_194. She had not herself forgotten to feel that the marriage of her sister must bring them more frequently together.
+bal_194.
+en_195. And her neighbours at Lucas Lodge, therefore, (for through their communication with the Collinses, the report, she concluded, had reached Lady Catherine,) had only set _that_ down as almost certain and immediate which _
+bal_195.
+en_196. she_ had looked forward to as possible at some future time.
+bal_196.
+en_197. In revolving Lady Catherine’s expressions, however, she could not help feeling some uneasiness as to the possible consequence of her persisting in this interference.
+bal_197.
+en_198. From what she had said of her resolution to prevent the marriage, it occurred to Elizabeth that she must meditate an application to her nephew; and how he might take a similar representation of the evils attached to a connection with her she dared not pronounce.
+bal_198.
+en_199. She knew not the exact degree of his affection for his aunt, or his dependence on her judgment, but it was natural to suppose that he thought much higher of her Ladyship than _she_ could do; and it was certain, that in enumerating the miseries of a marriage with _one_ whose immediate connections were so unequal to his own, his aunt would address him on his weakest side.
+bal_199.
+en_200. With his notions of dignity, he would probably feel that the arguments, which to Elizabeth had appeared weak and ridiculous, contained much good sense and solid reasoning.
+bal_200.
+en_201. If he had been wavering before, as to what he should do, which had often seemed likely, the advice and entreaty of so near a relation might settle every doubt, and determine him at once to be as happy as dignity unblemished could make him.
+bal_201.
+en_202. In that case he would return no more.
+bal_202.
+en_203. Lady Catherine might see him in her way through town; and his engagement to Bingley of coming again to Netherfield must give way.
+bal_203.
+en_204. “If, therefore, an excuse for not keeping his promise should come to his friend within a few days,” she added, “I shall know how to understand it.
+bal_204.
+en_205. I shall then give over every expectation, every wish of his constancy.
+bal_205.
+en_206. If he is satisfied with only regretting me, when he might have obtained my affections and hand, I shall soon cease to regret him at all.”
+bal_206.
+en_207. The surprise of the rest of the family, on hearing who their visitor had been, was very great: but they obligingly satisfied it with the same kind of supposition which had appeased Mrs. Bennet’s curiosity; and Elizabeth was spared from much teasing on the subject.
+bal_207.
+en_208. The next morning, as she was going down stairs, she was met by her father, who came out of his library with a letter in his hand.
+bal_208.
+en_209. “Lizzy,” said he, “I was going to look for you: come into my room.”
+bal_209.
+en_210. She followed him thither; and her curiosity to know what he had to tell her was heightened by the supposition of its being in some manner connected with the letter he held.
+bal_210.
+en_211. It suddenly struck her that it might be from Lady Catherine, and she anticipated with dismay all the consequent explanations.
+bal_211.
+en_212. She followed her father to the fireplace, and they both sat down.
+bal_212.
+en_213. He then said,-- “I have received a letter this morning that has astonished me exceedingly.
+bal_213.
+en_214. As it principally concerns yourself, you ought to know its contents.
+bal_214.
+en_215. I did not know before that I had _two_ daughters on the brink of matrimony.
+bal_215.
+en_216. Let me congratulate you on a very important conquest.”
+bal_216.
+en_217. The colour now rushed into Elizabeth’s cheeks in the instantaneous conviction of its being a letter from the nephew, instead of the aunt; and she was undetermined whether most to be pleased that he explained himself at all, or offended that his letter was not rather addressed to herself, when her father continued,-- “You look conscious.
+bal_217.
+en_218. Young ladies have great penetration in such matters as these; but I think I may defy even _your_ sagacity to discover the name of your admirer.
+bal_218.
+en_219. This letter is from Mr. Collins.”
+bal_219.
+en_220. “From Mr. Collins!
+bal_220.
+en_221. and what can _he_ have to say?”
+bal_221.
+en_222. “Something very much to the purpose, of course.
+bal_222.
+en_223. He begins with congratulations on the approaching nuptials of my eldest daughter, of which, it seems, he has been told by some of the good-natured, gossiping Lucases.
+bal_223.
+en_224. I shall not sport with your impatience by reading what he says on that point.
+bal_224.
+en_225. What relates to yourself is as follows:--‘Having thus offered you the sincere congratulations of Mrs. Collins and myself on this happy event, let me now add a short hint on the subject of another, of which we have been advertised by the same authority.
+bal_225.
+en_226. Your daughter Elizabeth, it is presumed, will not long bear the name of Bennet, after her eldest sister has resigned it; and the chosen partner of her fate may be reasonably looked up to as one of the most illustrious personages in this land.’
+bal_226.
+en_227. Can you possibly guess, Lizzy, who is meant by this?
+bal_227.
+en_228. ‘This young gentleman is blessed, in a peculiar way, with everything the heart of mortal can most desire,--splendid property, noble kindred, and extensive patronage.
+bal_228.
+en_229. Yet, in spite of all these temptations, let me warn my cousin Elizabeth, and yourself, of what evils you may incur by a precipitate closure with this gentleman’s proposals, which, of course, you will be inclined to take immediate advantage of.’
+bal_229.
+en_230. Have you any idea, Lizzy, who this gentleman is?
+bal_230.
+en_231. But now it comes out.
+bal_231.
+en_232. ‘My motive for cautioning you is as follows:--We have reason to imagine that his aunt, Lady Catherine de Bourgh, does not look on the match with a friendly eye.’
+bal_232.
+en_233. _Mr. Darcy_, you see, is the man!
+bal_233.
+en_234. Now, Lizzy, I think I _have_ surprised you.
+bal_234.
+en_235. Could he, or the Lucases, have pitched on any man, within the circle of our acquaintance, whose name would have given the lie more effectually to what they related?
+bal_235.
+en_236. Mr. Darcy, who never looks at any woman but to see a blemish, and who probably never looked at _you_ in his life!
+bal_236.
+en_237. It is admirable!”
+bal_237.
+en_238. Elizabeth tried to join in her father’s pleasantry, but could only force one most reluctant smile.
+bal_238.
+en_239. Never had his wit been directed in a manner so little agreeable to her.
+bal_239.
+en_240. “Are you not diverted?”
+bal_240.
+en_241. “Oh, yes.
+bal_241.
+en_242. Pray read on.”
+bal_242.
+en_243. “‘After mentioning the likelihood of this marriage to her Ladyship last night, she immediately, with her usual condescension, expressed what she felt on the occasion; when it became apparent, that, on the score of some family objections on the part of my cousin, she would never give her consent to what she termed so disgraceful a match.
+bal_243.
+en_244. I thought it my duty to give the speediest intelligence of this to my cousin, that she and her noble admirer may be aware of what they are about, and not run hastily into a marriage which has not been properly sanctioned.’
+bal_244.
+en_245. Mr. Collins, moreover, adds, ‘I am truly rejoiced that my cousin Lydia’s sad business has been so well hushed up, and am only concerned that their living together before the marriage took place should be so generally known.
+bal_245.
+en_246. I must not, however, neglect the duties of my station, or refrain from declaring my amazement, at hearing that you received the young couple into your house as soon as they were married.
+bal_246.
+en_247. It was an encouragement of vice; and had I been the rector of Longbourn, I should very strenuously have opposed it.
+bal_247.
+en_248. You ought certainly to forgive them as a Christian, but never to admit them in your sight, or allow their names to be mentioned in your hearing.’
+bal_248.
+en_249. _That_ is his notion of Christian forgiveness!
+bal_249.
+en_250. The rest of his letter is only about his dear Charlotte’s situation, and his expectation of a young olive-branch.
+bal_250.
+en_251. But, Lizzy, you look as if you did not enjoy it.
+bal_251.
+en_252. You are not going to be _missish_, I hope, and pretend to be affronted at an idle report.
+bal_252.
+en_253. For what do we live, but to make sport for our neighbours, and laugh at them in our turn?” “Oh,” cried Elizabeth, “I am exceedingly diverted.
+bal_253.
+en_254. But it is so strange!”
+bal_254.
+en_255. “Yes, _that_ is what makes it amusing.
+bal_255.
+en_256. Had they fixed on any other man it would have been nothing; but _his_ perfect indifference and _your_ pointed dislike make it so delightfully absurd!
+bal_256.
+en_257. Much as I abominate writing, I would not give up Mr. Collins’s correspondence for any consideration.
+bal_257.
+en_258. Nay, when I read a letter of his, I cannot help giving him the preference even over Wickham, much as I value the impudence and hypocrisy of my son-in-law.
+bal_258.
+en_259. And pray, Lizzy, what said Lady Catherine about this report?
+bal_259.
+en_260. Did she call to refuse her consent?”
+bal_260.
+en_261. To this question his daughter replied only with a laugh; and as it had been asked without the least suspicion, she was not distressed by his repeating it.
+bal_261.
+en_262. Elizabeth had never been more at a loss to make her feelings appear what they were not.
+bal_262.
+en_263. It was necessary to laugh when she would rather have cried.
+bal_263.
+en_264. Her father had most cruelly mortified her by what he said of Mr. Darcy’s indifference; and she could do nothing but wonder at such a want of penetration, or fear that, perhaps, instead of his seeing too _little_, she might have fancied too _much_.
+bal_264.
+en_265. [Illustration: “The efforts of his aunt”
+bal_265.
+en_266. [_Copyright 1894 by George Allen._]] CHAPTER LVIII.
+bal_266.
+en_267. [Illustration] Instead of receiving any such letter of excuse from his friend, as Elizabeth half expected Mr. Bingley to do, he was able to bring Darcy with him to Longbourn before many days had passed after Lady Catherine’s visit.
+bal_267.
+en_268. The gentlemen arrived early; and, before Mrs. Bennet had time to tell him of their having seen his aunt, of which her daughter sat in momentary dread, Bingley, who wanted to be alone with Jane, proposed their all walking out.
+bal_268.
+en_269. It was agreed to.
+bal_269.
+en_270. Mrs. Bennet was not in the habit of walking, Mary could never spare time, but the remaining five set off together.
+bal_270.
+en_271. Bingley and Jane, however, soon allowed the others to outstrip them.
+bal_271.
+en_272. They lagged behind, while Elizabeth, Kitty, and Darcy were to entertain each other.
+bal_272.
+en_273. Very little was said by either; Kitty was too much afraid of him to talk; Elizabeth was secretly forming a desperate resolution; and, perhaps, he might be doing the same.
+bal_273.
+en_274. They walked towards the Lucases’, because Kitty wished to call upon Maria; and as Elizabeth saw no occasion for making it a general concern, when Kitty left them she went boldly on with him alone.
+bal_274.
+en_275. Now was the moment for her resolution to be executed; and while her courage was high, she immediately said,--
+bal_275.
+en_276. “Mr. Darcy, I am a very selfish creature, and for the sake of giving relief to my own feelings care not how much I may be wounding yours.
+bal_276.
+en_277. I can no longer help thanking you for your unexampled kindness to my poor sister.
+bal_277.
+en_278. Ever since I have known it I have been most anxious to acknowledge to you how gratefully I feel it.
+bal_278.
+en_279. Were it known to the rest of my family I should not have merely my own gratitude to express.”
+bal_279.
+en_280. “I am sorry, exceedingly sorry,” replied Darcy, in a tone of surprise and emotion, “that you have ever been informed of what may, in a mistaken light, have given you uneasiness.
+bal_280.
+en_281. I did not think Mrs. Gardiner was so little to be trusted.”
+bal_281.
+en_282. “You must not blame my aunt.
+bal_282.
+en_283. Lydia’s thoughtlessness first betrayed to me that you had been concerned in the matter; and, of course, I could not rest till I knew the particulars.
+bal_283.
+en_284. Let me thank you again and again, in the name of all my family, for that generous compassion which induced you to take so much trouble, and bear so many mortifications, for the sake of discovering them.”
+bal_284.
+en_285. “If you _will_ thank me,” he replied, “let it be for yourself alone.
+bal_285.
+en_286. That the wish of giving happiness to you might add force to the other inducements which led me on, I shall not attempt to deny.
+bal_286.
+en_287. But your _family_ owe me nothing.
+bal_287.
+en_288. Much as I respect them, I believe I thought only of _you_.”
+bal_288.
+en_289. Elizabeth was too much embarrassed to say a word.
+bal_289.
+en_290. After a short pause, her companion added, “You are too generous to trifle with me.
+bal_290.
+en_291. If your feelings are still what they were last April, tell me so at once.
+bal_291.
+en_292. _
+bal_292.
+en_293. My_ affections and wishes are unchanged; but one word from you will silence me on this subject for ever.”
+bal_293.
+en_294. Elizabeth, feeling all the more than common awkwardness and anxiety of his situation, now forced herself to speak; and immediately, though not very fluently, gave him to understand that her sentiments had undergone so material a change since the period to which he alluded, as to make her receive with gratitude and pleasure his present assurances.
+bal_294.
+en_295. The happiness which this reply produced was such as he had probably never felt before; and he expressed himself on the occasion as sensibly and as warmly as a man violently in love can be supposed to do.
+bal_295.
+en_296. Had Elizabeth been able to encounter his eyes, she might have seen how well the expression of heartfelt delight diffused over his face became him: but though she could not look she could listen; and he told her of feelings which, in proving of what importance she was to him, made his affection every moment more valuable.
+bal_296.
+en_297. They walked on without knowing in what direction.
+bal_297.
+en_298. There was too much to be thought, and felt, and said, for attention to any other objects.
+bal_298.
+en_299. She soon learnt that they were indebted for their present good understanding to the efforts of his aunt, who _did_ call on him in her return through London, and there relate her journey to Longbourn, its motive, and the substance of her conversation with Elizabeth; dwelling emphatically on every expression of the latter, which, in her Ladyship’s apprehension, peculiarly denoted her perverseness and assurance, in the belief that such a relation must assist her endeavours to obtain that promise from her nephew which _she_ had refused to give.
+bal_299.
+en_300. But, unluckily for her Ladyship, its effect had been exactly contrariwise.
+bal_300.
+en_301. “It taught me to hope,” said he, “as I had scarcely ever allowed myself to hope before.
+bal_301.
+en_302. I knew enough of your disposition to be certain, that had you been absolutely, irrevocably decided against me, you would have acknowledged it to Lady Catherine frankly and openly.”
+bal_302.
+en_303. Elizabeth coloured and laughed as she replied, “Yes, you know enough of my _frankness_ to believe me capable of _that_.
+bal_303.
+en_304. After abusing you so abominably to your face, I could have no scruple in abusing you to all your relations.”
+bal_304.
+en_305. “What did you say of me that I did not deserve?
+bal_305.
+en_306. For though your accusations were ill-founded, formed on mistaken premises, my behaviour to you at the time had merited the severest reproof.
+bal_306.
+en_307. It was unpardonable.
+bal_307.
+en_308. I cannot think of it without abhorrence.”
+bal_308.
+en_309. “We will not quarrel for the greater share of blame annexed to that evening,” said Elizabeth.
+bal_309.
+en_310. “The conduct of neither, if strictly examined, will be irreproachable; but since then we have both, I hope, improved in civility.”
+bal_310.
+en_311. “I cannot be so easily reconciled to myself.
+bal_311.
+en_312. The recollection of what I then said, of my conduct, my manners, my expressions during the whole of it, is now, and has been many months, inexpressibly painful to me.
+bal_312.
+en_313. Your reproof, so well applied, I shall never forget: ‘Had you behaved in a more gentlemanlike manner.’
+bal_313.
+en_314. Those were your words.
+bal_314.
+en_315. You know not, you can scarcely conceive, how they have tortured me; though it was some time, I confess, before I was reasonable enough to allow their justice.”
+bal_315.
+en_316. “I was certainly very far from expecting them to make so strong an impression.
+bal_316.
+en_317. I had not the smallest idea of their being ever felt in such a way.”
+bal_317.
+en_318. “I can easily believe it.
+bal_318.
+en_319. You thought me then devoid of every proper feeling, I am sure you did.
+bal_319.
+en_320. The turn of your countenance I shall never forget, as you said that I could not have addressed you in any possible way that would induce you to accept me.”
+bal_320.
+en_321. “Oh, do not repeat what I then said.
+bal_321.
+en_322. These recollections will not do at all.
+bal_322.
+en_323. I assure you that I have long been most heartily ashamed of it.”
+bal_323.
+en_324. Darcy mentioned his letter.
+bal_324.
+en_325. “Did it,” said he,--“did it _soon_ make you think better of me?
+bal_325.
+en_326. Did you, on reading it, give any credit to its contents?”
+bal_326.
+en_327. She explained what its effects on her had been, and how gradually all her former prejudices had been removed.
+bal_327.
+en_328. “I knew,” said he, “that what I wrote must give you pain, but it was necessary.
+bal_328.
+en_329. I hope you have destroyed the letter.
+bal_329.
+en_330. There was one part, especially the opening of it, which I should dread your having the power of reading again.
+bal_330.
+en_331. I can remember some expressions which might justly make you hate me.”
+bal_331.
+en_332. “The letter shall certainly be burnt, if you believe it essential to the preservation of my regard; but, though we have both reason to think my opinions not entirely unalterable, they are not, I hope, quite so easily changed as that implies.”
+bal_332.
+en_333. “When I wrote that letter,” replied Darcy, “I believed myself perfectly calm and cool; but I am since convinced that it was written in a dreadful bitterness of spirit.”
+bal_333.
+en_334. “The letter, perhaps, began in bitterness, but it did not end so.
+bal_334.
+en_335. The adieu is charity itself.
+bal_335.
+en_336. But think no more of the letter.
+bal_336.
+en_337. The feelings of the person who wrote and the person who received it are now so widely different from what they were then, that every unpleasant circumstance attending it ought to be forgotten.
+bal_337.
+en_338. You must learn some of my philosophy.
+bal_338.
+en_339. Think only of the past as its remembrance gives you pleasure.”
+bal_339.
+en_340. “I cannot give you credit for any philosophy of the kind.
+bal_340.
+en_341. _
+bal_341.
+en_342. Your_ retrospections must be so totally void of reproach, that the contentment arising from them is not of philosophy, but, what is much better, of ignorance.
+bal_342.
+en_343. But with _me_, it is not so.
+bal_343.
+en_344. Painful recollections will intrude, which cannot, which ought not to be repelled.
+bal_344.
+en_345. I have been a selfish being all my
+bal_345.

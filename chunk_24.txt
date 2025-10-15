@@ -1,0 +1,498 @@
+en_1. undertaking and console you in case of failure.
+bal_1.
+en_2. Prepare to hear of occurrences which are usually deemed marvellous.
+bal_2.
+en_3. Were we among the tamer scenes of nature I might fear to encounter your unbelief, perhaps your ridicule; but many things will appear possible in these wild and mysterious regions which would provoke the laughter of those unacquainted with the ever-varied powers of nature; nor can I doubt but that my tale conveys in its series internal evidence of the truth of the events of which it is composed.”
+bal_3.
+en_4. You may easily imagine that I was much gratified by the offered communication, yet I could not endure that he should renew his grief by a recital of his misfortunes.
+bal_4.
+en_5. I felt the greatest eagerness to hear the promised narrative, partly from curiosity and partly from a strong desire to ameliorate his fate if it were in my power.
+bal_5.
+en_6. I expressed these feelings in my answer.
+bal_6.
+en_7. “I thank you,” he replied, “for your sympathy, but it is useless; my fate is nearly fulfilled.
+bal_7.
+en_8. I wait
+bal_8.
+en_9. but for one event, and then I shall repose in peace.
+bal_9.
+en_10. I understand your feeling,” continued he, perceiving that I wished to interrupt him; “but you are mistaken, my friend, if thus you will allow me to name you; nothing can alter my destiny; listen to my history, and you will perceive how irrevocably it is determined.”
+bal_10.
+en_11. He then told me that he would commence his narrative the next day when I should be at leisure.
+bal_11.
+en_12. This promise drew from me the warmest thanks.
+bal_12.
+en_13. I have resolved every night, when I am not imperatively occupied by my duties, to record, as nearly as possible in his own words, what he has related during the day.
+bal_13.
+en_14. If I should be engaged, I will at least make notes.
+bal_14.
+en_15. This manuscript will doubtless afford you the greatest pleasure; but to me, who know him, and who hear it from his own lips—with what interest and sympathy shall I read it in some future day!
+bal_15.
+en_16. Even now, as I commence my task, his full-toned voice swells in my ears; his lustrous eyes dwell on me with all their melancholy sweetness; I see his thin hand raised in animation, while the lineaments of his face are irradiated by the soul within.
+bal_16.
+en_17. Strange and harrowing must be his story, frightful the storm which embraced the gallant vessel on its course and wrecked it—thus!
+bal_17.
+en_18. Chapter 1 I am by birth a Genevese, and my family is one of the most distinguished of that republic.
+bal_18.
+en_19. My ancestors had been for many years counsellors and syndics, and my father had filled several public situations with honour and reputation.
+bal_19.
+en_20. He was respected by all who knew him for his integrity and indefatigable attention to public business.
+bal_20.
+en_21. He passed his younger days perpetually occupied by the affairs of his country; a variety of circumstances had prevented his marrying early, nor was it until the decline of life that he became a husband and the father of a family.
+bal_21.
+en_22. As the circumstances of his marriage illustrate his character, I cannot refrain from relating them.
+bal_22.
+en_23. One of his most intimate friends was a merchant who, from a flourishing state, fell, through numerous mischances, into poverty.
+bal_23.
+en_24. This man, whose name was Beaufort, was of a proud and unbending disposition and could not bear to live in poverty and oblivion in the same country where he had formerly been distinguished for his rank and magnificence.
+bal_24.
+en_25. Having paid his debts, therefore, in the most honourable manner, he retreated with his daughter to the town of Lucerne, where he lived unknown and in wretchedness.
+bal_25.
+en_26. My father loved Beaufort with the truest friendship and was deeply grieved by his retreat in these unfortunate circumstances.
+bal_26.
+en_27. He bitterly deplored the false pride which led his friend to a conduct so little worthy of the affection that united them.
+bal_27.
+en_28. He lost no time in endeavouring to seek him out, with the hope of persuading him to begin the world again through his credit and assistance.
+bal_28.
+en_29. Beaufort had taken effectual measures to conceal himself, and it was ten months before my father discovered his abode.
+bal_29.
+en_30. Overjoyed at this discovery, he hastened to the house, which was situated in a mean street near the Reuss.
+bal_30.
+en_31. But when he entered, misery and despair alone welcomed him.
+bal_31.
+en_32. Beaufort had saved but a very small sum of money from the wreck of his fortunes, but it was sufficient to provide him with sustenance for some months, and in the meantime he hoped to procure some respectable employment in a merchant’s house.
+bal_32.
+en_33. The interval was, consequently, spent in inaction; his grief only became more deep and rankling when he had leisure for reflection, and at length it took so fast hold of his mind that at the end of three months he lay on a bed of sickness, incapable of any exertion.
+bal_33.
+en_34. His daughter attended him with the greatest tenderness, but she saw with despair that their little fund was rapidly decreasing and that there was no other prospect of support.
+bal_34.
+en_35. But Caroline Beaufort possessed a mind of an uncommon mould, and her courage rose to support her in her adversity.
+bal_35.
+en_36. She procured plain work; she plaited straw and by various means contrived to earn a pittance scarcely sufficient to support life.
+bal_36.
+en_37. Several months passed in this manner.
+bal_37.
+en_38. Her father grew worse; her time was more entirely occupied in attending him; her means of subsistence decreased; and in the tenth month her father died in her arms, leaving her an orphan and a beggar.
+bal_38.
+en_39. This last blow overcame her, and she knelt by Beaufort’s coffin weeping bitterly, when my father entered the chamber.
+bal_39.
+en_40. He came like a protecting spirit to the poor girl, who committed herself to his care; and after the interment of his friend he conducted her to Geneva and placed her under the protection of a relation.
+bal_40.
+en_41. Two years after this event Caroline became his wife.
+bal_41.
+en_42. There was a considerable difference between the ages of my parents, but this circumstance seemed to unite them only closer in bonds of devoted affection.
+bal_42.
+en_43. There was a sense of justice in my father’s upright mind which rendered it necessary that he should approve highly to love strongly.
+bal_43.
+en_44. Perhaps during former years he had suffered from the late-discovered unworthiness of one beloved and so was disposed to set a greater value on tried worth.
+bal_44.
+en_45. There was a show of gratitude and worship in his attachment to my mother, differing wholly from the doting fondness of age, for it was inspired by reverence for her virtues and a desire to be the means of, in some degree, recompensing her for the sorrows she had endured, but which gave inexpressible grace to his behaviour to her.
+bal_45.
+en_46. Everything was made to yield to her wishes and her convenience.
+bal_46.
+en_47. He strove to shelter her, as a fair exotic is sheltered by the gardener, from every rougher wind and to surround her with all that could tend to excite pleasurable emotion in her soft and benevolent mind.
+bal_47.
+en_48. Her health, and even the tranquillity of her hitherto constant spirit, had been shaken by what she had gone through.
+bal_48.
+en_49. During the two years that had elapsed previous to their marriage my father had gradually relinquished all his public functions; and immediately after their union they sought the pleasant climate of Italy, and the change of scene and interest attendant on a tour through that land of wonders, as a restorative for her weakened frame.
+bal_49.
+en_50. From Italy they visited Germany and France.
+bal_50.
+en_51. I, their eldest child, was born at Naples, and as an infant accompanied them in their rambles.
+bal_51.
+en_52. I remained for several years their only child.
+bal_52.
+en_53. Much as they were attached to each other, they seemed to draw inexhaustible stores of affection from a very mine of love to bestow them upon me.
+bal_53.
+en_54. My mother’s tender caresses and my father’s smile of benevolent pleasure while regarding me are my first recollections.
+bal_54.
+en_55. I was their plaything and their idol, and something better—their child, the innocent and helpless creature bestowed on them by Heaven, whom to bring up to good, and whose future lot it was in their hands to direct to happiness or misery, according as they fulfilled their duties towards me.
+bal_55.
+en_56. With this deep consciousness of what they owed towards the being to which they had given life, added to the active spirit of tenderness that animated both, it may be imagined that while during every hour of my infant life I received a lesson of patience, of charity, and of self-control, I was so guided by a silken cord that all seemed but one train of enjoyment to me.
+bal_56.
+en_57. For a long time I was their only care.
+bal_57.
+en_58. My mother had much desired to have a daughter, but I continued their single offspring.
+bal_58.
+en_59. When I was about five years old, while making an excursion beyond the frontiers of Italy, they passed a week on the shores of the Lake of Como.
+bal_59.
+en_60. Their benevolent disposition often made them enter the cottages of the poor.
+bal_60.
+en_61. This, to my mother, was more than a duty; it was a necessity, a passion—remembering what she had suffered, and how she had been relieved—for her to act in her turn the guardian angel to the afflicted.
+bal_61.
+en_62. During one of their walks a poor cot in the foldings of a vale attracted their notice as being singularly disconsolate, while the number of half-clothed children gathered about it spoke of penury in its worst shape.
+bal_62.
+en_63. One day, when my father had gone by himself to Milan, my mother, accompanied by me, visited this abode.
+bal_63.
+en_64. She found a peasant and his wife, hard working, bent down by care and labour, distributing a scanty meal to five hungry babes.
+bal_64.
+en_65. Among these there was one which attracted my mother far above all the rest.
+bal_65.
+en_66. She appeared of a different stock.
+bal_66.
+en_67. The four others were dark-eyed, hardy little vagrants; this child was thin and very fair.
+bal_67.
+en_68. Her hair was the brightest living gold, and despite the poverty of her clothing, seemed to set a crown of distinction on her head.
+bal_68.
+en_69. Her brow was clear and ample, her blue eyes cloudless, and her lips and the moulding of her face so expressive of sensibility and sweetness that none could behold her without looking on her as of a distinct species, a being heaven-sent, and bearing a celestial stamp in all her features.
+bal_69.
+en_70. The peasant woman, perceiving that my mother fixed eyes of wonder and admiration on this lovely girl, eagerly communicated her history.
+bal_70.
+en_71. She was not her child, but the daughter of a Milanese nobleman.
+bal_71.
+en_72. Her mother was a German and had died on giving her birth.
+bal_72.
+en_73. The infant had been placed with these good people to nurse: they were better off then.
+bal_73.
+en_74. They had not been long married, and their eldest child was but just born.
+bal_74.
+en_75. The father of their charge was one of those Italians nursed in the memory of the antique glory of Italy—one among the _schiavi ognor frementi,_ who exerted himself to obtain the liberty of his country.
+bal_75.
+en_76. He became the victim of its weakness.
+bal_76.
+en_77. Whether he had died or still lingered in the dungeons of Austria was not known.
+bal_77.
+en_78. His property was confiscated; his child became an orphan and a beggar.
+bal_78.
+en_79. She continued with her foster parents and bloomed in their rude abode, fairer than a garden rose among dark-leaved brambles.
+bal_79.
+en_80. When my father returned from Milan, he found playing with me in the hall of our villa a child fairer than pictured cherub—a creature who seemed to shed radiance from her looks and whose form and motions were lighter than the chamois of the hills.
+bal_80.
+en_81. The apparition was soon explained.
+bal_81.
+en_82. With his permission my mother prevailed on her rustic guardians to yield their charge to her.
+bal_82.
+en_83. They were fond of the sweet orphan.
+bal_83.
+en_84. Her presence had seemed a blessing to them, but it would be unfair to her to keep her in poverty and want when Providence afforded her such powerful protection.
+bal_84.
+en_85. They consulted their village priest, and the result was that Elizabeth Lavenza became the inmate of my parents’ house—my more than sister—the beautiful and adored companion of all my occupations and my pleasures.
+bal_85.
+en_86. Everyone loved Elizabeth.
+bal_86.
+en_87. The passionate and almost reverential attachment with which all regarded her became, while I shared it, my pride and my delight.
+bal_87.
+en_88. On the evening previous to her being brought to my home, my mother had said playfully, “I have a pretty present for my Victor—tomorrow he shall have it.”
+bal_88.
+en_89. And when, on the morrow, she presented Elizabeth to me as her promised gift, I, with childish seriousness, interpreted her words literally and looked upon Elizabeth as mine—mine to protect, love, and cherish.
+bal_89.
+en_90. All praises bestowed on her I received as made to a possession of my own.
+bal_90.
+en_91. We called each other familiarly by the name of cousin.
+bal_91.
+en_92. No word, no expression could body forth the kind of relation in which she stood to me—my more than sister, since till death she was to be mine only.
+bal_92.
+en_93. Chapter 2
+bal_93.
+en_94. We were brought up together; there was not quite a year difference in our ages.
+bal_94.
+en_95. I need not say that we were strangers to any species of disunion or dispute.
+bal_95.
+en_96. Harmony was the soul of our companionship, and the diversity and contrast that subsisted in our characters drew us nearer together.
+bal_96.
+en_97. Elizabeth was of a calmer and more concentrated disposition; but, with all my ardour, I was capable of a more intense application and was more deeply smitten with the thirst for knowledge.
+bal_97.
+en_98. She busied herself with following the aerial creations of the poets; and in the majestic and wondrous scenes which surrounded our Swiss home —the sublime shapes of the mountains, the changes of the seasons, tempest and calm, the silence of winter, and the life and turbulence of our Alpine summers—she found ample scope for admiration and delight.
+bal_98.
+en_99. While my companion contemplated with a serious and satisfied spirit the magnificent appearances of things, I delighted in investigating their causes.
+bal_99.
+en_100. The world was to me a secret which I desired to divine.
+bal_100.
+en_101. Curiosity, earnest research to learn the hidden laws of nature, gladness akin to rapture, as they were unfolded to me, are among the earliest sensations I can remember.
+bal_101.
+en_102. On the birth of a second son, my junior by seven years, my parents gave up entirely their wandering life and fixed themselves in their native country.
+bal_102.
+en_103. We possessed a house in Geneva, and a _campagne_ on Belrive, the eastern shore of the lake, at the distance of rather more than a league from the city.
+bal_103.
+en_104. We resided principally in the latter, and the lives of my parents were passed in considerable seclusion.
+bal_104.
+en_105. It was my temper to avoid a crowd and to attach myself fervently to a few.
+bal_105.
+en_106. I was indifferent, therefore, to my school-fellows in general; but I united myself in the bonds of the closest friendship to one among them.
+bal_106.
+en_107. Henry Clerval was the son of a merchant of Geneva.
+bal_107.
+en_108. He was a boy of singular talent and fancy.
+bal_108.
+en_109. He loved enterprise, hardship, and even danger for its own sake.
+bal_109.
+en_110. He was deeply read in books of chivalry and romance.
+bal_110.
+en_111. He composed heroic songs and began to write many a tale of enchantment and knightly adventure.
+bal_111.
+en_112. He tried to make us act plays and to enter into masquerades, in which the characters were drawn from the heroes of Roncesvalles, of the Round Table of King Arthur, and the chivalrous train who shed their blood to redeem the holy sepulchre from the hands of the infidels.
+bal_112.
+en_113. No human being could have passed a happier childhood than myself.
+bal_113.
+en_114. My parents were possessed by the very spirit of kindness and indulgence.
+bal_114.
+en_115. We felt that they were not the tyrants to rule our lot according to their caprice, but the agents and creators of all the many delights which we enjoyed.
+bal_115.
+en_116. When I mingled with other families I distinctly discerned how peculiarly fortunate my lot was, and gratitude assisted the development of filial love.
+bal_116.
+en_117. My temper was sometimes violent, and my passions vehement; but by some law in my temperature they were turned not towards childish pursuits but to an eager desire to learn, and not to learn all things indiscriminately.
+bal_117.
+en_118. I confess that neither the structure of languages, nor the code of governments, nor the politics of various states possessed attractions for me.
+bal_118.
+en_119. It was the secrets of heaven and earth that I desired to learn; and whether it was the outward substance of things or the inner spirit of nature and the mysterious soul of man that occupied me, still my inquiries were directed to the metaphysical, or in its highest sense, the physical secrets of the world.
+bal_119.
+en_120. Meanwhile Clerval occupied himself, so to speak, with the moral relations of things.
+bal_120.
+en_121. The busy stage of life, the virtues of heroes, and the actions of men were his theme; and his hope and his dream was to become one among those whose names are recorded in story as the gallant and adventurous benefactors of our species.
+bal_121.
+en_122. The saintly soul of Elizabeth shone like a shrine-dedicated lamp in our peaceful home.
+bal_122.
+en_123. Her sympathy was ours; her smile, her soft voice, the sweet glance of her celestial eyes, were ever there to bless and animate us.
+bal_123.
+en_124. She was the living spirit of love to soften and attract; I might have become sullen in my study, rough through the ardour of my nature, but that she was there to subdue me to a semblance of her own gentleness.
+bal_124.
+en_125. And Clerval—could aught ill entrench on the noble spirit of Clerval?
+bal_125.
+en_126. Yet he might not have been so perfectly humane, so thoughtful in his generosity, so full of kindness and tenderness amidst his passion for adventurous exploit, had she not unfolded to him the real loveliness of beneficence and made the doing good the end and aim of his soaring ambition.
+bal_126.
+en_127. I feel exquisite pleasure in dwelling on the recollections of childhood, before misfortune had tainted my mind and changed its bright visions of extensive usefulness into gloomy and narrow reflections upon self.
+bal_127.
+en_128. Besides, in drawing the picture of my early days, I also record those events which led, by insensible steps, to my after tale of misery, for when I would account to myself for the birth of that passion which afterwards ruled my destiny I find it arise, like a mountain river, from ignoble and almost forgotten sources; but, swelling as it proceeded, it became the torrent which, in its course, has swept away all my hopes and joys.
+bal_128.
+en_129. Natural philosophy is the genius that has regulated my fate; I desire, therefore, in this narration, to state those facts which led to my predilection for that science.
+bal_129.
+en_130. When I was thirteen years of age we all went on a party of pleasure to the baths near Thonon; the inclemency of the weather obliged us to remain a day confined to the inn.
+bal_130.
+en_131. In this house I chanced to find a volume of the works of Cornelius Agrippa.
+bal_131.
+en_132. I opened it with apathy; the theory which he attempts to demonstrate and the wonderful facts which he relates soon changed this feeling into enthusiasm.
+bal_132.
+en_133. A new light seemed to dawn upon my mind, and bounding with joy, I communicated my discovery to my father.
+bal_133.
+en_134. My father looked carelessly at the title page of my book and said, “Ah! Cornelius Agrippa!
+bal_134.
+en_135. My dear Victor, do not waste your time upon this; it is sad trash.”
+bal_135.
+en_136. If, instead of this remark, my father had taken the pains to explain to me that the principles of Agrippa had been entirely exploded and that a modern system of science had been introduced which possessed much greater powers than the ancient, because the powers of the latter were chimerical, while those of the former were real and practical, under such circumstances I should certainly have thrown Agrippa aside and have contented my imagination, warmed as it was, by returning with greater ardour to my former studies.
+bal_136.
+en_137. It is even possible that the train of my ideas would never have received the fatal impulse that led to my ruin.
+bal_137.
+en_138. But the cursory glance my father had taken of my volume by no means assured me that he was acquainted with its contents, and I continued to read with the greatest avidity.
+bal_138.
+en_139. When I returned home my first care was to procure the whole works of this author, and afterwards of Paracelsus and Albertus Magnus.
+bal_139.
+en_140. I read and studied the wild fancies of these writers with delight; they appeared to me treasures known to few besides myself.
+bal_140.
+en_141. I have described myself as always having been imbued with a fervent longing to penetrate the secrets of nature.
+bal_141.
+en_142. In spite of the intense labour and wonderful discoveries of modern philosophers, I always came from my studies discontented and unsatisfied.
+bal_142.
+en_143. Sir Isaac Newton is said to have avowed that he felt like a child picking up shells beside the great and unexplored ocean of truth.
+bal_143.
+en_144. Those of his successors in each branch of natural philosophy with whom I was acquainted appeared even to my boy’s apprehensions as tyros engaged in the same pursuit.
+bal_144.
+en_145. The untaught peasant beheld the elements around him and was acquainted with their practical uses.
+bal_145.
+en_146. The most learned philosopher knew little more.
+bal_146.
+en_147. He had partially unveiled the face of Nature, but her immortal lineaments were still a wonder and a mystery.
+bal_147.
+en_148. He might dissect, anatomise, and give names; but, not to speak of a final cause, causes in their secondary and tertiary grades were utterly unknown to him.
+bal_148.
+en_149. I had gazed upon the fortifications and impediments that seemed to keep human beings from entering the citadel of nature, and rashly and ignorantly I had repined.
+bal_149.
+en_150. But here were books, and here were men who had penetrated deeper and knew more.
+bal_150.
+en_151. I took their word for all that they averred, and I became their disciple.
+bal_151.
+en_152. It may appear strange that such should arise in the eighteenth century; but while I followed the routine of education in the schools of Geneva, I was, to a great degree, self-taught with regard to my favourite studies.
+bal_152.
+en_153. My father was not scientific, and I was left to struggle with a child’s blindness, added to a student’s thirst for knowledge.
+bal_153.
+en_154. Under the guidance of my new preceptors I entered with the greatest diligence into the search of the philosopher’s stone and the elixir of life; but the latter soon obtained my undivided attention.
+bal_154.
+en_155. Wealth was an inferior object, but what glory would attend the discovery if I could banish disease from the human frame and render man invulnerable to any but a violent death!
+bal_155.
+en_156. Nor were these my only visions.
+bal_156.
+en_157. The raising of ghosts or devils was a promise liberally accorded by my favourite authors, the fulfilment of which I most eagerly sought; and if my incantations were always unsuccessful, I attributed the failure rather to my own inexperience and mistake than to a want of skill or fidelity in my instructors.
+bal_157.
+en_158. And thus for a time I was occupied by exploded systems, mingling, like an unadept, a thousand contradictory theories and floundering desperately in a very slough of multifarious knowledge, guided by an ardent imagination and childish reasoning, till an accident again changed the current of my ideas.
+bal_158.
+en_159. When I was about fifteen years old we had retired to our house near Belrive, when we witnessed a most violent and terrible thunderstorm.
+bal_159.
+en_160. It advanced from behind the mountains of Jura, and the thunder burst at once with frightful loudness from various quarters of the heavens.
+bal_160.
+en_161. I remained, while the storm lasted, watching its progress with curiosity and delight.
+bal_161.
+en_162. As I stood at the door, on a sudden I beheld a stream of fire issue from an old and beautiful oak which stood about twenty yards from our house; and so soon as the dazzling light vanished, the oak had disappeared, and nothing remained but a blasted stump.
+bal_162.
+en_163. When we visited it the next morning, we found the tree shattered in a singular manner.
+bal_163.
+en_164. It was not splintered by the shock, but entirely reduced to thin ribbons of wood.
+bal_164.
+en_165. I never beheld anything so utterly destroyed.
+bal_165.
+en_166. Before this I was not unacquainted with the more obvious laws of electricity.
+bal_166.
+en_167. On this occasion a man of great research in natural philosophy was with us, and excited by this catastrophe, he entered on the explanation of a theory which he had formed on the subject of electricity and galvanism, which was at once new and astonishing to me.
+bal_167.
+en_168. All that he said threw greatly into the shade Cornelius Agrippa, Albertus Magnus, and Paracelsus, the lords of my imagination; but by some fatality the overthrow of these men disinclined me to pursue my accustomed studies.
+bal_168.
+en_169. It seemed to me as if nothing would or could ever be known.
+bal_169.
+en_170. All that had so long engaged my attention suddenly grew despicable.
+bal_170.
+en_171. By one of those caprices of the mind which we are perhaps most subject to in early youth, I at once gave up my former occupations, set down natural history and all its progeny as a deformed and abortive creation, and entertained the greatest disdain for a would-be science which could never even step within the threshold of real knowledge.
+bal_171.
+en_172. In this mood of mind I betook myself to the mathematics and the branches of study appertaining to that science as being built upon secure foundations, and so worthy of my consideration.
+bal_172.
+en_173. Thus strangely are our souls constructed, and by such slight ligaments are we bound to prosperity or ruin.
+bal_173.
+en_174. When I look back, it seems to me as if this almost miraculous change of inclination and will was the immediate suggestion of the guardian angel of my life—the last effort made by the spirit of preservation to avert the storm that was even then hanging in the stars and ready to envelop me.
+bal_174.
+en_175. Her victory was announced by an unusual tranquillity and gladness of soul which followed the relinquishing of my ancient and latterly tormenting studies.
+bal_175.
+en_176. It was thus that I was to be taught to associate evil with their prosecution, happiness with their disregard.
+bal_176.
+en_177. It was a strong effort of the spirit of good, but it was ineffectual.
+bal_177.
+en_178. Destiny was too potent, and her immutable laws had decreed my utter and terrible destruction.
+bal_178.
+en_179. Chapter 3
+bal_179.
+en_180. When I had attained the age of seventeen my parents resolved that I should become a student at the university of Ingolstadt.
+bal_180.
+en_181. I had hitherto attended the schools of Geneva, but my father thought it necessary for the completion of my education that I should be made acquainted with other customs than those of my native country.
+bal_181.
+en_182. My departure was therefore fixed at an early date, but before the day resolved upon could arrive, the first misfortune of my life occurred—an omen, as it were, of my future misery.
+bal_182.
+en_183. Elizabeth had caught the scarlet fever; her illness was severe, and she was in the greatest danger.
+bal_183.
+en_184. During her illness many arguments had been urged to persuade my mother to refrain from attending upon her.
+bal_184.
+en_185. She had at first yielded to our entreaties, but when she heard that the life of her favourite was menaced, she could no longer control her anxiety.
+bal_185.
+en_186. She attended her sickbed; her watchful attentions triumphed over the malignity of the distemper—Elizabeth was saved, but the consequences of this imprudence were fatal to her preserver.
+bal_186.
+en_187. On the third day my mother sickened; her fever was accompanied by the most alarming symptoms, and the looks of her medical attendants prognosticated the worst event.
+bal_187.
+en_188. On her deathbed the fortitude and benignity of this best of women did not desert her.
+bal_188.
+en_189. She joined the hands of Elizabeth and myself.
+bal_189.
+en_190. “My children,” she said, “my firmest hopes of future happiness were placed on the prospect of your union.
+bal_190.
+en_191. This expectation will now be the consolation of your father.
+bal_191.
+en_192. Elizabeth, my love, you must supply my place to my younger children.
+bal_192.
+en_193. Alas!
+bal_193.
+en_194. I regret that I am taken from you; and, happy and beloved as I have been, is it not hard to quit you all?
+bal_194.
+en_195. But these are not thoughts befitting me; I will endeavour to resign myself cheerfully to death and will indulge a hope of meeting you in another world.”
+bal_195.
+en_196. She died calmly, and her countenance expressed affection even in death.
+bal_196.
+en_197. I need not describe the feelings of those whose dearest ties are rent by that most irreparable evil, the void that presents itself to the soul, and the despair that is exhibited on the countenance.
+bal_197.
+en_198. It is so long before the mind can persuade itself that she whom we saw every day and whose very existence appeared a part of our own can have departed for ever—that the brightness of a beloved eye can have been extinguished and the sound of a voice so familiar and dear to the ear can be hushed, never more to be heard.
+bal_198.
+en_199. These are the reflections of the first days; but when the lapse of time proves the reality of the evil, then the actual bitterness of grief commences.
+bal_199.
+en_200. Yet from whom has not that rude hand rent away some dear connection?
+bal_200.
+en_201. And why should I describe a sorrow which all have felt, and must feel?
+bal_201.
+en_202. The time at length arrives when grief is rather an indulgence than a necessity; and the smile that plays upon the lips, although it may be deemed a sacrilege, is not banished.
+bal_202.
+en_203. My mother was dead, but we had still duties which we ought to perform; we must continue our course with the rest and learn to think ourselves fortunate whilst one remains whom the spoiler has not seized.
+bal_203.
+en_204. My departure for Ingolstadt, which had been deferred by these events, was now again determined upon.
+bal_204.
+en_205. I obtained from my father a respite of some weeks.
+bal_205.
+en_206. It appeared to me sacrilege so soon to leave the repose, akin to death, of the house of mourning and to rush into the thick of life.
+bal_206.
+en_207. I was new to sorrow, but it did not the less alarm me.
+bal_207.
+en_208. I was unwilling to quit the sight of those that remained to me, and above all, I desired to see my sweet Elizabeth in some degree consoled.
+bal_208.
+en_209. She indeed veiled her grief and strove to act the comforter to us all.
+bal_209.
+en_210. She looked steadily on life and assumed its duties with courage and zeal.
+bal_210.
+en_211. She devoted herself to those whom she had been taught to call her uncle and cousins.
+bal_211.
+en_212. Never was she so enchanting as at this time, when she recalled the sunshine of her smiles and spent them upon us.
+bal_212.
+en_213. She forgot even her own regret in her endeavours to make us forget.
+bal_213.
+en_214. The day of my departure at length arrived.
+bal_214.
+en_215. Clerval spent the last evening with us.
+bal_215.
+en_216. He had endeavoured to persuade his father to permit him to accompany me and to become my fellow student, but in vain.
+bal_216.
+en_217. His father was a narrow-minded trader and saw idleness and ruin in the aspirations and ambition of his son.
+bal_217.
+en_218. Henry deeply felt the misfortune of being debarred from a liberal education.
+bal_218.
+en_219. He said little, but when he spoke I read in his kindling eye and in his animated glance a restrained but firm resolve not to be chained to the miserable details of commerce.
+bal_219.
+en_220. We sat late.
+bal_220.
+en_221. We could not tear ourselves away from each other nor persuade ourselves to say the word “Farewell!”
+bal_221.
+en_222. It was said, and we retired under the pretence of seeking repose, each fancying that the other was deceived; but when at morning’s dawn I descended to the carriage which was to convey me away, they were all there—my father again to bless me, Clerval to press my hand once more, my Elizabeth to renew her entreaties that I would write often and to bestow the last feminine attentions on her playmate and friend.
+bal_222.
+en_223. I threw myself into the chaise that was to convey me away and indulged in the most melancholy reflections.
+bal_223.
+en_224. I, who had ever been surrounded by amiable companions, continually engaged in endeavouring to bestow mutual pleasure—I was now alone.
+bal_224.
+en_225. In the university whither I was going I must form my own friends and be my own protector.
+bal_225.
+en_226. My life had hitherto been remarkably secluded and domestic, and this had given me invincible repugnance to new countenances.
+bal_226.
+en_227. I loved my brothers, Elizabeth, and Clerval; these were “old familiar faces,” but I believed myself totally unfitted for the company of strangers.
+bal_227.
+en_228. Such were my reflections as I commenced my journey; but as I proceeded, my spirits and hopes rose.
+bal_228.
+en_229. I ardently desired the acquisition of knowledge.
+bal_229.
+en_230. I had often, when at home, thought it hard to remain during my youth cooped up in one place and had longed to enter the world and take my station among other human beings.
+bal_230.
+en_231. Now my desires were complied with, and it would, indeed, have been folly to repent.
+bal_231.
+en_232. I had sufficient leisure for these and many other reflections during my journey to Ingolstadt, which was long and fatiguing.
+bal_232.
+en_233. At length the high white steeple of the town met my eyes.
+bal_233.
+en_234. I alighted and was conducted to my solitary apartment to spend the evening as I pleased.
+bal_234.
+en_235. The next morning I delivered my letters of introduction and paid a visit to some of the principal professors.
+bal_235.
+en_236. Chance—or rather the evil influence, the Angel of Destruction, which asserted omnipotent sway over me from the moment I turned my reluctant steps from my father’s door—led me first to M. Krempe, professor of natural philosophy.
+bal_236.
+en_237. He was an uncouth man, but deeply imbued in the secrets of his science.
+bal_237.
+en_238. He asked me several questions concerning my progress in the different branches of science appertaining to natural philosophy.
+bal_238.
+en_239. I replied carelessly, and partly in contempt, mentioned the names of my alchemists as the principal authors I had studied.
+bal_239.
+en_240. The professor stared.
+bal_240.
+en_241. “Have you,” he said, “really spent your time in studying such nonsense?”
+bal_241.
+en_242. I replied in the affirmative.
+bal_242.
+en_243. “Every minute,” continued M. Krempe with warmth, “every instant that you have wasted on those books is utterly and entirely lost.
+bal_243.
+en_244. You have burdened your memory with exploded systems and useless names.
+bal_244.
+en_245. Good God!
+bal_245.
+en_246. In what desert land have you lived, where no one was kind enough to inform you that these fancies which you have so greedily imbibed are a thousand years old and as musty as they are ancient?
+bal_246.
+en_247. I little expected, in this enlightened and scientific age, to find a disciple of Albertus Magnus and Paracelsus.
+bal_247.
+en_248. My dear sir, you must begin your studies entirely anew.”
+bal_248.
+en_249. So saying, he stepped aside and wrote down a list of several books treating of natural philosophy which he desired me to procure, and dismissed me
+bal_249.

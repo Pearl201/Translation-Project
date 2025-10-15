@@ -1,0 +1,548 @@
+en_1. was not likely that my voice could penetrate.
+bal_1.
+en_2. The time I waited seemed endless, and I felt doubts and fears crowding upon me.
+bal_2.
+en_3. What sort of place had I come to, and among what kind of people?
+bal_3.
+en_4. What sort of grim adventure was it on which I had embarked?
+bal_4.
+en_5. Was this a customary incident in the life of a solicitor’s clerk sent out to explain the purchase of a London estate to a foreigner?
+bal_5.
+en_6. Solicitor’s clerk!
+bal_6.
+en_7. Mina would not like that.
+bal_7.
+en_8. Solicitor--for just before leaving London I got word that my examination was successful; and I am now a full-blown solicitor!
+bal_8.
+en_9. I began to rub my eyes and pinch myself to see if I were awake.
+bal_9.
+en_10. It all seemed like a horrible nightmare to me, and I expected that I should suddenly awake, and find myself at home, with the dawn struggling in through the windows, as I had now and again felt in the morning after a day of overwork.
+bal_10.
+en_11. But my flesh answered the pinching test, and my eyes were not to be deceived.
+bal_11.
+en_12. I was indeed awake and among the Carpathians.
+bal_12.
+en_13. All I could do now was to be patient, and to wait the coming of the morning.
+bal_13.
+en_14. Just as I had come to this conclusion I heard a heavy step approaching behind the great door, and saw through the chinks the gleam of a coming light.
+bal_14.
+en_15. Then there was the sound of rattling chains and the clanking of massive bolts drawn back.
+bal_15.
+en_16. A key was turned with the loud grating noise of long disuse, and the great door swung back.
+bal_16.
+en_17. Within, stood a tall old man, clean shaven save for a long white moustache, and clad in black from head to foot, without a single speck of colour about him anywhere.
+bal_17.
+en_18. He held in his hand an antique silver lamp, in which the flame burned without chimney or globe of any kind, throwing long quivering shadows as it flickered in the draught of the open door.
+bal_18.
+en_19. The old man motioned me in with his right hand with a courtly gesture, saying in excellent English, but with a strange intonation:-- “Welcome to my house!
+bal_19.
+en_20. Enter freely and of your own will!”
+bal_20.
+en_21. He made no motion of stepping to meet me, but stood like a statue, as though his gesture of welcome had fixed him into stone.
+bal_21.
+en_22. The instant, however, that I had stepped over the threshold, he moved impulsively forward, and holding out his hand grasped mine with a strength which made me wince, an effect which was not lessened by the fact that it seemed as cold as ice--more like the hand of a dead than a living man.
+bal_22.
+en_23. Again he said:-- “Welcome to my house.
+bal_23.
+en_24. Come freely.
+bal_24.
+en_25. Go safely; and leave something of the happiness you bring!”
+bal_25.
+en_26. The strength of the handshake was so much akin to that which I had noticed in the driver, whose face I had not seen, that for a moment I doubted if it were not the same person to whom I was speaking; so to make sure, I said interrogatively:-- “Count Dracula?”
+bal_26.
+en_27. He bowed in a courtly way as he replied:-- “I am Dracula; and I bid you welcome, Mr. Harker, to my house.
+bal_27.
+en_28. Come in; the night air is chill, and you must need to eat and rest.”
+bal_28.
+en_29. As he was speaking, he put the lamp on a bracket on the wall, and stepping out, took my luggage; he had carried it in before I could forestall him.
+bal_29.
+en_30. I protested but he insisted:-- “Nay, sir, you are my guest.
+bal_30.
+en_31. It is late, and my people are not available.
+bal_31.
+en_32. Let me see to your comfort myself.”
+bal_32.
+en_33. He insisted on carrying my traps along the passage, and then up a great winding stair, and along another great passage, on whose stone floor our steps rang heavily.
+bal_33.
+en_34. At the end of this he threw open a heavy door, and I rejoiced to see within a well-lit room in which a table was spread for supper, and on whose mighty hearth a great fire of logs, freshly replenished, flamed and flared.
+bal_34.
+en_35. The Count halted, putting down my bags, closed the door, and crossing the room, opened another door, which led into a small octagonal room lit by a single lamp, and seemingly without a window of any sort.
+bal_35.
+en_36. Passing through this, he opened another door, and motioned me to enter.
+bal_36.
+en_37. It was a welcome sight; for here was a great bedroom well lighted and warmed with another log fire,--also added to but lately, for the top logs were fresh--which sent a hollow roar up the wide chimney.
+bal_37.
+en_38. The Count himself left my luggage inside and withdrew, saying, before he closed the door:-- “You will need, after your journey, to refresh yourself by making your toilet.
+bal_38.
+en_39. I trust you will find all you wish.
+bal_39.
+en_40. When you are ready, come into the other room, where you will find your supper prepared.”
+bal_40.
+en_41. The light and warmth and the Count’s courteous welcome seemed to have dissipated all my doubts and fears.
+bal_41.
+en_42. Having then reached my normal state, I discovered that I was half famished with hunger; so making a hasty toilet, I went into the other room.
+bal_42.
+en_43. I found supper already laid out.
+bal_43.
+en_44. My host, who stood on one side of the great fireplace, leaning against the stonework, made a graceful wave of his hand to the table, and said:-- “I pray you, be seated and sup how you please.
+bal_44.
+en_45. You will, I trust, excuse me that I do not join you; but I have dined already, and I do not sup.”
+bal_45.
+en_46. I handed to him the sealed letter which Mr. Hawkins had entrusted to me.
+bal_46.
+en_47. He opened it and read it gravely; then, with a charming smile, he handed it to me to read.
+bal_47.
+en_48. One passage of it, at least, gave me a thrill of pleasure.
+bal_48.
+en_49. “I must regret that an attack of gout, from which malady I am a constant sufferer, forbids absolutely any travelling on my part for some time to come; but I am happy to say I can send a sufficient substitute, one in whom I have every possible confidence.
+bal_49.
+en_50. He is a young man, full of energy and talent in his own way, and of a very faithful disposition.
+bal_50.
+en_51. He is discreet and silent, and has grown into manhood in my service.
+bal_51.
+en_52. He shall be ready to attend on you when you will during his stay, and shall take your instructions in all matters.”
+bal_52.
+en_53. The Count himself came forward and took off the cover of a dish, and I fell to at once on an excellent roast chicken.
+bal_53.
+en_54. This, with some cheese and a salad and a bottle of old Tokay, of which I had two glasses, was my supper.
+bal_54.
+en_55. During the time I was eating it the Count asked me many questions as to my journey, and I told him by degrees all I had experienced.
+bal_55.
+en_56. By this time I had finished my supper, and by my host’s desire had drawn up a chair by the fire and begun to smoke a cigar which he offered me, at the same time excusing himself that he did not smoke.
+bal_56.
+en_57. I had now an opportunity of observing him, and found him of a very marked physiognomy.
+bal_57.
+en_58. His face was a strong--a very strong--aquiline, with high bridge of the thin nose and peculiarly arched nostrils; with lofty domed forehead, and hair growing scantily round the temples but profusely elsewhere.
+bal_58.
+en_59. His eyebrows were very massive, almost meeting over the nose, and with bushy hair that seemed to curl in its own profusion.
+bal_59.
+en_60. The mouth, so far as I could see it under the heavy moustache, was fixed and rather cruel-looking, with peculiarly sharp white teeth; these protruded over the lips, whose remarkable ruddiness showed astonishing vitality in a man of his years.
+bal_60.
+en_61. For the rest, his ears were pale, and at the tops extremely pointed; the chin was broad and strong, and the cheeks firm though thin.
+bal_61.
+en_62. The general effect was one of extraordinary pallor.
+bal_62.
+en_63. Hitherto I had noticed the backs of his hands as they lay on his knees in the firelight, and they had seemed rather white and fine; but seeing them now close to me, I could not but notice that they were rather coarse--broad, with squat fingers.
+bal_63.
+en_64. Strange to say, there were hairs in the centre of the palm.
+bal_64.
+en_65. The nails were long and fine, and cut to a sharp point.
+bal_65.
+en_66. As the Count leaned over me and his hands touched me, I could not repress a shudder.
+bal_66.
+en_67. It may have been that his breath was rank, but a horrible feeling of nausea came over me, which, do what I would, I could not conceal.
+bal_67.
+en_68. The Count, evidently noticing it, drew back; and with a grim sort of smile, which showed more than he had yet done his protuberant teeth, sat himself down again on his own side of the fireplace.
+bal_68.
+en_69. We were both silent for a while; and as I looked towards the window I saw the first dim streak of the coming dawn.
+bal_69.
+en_70. There seemed a strange stillness over everything; but as I listened I heard as if from down below in the valley the howling of many wolves.
+bal_70.
+en_71. The Count’s eyes gleamed, and he said:-- “Listen to them--the children of the night.
+bal_71.
+en_72. What music they make!”
+bal_72.
+en_73. Seeing, I suppose, some expression in my face strange to him, he added:-- “Ah, sir, you dwellers in the city cannot enter into the feelings of the hunter.”
+bal_73.
+en_74. Then he rose and said:-- “But you must be tired.
+bal_74.
+en_75. Your bedroom is all ready, and to-morrow you shall sleep as late as you will.
+bal_75.
+en_76. I have to be away till the afternoon; so sleep well and dream well!”
+bal_76.
+en_77. With a courteous bow, he opened for me himself the door to the octagonal room, and I entered my bedroom....
+bal_77.
+en_78. I am all in a sea of wonders.
+bal_78.
+en_79. I doubt; I fear; I think strange things, which I dare not confess to my own soul.
+bal_79.
+en_80. God keep me, if only for the sake of those dear to me!
+bal_80.
+en_81. *
+bal_81.
+en_82. * *
+bal_82.
+en_83. * * _7 May._--It is again early morning, but I have rested and enjoyed the last twenty-four hours.
+bal_83.
+en_84. I slept till late in the day, and awoke of my own accord.
+bal_84.
+en_85. When I had dressed myself I went into the room where we had supped, and found a cold breakfast laid out, with coffee kept hot by the pot being placed on the hearth.
+bal_85.
+en_86. There was a card on the table, on which was written:-- “I have to be absent for a while.
+bal_86.
+en_87. Do not wait for me.--D.” I set to and enjoyed a hearty meal.
+bal_87.
+en_88. When I had done, I looked for a bell, so that I might let the servants know I had finished; but I could not find one.
+bal_88.
+en_89. There are certainly odd deficiencies in the house, considering the extraordinary evidences of wealth which are round me.
+bal_89.
+en_90. The table service is of gold, and so beautifully wrought that it must be of immense value.
+bal_90.
+en_91. The curtains and upholstery of the chairs and sofas and the hangings of my bed are of the costliest and most beautiful fabrics, and must have been of fabulous value when they were made, for they are centuries old, though in excellent order.
+bal_91.
+en_92. I saw something like them in Hampton Court, but there they were worn and frayed and moth-eaten.
+bal_92.
+en_93. But still in none of the rooms is there a mirror.
+bal_93.
+en_94. There is not even a toilet glass on my table, and I had to get the little shaving glass from my bag before I could either shave or brush my hair.
+bal_94.
+en_95. I have not yet seen a servant anywhere, or heard a sound near the castle except the howling of wolves.
+bal_95.
+en_96. Some time after I had finished my meal--I do not know whether to call it breakfast or dinner, for it was between five and six o’clock when I had it--I looked about for something to read, for I did not like to go about the castle until I had asked the Count’s permission.
+bal_96.
+en_97. There was absolutely nothing in the room, book, newspaper, or even writing materials; so I opened another door in the room and found a sort of library.
+bal_97.
+en_98. The door opposite mine I tried, but found it locked.
+bal_98.
+en_99. In the library I found, to my great delight, a vast number of English books, whole shelves full of them, and bound volumes of magazines and newspapers.
+bal_99.
+en_100. A table in the centre was littered with English magazines and newspapers, though none of them were of very recent date.
+bal_100.
+en_101. The books were of the most varied kind--history, geography, politics, political economy, botany, geology, law--all relating to England and English life and customs and manners.
+bal_101.
+en_102. There were even such books of reference as the London Directory, the “Red” and “Blue” books, Whitaker’s Almanac, the Army and Navy Lists, and--it somehow gladdened my heart to see it--the Law List.
+bal_102.
+en_103. Whilst I was looking at the books, the door opened, and the Count entered.
+bal_103.
+en_104. He saluted me in a hearty way, and hoped that I had had a good night’s rest.
+bal_104.
+en_105. Then he went on:-- “I am glad you found your way in here, for I am sure there is much that will interest you.
+bal_105.
+en_106. These companions”--and he laid his hand on some of the books--“have been good friends to me, and for some years past, ever since I had the idea of going to London, have given me many, many hours of pleasure.
+bal_106.
+en_107. Through them I have come to know your great England; and to know her is to love her.
+bal_107.
+en_108. I long to go through the crowded streets of your mighty London, to be in the midst of the whirl and rush of humanity, to share its life, its change, its death, and all that makes it what it is.
+bal_108.
+en_109. But alas!
+bal_109.
+en_110. as yet I only know your tongue through books.
+bal_110.
+en_111. To you, my friend, I look that I know it to speak.”
+bal_111.
+en_112. “But, Count,” I said, “you know and speak English thoroughly!”
+bal_112.
+en_113. He bowed gravely.
+bal_113.
+en_114. “I thank you, my friend, for your all too-flattering estimate, but yet I fear that I am but a little way on the road I would travel.
+bal_114.
+en_115. True, I know the grammar and the words, but yet I know not how to speak them.”
+bal_115.
+en_116. “Indeed,” I said, “you speak excellently.”
+bal_116.
+en_117. “Not so,” he answered.
+bal_117.
+en_118. “Well, I know that, did I move and speak in your London, none there are who would not know me for a stranger.
+bal_118.
+en_119. That is not enough for me.
+bal_119.
+en_120. Here I am noble; I am _boyar_; the common people know me, and I am master.
+bal_120.
+en_121. But a stranger in a strange land, he is no one; men know him not--and to know not is to care not for.
+bal_121.
+en_122. I am content if I am like the rest, so that no man stops if he see me, or pause in his speaking if he hear my words, ‘Ha, ha!
+bal_122.
+en_123. a stranger!’
+bal_123.
+en_124. I have been so long master that I would be master still--or at least that none other should be master of me.
+bal_124.
+en_125. You come to me not alone as agent of my friend Peter Hawkins, of Exeter, to tell me all about my new estate in London.
+bal_125.
+en_126. You shall, I trust, rest here with me awhile, so that by our talking I may learn the English intonation; and I would that you tell me when I make error, even of the smallest, in my speaking.
+bal_126.
+en_127. I am sorry that I had to be away so long to-day; but you will, I know, forgive one who has so many important affairs in hand.”
+bal_127.
+en_128. Of course I said all I could about being willing, and asked if I might come into that room when I chose.
+bal_128.
+en_129. He answered: “Yes, certainly,” and added:-- “You may go anywhere you wish in the castle, except where the doors are locked, where of course you will not wish to go.
+bal_129.
+en_130. There is reason that all things are as they are, and did you see with my eyes and know with my knowledge, you would perhaps better understand.”
+bal_130.
+en_131. I said I was sure of this, and then he went on:-- “We are in Transylvania; and Transylvania is not England.
+bal_131.
+en_132. Our ways are not your ways, and there shall be to you many strange things.
+bal_132.
+en_133. Nay, from what you have told me of your experiences already, you know something of what strange things there may be.”
+bal_133.
+en_134. This led to much conversation; and as it was evident that he wanted to talk, if only for talking’s sake, I asked him many questions regarding things that had already happened to me or come within my notice.
+bal_134.
+en_135. Sometimes he sheered off the subject, or turned the conversation by pretending not to understand; but generally he answered all I asked most frankly.
+bal_135.
+en_136. Then as time went on, and I had got somewhat bolder, I asked him of some of the strange things of the preceding night, as, for instance, why the coachman went to the places where he had seen the blue flames.
+bal_136.
+en_137. He then explained to me that it was commonly believed that on a certain night of the year--last night, in fact, when all evil spirits are supposed to have unchecked sway--a blue flame is seen over any place where treasure has been concealed.
+bal_137.
+en_138. “That treasure has been hidden,” he went on, “in the region through which you came last night, there can be but little doubt; for it was the ground fought over for centuries by the Wallachian, the Saxon, and the Turk.
+bal_138.
+en_139. Why, there is hardly a foot of soil in all this region that has not been enriched by the blood of men, patriots or invaders.
+bal_139.
+en_140. In old days there were stirring times, when the Austrian and the Hungarian came up in hordes, and the patriots went out to meet them--men and women, the aged and the children too--and waited their coming on the rocks above the passes, that they might sweep destruction on them with their artificial avalanches.
+bal_140.
+en_141. When the invader was triumphant he found but little, for whatever there was had been sheltered in the friendly soil.”
+bal_141.
+en_142. “But how,” said I, “can it have remained so long undiscovered, when there is a sure index to it if men will but take the trouble to look?”
+bal_142.
+en_143. The Count smiled, and as his lips ran back over his gums, the long, sharp, canine teeth showed out strangely; he answered:-- “Because your peasant is at heart a coward and a fool!
+bal_143.
+en_144. Those flames only appear on one night; and on that night no man of this land will, if he can help it, stir without his doors.
+bal_144.
+en_145. And, dear sir, even if he did he would not know what to do.
+bal_145.
+en_146. Why, even the peasant that you tell me of who marked the place of the flame would not know where to look in daylight even for his own work.
+bal_146.
+en_147. Even you would not, I dare be sworn, be able to find these places again?”
+bal_147.
+en_148. “There you are right,” I said.
+bal_148.
+en_149. “I know no more than the dead where even to look for them.”
+bal_149.
+en_150. Then we drifted into other matters.
+bal_150.
+en_151. “Come,” he said at last, “tell me of London and of the house which you have procured for me.”
+bal_151.
+en_152. With an apology for my remissness, I went into my own room to get the papers from my bag.
+bal_152.
+en_153. Whilst I was placing them in order I heard a rattling of china and silver in the next room, and as I passed through, noticed that the table had been cleared and the lamp lit, for it was by this time deep into the dark.
+bal_153.
+en_154. The lamps were also lit in the study or library, and I found the Count lying on the sofa, reading, of all things in the world, an English Bradshaw’s Guide.
+bal_154.
+en_155. When I came in he cleared the books and papers from the table; and with him I went into plans and deeds and figures of all sorts.
+bal_155.
+en_156. He was interested in everything, and asked me a myriad questions about the place and its surroundings.
+bal_156.
+en_157. He clearly had studied beforehand all he could get on the subject of the neighbourhood, for he evidently at the end knew very much more than I did.
+bal_157.
+en_158. When I remarked this, he answered:-- “Well, but, my friend, is it not needful that I should?
+bal_158.
+en_159. When I go there I shall be all alone, and my friend Harker Jonathan--nay, pardon me, I fall into my country’s habit of putting your patronymic first--my friend Jonathan Harker will not be by my side to correct and aid me.
+bal_159.
+en_160. He will be in Exeter, miles away, probably working at papers of the law with my other friend, Peter Hawkins.
+bal_160.
+en_161. So!”
+bal_161.
+en_162. We went thoroughly into the business of the purchase of the estate at Purfleet.
+bal_162.
+en_163. When I had told him the facts and got his signature to the necessary papers, and had written a letter with them ready to post to Mr. Hawkins, he began to ask me how I had come across so suitable a place.
+bal_163.
+en_164. I read to him the notes which I had made at the time, and which I inscribe here:-- “At Purfleet, on a by-road, I came across just such a place as seemed to be required, and where was displayed a dilapidated notice that the place was for sale.
+bal_164.
+en_165. It is surrounded by a high wall, of ancient structure, built of heavy stones, and has not been repaired for a large number of years.
+bal_165.
+en_166. The closed gates are of heavy old oak and iron, all eaten with rust.
+bal_166.
+en_167. “The estate is called Carfax, no doubt a corruption of the old _Quatre Face_, as the house is four-sided, agreeing with the cardinal points of the compass.
+bal_167.
+en_168. It contains in all some twenty acres, quite surrounded by the solid stone wall above mentioned.
+bal_168.
+en_169. There are many trees on it, which make it in places gloomy, and there is a deep, dark-looking pond or small lake, evidently fed by some springs, as the water is clear and flows away in a fair-sized stream.
+bal_169.
+en_170. The house is very large and of all periods back, I should say, to mediæval times, for one part is of stone immensely thick, with only a few windows high up and heavily barred with iron.
+bal_170.
+en_171. It looks like part of a keep, and is close to an old chapel or church.
+bal_171.
+en_172. I could not enter it, as I had not the key of the door leading to it from the house, but I have taken with my kodak views of it from various points.
+bal_172.
+en_173. The house has been added to, but in a very straggling way, and I can only guess at the amount of ground it covers, which must be very great.
+bal_173.
+en_174. There are but few houses close at hand, one being a very large house only recently added to and formed into a private lunatic asylum.
+bal_174.
+en_175. It is not, however, visible from the grounds.”
+bal_175.
+en_176. When I had finished, he said:-- “I am glad that it is old and big.
+bal_176.
+en_177. I myself am of an old family, and to live in a new house would kill me.
+bal_177.
+en_178. A house cannot be made habitable in a day; and, after all, how few days go to make up a century.
+bal_178.
+en_179. I rejoice also that there is a chapel of old times.
+bal_179.
+en_180. We Transylvanian nobles love not to think that our bones may lie amongst the common dead.
+bal_180.
+en_181. I seek not gaiety nor mirth, not the bright voluptuousness of much sunshine and sparkling waters which please the young and gay.
+bal_181.
+en_182. I am no longer young; and my heart, through weary years of mourning over the dead, is not attuned to mirth.
+bal_182.
+en_183. Moreover, the walls of my castle are broken; the shadows are many, and the wind breathes cold through the broken battlements and casements.
+bal_183.
+en_184. I love the shade and the shadow, and would be alone with my thoughts when I may.”
+bal_184.
+en_185. Somehow his words and his look did not seem to accord, or else it was that his cast of face made his smile look malignant and saturnine.
+bal_185.
+en_186. Presently, with an excuse, he left me, asking me to put all my papers together.
+bal_186.
+en_187. He was some little time away, and I began to look at some of the books around me.
+bal_187.
+en_188. One was an atlas, which I found opened naturally at England, as if that map had been much used.
+bal_188.
+en_189. On looking at it I found in certain places little rings marked, and on examining these I noticed that one was near London on the east side, manifestly where his new estate was situated; the other two were Exeter, and Whitby on the Yorkshire coast.
+bal_189.
+en_190. It was the better part of an hour when the Count returned.
+bal_190.
+en_191. “Aha!”
+bal_191.
+en_192. he said; “still at your books?
+bal_192.
+en_193. Good!
+bal_193.
+en_194. But you must not work always.
+bal_194.
+en_195. Come; I am informed that your supper is ready.”
+bal_195.
+en_196. He took my arm, and we went into the next room, where I found an excellent supper ready on the table.
+bal_196.
+en_197. The Count again excused himself, as he had dined out on his being away from home.
+bal_197.
+en_198. But he sat as on the previous night, and chatted whilst I ate.
+bal_198.
+en_199. After supper I smoked, as on the last evening, and the Count stayed with me, chatting and asking questions on every conceivable subject, hour after hour.
+bal_199.
+en_200. I felt that it was getting very late indeed, but I did not say anything, for I felt under obligation to meet my host’s wishes in every way.
+bal_200.
+en_201. I was not sleepy, as the long sleep yesterday had fortified me; but I could not help experiencing that chill which comes over one at the coming of the dawn, which is like, in its way, the turn of the tide.
+bal_201.
+en_202. They say that people who are near death die generally at the change to the dawn or at the turn of the tide; any one who has when tired, and tied as it were to his post, experienced this change in the atmosphere can well believe it.
+bal_202.
+en_203. All at once we heard the crow of a cock coming up with preternatural shrillness through the clear morning air; Count Dracula, jumping to his feet, said:-- “Why, there is the morning again!
+bal_203.
+en_204. How remiss I am to let you stay up so long.
+bal_204.
+en_205. You must make your conversation regarding my dear new country of England less interesting, so that I may not forget how time flies by us,” and, with a courtly bow, he quickly left me.
+bal_205.
+en_206. I went into my own room and drew the curtains, but there was little to notice; my window opened into the courtyard, all I could see was the warm grey of quickening sky.
+bal_206.
+en_207. So I pulled the curtains again, and have written of this day.
+bal_207.
+en_208. *
+bal_208.
+en_209. * * * * _8 May._--I began to fear as I wrote in this book that I was getting too diffuse; but now I am glad that I went into detail from the first, for there is something so strange about this place and all in it that I cannot but feel uneasy.
+bal_209.
+en_210. I wish I were safe out of it, or that I had never come.
+bal_210.
+en_211. It may be that this strange night-existence is telling on me; but would that that were all!
+bal_211.
+en_212. If there were any one to talk to I could bear it, but there is no one.
+bal_212.
+en_213. I have only the Count to speak with, and he!--I fear I am myself the only living soul within the place.
+bal_213.
+en_214. Let me be prosaic so far as facts can be; it will help me to bear up, and imagination must not run riot with me.
+bal_214.
+en_215. If it does I am lost.
+bal_215.
+en_216. Let me say at once how I stand--or seem to.
+bal_216.
+en_217. I only slept a few hours when I went to bed, and feeling that I could not sleep any more, got up.
+bal_217.
+en_218. I had hung my shaving glass by the window, and was just beginning to shave.
+bal_218.
+en_219. Suddenly I felt a hand on my shoulder, and heard the Count’s voice saying to me, “Good-morning.”
+bal_219.
+en_220. I started, for it amazed me that I had not seen him, since the reflection of the glass covered the whole room behind me.
+bal_220.
+en_221. In starting I had cut myself slightly, but did not notice it at the moment.
+bal_221.
+en_222. Having answered the Count’s salutation, I turned to the glass again to see how I had been mistaken.
+bal_222.
+en_223. This time there could be no error, for the man was close to me, and I could see him over my shoulder.
+bal_223.
+en_224. But there was no reflection of him in the mirror!
+bal_224.
+en_225. The whole room behind me was displayed; but there was no sign of a man in it, except myself.
+bal_225.
+en_226. This was startling, and, coming on the top of so many strange things, was beginning to increase that vague feeling of uneasiness which I always have when the Count is near; but at the instant I saw that the cut had bled a little, and the blood was trickling over my chin.
+bal_226.
+en_227. I laid down the razor, turning as I did so half round to look for some sticking plaster.
+bal_227.
+en_228. When the Count saw my face, his eyes blazed with a sort of demoniac fury, and he suddenly made a grab at my throat.
+bal_228.
+en_229. I drew away, and his hand touched the string of beads which held the crucifix.
+bal_229.
+en_230. It made an instant change in him, for the fury passed so quickly that I could hardly believe that it was ever there.
+bal_230.
+en_231. “Take care,” he said, “take care how you cut yourself.
+bal_231.
+en_232. It is more dangerous than you think in this country.”
+bal_232.
+en_233. Then seizing the shaving glass, he went on: “And this is the wretched thing that has done the mischief.
+bal_233.
+en_234. It is a foul bauble of man’s vanity.
+bal_234.
+en_235. Away with it!”
+bal_235.
+en_236. and opening the heavy window with one wrench of his terrible hand, he flung out the glass, which was shattered into a thousand pieces on the stones of the courtyard far below.
+bal_236.
+en_237. Then he withdrew without a word.
+bal_237.
+en_238. It is very annoying, for I do not see how I am to shave, unless in my watch-case or the bottom of the shaving-pot, which is fortunately of metal.
+bal_238.
+en_239. When I went into the dining-room, breakfast was prepared; but I could not find the Count anywhere.
+bal_239.
+en_240. So I breakfasted alone.
+bal_240.
+en_241. It is strange that as yet I have not seen the Count eat or drink.
+bal_241.
+en_242. He must be a very peculiar man!
+bal_242.
+en_243. After breakfast I did a little exploring in the castle.
+bal_243.
+en_244. I went out on the stairs, and found a room looking towards the South.
+bal_244.
+en_245. The view was magnificent, and from where I stood there was every opportunity of seeing it.
+bal_245.
+en_246. The castle is on the very edge of a terrible precipice.
+bal_246.
+en_247. A stone falling from the window would fall a thousand feet without touching anything!
+bal_247.
+en_248. As far as the eye can reach is a sea of green tree tops, with occasionally a deep rift where there is a chasm.
+bal_248.
+en_249. Here and there are silver threads where the rivers wind in deep gorges through the forests.
+bal_249.
+en_250. But I am not in heart to describe beauty, for when I had seen the view I explored further; doors, doors, doors everywhere, and all locked and bolted.
+bal_250.
+en_251. In no place save from the windows in the castle walls is there an available exit.
+bal_251.
+en_252. The castle is a veritable prison, and I am a prisoner!
+bal_252.
+en_253. CHAPTER III JONATHAN HARKER’S JOURNAL--_continued_
+bal_253.
+en_254. When I found that I was a prisoner a sort of wild feeling came over me.
+bal_254.
+en_255. I rushed up and down the stairs, trying every door and peering out of every window I could find; but after a little the conviction of my helplessness overpowered all other feelings.
+bal_255.
+en_256. When I look back after a few hours I think I must have been mad for the time, for I behaved much as a rat does in a trap.
+bal_256.
+en_257. When, however, the conviction had come to me that I was helpless I sat down quietly--as quietly as I have ever done anything in my life--and began to think over what was best to be done.
+bal_257.
+en_258. I am thinking still, and as yet have come to no definite conclusion.
+bal_258.
+en_259. Of one thing only am I certain; that it is no use making my ideas known to the Count.
+bal_259.
+en_260. He knows well that I am imprisoned; and as he has done it himself, and has doubtless his own motives for it, he would only deceive me if I trusted him fully with the facts.
+bal_260.
+en_261. So far as I can see, my only plan will be to keep my knowledge and my fears to myself, and my eyes open.
+bal_261.
+en_262. I am, I know, either being deceived, like a baby, by my own fears, or else I am in desperate straits; and if the latter be so, I need, and shall need, all my brains to get through.
+bal_262.
+en_263. I had hardly come to this conclusion when I heard the great door below shut, and knew that the Count had returned.
+bal_263.
+en_264. He did not come at once into the library, so I went cautiously to my own room and found him making the bed.
+bal_264.
+en_265. This was odd, but only confirmed what I had all along thought--that there were no servants in the house.
+bal_265.
+en_266. When later I saw him through the chink of the hinges of the door laying the table in the dining-room, I was assured of it; for if he does himself all these menial offices, surely it is proof that there is no one else to do them.
+bal_266.
+en_267. This gave me a fright, for if there is no one else in the castle, it must have been the Count himself who was the driver of the coach that brought me here.
+bal_267.
+en_268. This is a terrible thought; for if so, what does it mean that he could control the wolves, as he did, by only holding up his hand in silence.
+bal_268.
+en_269. How was it that all the people at Bistritz and on the coach had some terrible fear for me?
+bal_269.
+en_270. What meant the giving of the crucifix, of the garlic, of the wild rose, of the mountain ash?
+bal_270.
+en_271. Bless that good, good woman who hung the crucifix round my neck!
+bal_271.
+en_272. for it is a comfort and a strength to me whenever I touch it.
+bal_272.
+en_273. It is odd that a thing which I have been taught to regard with disfavour and as idolatrous should in a time of loneliness and trouble be of help.
+bal_273.
+en_274. Is it that there is
+bal_274.

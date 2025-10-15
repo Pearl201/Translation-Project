@@ -1,0 +1,670 @@
+en_1. careful.
+bal_1.
+en_2. Jonathan would be miserable if he knew I had been crying.
+bal_2.
+en_3. He and the others were out till dinner-time, and they all came in tired.
+bal_3.
+en_4. I did what I could to brighten them up, and I suppose that the effort did me good, for I forgot how tired I was.
+bal_4.
+en_5. After dinner they sent me to bed, and all went off to smoke together, as they said, but I knew that they wanted to tell each other of what had occurred to each during the day; I could see from Jonathan’s manner that he had something important to communicate.
+bal_5.
+en_6. I was not so sleepy as I should have been; so before they went I asked Dr. Seward to give me a little opiate of some kind, as I had not slept well the night before.
+bal_6.
+en_7. He very kindly made me up a sleeping draught, which he gave to me, telling me that it would do me no harm, as it was very mild....
+bal_7.
+en_8. I have taken it, and am waiting for sleep, which still keeps aloof.
+bal_8.
+en_9. I hope I have not done wrong, for as sleep begins to flirt with me, a new fear comes: that I may have been foolish in thus depriving myself of the power of waking.
+bal_9.
+en_10. I might want it.
+bal_10.
+en_11. Here comes sleep.
+bal_11.
+en_12. Good-night.
+bal_12.
+en_13. CHAPTER XX JONATHAN HARKER’S JOURNAL _1 October, evening._--I found Thomas Snelling in his house at Bethnal Green, but unhappily he was not in a condition to remember anything.
+bal_13.
+en_14. The very prospect of beer which my expected coming had opened to him had proved too much, and he had begun too early on his expected debauch.
+bal_14.
+en_15. I learned, however, from his wife, who seemed a decent, poor soul, that he was only the assistant to Smollet, who of the two mates was the responsible person.
+bal_15.
+en_16. So off I drove to Walworth, and found Mr. Joseph Smollet at home and in his shirtsleeves, taking a late tea out of a saucer.
+bal_16.
+en_17. He is a decent, intelligent fellow, distinctly a good, reliable type of workman, and with a headpiece of his own.
+bal_17.
+en_18. He remembered all about the incident of the boxes, and from a wonderful dog’s-eared notebook, which he produced from some mysterious receptacle about the seat of his trousers, and which had hieroglyphical entries in thick, half-obliterated pencil, he gave me the destinations of the boxes.
+bal_18.
+en_19. There were, he said, six in the cartload which he took from Carfax and left at 197, Chicksand Street, Mile End New Town, and another six which he deposited at Jamaica Lane, Bermondsey.
+bal_19.
+en_20. If then the Count meant to scatter these ghastly refuges of his over London, these places were chosen as the first of delivery, so that later he might distribute more fully.
+bal_20.
+en_21. The systematic manner in which this was done made me think that he could not mean to confine himself to two sides of London.
+bal_21.
+en_22. He was now fixed on the far east of the northern shore, on the east of the southern shore, and on the south.
+bal_22.
+en_23. The north and west were surely never meant to be left out of his diabolical scheme--let alone the City itself and the very heart of fashionable London in the south-west and west.
+bal_23.
+en_24. I went back to Smollet, and asked him if he could tell us if any other boxes had been taken from Carfax.
+bal_24.
+en_25. He replied:-- “Well, guv’nor, you’ve treated me wery ’an’some”--I had given him half a sovereign--“an’ I’ll tell yer all I know.
+bal_25.
+en_26. I heard a man by the name of Bloxam say four nights ago in the ’Are an’ ’Ounds, in Pincher’s Alley, as ’ow he an’ his mate ’ad ’ad a rare dusty job in a old ’ouse at Purfect.
+bal_26.
+en_27. There ain’t a-many such jobs as this ’ere, an’ I’m thinkin’ that maybe Sam Bloxam could tell ye summut.”
+bal_27.
+en_28. I asked if he could tell me where to find him.
+bal_28.
+en_29. I told him that if he could get me the address it would be worth another half-sovereign to him.
+bal_29.
+en_30. So he gulped down the rest of his tea and stood up, saying that he was going to begin the search then and there.
+bal_30.
+en_31. At the door he stopped, and said:-- “Look ’ere, guv’nor, there ain’t no sense in me a-keepin’ you ’ere.
+bal_31.
+en_32. I may find Sam soon, or I mayn’t; but anyhow he ain’t like to be in a way to tell ye much to-night.
+bal_32.
+en_33. Sam is a rare one when he starts on the booze.
+bal_33.
+en_34. If you can give me a envelope with a stamp on it, and put yer address on it, I’ll find out where Sam is to be found and post it ye to-night.
+bal_34.
+en_35. But ye’d better be up arter ’im soon in the mornin’, or maybe ye won’t ketch ’im; for Sam gets off main early, never mind the booze the night afore.”
+bal_35.
+en_36. This was all practical, so one of the children went off with a penny to buy an envelope and a sheet of paper, and to keep the change.
+bal_36.
+en_37. When she came back, I addressed the envelope and stamped it, and when Smollet had again faithfully promised to post the address when found, I took my way to home.
+bal_37.
+en_38. We’re on the track anyhow.
+bal_38.
+en_39. I am tired to-night, and want sleep.
+bal_39.
+en_40. Mina is fast asleep, and looks a little too pale; her eyes look as though she had been crying.
+bal_40.
+en_41. Poor dear, I’ve no doubt it frets her to be kept in the dark, and it may make her doubly anxious about me and the others.
+bal_41.
+en_42. But it is best as it is.
+bal_42.
+en_43. It is better to be disappointed and worried in such a way now than to have her nerve broken.
+bal_43.
+en_44. The doctors were quite right to insist on her being kept out of this dreadful business.
+bal_44.
+en_45. I must be firm, for on me this particular burden of silence must rest.
+bal_45.
+en_46. I shall not ever enter on the subject with her under any circumstances.
+bal_46.
+en_47. Indeed, it may not be a hard task, after all, for she herself has become reticent on the subject, and has not spoken of the Count or his doings ever since we told her of our decision.
+bal_47.
+en_48. *
+bal_48.
+en_49. * *
+bal_49.
+en_50. * *
+bal_50.
+en_51. _2 October, evening._--A long and trying and exciting day.
+bal_51.
+en_52. By the first post I got my directed envelope with a dirty scrap of paper enclosed, on which was written with a carpenter’s pencil in a sprawling hand:-- “Sam Bloxam, Korkrans, 4, Poters Cort, Bartel Street, Walworth.
+bal_52.
+en_53. Arsk for the depite.”
+bal_53.
+en_54. I got the letter in bed, and rose without waking Mina.
+bal_54.
+en_55. She looked heavy and sleepy and pale, and far from well.
+bal_55.
+en_56. I determined not to wake her, but that, when I should return from this new search, I would arrange for her going back to Exeter.
+bal_56.
+en_57. I think she would be happier in our own home, with her daily tasks to interest her, than in being here amongst us and in ignorance.
+bal_57.
+en_58. I only saw Dr. Seward for a moment, and told him where I was off to, promising to come back and tell the rest so soon as I should have found out anything.
+bal_58.
+en_59. I drove to Walworth and found, with some difficulty, Potter’s Court.
+bal_59.
+en_60. Mr. Smollet’s spelling misled me, as I asked for Poter’s Court instead of Potter’s Court.
+bal_60.
+en_61. However, when I had found the court, I had no difficulty in discovering Corcoran’s lodging-house.
+bal_61.
+en_62. When I asked the man who came to the door for the “depite,” he shook his head, and said: “I dunno ’im. There ain’t no such a person ’ere; I never ’eard of ’im in all my bloomin’ days.
+bal_62.
+en_63. Don’t believe there ain’t nobody of that kind livin’ ere or anywheres.”
+bal_63.
+en_64. I took out Smollet’s letter, and as I read it it seemed to me that the lesson of the spelling of the name of the court might guide me.
+bal_64.
+en_65. “What are you?”
+bal_65.
+en_66. I asked.
+bal_66.
+en_67. “I’m the depity,” he answered.
+bal_67.
+en_68. I saw at once that I was on the right track; phonetic spelling had again misled me.
+bal_68.
+en_69. A half-crown tip put the deputy’s knowledge at my disposal, and I learned that Mr. Bloxam, who had slept off the remains of his beer on the previous night at Corcoran’s, had left for his work at Poplar at five o’clock that morning.
+bal_69.
+en_70. He could not tell me where the place of work was situated, but he had a vague idea that it was some kind of a “new-fangled ware’us”; and with this slender clue I had to start for Poplar.
+bal_70.
+en_71. It was twelve o’clock before I got any satisfactory hint of such a building, and this I got at a coffee-shop, where some workmen were having their dinner.
+bal_71.
+en_72. One of these suggested that there was being erected at Cross Angel Street a new “cold storage” building; and as this suited the condition of a “new-fangled ware’us,” I at once drove to it.
+bal_72.
+en_73. An interview with a surly gatekeeper and a surlier foreman, both of whom were appeased with the coin of the realm, put me on the track of Bloxam; he was sent for on my suggesting that I was willing to pay his day’s wages to his foreman for the privilege of asking him a few questions on a private matter.
+bal_73.
+en_74. He was a smart enough fellow, though rough of speech and bearing.
+bal_74.
+en_75. When I had promised to pay for his information and given him an earnest, he told me that he had made two journeys between Carfax and a house in Piccadilly, and had taken from this house to the latter nine great boxes--“main heavy ones”--with a horse and cart hired by him for this purpose.
+bal_75.
+en_76. I asked him if he could tell me the number of the house in Piccadilly, to which he replied:-- “Well, guv’nor, I forgits the number, but it was only a few doors from a big white church or somethink of the kind, not long built.
+bal_76.
+en_77. It was a dusty old ’ouse, too, though nothin’ to the dustiness of the ’ouse we tooked the bloomin’ boxes from.”
+bal_77.
+en_78. “How did you get into the houses if they were both empty?”
+bal_78.
+en_79. “There was the old party what engaged me a-waitin’ in the ’ouse at Purfleet.
+bal_79.
+en_80. He ’elped me to lift the boxes and put them in the dray.
+bal_80.
+en_81. Curse me, but he was the strongest chap I ever struck, an’ him a old feller, with a white moustache, one that thin you would think he couldn’t throw a shadder.”
+bal_81.
+en_82. How this phrase thrilled through me!
+bal_82.
+en_83. “Why, ’e took up ’is end o’ the boxes like they was pounds of tea, and me a-puffin’ an’ a-blowin’ afore I could up-end mine anyhow--an’ I’m no chicken, neither.”
+bal_83.
+en_84. “How did you get into the house in Piccadilly?”
+bal_84.
+en_85. I asked.
+bal_85.
+en_86. “He was there too.
+bal_86.
+en_87. He must ’a’ started off and got there afore me, for when I rung of the bell he kem an’ opened the door ’isself an’ ’elped me to carry the boxes into the ’all.”
+bal_87.
+en_88. “The whole nine?”
+bal_88.
+en_89. I asked.
+bal_89.
+en_90. “Yus; there was five in the first load an’ four in the second.
+bal_90.
+en_91. It was main dry work, an’ I don’t
+bal_91.
+en_92. so well remember ’ow I got ’ome.”
+bal_92.
+en_93. I interrupted him:--
+bal_93.
+en_94. “Were the boxes left in the hall?”
+bal_94.
+en_95. “Yus; it was a big ’all, an’ there was nothin’ else in it.”
+bal_95.
+en_96. I made one more attempt to further matters:-- “You didn’t have any key?”
+bal_96.
+en_97. “Never used no key nor nothink.
+bal_97.
+en_98. The old gent, he opened the door ’isself an’ shut it again when I druv off.
+bal_98.
+en_99. I don’t remember the last time--but that was the beer.”
+bal_99.
+en_100. “And you can’t remember the number of the house?”
+bal_100.
+en_101. “No, sir.
+bal_101.
+en_102. But ye needn’t have no difficulty about that.
+bal_102.
+en_103. It’s a ’igh ’un with a stone front with a bow on it, an’ ’igh steps up to the door.
+bal_103.
+en_104. I know them steps, ’avin’ ’ad to carry the boxes up with three loafers what come round to earn a copper.
+bal_104.
+en_105. The old gent give them shillin’s, an’ they seein’ they got so much, they wanted more; but ’e took one of them by the shoulder and was like to throw ’im down the steps, till the lot of them went away cussin’.”
+bal_105.
+en_106. I thought that with this description I could find the house, so, having paid my friend for his information, I started off for Piccadilly.
+bal_106.
+en_107. I had gained a new painful experience; the Count could, it was evident, handle the earth-boxes himself.
+bal_107.
+en_108. If so, time was precious; for, now that he had achieved a certain amount of distribution, he could, by choosing his own time, complete the task unobserved.
+bal_108.
+en_109. At Piccadilly Circus I discharged my cab, and walked westward; beyond the Junior Constitutional I came across the house described, and was satisfied that this was the next of the lairs arranged by Dracula.
+bal_109.
+en_110. The house looked as though it had been long untenanted.
+bal_110.
+en_111. The windows were encrusted with dust, and the shutters were up.
+bal_111.
+en_112. All the framework was black with time, and from the iron the paint had mostly scaled away.
+bal_112.
+en_113. It was evident that up to lately there had been a large notice-board in front of the balcony; it had, however, been roughly torn away, the uprights which had supported it still remaining.
+bal_113.
+en_114. Behind the rails of the balcony I saw there were some loose boards, whose raw edges looked white.
+bal_114.
+en_115. I would have given a good deal to have been able to see the notice-board intact, as it would, perhaps, have given some clue to the ownership of the house.
+bal_115.
+en_116. I remembered my experience of the investigation and purchase of Carfax, and I could not but feel that if I could find the former owner there might be some means discovered of gaining access to the house.
+bal_116.
+en_117. There was at present nothing to be learned from the Piccadilly side, and nothing could be done; so I went round to the back to see if anything could be gathered from this quarter.
+bal_117.
+en_118. The mews were active, the Piccadilly houses being mostly in occupation.
+bal_118.
+en_119. I asked one or two of the grooms and helpers whom I saw around if they could tell me anything about the empty house.
+bal_119.
+en_120. One of them said that he heard it had lately been taken, but he couldn’t say from whom.
+bal_120.
+en_121. He told me, however, that up to very lately there had been a notice-board of “For Sale” up, and that perhaps Mitchell, Sons, & Candy, the house agents, could tell me something, as he thought he remembered seeing the name of that firm on the board.
+bal_121.
+en_122. I did not wish to seem too eager, or to let my informant know or guess too much, so, thanking him in the usual manner, I strolled away.
+bal_122.
+en_123. It was now growing dusk, and the autumn night was closing in, so I did not lose any time.
+bal_123.
+en_124. Having learned the address of Mitchell, Sons, & Candy from a directory at the Berkeley, I was soon at their office in Sackville Street.
+bal_124.
+en_125. The gentleman who saw me was particularly suave in manner, but uncommunicative in equal proportion.
+bal_125.
+en_126. Having once told me that the Piccadilly house--which throughout our interview he called a “mansion”--was sold, he considered my business as concluded.
+bal_126.
+en_127. When I asked who had purchased it, he opened his eyes a thought wider, and paused a few seconds before replying:-- “It is sold, sir.”
+bal_127.
+en_128. “Pardon me,” I said, with equal politeness, “but I have a special reason for wishing to know who purchased it.”
+bal_128.
+en_129. Again he paused longer, and raised his eyebrows still more.
+bal_129.
+en_130. “It is sold, sir,” was again his laconic reply.
+bal_130.
+en_131. “Surely,” I said, “you do not mind letting me know so much.”
+bal_131.
+en_132. “But I do mind,” he answered.
+bal_132.
+en_133. “The affairs of their clients are absolutely safe in the hands of Mitchell, Sons, & Candy.”
+bal_133.
+en_134. This was manifestly a prig of the first water, and there was no use arguing with him.
+bal_134.
+en_135. I thought I had best meet him on his own ground, so I said:-- “Your clients, sir, are happy in having so resolute a guardian of their confidence.
+bal_135.
+en_136. I am myself a professional man.”
+bal_136.
+en_137. Here I handed him my card.
+bal_137.
+en_138. “In this instance I am not prompted by curiosity; I act on the part of Lord Godalming, who wishes to know something of the property which was, he understood, lately for sale.”
+bal_138.
+en_139. These words put a different complexion on affairs.
+bal_139.
+en_140. He said:-- “I would like to oblige you if I could, Mr. Harker, and especially would I like to oblige his lordship.
+bal_140.
+en_141. We once carried out a small matter of renting some chambers for him when he was the Honourable Arthur Holmwood.
+bal_141.
+en_142. If you will let me have his lordship’s address I will consult the House on the subject, and will, in any case, communicate with his lordship by to-night’s post.
+bal_142.
+en_143. It will be a pleasure if we can so far deviate from our rules as to give the required information to his lordship.”
+bal_143.
+en_144. I wanted to secure a friend, and not to make an enemy, so I thanked him, gave the address at Dr. Seward’s and came away.
+bal_144.
+en_145. It was now dark, and I was tired and hungry.
+bal_145.
+en_146. I got a cup of tea at the Aërated Bread Company and came down to Purfleet by the next train.
+bal_146.
+en_147. I found all the others at home.
+bal_147.
+en_148. Mina was looking tired and pale, but she made a gallant effort to be bright and cheerful, it wrung my heart to think that I had had to keep anything from her and so caused her inquietude.
+bal_148.
+en_149. Thank God, this will be the last night of her looking on at our conferences, and feeling the sting of our not showing our confidence.
+bal_149.
+en_150. It took all my courage to hold to the wise resolution of keeping her out of our grim task.
+bal_150.
+en_151. She seems somehow more reconciled; or else the very subject seems to have become repugnant to her, for when any accidental allusion is made she actually shudders.
+bal_151.
+en_152. I am glad we made our resolution in time, as with such a feeling as this, our growing knowledge would be torture to her.
+bal_152.
+en_153. I could not tell the others of the day’s discovery till we were alone; so after dinner--followed by a little music to save appearances even amongst ourselves--I took Mina to her room and left her to go to bed.
+bal_153.
+en_154. The dear girl was more affectionate with me than ever, and clung to me as though she would detain me; but there was much to be talked of and I came away.
+bal_154.
+en_155. Thank God, the ceasing of telling things has made no difference between us.
+bal_155.
+en_156. When I came down again I found the others all gathered round the fire in the study.
+bal_156.
+en_157. In the train I had written my diary so far, and simply read it off to them as the best means of letting them get abreast of my own information; when I had finished Van Helsing said:-- “This has been a great day’s work, friend Jonathan.
+bal_157.
+en_158. Doubtless we are on the track of the missing boxes.
+bal_158.
+en_159. If we find them all in that house, then our work is near the end.
+bal_159.
+en_160. But if there be some missing, we must search until we find them.
+bal_160.
+en_161. Then shall we make our final _coup_, and hunt the wretch to his real death.”
+bal_161.
+en_162. We all sat silent awhile and all at once Mr. Morris spoke:-- “Say!
+bal_162.
+en_163. how are we going to get into that house?”
+bal_163.
+en_164. “We got into the other,” answered Lord Godalming quickly.
+bal_164.
+en_165. “But, Art, this is different.
+bal_165.
+en_166. We broke house at Carfax, but we had night and a walled park to protect us.
+bal_166.
+en_167. It will be a mighty different thing to commit burglary in Piccadilly, either by day or night.
+bal_167.
+en_168. I confess I don’t see how we are going to get in unless that agency duck can find us a key of some sort; perhaps we shall know when you get his letter in the morning.”
+bal_168.
+en_169. Lord Godalming’s brows contracted, and he stood up and walked about the room.
+bal_169.
+en_170. By-and-by he stopped and said, turning from one to another of us:-- “Quincey’s head is level.
+bal_170.
+en_171. This burglary business is getting serious; we got off once all right; but we have now a rare job on hand--unless we can find the Count’s key basket.”
+bal_171.
+en_172. As nothing could well be done before morning, and as it would be at least advisable to wait till Lord Godalming should hear from Mitchell’s, we decided not to take any active step before breakfast time.
+bal_172.
+en_173. For a good while we sat and smoked, discussing the matter in its various lights and bearings; I took the opportunity of bringing this diary right up to the moment.
+bal_173.
+en_174. I am very sleepy and shall go to bed....
+bal_174.
+en_175. Just a line.
+bal_175.
+en_176. Mina sleeps soundly and her breathing is regular.
+bal_176.
+en_177. Her forehead is puckered up into little wrinkles, as though she thinks even in her sleep.
+bal_177.
+en_178. She is still too pale, but does not look so haggard as she did this morning.
+bal_178.
+en_179. To-morrow will, I hope, mend all this; she will be herself at home in Exeter.
+bal_179.
+en_180. Oh, but I am sleepy!
+bal_180.
+en_181. _
+bal_181.
+en_182. Dr. Seward’s Diary.
+bal_182.
+en_183. _ _1 October._--I am puzzled afresh about Renfield.
+bal_183.
+en_184. His moods change so rapidly that I find it difficult to keep touch of them, and as they always mean something more than his own well-being, they form a more than interesting study.
+bal_184.
+en_185. This morning, when I went to see him after his repulse of Van Helsing, his manner was that of a man commanding destiny.
+bal_185.
+en_186. He was, in fact, commanding destiny--subjectively.
+bal_186.
+en_187. He did not really care for any of the things of mere earth; he was in the clouds and looked down on all the weaknesses and wants of us poor mortals.
+bal_187.
+en_188. I thought I would improve the occasion and learn something, so I asked him:-- “What about the flies these times?”
+bal_188.
+en_189. He smiled on me in quite a superior sort of way--such a smile as would have become the face of Malvolio--as he answered me:-- “The fly, my dear sir, has one striking feature; its wings are typical of the aërial powers of the psychic faculties.
+bal_189.
+en_190. The ancients did well when they typified the soul as a butterfly!”
+bal_190.
+en_191. I thought I would push his analogy to its utmost logically, so I said quickly:-- “Oh, it is a soul you are after now, is it?”
+bal_191.
+en_192. His madness foiled his reason, and a puzzled look spread over his face as, shaking his head with a decision which I had but seldom seen in him, he said:-- “Oh, no,
+bal_192.
+en_193. oh no!
+bal_193.
+en_194. I want no souls.
+bal_194.
+en_195. Life is all I want.”
+bal_195.
+en_196. Here he brightened up; “I am pretty indifferent about it at present.
+bal_196.
+en_197. Life is all right; I have all I want.
+bal_197.
+en_198. You must get a new patient, doctor, if you wish to study zoöphagy!”
+bal_198.
+en_199. This puzzled me a little, so I drew him on:-- “Then you command life; you are a god, I suppose?”
+bal_199.
+en_200. He smiled with an ineffably benign superiority.
+bal_200.
+en_201. “Oh no! Far be it from me to arrogate to myself the attributes of the Deity.
+bal_201.
+en_202. I am not even concerned in His especially spiritual doings.
+bal_202.
+en_203. If I may state my intellectual position I am, so far as concerns things purely terrestrial, somewhat in the position which Enoch occupied spiritually!”
+bal_203.
+en_204. This was a poser to me.
+bal_204.
+en_205. I could not at the moment recall Enoch’s appositeness; so I had to ask a simple question, though I felt that by so doing I was lowering myself in the eyes of the lunatic:-- “And why with Enoch?”
+bal_205.
+en_206. “Because he walked with God.”
+bal_206.
+en_207. I could not see the analogy, but did not like to admit it; so I harked back to what he had denied:--
+bal_207.
+en_208. “So you don’t care about life and you don’t want souls.
+bal_208.
+en_209. Why not?”
+bal_209.
+en_210. I put my question quickly and somewhat sternly, on purpose to disconcert him.
+bal_210.
+en_211. The effort succeeded; for an instant he unconsciously relapsed into his old servile manner, bent low before me, and actually fawned upon me as he replied:-- “I don’t want any souls, indeed, indeed!
+bal_211.
+en_212. I don’t.
+bal_212.
+en_213. I couldn’t use them if I had them; they would be no manner of use to me.
+bal_213.
+en_214. I couldn’t eat them or----”
+bal_214.
+en_215. He suddenly stopped and the old cunning look spread over his face, like a wind-sweep on the surface of the water.
+bal_215.
+en_216. “And doctor, as to life, what is it after all?
+bal_216.
+en_217. When you’ve got all you require, and you know that you will never want, that is all.
+bal_217.
+en_218. I have friends--good friends--like you, Dr. Seward”; this was said with a leer of inexpressible cunning.
+bal_218.
+en_219. “I know that I shall never lack the means of life!”
+bal_219.
+en_220. I think that through the cloudiness of his insanity he saw some antagonism in me, for he at once fell back on the last refuge of such as he--a dogged silence.
+bal_220.
+en_221. After a short time I saw that for the present it was useless to speak to him.
+bal_221.
+en_222. He was sulky, and so I came away.
+bal_222.
+en_223. Later in the day he sent for me.
+bal_223.
+en_224. Ordinarily I would not have come without special reason, but just at present I am so interested in him that I would gladly make an effort.
+bal_224.
+en_225. Besides, I am glad to have anything to help to pass the time.
+bal_225.
+en_226. Harker is out, following up clues; and so are Lord Godalming and Quincey.
+bal_226.
+en_227. Van Helsing sits in my study poring over the record prepared by the Harkers; he seems to think that by accurate knowledge of all details he will light upon some clue.
+bal_227.
+en_228. He does not wish to be disturbed in the work, without cause.
+bal_228.
+en_229. I would have taken him with me to see the patient, only I thought that after his last repulse he might not care to go again.
+bal_229.
+en_230. There was also another reason: Renfield might not speak so freely before a third person as when he and I were alone.
+bal_230.
+en_231. I found him sitting out in the middle of the floor on his stool, a pose which is generally indicative of some mental energy on his part.
+bal_231.
+en_232. When I came in, he said at once, as though the question had been waiting on his lips:-- “What about souls?”
+bal_232.
+en_233. It was evident then that my surmise had been correct.
+bal_233.
+en_234. Unconscious cerebration was doing its work, even with the lunatic.
+bal_234.
+en_235. I determined to have the matter out.
+bal_235.
+en_236. “What about them yourself?”
+bal_236.
+en_237. I asked.
+bal_237.
+en_238. He did not reply for a moment but looked all round him, and up and down, as though he expected to find some inspiration for an answer.
+bal_238.
+en_239. “I don’t want any souls!”
+bal_239.
+en_240. he said in a feeble, apologetic way.
+bal_240.
+en_241. The matter seemed preying on his mind, and so I determined to use it--to “be cruel only to be kind.”
+bal_241.
+en_242. So I said:-- “You like life, and you want life?”
+bal_242.
+en_243. “Oh yes!
+bal_243.
+en_244. but that is all right; you needn’t worry about that!”
+bal_244.
+en_245. “But,” I asked, “how are we to get the life without getting the soul also?”
+bal_245.
+en_246. This seemed to puzzle him, so I followed it up:-- “A nice time you’ll have some time when you’re flying out there, with the souls of thousands of flies and spiders and birds and cats buzzing and twittering and miauing all round you.
+bal_246.
+en_247. You’ve got their lives, you know, and you must put up with their souls!”
+bal_247.
+en_248. Something seemed to affect his imagination, for he put his fingers to his ears and shut his eyes, screwing them up tightly just as a small boy does when his face is being soaped.
+bal_248.
+en_249. There was something pathetic in it that touched me; it also gave me a lesson, for it seemed that before me was a child--only a child, though the features were worn, and the stubble on the jaws was white.
+bal_249.
+en_250. It was evident that he was undergoing some process of mental disturbance, and, knowing how his past moods had interpreted things seemingly foreign to himself, I thought I would enter into his mind as well as I could and go with him.
+bal_250.
+en_251. The first step was to restore confidence, so I asked him, speaking pretty loud so that he would hear me through his closed ears:-- “Would you like some sugar to get your flies round again?”
+bal_251.
+en_252. He seemed to wake up all at once, and shook his head.
+bal_252.
+en_253. With a laugh he replied:-- “Not much!
+bal_253.
+en_254. flies are poor things, after all!”
+bal_254.
+en_255. After a pause he added, “But I don’t want their souls buzzing round me, all the same.”
+bal_255.
+en_256. “Or spiders?”
+bal_256.
+en_257. I went on.
+bal_257.
+en_258. “Blow spiders!
+bal_258.
+en_259. What’s the use of spiders?
+bal_259.
+en_260. There isn’t anything in them to eat or”--he stopped suddenly, as though reminded of a forbidden topic.
+bal_260.
+en_261. “So, so!”
+bal_261.
+en_262. I thought to myself, “this is the second time he has suddenly stopped at the word ‘drink’; what does it mean?”
+bal_262.
+en_263. Renfield seemed himself aware of having made a lapse, for he hurried on, as though to distract my attention from it:-- “I don’t take any stock at all in such matters.
+bal_263.
+en_264. ‘Rats and mice and such small deer,’ as Shakespeare has it, ‘chicken-feed of the larder’ they might be called.
+bal_264.
+en_265. I’m past all that sort of nonsense.
+bal_265.
+en_266. You might as well ask a man to eat molecules with a pair of chop-sticks, as to try to interest me about the lesser carnivora, when I know of what is before me.”
+bal_266.
+en_267. “I see,” I said.
+bal_267.
+en_268. “You want big things that you can make your teeth meet in?
+bal_268.
+en_269. How would you like to breakfast on elephant?”
+bal_269.
+en_270. “What ridiculous nonsense you are talking!”
+bal_270.
+en_271. He was getting too wide awake, so I thought I would press him hard.
+bal_271.
+en_272. “I wonder,” I said reflectively, “what an elephant’s soul is like!”
+bal_272.
+en_273. The effect I desired was obtained, for he at once fell from his high-horse and became a child again.
+bal_273.
+en_274. “I don’t want an elephant’s soul, or any soul at all!”
+bal_274.
+en_275. he said.
+bal_275.
+en_276. For a few moments he sat despondently.
+bal_276.
+en_277. Suddenly he jumped to his feet, with his eyes blazing and all the signs of intense cerebral excitement.
+bal_277.
+en_278. “To hell with you and your souls!”
+bal_278.
+en_279. he shouted.
+bal_279.
+en_280. “Why do you plague me about souls?
+bal_280.
+en_281. Haven’t I got enough to worry, and pain, and distract me already, without thinking of souls!”
+bal_281.
+en_282. He looked so hostile that I thought he was in for another homicidal fit, so I blew my whistle.
+bal_282.
+en_283. The instant, however, that I did so he became calm, and said apologetically:-- “Forgive me, Doctor; I forgot myself.
+bal_283.
+en_284. You do not need any help.
+bal_284.
+en_285. I am so worried in my mind that I am apt to be irritable.
+bal_285.
+en_286. If you only knew the problem I have to face, and that I am working out, you would pity, and tolerate, and pardon me.
+bal_286.
+en_287. Pray do not put me in a strait-waistcoat.
+bal_287.
+en_288. I want to think and I cannot think freely when my body is confined.
+bal_288.
+en_289. I am sure you will understand!”
+bal_289.
+en_290. He had evidently self-control; so when the attendants came I told them not to mind, and they withdrew.
+bal_290.
+en_291. Renfield watched them go; when the door was closed he said, with considerable dignity and sweetness:-- “Dr. Seward, you have been very considerate towards me.
+bal_291.
+en_292. Believe me that I am very, very grateful to you!”
+bal_292.
+en_293. I thought it well to leave him in this mood, and so I came away.
+bal_293.
+en_294. There is certainly something to ponder over in this man’s state.
+bal_294.
+en_295. Several points seem to make what the American interviewer calls “a story,” if one could only get them in proper order.
+bal_295.
+en_296. Here they are:-- Will not mention “drinking.”
+bal_296.
+en_297. Fears the thought of being burdened with the “soul” of anything.
+bal_297.
+en_298. Has no dread of wanting “life” in the future.
+bal_298.
+en_299. Despises the meaner forms of life altogether, though he dreads being haunted by their souls.
+bal_299.
+en_300. Logically all these things point one way!
+bal_300.
+en_301. he has assurance of some kind that he will acquire some higher life.
+bal_301.
+en_302. He dreads the consequence--the burden of a soul.
+bal_302.
+en_303. Then it is a human life he looks to!
+bal_303.
+en_304. And the assurance--?
+bal_304.
+en_305. Merciful God!
+bal_305.
+en_306. the Count has been to him, and there is some new scheme of terror afoot!
+bal_306.
+en_307. *
+bal_307.
+en_308. * *
+bal_308.
+en_309. * *
+bal_309.
+en_310. _Later._--I went after my round to Van Helsing and told him my suspicion.
+bal_310.
+en_311. He grew very grave; and, after thinking the matter over for a while asked me to take him to Renfield.
+bal_311.
+en_312. I did so.
+bal_312.
+en_313. As we came to the door we heard the lunatic within singing gaily, as he used to do in the time which now seems so long ago.
+bal_313.
+en_314. When we entered we saw with amazement that he had spread out his sugar as of old; the flies, lethargic with the autumn, were beginning to buzz into the room.
+bal_314.
+en_315. We tried to make him talk of the subject of our previous conversation, but he would not attend.
+bal_315.
+en_316. He went on with his singing, just as though we had not been present.
+bal_316.
+en_317. He had got a scrap of paper and was folding it into a note-book.
+bal_317.
+en_318. We had to come away as ignorant as we went in.
+bal_318.
+en_319. His is a curious case indeed; we must watch him to-night.
+bal_319.
+en_320. _
+bal_320.
+en_321. Letter, Mitchell, Sons and Candy to Lord Godalming._ _
+bal_321.
+en_322. “1 October.
+bal_322.
+en_323. _
+bal_323.
+en_324. “My Lord, “We are at all times only too happy to meet your wishes.
+bal_324.
+en_325. We beg, with regard to the desire of your Lordship, expressed by Mr. Harker on your behalf, to supply the following information concerning the sale and purchase of No. 347, Piccadilly.
+bal_325.
+en_326. The original vendors are the executors of the late Mr. Archibald Winter-Suffield.
+bal_326.
+en_327. The purchaser is a foreign nobleman, Count de Ville, who effected the purchase himself paying the purchase money in notes ‘over the counter,’ if your Lordship will pardon us using so vulgar an expression.
+bal_327.
+en_328. Beyond this we know nothing whatever of him.
+bal_328.
+en_329. “We are, my Lord, “Your Lordship’s humble servants, “MITCHELL, SONS & CANDY.”
+bal_329.
+en_330. _Dr. Seward’s Diary._ _2 October._--I placed a man in the corridor last night, and told him to make an accurate note of any sound he might hear from Renfield’s room, and gave him instructions that if there should be anything strange he was to call me.
+bal_330.
+en_331. After dinner, when we had all gathered round the fire in the study--Mrs. Harker having gone to bed--we discussed the attempts and discoveries of the day.
+bal_331.
+en_332. Harker was the only one who had any result, and we are in great hopes that his clue may be an important one.
+bal_332.
+en_333. Before going to bed I went round to the patient’s room and looked in through the observation trap.
+bal_333.
+en_334. He was sleeping soundly, and his heart rose and fell with regular respiration.
+bal_334.
+en_335. This morning the man on duty reported to me that a little after midnight he was restless and kept saying his prayers somewhat loudly.
+bal_335.

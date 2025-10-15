@@ -1,0 +1,650 @@
+en_1. _second_.
+bal_1.
+en_2. Besides, I have nothing to tell you.
+bal_2.
+en_3. There is really nothing to interest you.
+bal_3.
+en_4. Town is very pleasant just now, and we go a good deal to picture-galleries and for walks and rides in the park.
+bal_4.
+en_5. As to the tall, curly-haired man, I suppose it was the one who was with me at the last Pop.
+bal_5.
+en_6. Some one has evidently been telling tales.
+bal_6.
+en_7. That was Mr. Holmwood.
+bal_7.
+en_8. He often comes to see us, and he and mamma get on very well together; they have so many things to talk about in common.
+bal_8.
+en_9. We met some time ago a man that would just _do for you_, if you were not already engaged to Jonathan.
+bal_9.
+en_10. He is an excellent _parti_, being handsome, well off, and of good birth.
+bal_10.
+en_11. He is a doctor and really clever.
+bal_11.
+en_12. Just fancy!
+bal_12.
+en_13. He is only nine-and-twenty, and he has an immense lunatic asylum all under his own care.
+bal_13.
+en_14. Mr. Holmwood introduced him to me, and he called here to see us, and often comes now.
+bal_14.
+en_15. I think he is one of the most resolute men I ever saw, and yet the most calm.
+bal_15.
+en_16. He seems absolutely imperturbable.
+bal_16.
+en_17. I can fancy what a wonderful power he must have over his patients.
+bal_17.
+en_18. He has a curious habit of looking one straight in the face, as if trying to read one’s thoughts.
+bal_18.
+en_19. He tries this on very much with me, but I flatter myself he has got a tough nut to crack.
+bal_19.
+en_20. I know that from my glass.
+bal_20.
+en_21. Do you ever try to read your own face?
+bal_21.
+en_22. _
+bal_22.
+en_23. I do_, and I can tell you it is not a bad study, and gives you more trouble than you can well fancy if you have never tried it.
+bal_23.
+en_24. He says that I afford him a curious psychological study, and I humbly think I do.
+bal_24.
+en_25. I do not, as you know, take sufficient interest in dress to be able to describe the new fashions.
+bal_25.
+en_26. Dress is a bore.
+bal_26.
+en_27. That is slang again, but never mind; Arthur says that every day.
+bal_27.
+en_28. There, it is all out.
+bal_28.
+en_29. Mina, we have told all our secrets to each other since we were _children_; we have slept together and eaten together, and laughed and cried together; and now, though I have spoken, I would like to speak more.
+bal_29.
+en_30. Oh, Mina, couldn’t you guess?
+bal_30.
+en_31. I love him.
+bal_31.
+en_32. I am blushing as I write, for although I _think_
+bal_32.
+en_33. he loves me, he has not told me so in words.
+bal_33.
+en_34. But oh, Mina, I love him; I love him; I love him!
+bal_34.
+en_35. There, that does me good.
+bal_35.
+en_36. I wish I were with you, dear, sitting by the fire undressing, as we used to sit; and I would try to tell you what I feel.
+bal_36.
+en_37. I do not know how I am writing this even to you.
+bal_37.
+en_38. I am afraid to stop, or I should tear up the letter, and I don’t want to stop, for I _do_ so want to tell you all.
+bal_38.
+en_39. Let me hear from you _at once_, and tell me all that you think about it.
+bal_39.
+en_40. Mina, I must stop.
+bal_40.
+en_41. Good-night.
+bal_41.
+en_42. Bless me in your prayers; and, Mina, pray for my happiness.
+bal_42.
+en_43. “LUCY.
+bal_43.
+en_44. “P.S.--I need not tell you this is a secret.
+bal_44.
+en_45. Good-night again.
+bal_45.
+en_46. “L.” _Letter, Lucy Westenra to Mina Murray_.
+bal_46.
+en_47. “_24 May_.
+bal_47.
+en_48. “My dearest Mina,-- “Thanks, and thanks, and thanks again for your sweet letter.
+bal_48.
+en_49. It was so nice to be able to tell you and to have your sympathy.
+bal_49.
+en_50. “My dear, it never rains but it pours.
+bal_50.
+en_51. How true the old proverbs are.
+bal_51.
+en_52. Here am I, who shall be twenty in September, and yet I never had a proposal till to-day, not a real proposal, and to-day I have had three.
+bal_52.
+en_53. Just fancy!
+bal_53.
+en_54. THREE proposals in one day!
+bal_54.
+en_55. Isn’t it awful!
+bal_55.
+en_56. I feel sorry, really and truly sorry, for two of the poor fellows.
+bal_56.
+en_57. Oh, Mina, I am so happy that I don’t know what to do with myself.
+bal_57.
+en_58. And three proposals!
+bal_58.
+en_59. But, for goodness’ sake, don’t tell any of the girls, or they would be getting all sorts of extravagant ideas and imagining themselves injured and slighted if in their very first day at home they did not get six at least.
+bal_59.
+en_60. Some girls are so vain!
+bal_60.
+en_61. You and I, Mina dear, who are engaged and are going to settle down soon soberly into old married women, can despise vanity.
+bal_61.
+en_62. Well, I must tell you about the three, but you must keep it a secret, dear, from _every one_, except, of course, Jonathan.
+bal_62.
+en_63. You will tell him, because I would, if I were in your place, certainly tell Arthur.
+bal_63.
+en_64. A woman ought to tell her husband everything--don’t you think so, dear?--and I must be fair.
+bal_64.
+en_65. Men like women, certainly their wives, to be quite as fair as they are; and women, I am afraid, are not always quite as fair as they should be.
+bal_65.
+en_66. Well, my dear, number One came just before lunch.
+bal_66.
+en_67. I told you of him, Dr. John Seward, the lunatic-asylum man, with the strong jaw and the good forehead.
+bal_67.
+en_68. He was very cool outwardly, but was nervous all the same.
+bal_68.
+en_69. He had evidently been schooling himself as to all sorts of little things, and remembered them; but he almost managed to sit down on his silk hat, which men don’t generally do when they are cool, and then when he wanted to appear at ease he kept playing with a lancet in a way that made me nearly scream.
+bal_69.
+en_70. He spoke to me, Mina, very straightforwardly.
+bal_70.
+en_71. He told me how dear I was to him, though he had known me so little, and what his life would be with me to help and cheer him.
+bal_71.
+en_72. He was going to tell me how unhappy he would be if I did not care for him, but when he saw me cry he said that he was a brute and would not add to my present trouble.
+bal_72.
+en_73. Then he broke off and asked if I could love him in time; and when I shook my head his hands trembled, and then with some hesitation he asked me if I cared already for any one else.
+bal_73.
+en_74. He put it very nicely, saying that he did not want to wring my confidence from me, but only to know, because if a woman’s heart was free a man might have hope.
+bal_74.
+en_75. And then, Mina, I felt a sort of duty to tell him that there was some one.
+bal_75.
+en_76. I only told him that much, and then he stood up, and he looked very strong and very grave as he took both my hands in his and said he hoped I would be happy, and that if I ever wanted a friend I must count him one of my best.
+bal_76.
+en_77. Oh, Mina dear, I can’t help crying: and you must excuse this letter being all blotted.
+bal_77.
+en_78. Being proposed to is all very nice and all that sort of thing, but it isn’t at all a happy thing when you have to see a poor fellow, whom you know loves you honestly, going away and looking all broken-hearted, and to know that, no matter what he may say at the moment, you are passing quite out of his life.
+bal_78.
+en_79. My dear, I must stop here at present, I feel so miserable, though I am so happy.
+bal_79.
+en_80. “_Evening._
+bal_80.
+en_81. “Arthur has just gone, and I feel in better spirits than when I left off, so I can go on telling you about the day.
+bal_81.
+en_82. Well, my dear, number Two came after lunch.
+bal_82.
+en_83. He is such a nice fellow, an American from Texas, and he looks so young and so fresh that it seems almost impossible that he has been to so many places and has had such adventures.
+bal_83.
+en_84. I sympathise with poor Desdemona when she had such a dangerous stream poured in her ear, even by a black man.
+bal_84.
+en_85. I suppose that we women are such cowards that we think a man will save us from fears, and we marry him.
+bal_85.
+en_86. I know now what I would do if I were a man and wanted to make a girl love me.
+bal_86.
+en_87. No, I don’t, for there was Mr. Morris telling us his stories, and Arthur never told any, and yet----
+bal_87.
+en_88. My dear, I am somewhat previous.
+bal_88.
+en_89. Mr. Quincey P. Morris found me alone.
+bal_89.
+en_90. It seems that a man always does find a girl alone.
+bal_90.
+en_91. No, he doesn’t, for Arthur tried twice to _make_ a chance, and I helping him all I could; I am not ashamed to say it now.
+bal_91.
+en_92. I must tell you beforehand that Mr. Morris doesn’t always speak slang--that is to say, he never does so to strangers or before them, for he is really well educated and has exquisite manners--but he found out that it amused me to hear him talk American slang, and whenever I was present, and there was no one to be shocked, he said such funny things.
+bal_92.
+en_93. I am afraid, my dear, he has to invent it all, for it fits exactly into whatever else he has to say.
+bal_93.
+en_94. But this is a way slang has.
+bal_94.
+en_95. I do not know myself if I shall ever speak slang; I do not know if Arthur likes it, as I have never heard him use any as yet.
+bal_95.
+en_96. Well, Mr. Morris sat down beside me and looked as happy and jolly as he could, but I could see all the same that he was very nervous.
+bal_96.
+en_97. He took my hand in his, and said ever so sweetly:-- “‘Miss Lucy, I know I ain’t good enough to regulate the fixin’s of your little shoes, but I guess if you wait till you find a man that is you will go join them seven young women with the lamps when you quit.
+bal_97.
+en_98. Won’t you just hitch up alongside of me and let us go down the long road together, driving in double harness?’
+bal_98.
+en_99. “Well, he did look so good-humoured and so jolly that it didn’t seem half so hard to refuse him as it did poor Dr. Seward; so I said, as lightly as I could, that I did not know anything of hitching, and that I wasn’t broken to harness at all yet.
+bal_99.
+en_100. Then he said that he had spoken in a light manner, and he hoped that if he had made a mistake in doing so on so grave, so momentous, an occasion for him, I would forgive him.
+bal_100.
+en_101. He really did look serious when he was saying it, and I couldn’t help feeling a bit serious too--I know, Mina, you will think me a horrid flirt--though I couldn’t help feeling a sort of exultation that he was number two in one day.
+bal_101.
+en_102. And then, my dear, before I could say a word he began pouring out a perfect torrent of love-making, laying his very heart and soul at my feet.
+bal_102.
+en_103. He looked so earnest over it that I shall never again think that a man must be playful always, and never earnest, because he is merry at times.
+bal_103.
+en_104. I suppose he saw something in my face which checked him, for he suddenly stopped, and said with a sort of manly fervour that I could have loved him for if I had been free:-- “‘Lucy, you are an honest-hearted girl, I know.
+bal_104.
+en_105. I should not be here speaking to you as I am now if I did not believe you clean grit, right through to the very depths of your soul.
+bal_105.
+en_106. Tell me, like one good fellow to another, is there any one else that you care for?
+bal_106.
+en_107. And if there is I’ll never trouble you a hair’s breadth again, but will be, if you will let me, a very faithful friend.’
+bal_107.
+en_108. “My dear Mina, why are men so noble when we women are so little worthy of them?
+bal_108.
+en_109. Here was I almost making fun of this great-hearted, true gentleman.
+bal_109.
+en_110. I burst into tears--I am afraid, my dear, you will think this a very sloppy letter in more ways than one--and I really felt very badly.
+bal_110.
+en_111. Why can’t they let a girl marry three men, or as many as want her, and save all this trouble?
+bal_111.
+en_112. But this is heresy, and I must not say it.
+bal_112.
+en_113. I am glad to say that, though I was crying, I was able to look into Mr. Morris’s brave eyes, and I told him out straight:-- “‘Yes, there is some one I love, though he has not told me yet that he even loves me.’
+bal_113.
+en_114. I was right to speak to him so frankly, for quite a light came into his face, and he put out both his hands and took mine--I think I put them into his--and said in a hearty way:--
+bal_114.
+en_115. “‘That’s my brave girl.
+bal_115.
+en_116. It’s better worth being late for a chance of winning you than being in time for any other girl in the world.
+bal_116.
+en_117. Don’t cry, my dear.
+bal_117.
+en_118. If it’s for me, I’m a hard nut to crack; and I take it standing up.
+bal_118.
+en_119. If that other fellow doesn’t know his happiness, well, he’d better look for it soon, or he’ll have to deal with me.
+bal_119.
+en_120. Little girl, your honesty and pluck have made me a friend, and that’s rarer than a lover; it’s more unselfish anyhow.
+bal_120.
+en_121. My dear, I’m going to have a pretty lonely walk between this and Kingdom Come.
+bal_121.
+en_122. Won’t you give me one kiss?
+bal_122.
+en_123. It’ll be something to keep off the darkness now and then.
+bal_123.
+en_124. You can, you know, if you like, for that other good fellow--he must be a good fellow, my dear, and a fine fellow, or you could not love him--hasn’t spoken yet.’
+bal_124.
+en_125. That quite won me, Mina, for it _was_ brave and sweet of him, and noble, too, to a rival--wasn’t
+bal_125.
+en_126. it?--and he so sad; so I leant over and kissed him.
+bal_126.
+en_127. He stood up with my two hands in his, and as he looked down into my face--I am afraid I was blushing very much--he said:-- “‘Little girl, I hold your hand, and you’ve kissed me, and if these things don’t make us friends nothing ever will.
+bal_127.
+en_128. Thank you for your sweet honesty to me, and good-bye.’
+bal_128.
+en_129. He wrung my hand, and taking up his hat, went straight out of the room without looking back, without a tear or a quiver or a pause; and I am crying like a baby.
+bal_129.
+en_130. Oh, why must a man like that be made unhappy when there are lots of girls about who would worship the very ground he trod on?
+bal_130.
+en_131. I know I would if I were free--only I don’t want to be free.
+bal_131.
+en_132. My dear, this quite upset me, and I feel I cannot write of happiness just at once, after telling you of it; and I don’t wish to tell of the number three until it can be all happy.
+bal_132.
+en_133. “Ever your loving “LUCY.
+bal_133.
+en_134. “P.S.--Oh, about number Three--I needn’t tell you of number Three, need I?
+bal_134.
+en_135. Besides, it was all so confused; it seemed only a moment from his coming into the room till both his arms were round me, and he was kissing me.
+bal_135.
+en_136. I am very, very happy, and I don’t know what I have done to deserve it.
+bal_136.
+en_137. I must only try in the future to show that I am not ungrateful to God for all His goodness to me in sending to me such a lover, such a husband, and such a friend.
+bal_137.
+en_138. “Good-bye.”
+bal_138.
+en_139. _Dr. Seward’s Diary.
+bal_139.
+en_140. _ (Kept in phonograph)
+bal_140.
+en_141. _25 May._--Ebb tide in appetite to-day.
+bal_141.
+en_142. Cannot eat, cannot rest, so diary instead.
+bal_142.
+en_143. Since my rebuff of yesterday I have a sort of empty feeling; nothing in the world seems of sufficient importance to be worth the doing....
+bal_143.
+en_144. As I knew that the only cure for this sort of thing was work, I went down amongst the patients.
+bal_144.
+en_145. I picked out one who has afforded me a study of much interest.
+bal_145.
+en_146. He is so quaint that I am determined to understand him as well as I can.
+bal_146.
+en_147. To-day I seemed to get nearer than ever before to the heart of his mystery.
+bal_147.
+en_148. I questioned him more fully than I had ever done, with a view to making myself master of the facts of his hallucination.
+bal_148.
+en_149. In my manner of doing it there was, I now see, something of cruelty.
+bal_149.
+en_150. I seemed to wish to keep him to the point of his madness--a thing which I avoid with the patients as I would the mouth of hell.
+bal_150.
+en_151. (_Mem._, under what circumstances would I _not_ avoid the pit of hell?)
+bal_151.
+en_152. _
+bal_152.
+en_153. Omnia Romæ venalia sunt.
+bal_153.
+en_154. _
+bal_154.
+en_155. Hell has its price!
+bal_155.
+en_156. _
+bal_156.
+en_157. verb.
+bal_157.
+en_158. sap._
+bal_158.
+en_159. If there be anything behind this instinct it will be valuable to trace it afterwards _accurately_, so I had better commence to do so, therefore-- R. M. Renfield, ætat 59.--Sanguine temperament; great physical strength; morbidly excitable; periods of gloom, ending in some fixed idea which I cannot make out.
+bal_159.
+en_160. I presume that the sanguine temperament itself and the disturbing influence end in a mentally-accomplished finish; a possibly dangerous man, probably dangerous if unselfish.
+bal_160.
+en_161. In selfish men caution is as secure an armour for their foes as for themselves.
+bal_161.
+en_162. What I think of on this point is, when self is the fixed point the centripetal force is balanced with the centrifugal; when duty, a cause, etc., is the fixed point, the latter force is paramount, and only accident or a series of accidents can balance it.
+bal_162.
+en_163. _
+bal_163.
+en_164. Letter, Quincey P. Morris to Hon.
+bal_164.
+en_165. Arthur Holmwood._
+bal_165.
+en_166. “_25 May._
+bal_166.
+en_167. “My dear Art,-- “We’ve told yarns by the camp-fire in the prairies; and dressed one another’s wounds after trying a landing at the Marquesas; and drunk healths on the shore of Titicaca.
+bal_167.
+en_168. There are more yarns to be told, and other wounds to be healed, and another health to be drunk.
+bal_168.
+en_169. Won’t you let this be at my camp-fire to-morrow night?
+bal_169.
+en_170. I have no hesitation in asking you, as I know a certain lady is engaged to a certain dinner-party, and that you are free.
+bal_170.
+en_171. There will only be one other, our old pal at the Korea, Jack Seward.
+bal_171.
+en_172. He’s coming, too, and we both want to mingle our weeps over the wine-cup, and to drink a health with all our hearts to the happiest man in all the wide world, who has won the noblest heart that God has made and the best worth winning.
+bal_172.
+en_173. We promise you a hearty welcome, and a loving greeting, and a health as true as your own right hand.
+bal_173.
+en_174. We shall both swear to leave you at home if you drink too deep to a certain pair of eyes.
+bal_174.
+en_175. Come!
+bal_175.
+en_176. “Yours, as ever and always, “QUINCEY P. MORRIS.”
+bal_176.
+en_177. _Telegram from Arthur Holmwood to Quincey P. Morris._
+bal_177.
+en_178. “_26 May._
+bal_178.
+en_179. “Count me in every time.
+bal_179.
+en_180. I bear messages which will make both your ears tingle.
+bal_180.
+en_181. “ART.”
+bal_181.
+en_182. CHAPTER VI MINA MURRAY’S JOURNAL _24 July.
+bal_182.
+en_183. Whitby._--Lucy met me at the station, looking sweeter and lovelier than ever, and we drove up to the house at the Crescent in which they have rooms.
+bal_183.
+en_184. This is a lovely place.
+bal_184.
+en_185. The little river, the Esk, runs through a deep valley, which broadens out as it comes near the harbour.
+bal_185.
+en_186. A great viaduct runs across, with high piers, through which the view seems somehow further away than it really is.
+bal_186.
+en_187. The valley is beautifully green, and it is so steep that when you are on the high land on either side you look right across it, unless you are near enough to see down.
+bal_187.
+en_188. The houses of the old town--the side away from us--are all red-roofed, and seem piled up one over the other anyhow, like the pictures we see of Nuremberg.
+bal_188.
+en_189. Right over the town is the ruin of Whitby Abbey, which was sacked by the Danes, and which is the scene of part of “Marmion,” where the girl was built up in the wall.
+bal_189.
+en_190. It is a most noble ruin, of immense size, and full of beautiful and romantic bits; there is a legend that a white lady is seen in one of the windows.
+bal_190.
+en_191. Between it and the town there is another church, the parish one, round which is a big graveyard, all full of tombstones.
+bal_191.
+en_192. This is to my mind the nicest spot in Whitby, for it lies right over the town, and has a full view of the harbour and all up the bay to where the headland called Kettleness stretches out into the sea.
+bal_192.
+en_193. It descends so steeply over the harbour that part of the bank has fallen away, and some of the graves have been destroyed.
+bal_193.
+en_194. In one place part of the stonework of the graves stretches out over the sandy pathway far below.
+bal_194.
+en_195. There are walks, with seats beside them, through the churchyard; and people go and sit there all day long looking at the beautiful view and enjoying the breeze.
+bal_195.
+en_196. I shall come and sit here very often myself and work.
+bal_196.
+en_197. Indeed, I am writing now, with my book on my knee, and listening to the talk of three old men who are sitting beside me.
+bal_197.
+en_198. They seem to do nothing all day but sit up here and talk.
+bal_198.
+en_199. The harbour lies below me, with, on the far side, one long granite wall stretching out into the sea, with a curve outwards at the end of it, in the middle of which is a lighthouse.
+bal_199.
+en_200. A heavy sea-wall runs along outside of it.
+bal_200.
+en_201. On the near side, the sea-wall makes an elbow crooked inversely, and its end too has a lighthouse.
+bal_201.
+en_202. Between the two piers there is a narrow opening into the harbour, which then suddenly widens.
+bal_202.
+en_203. It is nice at high water; but when the tide is out it shoals away to nothing, and there is merely the stream of the Esk, running between banks of sand, with rocks here and there.
+bal_203.
+en_204. Outside the harbour on this side there rises for about half a mile a great reef, the sharp edge of which runs straight out from behind the south lighthouse.
+bal_204.
+en_205. At the end of it is a buoy with a bell, which swings in bad weather, and sends in a mournful sound on the wind.
+bal_205.
+en_206. They have a legend here that when a ship is lost bells are heard out at sea.
+bal_206.
+en_207. I must ask the old man about this; he is coming this way....
+bal_207.
+en_208. He is a funny old man.
+bal_208.
+en_209. He must be awfully old, for his face is all gnarled and twisted like the bark of a tree.
+bal_209.
+en_210. He tells me that he is nearly a hundred, and that he was a sailor in the Greenland fishing fleet when Waterloo was fought.
+bal_210.
+en_211. He is, I am afraid, a very sceptical person, for when I asked him about the bells at sea and the White Lady at the abbey he said very brusquely:-- “I wouldn’t fash masel’ about them, miss.
+bal_211.
+en_212. Them things be all wore out.
+bal_212.
+en_213. Mind, I don’t say that they never was, but I do say that they wasn’t in my time.
+bal_213.
+en_214. They be all very well for comers and trippers, an’ the like, but not for a nice young lady like you.
+bal_214.
+en_215. Them feet-folks from York and Leeds that be always eatin’ cured herrin’s an’ drinkin’ tea an’ lookin’ out to buy cheap jet would creed aught.
+bal_215.
+en_216. I wonder masel’ who’d be bothered tellin’ lies to them--even the newspapers, which is full of fool-talk.”
+bal_216.
+en_217. I thought he would be a good person to learn interesting things from, so I asked him if he would mind telling me something about the whale-fishing in the old days.
+bal_217.
+en_218. He was just settling himself to begin when the clock struck six, whereupon he laboured to get up, and said:-- “I must gang ageeanwards home now, miss.
+bal_218.
+en_219. My grand-daughter doesn’t like to be kept waitin’ when the tea is ready, for it takes me time to crammle aboon the grees, for there be a many of ’em; an’, miss, I lack belly-timber sairly by the clock.”
+bal_219.
+en_220. He hobbled away, and I could see him hurrying, as well as he could, down the steps.
+bal_220.
+en_221. The steps are a great feature on the place.
+bal_221.
+en_222. They lead from the town up to the church, there are hundreds of them--I do not know how many--and they wind up in a delicate curve; the slope is so gentle that a horse could easily walk up and down them.
+bal_222.
+en_223. I think they must originally have had something to do with the abbey.
+bal_223.
+en_224. I shall go home too.
+bal_224.
+en_225. Lucy went out visiting with her mother, and as they were only duty calls, I did not go.
+bal_225.
+en_226. They will be home by this.
+bal_226.
+en_227. *
+bal_227.
+en_228. * *
+bal_228.
+en_229. * * _1 August._--I came up here an hour ago with Lucy, and we had a most interesting talk with my old friend and the two others who always come and join him.
+bal_229.
+en_230. He is evidently the Sir Oracle of them, and I should think must have been in his time a most dictatorial person.
+bal_230.
+en_231. He will not admit anything, and downfaces everybody.
+bal_231.
+en_232. If he can’t out-argue them he bullies them, and then takes their silence for agreement with his views.
+bal_232.
+en_233. Lucy was looking sweetly pretty in her white lawn frock; she has got a beautiful colour since she has been here.
+bal_233.
+en_234. I noticed that the old men did not lose any time in coming up and sitting near her when we sat down.
+bal_234.
+en_235. She is so sweet with old people; I think they all fell in love with her on the spot.
+bal_235.
+en_236. Even my old man succumbed and did not contradict her, but gave me double share instead.
+bal_236.
+en_237. I got him on the subject of the legends, and he went off at once into a sort of sermon.
+bal_237.
+en_238. I must try to remember it and put it down:-- “It be all fool-talk, lock, stock, and barrel; that’s what it be, an’ nowt else.
+bal_238.
+en_239. These bans an’ wafts an’ boh-ghosts an’ barguests an’ bogles an’ all anent them is only fit to set bairns an’ dizzy women a-belderin’.
+bal_239.
+en_240. They be nowt but air-blebs.
+bal_240.
+en_241. They, an’ all grims an’ signs an’ warnin’s, be all invented by parsons an’ illsome beuk-bodies an’ railway touters to skeer an’ scunner hafflin’s, an’ to get folks to do somethin’ that they don’t other incline to.
+bal_241.
+en_242. It makes me ireful to think o’ them.
+bal_242.
+en_243. Why, it’s them that, not content with printin’ lies on paper an’ preachin’ them out of pulpits, does want to be cuttin’ them on the tombstones.
+bal_243.
+en_244. Look here all around you in what airt ye will; all them steans, holdin’ up their heads as well as they can out of their pride, is acant--simply tumblin’ down with the weight o’ the lies wrote on them, ‘Here lies the body’ or ‘Sacred to the memory’ wrote on all of them, an’ yet in nigh half of them there bean’t no bodies at all; an’ the memories of them bean’t cared a pinch of snuff about, much less sacred.
+bal_244.
+en_245. Lies all of them, nothin’ but lies of one kind or another!
+bal_245.
+en_246. My gog, but it’ll be a quare scowderment at the Day of Judgment when they come tumblin’ up in their death-sarks, all jouped together an’ tryin’ to drag their tombsteans with them to prove how good they was; some of them trimmlin’ and ditherin’, with their hands that dozzened an’ slippy from lyin’ in the sea that they can’t even keep their grup o’ them.”
+bal_246.
+en_247. I could see from the old fellow’s self-satisfied air and the way in which he looked round for the approval of his cronies that he was “showing off,” so I put in a word to keep him going:-- “Oh, Mr. Swales, you can’t be serious.
+bal_247.
+en_248. Surely these tombstones are not all wrong?”
+bal_248.
+en_249. “Yabblins!
+bal_249.
+en_250. There may be a poorish few not wrong, savin’ where they make out the people too good; for there be folk that do think a balm-bowl be like the sea, if only it be their own.
+bal_250.
+en_251. The whole thing be only lies.
+bal_251.
+en_252. Now look you here; you come here a stranger, an’ you see this kirk-garth.”
+bal_252.
+en_253. I nodded, for I thought it better to assent, though I did not quite understand his dialect.
+bal_253.
+en_254. I knew it had something to do with the church.
+bal_254.
+en_255. He went on: “And you consate that all these steans be aboon folk that be happed here, snod an’ snog?”
+bal_255.
+en_256. I assented again.
+bal_256.
+en_257. “Then that be just where the lie comes in.
+bal_257.
+en_258. Why, there be scores of these lay-beds that be toom as old Dun’s ’bacca-box on Friday night.”
+bal_258.
+en_259. He nudged one of his companions, and they all laughed.
+bal_259.
+en_260. “And my gog!
+bal_260.
+en_261. how could they be otherwise?
+bal_261.
+en_262. Look at that one, the aftest abaft the bier-bank: read it!”
+bal_262.
+en_263. I went over and read:-- “Edward Spencelagh, master mariner, murdered by pirates off the coast of Andres, April, 1854, æt. 30.”
+bal_263.
+en_264. When I came back Mr. Swales went on:-- “Who brought him home, I wonder, to hap him here?
+bal_264.
+en_265. Murdered off the coast of Andres!
+bal_265.
+en_266. an’ you consated his body lay under!
+bal_266.
+en_267. Why, I could name ye a dozen whose bones lie in the Greenland seas above”--he pointed northwards--“or where the currents may have drifted them.
+bal_267.
+en_268. There be the steans around ye.
+bal_268.
+en_269. Ye can, with your young eyes, read the small-print of the lies from here.
+bal_269.
+en_270. This Braithwaite Lowrey--I knew his father, lost in the _Lively_ off Greenland in ’20; or Andrew Woodhouse, drowned in the same seas in 1777; or John Paxton, drowned off Cape Farewell a year later; or old John Rawlings, whose grandfather sailed with me, drowned in the Gulf of Finland in ’50.
+bal_270.
+en_271. Do ye think that all these men will have to make a rush to Whitby when the trumpet sounds?
+bal_271.
+en_272. I have me antherums aboot it!
+bal_272.
+en_273. I tell ye that when they got here they’d be jommlin’ an’ jostlin’ one another that way that it ’ud be like a fight up on the ice in the old days, when we’d be at one another from daylight to dark, an’ tryin’ to tie up our cuts by the light of the aurora borealis.”
+bal_273.
+en_274. This was evidently local pleasantry, for the old man cackled over it, and his cronies joined in with gusto.
+bal_274.
+en_275. “But,” I said, “surely you are not quite correct, for you start on the assumption that all the poor people, or their spirits, will have to take their tombstones with them on the Day of Judgment.
+bal_275.
+en_276. Do you think that will be really necessary?”
+bal_276.
+en_277. “Well, what else be they tombstones for?
+bal_277.
+en_278. Answer me that, miss!”
+bal_278.
+en_279. “To please their relatives, I suppose.”
+bal_279.
+en_280. “To please their relatives, you suppose!”
+bal_280.
+en_281. This he said with intense scorn.
+bal_281.
+en_282. “How will it pleasure their relatives to know that lies is wrote over them, and that everybody in the place knows that they be lies?”
+bal_282.
+en_283. He pointed to a stone at our feet which had been laid down as a slab, on which the seat was rested, close to the edge of the cliff.
+bal_283.
+en_284. “Read the lies on that thruff-stean,” he said.
+bal_284.
+en_285. The letters were upside down to me from where I sat, but Lucy was more opposite to them, so she leant over and read:-- “Sacred to the memory of George Canon, who died, in the hope of a glorious resurrection, on July, 29, 1873, falling from the rocks at Kettleness.
+bal_285.
+en_286. This tomb was erected by his sorrowing mother to her dearly beloved son.
+bal_286.
+en_287. ‘He was the only son of his mother, and she was a widow.’
+bal_287.
+en_288. Really, Mr. Swales, I don’t see anything very funny in that!”
+bal_288.
+en_289. She spoke her comment very gravely and somewhat severely.
+bal_289.
+en_290. “Ye don’t see aught funny!
+bal_290.
+en_291. Ha!
+bal_291.
+en_292. ha!
+bal_292.
+en_293. But that’s because ye don’t gawm the sorrowin’ mother was a hell-cat that hated him because he was acrewk’d--a regular lamiter he was--an’ he hated her so that he committed suicide in order that she mightn’t get an insurance she put on his life.
+bal_293.
+en_294. He blew nigh the top of his head off with an old musket that they had for scarin’ the crows with. ’
+bal_294.
+en_295. Twarn’t for crows then, for it brought the clegs and the dowps to him.
+bal_295.
+en_296. That’s the way he fell off the rocks.
+bal_296.
+en_297. And, as to hopes of a glorious resurrection, I’ve often heard him say masel’ that he hoped he’d go to hell, for his mother was so pious that she’d be sure to go to heaven, an’ he didn’t want to addle where she was.
+bal_297.
+en_298. Now isn’t that stean at any rate”--he hammered it with his stick as he spoke--“a pack of lies?
+bal_298.
+en_299. and won’t it make Gabriel keckle when Geordie comes pantin’ up the grees with the tombstean balanced on his hump, and asks it to be took as evidence!”
+bal_299.
+en_300. I did not know what to say, but Lucy turned the conversation as she said, rising up:-- “Oh, why did you tell us of this?
+bal_300.
+en_301. It is my favourite seat, and I cannot leave it; and now I find I must go on sitting over the grave of a suicide.”
+bal_301.
+en_302. “That won’t harm ye, my pretty; an’ it may make poor Geordie gladsome to have so trim a lass sittin’ on his lap.
+bal_302.
+en_303. That won’t hurt ye.
+bal_303.
+en_304. Why, I’ve sat here off an’ on for nigh twenty years past, an’ it hasn’t done me no harm.
+bal_304.
+en_305. Don’t ye fash about them as lies under ye, or that doesn’ lie there either!
+bal_305.
+en_306. It’ll be time for ye to be getting scart when ye see the tombsteans all run away with, and the place as bare as a stubble-field.
+bal_306.
+en_307. There’s the clock, an’ I must gang.
+bal_307.
+en_308. My service to ye, ladies!”
+bal_308.
+en_309. And off he hobbled.
+bal_309.
+en_310. Lucy and I sat awhile, and it was all so beautiful before us that we took hands as we sat; and she told me all over again about Arthur and their coming marriage.
+bal_310.
+en_311. That made me just a little heart-sick, for I haven’t heard from Jonathan for a whole month.
+bal_311.
+en_312. *
+bal_312.
+en_313. * *
+bal_313.
+en_314. * *
+bal_314.
+en_315. _
+bal_315.
+en_316. The same day.
+bal_316.
+en_317. _
+bal_317.
+en_318. I came up here alone, for I am very sad.
+bal_318.
+en_319. There was no letter for me.
+bal_319.
+en_320. I hope there cannot be anything the matter with Jonathan.
+bal_320.
+en_321. The clock has just struck nine.
+bal_321.
+en_322. I see the lights scattered all over the town, sometimes in rows where the streets are, and sometimes singly; they run right up the Esk and die away in the curve of the valley.
+bal_322.
+en_323. To my left the view is cut off by a black line of roof of the old house next the abbey.
+bal_323.
+en_324. The sheep and lambs are bleating in the fields away behind me, and there is a clatter of a donkey’s hoofs up the paved road below.
+bal_324.
+en_325. The band on the pier is playing a harsh waltz in good time, and further along
+bal_325.

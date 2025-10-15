@@ -1,0 +1,614 @@
+en_1. solve only in part.
+bal_1.
+en_2. Believe me, we are now on the verge of one.
+bal_2.
+en_3. But I have not done.
+bal_3.
+en_4. May I cut off the head of dead Miss Lucy?”
+bal_4.
+en_5. “Heavens and earth, no!” cried Arthur in a storm of passion.
+bal_5.
+en_6. “Not for the wide world will I consent to any mutilation of her dead body.
+bal_6.
+en_7. Dr. Van Helsing, you try me too far.
+bal_7.
+en_8. What have I done to you that you should torture me so?
+bal_8.
+en_9. What did that poor, sweet girl do that you should want to cast such dishonour on her grave?
+bal_9.
+en_10. Are you mad to speak such things, or am I mad to listen to them?
+bal_10.
+en_11. Don’t dare to think more of such a desecration; I shall not give my consent to anything you do.
+bal_11.
+en_12. I have a duty to do in protecting her grave from outrage; and, by God, I shall do it!”
+bal_12.
+en_13. Van Helsing rose up from where he had all the time been seated, and said, gravely and sternly:-- “My Lord Godalming, I, too, have a duty to do, a duty to others, a duty to you, a duty to the dead; and, by God, I shall do it!
+bal_13.
+en_14. All I ask you now is that you come with me, that you look and listen; and if when later I make the same request you do not be more eager for its fulfilment even than I am, then--then I shall do my duty, whatever it may seem to me.
+bal_14.
+en_15. And then, to follow of your Lordship’s wishes I shall hold myself at your disposal to render an account to you, when and where you will.”
+bal_15.
+en_16. His voice broke a little, and he went on with a voice full of pity:-- “But, I beseech you, do not go forth in anger with me.
+bal_16.
+en_17. In a long life of acts which were often not pleasant to do, and which sometimes did wring my heart, I have never had so heavy a task as now.
+bal_17.
+en_18. Believe me that if the time comes for you to change your mind towards me, one look from you will wipe away all this so sad hour, for I would do what a man can to save you from sorrow.
+bal_18.
+en_19. Just think.
+bal_19.
+en_20. For why should I give myself so much of labour and so much of sorrow?
+bal_20.
+en_21. I have come here from my own land to do what I can of good; at the first to please my friend John, and then to help a sweet young lady, whom, too, I came to love.
+bal_21.
+en_22. For her--I am ashamed to say so much, but I say it in kindness--I gave what you gave; the blood of my veins; I gave it, I, who was not, like you, her lover, but only her physician and her friend.
+bal_22.
+en_23. I gave to her my nights and days--before death, after death; and if my death can do her good even now, when she is the dead Un-Dead, she shall have it freely.”
+bal_23.
+en_24. He said this with a very grave, sweet pride, and Arthur was much affected by it.
+bal_24.
+en_25. He took the old man’s hand and said in a broken voice:-- “Oh, it is hard to think of it, and I cannot understand; but at least I shall go with you and wait.”
+bal_25.
+en_26. CHAPTER XVI DR. SEWARD’S DIARY--_continued_
+bal_26.
+en_27. It was just a quarter before twelve o’clock when we got into the churchyard over the low wall.
+bal_27.
+en_28. The night was dark with occasional gleams of moonlight between the rents of the heavy clouds that scudded across the sky.
+bal_28.
+en_29. We all kept somehow close together, with Van Helsing slightly in front as he led the way.
+bal_29.
+en_30. When we had come close to the tomb I looked well at Arthur, for I feared that the proximity to a place laden with so sorrowful a memory would upset him; but he bore himself well.
+bal_30.
+en_31. I took it that the very mystery of the proceeding was in some way a counteractant to his grief.
+bal_31.
+en_32. The Professor unlocked the door, and seeing a natural hesitation amongst us for various reasons, solved the difficulty by entering first himself.
+bal_32.
+en_33. The rest of us followed, and he closed the door.
+bal_33.
+en_34. He then lit a dark lantern and pointed to the coffin.
+bal_34.
+en_35. Arthur stepped forward hesitatingly; Van Helsing said to me:-- “You were with me here yesterday.
+bal_35.
+en_36. Was the body of Miss Lucy in that coffin?”
+bal_36.
+en_37. “It was.”
+bal_37.
+en_38. The Professor turned to the rest saying:-- “You hear; and yet there is no one who does not believe with me.”
+bal_38.
+en_39. He took his screwdriver and again took off the lid of the coffin.
+bal_39.
+en_40. Arthur looked on, very pale but silent; when the lid was removed he stepped forward.
+bal_40.
+en_41. He evidently did not know that there was a leaden coffin, or, at any rate, had not thought of it.
+bal_41.
+en_42. When he saw the rent in the lead, the blood rushed to his face for an instant, but as quickly fell away again, so that he remained of a ghastly whiteness; he was still silent.
+bal_42.
+en_43. Van Helsing forced back the leaden flange, and we all looked in and recoiled.
+bal_43.
+en_44. The coffin was empty!
+bal_44.
+en_45. For several minutes no one spoke a word.
+bal_45.
+en_46. The silence was broken by Quincey Morris:-- “Professor, I answered for you.
+bal_46.
+en_47. Your word is all I want.
+bal_47.
+en_48. I wouldn’t ask such a thing ordinarily--I wouldn’t
+bal_48.
+en_49. so dishonour you as to imply a doubt; but this is a mystery that goes beyond any honour or dishonour.
+bal_49.
+en_50. Is this your doing?”
+bal_50.
+en_51. “I swear to you by all that I hold sacred that I have not removed nor touched her.
+bal_51.
+en_52. What happened was this: Two nights ago my friend Seward and I came here--with good purpose, believe me.
+bal_52.
+en_53. I opened that coffin, which was then sealed up, and we found it, as now, empty.
+bal_53.
+en_54. We then waited, and saw something white come through the trees.
+bal_54.
+en_55. The next day we came here in day-time, and she lay there.
+bal_55.
+en_56. Did she not, friend John?”
+bal_56.
+en_57. “Yes.”
+bal_57.
+en_58. “That night we were just in time.
+bal_58.
+en_59. One more so small child was missing, and we find it, thank God, unharmed amongst the graves.
+bal_59.
+en_60. Yesterday I came here before sundown, for at sundown the Un-Dead can move.
+bal_60.
+en_61. I waited here all the night till the sun rose, but I saw nothing.
+bal_61.
+en_62. It was most probable that it was because I had laid over the clamps of those doors garlic, which the Un-Dead cannot bear, and other things which they shun.
+bal_62.
+en_63. Last night there was no exodus, so to-night before the sundown I took away my garlic and other things.
+bal_63.
+en_64. And so it is we find this coffin empty.
+bal_64.
+en_65. But bear with me.
+bal_65.
+en_66. So far there is much that is strange.
+bal_66.
+en_67. Wait you with me outside, unseen and unheard, and things much stranger are yet to be.
+bal_67.
+en_68. So”--here he shut the dark slide of his lantern--“now to the outside.”
+bal_68.
+en_69. He opened the door, and we filed out, he coming last and locking the door behind him.
+bal_69.
+en_70. Oh!
+bal_70.
+en_71. but it seemed fresh and pure in the night air after the terror of that vault.
+bal_71.
+en_72. How sweet it was to see the clouds race by, and the passing gleams of the moonlight between the scudding clouds crossing and passing--like the gladness and sorrow of a man’s life; how sweet it was to breathe the fresh air, that had no taint of death and decay; how humanising to see the red lighting of the sky beyond the hill, and to hear far away the muffled roar that marks the life of a great city.
+bal_72.
+en_73. Each in his own way was solemn and overcome.
+bal_73.
+en_74. Arthur was silent, and was, I could see, striving to grasp the purpose and the inner meaning of the mystery.
+bal_74.
+en_75. I was myself tolerably patient, and half inclined again to throw aside doubt and to accept Van Helsing’s conclusions.
+bal_75.
+en_76. Quincey Morris was phlegmatic in the way of a man who accepts all things, and accepts them in the spirit of cool bravery, with hazard of all he has to stake.
+bal_76.
+en_77. Not being able to smoke, he cut himself a good-sized plug of tobacco and began to chew.
+bal_77.
+en_78. As to Van Helsing, he was employed in a definite way.
+bal_78.
+en_79. First he took from his bag a mass of what looked like thin, wafer-like biscuit, which was carefully rolled up in a white napkin; next he took out a double-handful of some whitish stuff, like dough or putty.
+bal_79.
+en_80. He crumbled the wafer up fine and worked it into the mass between his hands.
+bal_80.
+en_81. This he then took, and rolling it into thin strips, began to lay them into the crevices between the door and its setting in the tomb.
+bal_81.
+en_82. I was somewhat puzzled at this, and being close, asked him what it was that he was doing.
+bal_82.
+en_83. Arthur and Quincey drew near also, as they too were curious.
+bal_83.
+en_84. He answered:-- “I am closing the tomb, so that the Un-Dead may not enter.”
+bal_84.
+en_85. “And is that stuff you have put there going to do it?” asked Quincey.
+bal_85.
+en_86. “Great Scott!
+bal_86.
+en_87. Is this a game?”
+bal_87.
+en_88. “It is.”
+bal_88.
+en_89. “What is that which you are using?”
+bal_89.
+en_90. This time the question was by Arthur.
+bal_90.
+en_91. Van Helsing reverently lifted his hat as he answered:-- “The Host.
+bal_91.
+en_92. I brought it from Amsterdam.
+bal_92.
+en_93. I have an Indulgence.”
+bal_93.
+en_94. It was an answer that appalled the most sceptical of us, and we felt individually that in the presence of such earnest purpose as the Professor’s, a purpose which could thus use the to him most sacred of things, it was impossible to distrust.
+bal_94.
+en_95. In respectful silence we took the places assigned to us close round the tomb, but hidden from the sight of any one approaching.
+bal_95.
+en_96. I pitied the others, especially Arthur.
+bal_96.
+en_97. I had myself been apprenticed by my former visits to this watching horror; and yet I, who had up to an hour ago repudiated the proofs, felt my heart sink within me.
+bal_97.
+en_98. Never did tombs look so ghastly white; never did cypress, or yew, or juniper so seem the embodiment of funereal gloom; never did tree or grass wave or rustle so ominously; never did bough creak so mysteriously; and never did the far-away howling of dogs send such a woeful presage through the night.
+bal_98.
+en_99. There was a long spell of silence, a big, aching void, and then from the Professor a keen “S-s-s-s!”
+bal_99.
+en_100. He pointed; and far down the avenue of yews we saw a white figure advance--a dim white figure, which held something dark at its breast.
+bal_100.
+en_101. The figure stopped, and at the moment a ray of moonlight fell upon the masses of driving clouds and showed in startling prominence a dark-haired woman, dressed in the cerements of the grave.
+bal_101.
+en_102. We could not see the face, for it was bent down over what we saw to be a fair-haired child.
+bal_102.
+en_103. There was a pause and a sharp little cry, such as a child gives in sleep, or a dog as it lies before the fire and dreams.
+bal_103.
+en_104. We were starting forward, but the Professor’s warning hand, seen by us as he stood behind a yew-tree, kept us back; and then as we looked the white figure moved forwards again.
+bal_104.
+en_105. It was now near enough for us to see clearly, and the moonlight still held.
+bal_105.
+en_106. My own heart grew cold as ice, and I could hear the gasp of Arthur, as we recognised the features of Lucy Westenra.
+bal_106.
+en_107. Lucy Westenra, but yet how changed.
+bal_107.
+en_108. The sweetness was turned to adamantine, heartless cruelty, and the purity to voluptuous wantonness.
+bal_108.
+en_109. Van Helsing stepped out, and, obedient to his gesture, we all advanced too; the four of us ranged in a line before the door of the tomb.
+bal_109.
+en_110. Van Helsing raised his lantern and drew the slide; by the concentrated light that fell on Lucy’s face we could see that the lips were crimson with fresh blood, and that the stream had trickled over her chin and stained the purity of her lawn death-robe.
+bal_110.
+en_111. We shuddered with horror.
+bal_111.
+en_112. I could see by the tremulous light that even Van Helsing’s iron nerve had failed.
+bal_112.
+en_113. Arthur was next to me, and if I had not seized his arm and held him up, he would have fallen.
+bal_113.
+en_114. When Lucy--I call the thing that was before us Lucy because it bore her shape--saw us she drew back with an angry snarl, such as a cat gives when taken unawares; then her eyes ranged over us.
+bal_114.
+en_115. Lucy’s eyes in form and colour; but Lucy’s eyes unclean and full of hell-fire, instead of the pure, gentle orbs we knew.
+bal_115.
+en_116. At that moment the remnant of my love passed into hate and loathing; had she then to be killed, I could have done it with savage delight.
+bal_116.
+en_117. As she looked, her eyes blazed with unholy light, and the face became wreathed with a voluptuous smile.
+bal_117.
+en_118. Oh, God, how it made me shudder to see it!
+bal_118.
+en_119. With a careless motion, she flung to the ground, callous as a devil, the child that up to now she had clutched strenuously to her breast, growling over it as a dog growls over a bone.
+bal_119.
+en_120. The child gave a sharp cry, and lay there moaning.
+bal_120.
+en_121. There was a cold-bloodedness in the act which wrung a groan from Arthur; when she advanced to him with outstretched arms and a wanton smile he fell back and hid his face in his hands.
+bal_121.
+en_122. She still advanced, however, and with a languorous, voluptuous grace, said:-- “Come to me, Arthur.
+bal_122.
+en_123. Leave these others and come to me.
+bal_123.
+en_124. My arms are hungry for you.
+bal_124.
+en_125. Come, and we can rest together.
+bal_125.
+en_126. Come, my husband, come!”
+bal_126.
+en_127. There was something diabolically sweet in her tones--something of the tingling of glass when struck--which rang through the brains even of us who heard the words addressed to another.
+bal_127.
+en_128. As for Arthur, he seemed under a spell; moving his hands from his face, he opened wide his arms.
+bal_128.
+en_129. She was leaping for them, when Van Helsing sprang forward and held between them his little golden crucifix.
+bal_129.
+en_130. She recoiled from it, and, with a suddenly distorted face, full of rage, dashed past him as if to enter the tomb.
+bal_130.
+en_131. When within a foot or two of the door, however, she stopped, as if arrested by some irresistible force.
+bal_131.
+en_132. Then she turned, and her face was shown in the clear burst of moonlight and by the lamp, which had now no quiver from Van Helsing’s iron nerves.
+bal_132.
+en_133. Never did I see such baffled malice on a face; and never, I trust, shall such ever be seen again by mortal eyes.
+bal_133.
+en_134. The beautiful colour became livid, the eyes seemed to throw out sparks of hell-fire, the brows were wrinkled as though the folds of the flesh were the coils of Medusa’s snakes, and the lovely, blood-stained mouth grew to an open square, as in the passion masks of the Greeks and Japanese.
+bal_134.
+en_135. If ever a face meant death--if looks could kill--we saw it at that moment.
+bal_135.
+en_136. And so for full half a minute, which seemed an eternity, she remained between the lifted crucifix and the sacred closing of her means of entry.
+bal_136.
+en_137. Van Helsing broke the silence by asking Arthur:-- “Answer me, oh my friend!
+bal_137.
+en_138. Am I to proceed in my work?”
+bal_138.
+en_139. Arthur threw himself on his knees, and hid his face in his hands, as he answered:-- “Do as you will, friend; do as you will.
+bal_139.
+en_140. There can be no horror like this ever any more;” and he groaned in spirit.
+bal_140.
+en_141. Quincey and I simultaneously moved towards him, and took his arms.
+bal_141.
+en_142. We could hear the click of the closing lantern as Van Helsing held it down; coming close to the tomb, he began to remove from the chinks some of the sacred emblem which he had placed there.
+bal_142.
+en_143. We all looked on in horrified amazement as we saw, when he stood back, the woman, with a corporeal body as real at that moment as our own, pass in through the interstice where scarce a knife-blade could have gone.
+bal_143.
+en_144. We all felt a glad sense of relief when we saw the Professor calmly restoring the strings of putty to the edges of the door.
+bal_144.
+en_145. When this was done, he lifted the child and said: “Come now, my friends; we can do no more till to-morrow.
+bal_145.
+en_146. There is a funeral at noon, so here we shall all come before long after that.
+bal_146.
+en_147. The friends of the dead will all be gone by two, and when the sexton lock the gate we shall remain.
+bal_147.
+en_148. Then there is more to do; but not like this of to-night.
+bal_148.
+en_149. As for this little one, he is not much harm, and by to-morrow night he shall be well.
+bal_149.
+en_150. We shall leave him where the police will find him, as on the other night; and then to home.”
+bal_150.
+en_151. Coming close to Arthur, he said:-- “My friend Arthur, you have had a sore trial; but after, when you look back, you will see how it was necessary.
+bal_151.
+en_152. You are now in the bitter waters, my child.
+bal_152.
+en_153. By this time to-morrow you will, please God, have passed them, and have drunk of the sweet waters; so do not mourn overmuch.
+bal_153.
+en_154. Till then I shall not ask you to forgive me.”
+bal_154.
+en_155. Arthur and Quincey came home with me, and we tried to cheer each other on the way.
+bal_155.
+en_156. We had left the child in safety, and were tired; so we all slept with more or less reality of sleep.
+bal_156.
+en_157. *
+bal_157.
+en_158. * *
+bal_158.
+en_159. * *
+bal_159.
+en_160. _29
+bal_160.
+en_161. September, night._--A little before twelve o’clock we three--Arthur, Quincey Morris, and myself--called for the Professor.
+bal_161.
+en_162. It was odd to notice that by common consent we had all put on black clothes.
+bal_162.
+en_163. Of course, Arthur wore black, for he was in deep mourning, but the rest of us wore it by instinct.
+bal_163.
+en_164. We got to the churchyard by half-past one, and strolled about, keeping out of official observation, so that when the gravediggers had completed their task and the sexton under the belief that every one had gone, had locked the gate, we had the place all to ourselves.
+bal_164.
+en_165. Van Helsing, instead of his little black bag, had with him a long leather one, something like a cricketing bag; it was manifestly of fair weight.
+bal_165.
+en_166. When we were alone and had heard the last of the footsteps die out up the road, we silently, and as if by ordered intention, followed the Professor to the tomb.
+bal_166.
+en_167. He unlocked the door, and we entered, closing it behind us.
+bal_167.
+en_168. Then he took from his bag the lantern, which he lit, and also two wax candles, which, when lighted, he stuck, by melting their own ends, on other coffins, so that they might give light sufficient to work by.
+bal_168.
+en_169. When he again lifted the lid off Lucy’s coffin we all looked--Arthur trembling like an aspen--and saw that the body lay there in all its death-beauty.
+bal_169.
+en_170. But there was no love in my own heart, nothing but loathing for the foul Thing which had taken Lucy’s shape without her soul.
+bal_170.
+en_171. I could see even Arthur’s face grow hard as he looked.
+bal_171.
+en_172. Presently he said to Van Helsing:-- “Is this really Lucy’s body, or only a demon in her shape?”
+bal_172.
+en_173. “It is her body, and yet not it.
+bal_173.
+en_174. But wait a while, and you all see her as she was, and is.”
+bal_174.
+en_175. She seemed like a nightmare of Lucy as she lay there; the pointed teeth, the bloodstained, voluptuous mouth--which it made one shudder to see--the whole carnal and unspiritual appearance, seeming like a devilish mockery of Lucy’s sweet purity.
+bal_175.
+en_176. Van Helsing, with his usual methodicalness, began taking the various contents from his bag and placing them ready for use.
+bal_176.
+en_177. First he took out a soldering iron and some plumbing solder, and then a small oil-lamp, which gave out, when lit in a corner of the tomb, gas which burned at fierce heat with a blue flame; then his operating knives, which he placed to hand; and last a round wooden stake, some two and a half or three inches thick and about three feet long.
+bal_177.
+en_178. One end of it was hardened by charring in the fire, and was sharpened to a fine point.
+bal_178.
+en_179. With this stake came a heavy hammer, such as in households is used in the coal-cellar for breaking the lumps.
+bal_179.
+en_180. To me, a doctor’s preparations for work of any kind are stimulating and bracing, but the effect of these things on both Arthur and Quincey was to cause them a sort of consternation.
+bal_180.
+en_181. They both, however, kept their courage, and remained silent and quiet.
+bal_181.
+en_182. When all was ready, Van Helsing said:-- “Before we do anything, let me tell you this; it is out of the lore and experience of the ancients and of all those who have studied the powers of the Un-Dead.
+bal_182.
+en_183. When they become such, there comes with the change the curse of immortality; they cannot die, but must go on age after age adding new victims and multiplying the evils of the world; for all that die from the preying of the Un-Dead becomes themselves Un-Dead, and prey on their kind.
+bal_183.
+en_184. And so the circle goes on ever widening, like as the ripples from a stone thrown in the water.
+bal_184.
+en_185. Friend Arthur, if you had met that kiss which you know of before poor Lucy die; or again, last night when you open your arms to her, you would in time, when you had died, have become _nosferatu_, as they call it in Eastern Europe, and would all time make more of those Un-Deads that so have fill us with horror.
+bal_185.
+en_186. The career of this so unhappy dear lady is but just begun.
+bal_186.
+en_187. Those children whose blood she suck are not as yet so much the worse; but if she live on, Un-Dead, more and more they lose their blood and by her power over them they come to her; and so she draw their blood with that so wicked mouth.
+bal_187.
+en_188. But if she die in truth, then all cease; the tiny wounds of the throats disappear, and they go back to their plays unknowing ever of what has been.
+bal_188.
+en_189. But of the most blessed of all, when this now Un-Dead be made to rest as true dead, then the soul of the poor lady whom we love shall again be free.
+bal_189.
+en_190. Instead of working wickedness by night and growing more debased in the assimilating of it by day, she shall take her place with the other Angels.
+bal_190.
+en_191. So that, my friend, it will be a blessed hand for her that shall strike the blow that sets her free.
+bal_191.
+en_192. To this I am willing; but is there none amongst us who has a better right?
+bal_192.
+en_193. Will it be no joy to think of hereafter in the silence of the night when sleep is not: ‘It was my hand that sent her to the stars; it was the hand of him that loved her best; the hand that of all she would herself have chosen, had it been to her to choose?’
+bal_193.
+en_194. Tell me if there be such a one amongst us?”
+bal_194.
+en_195. We all looked at Arthur.
+bal_195.
+en_196. He saw, too, what we all did, the infinite kindness which suggested that his should be the hand which would restore Lucy to us as a holy, and not an unholy, memory; he stepped forward and said bravely, though his hand trembled, and his face was as pale as snow:-- “My true friend, from the bottom of my broken heart I thank you.
+bal_196.
+en_197. Tell me what I am to do, and I shall not falter!”
+bal_197.
+en_198. Van Helsing laid a hand on his shoulder, and said:-- “Brave lad!
+bal_198.
+en_199. A moment’s courage, and it is done.
+bal_199.
+en_200. This stake must be driven through her.
+bal_200.
+en_201. It will be a fearful ordeal--be not deceived in that--but it will be only a short time, and you will then rejoice more than your pain was great; from this grim tomb you will emerge as though you tread on air.
+bal_201.
+en_202. But you must not falter when once you have begun.
+bal_202.
+en_203. Only think that we, your true friends, are round you, and that we pray for you all the time.”
+bal_203.
+en_204. “Go on,” said Arthur hoarsely.
+bal_204.
+en_205. “Tell me what I am to do.”
+bal_205.
+en_206. “Take this stake in your left hand, ready to place the point over the heart, and the hammer in your right.
+bal_206.
+en_207. Then when we begin our prayer for the dead--I shall read him, I have here the book, and the others shall follow--strike in God’s name, that so all may be well with the dead that we love and that the Un-Dead pass away.”
+bal_207.
+en_208. Arthur took the stake and the hammer, and when once his mind was set on action his hands never trembled nor even quivered.
+bal_208.
+en_209. Van Helsing opened his missal and began to read, and Quincey and I followed as well as we could.
+bal_209.
+en_210. Arthur placed the point over the heart, and as I looked I could see its dint in the white flesh.
+bal_210.
+en_211. Then he struck with all his might.
+bal_211.
+en_212. The Thing in the coffin writhed; and a hideous, blood-curdling screech came from the opened red lips.
+bal_212.
+en_213. The body shook and quivered and twisted in wild contortions; the sharp white teeth champed together till the lips were cut, and the mouth was smeared with a crimson foam.
+bal_213.
+en_214. But Arthur never faltered.
+bal_214.
+en_215. He looked like a figure of Thor as his untrembling arm rose and fell, driving deeper and deeper the mercy-bearing stake, whilst the blood from the pierced heart welled and spurted up around it.
+bal_215.
+en_216. His face was set, and high duty seemed to shine through it; the sight of it gave us courage so that our voices seemed to ring through the little vault.
+bal_216.
+en_217. And then the writhing and quivering of the body became less, and the teeth seemed to champ, and the face to quiver.
+bal_217.
+en_218. Finally it lay still.
+bal_218.
+en_219. The terrible task was over.
+bal_219.
+en_220. The hammer fell from Arthur’s hand.
+bal_220.
+en_221. He reeled and would have fallen had we not caught him.
+bal_221.
+en_222. The great drops of sweat sprang from his forehead, and his breath came in broken gasps.
+bal_222.
+en_223. It had indeed been an awful strain on him; and had he not been forced to his task by more than human considerations he could never have gone through with it.
+bal_223.
+en_224. For a few minutes we were so taken up with him that we did not look towards the coffin.
+bal_224.
+en_225. When we did, however, a murmur of startled surprise ran from one to the other of us.
+bal_225.
+en_226. We gazed so eagerly that Arthur rose, for he had been seated on the ground, and came and looked too; and then a glad, strange light broke over his face and dispelled altogether the gloom of horror that lay upon it.
+bal_226.
+en_227. There, in the coffin lay no longer the foul Thing that we had so dreaded and grown to hate that the work of her destruction was yielded as a privilege to the one best entitled to it, but Lucy as we had seen her in her life, with her face of unequalled sweetness and purity.
+bal_227.
+en_228. True that there were there, as we had seen them in life, the traces of care and pain and waste; but these were all dear to us, for they marked her truth to what we knew.
+bal_228.
+en_229. One and all we felt that the holy calm that lay like sunshine over the wasted face and form was only an earthly token and symbol of the calm that was to reign for ever.
+bal_229.
+en_230. Van Helsing came and laid his hand on Arthur’s shoulder, and said to him:-- “And now, Arthur my friend, dear lad, am I not forgiven?”
+bal_230.
+en_231. The reaction of the terrible strain came as he took the old man’s hand in his, and raising it to his lips, pressed it, and said:-- “Forgiven!
+bal_231.
+en_232. God bless you that you have given my dear one her soul again, and me peace.”
+bal_232.
+en_233. He put his hands on the Professor’s shoulder, and laying his head on his breast, cried for a while silently, whilst we stood unmoving.
+bal_233.
+en_234. When he raised his head Van Helsing said to him:-- “And now, my child, you may kiss her.
+bal_234.
+en_235. Kiss her dead lips if you will, as she would have you to, if for her to choose.
+bal_235.
+en_236. For she is not a grinning devil now--not any more a foul Thing for all eternity.
+bal_236.
+en_237. No longer she is the devil’s Un-Dead.
+bal_237.
+en_238. She is God’s true dead, whose soul is with Him!”
+bal_238.
+en_239. Arthur bent and kissed her, and then we sent him and Quincey out of the tomb; the Professor and I sawed the top off the stake, leaving the point of it in the body.
+bal_239.
+en_240. Then we cut off the head and filled the mouth with garlic.
+bal_240.
+en_241. We soldered up the leaden coffin, screwed on the coffin-lid, and gathering up our belongings, came away.
+bal_241.
+en_242. When the Professor locked the door he gave the key to Arthur.
+bal_242.
+en_243. Outside the air was sweet, the sun shone, and the birds sang, and it seemed as if all nature were tuned to a different pitch.
+bal_243.
+en_244. There was gladness and mirth and peace everywhere, for we were at rest ourselves on one account, and we were glad, though it was with a tempered joy.
+bal_244.
+en_245. Before we moved away Van Helsing said:-- “Now, my friends, one step of our work is done, one the most harrowing to ourselves.
+bal_245.
+en_246. But there remains a greater task: to find out the author of all this our sorrow and to stamp him out.
+bal_246.
+en_247. I have clues which we can follow; but it is a long task, and a difficult, and there is danger in it, and pain.
+bal_247.
+en_248. Shall you not all help me?
+bal_248.
+en_249. We have learned to believe, all of us--is it not so?
+bal_249.
+en_250. And since so, do we not see our duty?
+bal_250.
+en_251. Yes!
+bal_251.
+en_252. And do we not promise to go on to the bitter end?”
+bal_252.
+en_253. Each in turn, we took his hand, and the promise was made.
+bal_253.
+en_254. Then said the Professor as we moved off:--
+bal_254.
+en_255. “Two nights hence you shall meet with me and dine together at seven of the clock with friend John.
+bal_255.
+en_256. I shall entreat two others, two that you know not as yet; and I shall be ready to all our work show and our plans unfold.
+bal_256.
+en_257. Friend John, you come with me home, for I have much to consult about, and you can help me.
+bal_257.
+en_258. To-night I leave for Amsterdam, but shall return to-morrow night.
+bal_258.
+en_259. And then begins our great quest.
+bal_259.
+en_260. But first I shall have much to say, so that you may know what is to do and to dread.
+bal_260.
+en_261. Then our promise shall be made to each other anew; for there is a terrible task before us, and once our feet are on the ploughshare we must not draw back.”
+bal_261.
+en_262. CHAPTER XVII DR. SEWARD’S DIARY--_continued_
+bal_262.
+en_263. When we arrived at the Berkeley Hotel, Van Helsing found a telegram waiting for him:-- “Am coming up by train.
+bal_263.
+en_264. Jonathan at Whitby.
+bal_264.
+en_265. Important news.--MINA HARKER.”
+bal_265.
+en_266. The Professor was delighted.
+bal_266.
+en_267. “Ah, that wonderful Madam Mina,” he said, “pearl among women!
+bal_267.
+en_268. She arrive, but I cannot stay.
+bal_268.
+en_269. She must go to your house, friend John.
+bal_269.
+en_270. You must meet her at the station.
+bal_270.
+en_271. Telegraph her _en route_, so that she may be prepared.”
+bal_271.
+en_272. When the wire was despatched he had a cup of tea; over it he told me of a diary kept by Jonathan Harker when abroad, and gave me a typewritten copy of it, as also of Mrs. Harker’s diary at Whitby.
+bal_272.
+en_273. “Take these,” he said, “and study them well.
+bal_273.
+en_274. When I have returned you will be master of all the facts, and we can then better enter on our inquisition.
+bal_274.
+en_275. Keep them safe, for there is in them much of treasure.
+bal_275.
+en_276. You will need all your faith, even you who have had such an experience as that of to-day.
+bal_276.
+en_277. What is here told,” he laid his hand heavily and gravely on the packet of papers as he spoke, “may be the beginning of the end to you and me and many another; or it may sound the knell of the Un-Dead who walk the earth.
+bal_277.
+en_278. Read all, I pray you, with the open mind; and if you can add in any way to the story here told do so, for it is all-important.
+bal_278.
+en_279. You have kept diary of all these so strange things; is it not so?
+bal_279.
+en_280. Yes!
+bal_280.
+en_281. Then we shall go through all these together when we meet.”
+bal_281.
+en_282. He then made ready for his departure, and shortly after drove off to Liverpool Street.
+bal_282.
+en_283. I took my way to Paddington, where I arrived about fifteen minutes before the train came in.
+bal_283.
+en_284. The crowd melted away, after the bustling fashion common to arrival platforms; and I was beginning to feel uneasy, lest I might miss my guest, when a sweet-faced, dainty-looking girl stepped up to me, and, after a quick glance, said: “Dr. Seward, is it not?”
+bal_284.
+en_285. “And you are Mrs. Harker!”
+bal_285.
+en_286. I answered at once; whereupon she held out her hand.
+bal_286.
+en_287. “I knew you from the description of poor dear Lucy; but----” She stopped suddenly, and a quick blush overspread her face.
+bal_287.
+en_288. The blush that rose to my own cheeks somehow set us both at ease, for it was a tacit answer to her own.
+bal_288.
+en_289. I got her luggage, which included a typewriter, and we took the Underground to Fenchurch Street, after I had sent a wire to my housekeeper to have a sitting-room and bedroom prepared at once for Mrs. Harker.
+bal_289.
+en_290. In due time we arrived.
+bal_290.
+en_291. She knew, of course, that the place was a lunatic asylum, but I could see that she was unable to repress a shudder when we entered.
+bal_291.
+en_292. She told me that, if she might, she would come presently to my study, as she had much to say.
+bal_292.
+en_293. So here I am finishing my entry in my phonograph diary whilst I await her.
+bal_293.
+en_294. As yet I have not had the chance of looking at the papers which Van Helsing left with me, though they lie open before me.
+bal_294.
+en_295. I must get her interested in something, so that I may have an opportunity of reading them.
+bal_295.
+en_296. She does not know how precious time is, or what a task we have in hand.
+bal_296.
+en_297. I must be careful not to frighten her.
+bal_297.
+en_298. Here she is!
+bal_298.
+en_299. _
+bal_299.
+en_300. Mina Harker’s Journal.
+bal_300.
+en_301. _ _
+bal_301.
+en_302. 29
+bal_302.
+en_303. September._--After I had tidied myself, I went down to Dr. Seward’s study.
+bal_303.
+en_304. At the door I paused a moment, for I thought I heard him talking with some one.
+bal_304.
+en_305. As, however, he had pressed me to be quick, I knocked at the door, and on his calling out, “Come in,” I entered.
+bal_305.
+en_306. To my intense surprise, there was no one with him.
+bal_306.
+en_307. He was quite alone, and on the
+bal_307.

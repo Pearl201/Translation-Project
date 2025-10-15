@@ -1,0 +1,750 @@
+en_1. chapel door.
+bal_1.
+en_2. When he saw me he became furious, and had not the attendants seized him in time, he would have tried to kill me.
+bal_2.
+en_3. As we were holding him a strange thing happened.
+bal_3.
+en_4. He suddenly redoubled his efforts, and then as suddenly grew calm.
+bal_4.
+en_5. I looked round instinctively, but could see nothing.
+bal_5.
+en_6. Then I caught the patient’s eye and followed it, but could trace nothing as it looked into the moonlit sky except a big bat, which was flapping its silent and ghostly way to the west.
+bal_6.
+en_7. Bats usually wheel and flit about, but this one seemed to go straight on, as if it knew where it was bound for or had some intention of its own.
+bal_7.
+en_8. The patient grew calmer every instant, and presently said:-- “You needn’t tie me; I shall go quietly!”
+bal_8.
+en_9. Without trouble we came back to the house.
+bal_9.
+en_10. I feel there is something ominous in his calm, and shall not forget this night....
+bal_10.
+en_11. _
+bal_11.
+en_12. Lucy Westenra’s Diary_ _
+bal_12.
+en_13. Hillingham, 24 August._--I must imitate Mina, and keep writing things down.
+bal_13.
+en_14. Then we can have long talks when we do meet.
+bal_14.
+en_15. I wonder when it will be.
+bal_15.
+en_16. I wish she were with me again, for I feel so unhappy.
+bal_16.
+en_17. Last night I seemed to be dreaming again just as I was at Whitby.
+bal_17.
+en_18. Perhaps it is the change of air, or getting home again.
+bal_18.
+en_19. It is all dark and horrid to me, for I can remember nothing; but I am full of vague fear, and I feel so weak and worn out.
+bal_19.
+en_20. When Arthur came to lunch he looked quite grieved when he saw me, and I hadn’t the spirit to try to be cheerful.
+bal_20.
+en_21. I wonder if I could sleep in mother’s room to-night.
+bal_21.
+en_22. I shall make an excuse and try.
+bal_22.
+en_23. *
+bal_23.
+en_24. * *
+bal_24.
+en_25. * *
+bal_25.
+en_26. _25
+bal_26.
+en_27. August._--Another bad night.
+bal_27.
+en_28. Mother did not seem to take to my proposal.
+bal_28.
+en_29. She seems not too well herself, and doubtless she fears to worry me.
+bal_29.
+en_30. I tried to keep awake, and succeeded for a while; but when the clock struck twelve it waked me from a doze, so I must have been falling asleep.
+bal_30.
+en_31. There was a sort of scratching or flapping at the window, but I did not mind it, and as I remember no more, I suppose I must then have fallen asleep.
+bal_31.
+en_32. More bad dreams.
+bal_32.
+en_33. I wish I could remember them.
+bal_33.
+en_34. This morning I am horribly weak.
+bal_34.
+en_35. My face is ghastly pale, and my throat pains me.
+bal_35.
+en_36. It must be something wrong with my lungs, for I don’t seem ever to get air enough.
+bal_36.
+en_37. I shall try to cheer up when Arthur comes, or else I know he will be miserable to see me so. _
+bal_37.
+en_38. Letter, Arthur Holmwood to Dr. Seward._
+bal_38.
+en_39. “_Albemarle Hotel, 31 August._
+bal_39.
+en_40. “My dear Jack,-- “I want you to do me a favour.
+bal_40.
+en_41. Lucy is ill; that is, she has no special disease, but she looks awful, and is getting worse every day.
+bal_41.
+en_42. I have asked her if there is any cause; I do not dare to ask her mother, for to disturb the poor lady’s mind about her daughter in her present state of health would be fatal.
+bal_42.
+en_43. Mrs. Westenra has confided to me that her doom is spoken--disease of the heart--though poor Lucy does not know it yet.
+bal_43.
+en_44. I am sure that there is something preying on my dear girl’s mind.
+bal_44.
+en_45. I am almost distracted when I think of her; to look at her gives me a pang.
+bal_45.
+en_46. I told her I should ask you to see her, and though she demurred at first--I know why, old fellow--she finally consented.
+bal_46.
+en_47. It will be a painful task for you, I know, old friend, but it is for _her_ sake, and I must not hesitate to ask, or you to act.
+bal_47.
+en_48. You are to come to lunch at Hillingham to-morrow, two o’clock, so as not to arouse any suspicion in Mrs. Westenra, and after lunch Lucy will take an opportunity of being alone with you.
+bal_48.
+en_49. I shall come in for tea, and we can go away together; I am filled with anxiety, and want to consult with you alone as soon as I can after you have seen her.
+bal_49.
+en_50. Do not fail!
+bal_50.
+en_51. “ARTHUR.”
+bal_51.
+en_52. _
+bal_52.
+en_53. Telegram, Arthur Holmwood to Seward._
+bal_53.
+en_54. “_1 September._
+bal_54.
+en_55. “Am summoned to see my father, who is worse.
+bal_55.
+en_56. Am writing.
+bal_56.
+en_57. Write me fully by to-night’s post to Ring.
+bal_57.
+en_58. Wire me if necessary.”
+bal_58.
+en_59. _
+bal_59.
+en_60. Letter from Dr. Seward to Arthur Holmwood._
+bal_60.
+en_61. “_2 September.
+bal_61.
+en_62. _
+bal_62.
+en_63. “My dear old fellow,-- “With regard to Miss Westenra’s health I hasten to let you know at once that in my opinion there is not any functional disturbance or any malady that I know of.
+bal_63.
+en_64. At the same time, I am not by any means satisfied with her appearance; she is woefully different from what she was when I saw her last.
+bal_64.
+en_65. Of course you must bear in mind that I did not have full opportunity of examination such as I should wish; our very friendship makes a little difficulty which not even medical science or custom can bridge over.
+bal_65.
+en_66. I had better tell you exactly what happened, leaving you to draw, in a measure, your own conclusions.
+bal_66.
+en_67. I shall then say what I have done and propose doing.
+bal_67.
+en_68. “I found Miss Westenra in seemingly gay spirits.
+bal_68.
+en_69. Her mother was present, and in a few seconds I made up my mind that she was trying all she knew to mislead her mother and prevent her from being anxious.
+bal_69.
+en_70. I have no doubt she guesses, if she does not know, what need of caution there is.
+bal_70.
+en_71. We lunched alone, and as we all exerted ourselves to be cheerful, we got, as some kind of reward for our labours, some real cheerfulness amongst us.
+bal_71.
+en_72. Then Mrs. Westenra went to lie down, and Lucy was left with me.
+bal_72.
+en_73. We went into her boudoir, and till we got there her gaiety remained, for the servants were coming and going.
+bal_73.
+en_74. As soon as the door was closed, however, the mask fell from her face, and she sank down into a chair with a great sigh, and hid her eyes with her hand.
+bal_74.
+en_75. When I saw that her high spirits had failed, I at once took advantage of her reaction to make a diagnosis.
+bal_75.
+en_76. She said to me very sweetly:-- “‘I cannot tell you how I loathe talking about myself.’
+bal_76.
+en_77. I reminded her that a doctor’s confidence was sacred, but that you were grievously anxious about her.
+bal_77.
+en_78. She caught on to my meaning at once, and settled that matter in a word.
+bal_78.
+en_79. ‘Tell Arthur everything you choose.
+bal_79.
+en_80. I do not care for myself, but all for him!’
+bal_80.
+en_81. So I am quite free.
+bal_81.
+en_82. “I could easily see that she is somewhat bloodless, but I could not see the usual anæmic signs, and by a chance I was actually able to test the quality of her blood, for in opening a window which was stiff a cord gave way, and she cut her hand slightly with broken glass.
+bal_82.
+en_83. It was a slight matter in itself, but it gave me an evident chance, and I secured a few drops of the blood and have analysed them.
+bal_83.
+en_84. The qualitative analysis gives a quite normal condition, and shows, I should infer, in itself a vigorous state of health.
+bal_84.
+en_85. In other physical matters I was quite satisfied that there is no need for anxiety; but as there must be a cause somewhere, I have come to the conclusion that it must be something mental.
+bal_85.
+en_86. She complains of difficulty in breathing satisfactorily at times, and of heavy, lethargic sleep, with dreams that frighten her, but regarding which she can remember nothing.
+bal_86.
+en_87. She says that as a child she used to walk in her sleep, and that when in Whitby the habit came back, and that once she walked out in the night and went to East Cliff, where Miss Murray found her; but she assures me that of late the habit has not returned.
+bal_87.
+en_88. I am in doubt, and so have done the best thing I know of; I have written to my old friend and master, Professor Van Helsing, of Amsterdam, who knows as much about obscure diseases as any one in the world.
+bal_88.
+en_89. I have asked him to come over, and as you told me that all things were to be at your charge, I have mentioned to him who you are and your relations to Miss Westenra.
+bal_89.
+en_90. This, my dear fellow, is in obedience to your wishes, for I am only too proud and happy to do anything I can for her.
+bal_90.
+en_91. Van Helsing would, I know, do anything for me for a personal reason, so, no matter on what ground he comes, we must accept his wishes.
+bal_91.
+en_92. He is a seemingly arbitrary man, but this is because he knows what he is talking about better than any one else.
+bal_92.
+en_93. He is a philosopher and a metaphysician, and one of the most advanced scientists of his day; and he has, I believe, an absolutely open mind.
+bal_93.
+en_94. This, with an iron nerve, a temper of the ice-brook, an indomitable resolution, self-command, and toleration exalted from virtues to blessings, and the kindliest and truest heart that beats--these form his equipment for the noble work that he is doing for mankind--work both in theory and practice, for his views are as wide as his all-embracing sympathy.
+bal_94.
+en_95. I tell you these facts that you may know why I have such confidence in him.
+bal_95.
+en_96. I have asked him to come at once.
+bal_96.
+en_97. I shall see Miss Westenra to-morrow again.
+bal_97.
+en_98. She is to meet me at the Stores, so that I may not alarm her mother by too early a repetition of my call.
+bal_98.
+en_99. “Yours always, “JOHN SEWARD.”
+bal_99.
+en_100. _
+bal_100.
+en_101. Letter, Abraham Van Helsing, M. D., D. Ph., D. Lit., etc., etc., to Dr. Seward._
+bal_101.
+en_102. “_2 September._
+bal_102.
+en_103. “My good Friend,-- “When I have received your letter I am already coming to you.
+bal_103.
+en_104. By good fortune I can leave just at once, without wrong to any of those who have trusted me.
+bal_104.
+en_105. Were fortune other, then it were bad for those who have trusted, for I come to my friend when he call me to aid those he holds dear.
+bal_105.
+en_106. Tell your friend that when that time you suck from my wound so swiftly the poison of the gangrene from that knife that our other friend, too nervous, let slip, you did more for him when he wants my aids and you call for them than all his great fortune could do.
+bal_106.
+en_107. But it is pleasure added to do for him, your friend; it is to you that I come.
+bal_107.
+en_108. Have then rooms for me at the Great Eastern Hotel, so that I may be near to hand, and please it so arrange that we may see the young lady not too late on to-morrow, for it is likely that I may have to return here that night.
+bal_108.
+en_109. But if need be I shall come again in three days, and stay longer if it must.
+bal_109.
+en_110. Till then good-bye, my friend John.
+bal_110.
+en_111. “VAN HELSING.”
+bal_111.
+en_112. _
+bal_112.
+en_113. Letter, Dr. Seward to Hon.
+bal_113.
+en_114. Arthur Holmwood._
+bal_114.
+en_115. “_3 September.
+bal_115.
+en_116. _
+bal_116.
+en_117. “My dear Art,-- “Van Helsing has come and gone.
+bal_117.
+en_118. He came on with me to Hillingham, and found that, by Lucy’s discretion, her mother was lunching out, so that we were alone with her.
+bal_118.
+en_119. Van Helsing made a very careful examination of the patient.
+bal_119.
+en_120. He is to report to me, and I shall advise you, for of course I was not present all the time.
+bal_120.
+en_121. He is, I fear, much concerned, but says he must think.
+bal_121.
+en_122. When I told him of our friendship and how you trust to me in the matter, he said: ‘You must tell him all you think.
+bal_122.
+en_123. Tell him what I think, if you can guess it, if you will.
+bal_123.
+en_124. Nay, I am not jesting.
+bal_124.
+en_125. This is no jest, but life and death, perhaps more.’
+bal_125.
+en_126. I asked what he meant by that, for he was very serious.
+bal_126.
+en_127. This was when we had come back to town, and he was having a cup of tea before starting on his return to Amsterdam.
+bal_127.
+en_128. He would not give me any further clue.
+bal_128.
+en_129. You must not be angry with me, Art, because his very reticence means that all his brains are working for her good.
+bal_129.
+en_130. He will speak plainly enough when the time comes, be sure.
+bal_130.
+en_131. So I told him I would simply write an account of our visit, just as if I were doing a descriptive special article for _
+bal_131.
+en_132. The Daily Telegraph_.
+bal_132.
+en_133. He seemed not to notice, but remarked that the smuts in London were not quite so bad as they used to be when he was a student here.
+bal_133.
+en_134. I am to get his report to-morrow if he can possibly make it.
+bal_134.
+en_135. In any case I am to have a letter.
+bal_135.
+en_136. “Well, as to the visit.
+bal_136.
+en_137. Lucy was more cheerful than on the day I first saw her, and certainly looked better.
+bal_137.
+en_138. She had lost something of the ghastly look that so upset you, and her breathing was normal.
+bal_138.
+en_139. She was very sweet to the professor (as she always is), and tried to make him feel at ease; though I could see that the poor girl was making a hard struggle for it.
+bal_139.
+en_140. I believe Van Helsing saw it, too, for I saw the quick look under his bushy brows that I knew of old.
+bal_140.
+en_141. Then he began to chat of all things except ourselves and diseases and with such an infinite geniality that I could see poor Lucy’s pretense of animation merge into reality.
+bal_141.
+en_142. Then, without any seeming change, he brought the conversation gently round to his visit, and suavely said:-- “‘My dear young miss, I have the so great pleasure because you are so much beloved.
+bal_142.
+en_143. That is much, my dear, ever were there that which I do not see.
+bal_143.
+en_144. They told me you were down in the spirit, and that you were of a ghastly pale.
+bal_144.
+en_145. To them I say: “Pouf!”’
+bal_145.
+en_146. And he snapped his fingers at me and went on: ‘But you and I shall show them how wrong they are.
+bal_146.
+en_147. How can he’--and he pointed at me with the same look and gesture as that with which once he pointed me out to his class, on, or rather after, a particular occasion which he never fails to remind me of--‘know anything of a young ladies?
+bal_147.
+en_148. He has his madmans to play with, and to bring them back to happiness, and to those that love them.
+bal_148.
+en_149. It is much to do, and, oh, but there are rewards, in that we can bestow such happiness.
+bal_149.
+en_150. But the young ladies!
+bal_150.
+en_151. He has no wife nor daughter, and the young do not tell themselves to the young, but to the old, like me, who have known so many sorrows and the causes of them.
+bal_151.
+en_152. So, my dear, we will send him away to smoke the cigarette in the garden, whiles you and I have little talk all to ourselves.’
+bal_152.
+en_153. I took the hint, and strolled about, and presently the professor came to the window and called me in.
+bal_153.
+en_154. He looked grave, but said: ‘I have made careful examination, but there is no functional cause.
+bal_154.
+en_155. With you I agree that there has been much blood lost; it has been, but is not.
+bal_155.
+en_156. But the conditions of her are in no way anæmic.
+bal_156.
+en_157. I have asked her to send me her maid, that I may ask just one or two question, that so I may not chance to miss nothing.
+bal_157.
+en_158. I know well what she will say.
+bal_158.
+en_159. And yet there is cause; there is always cause for everything.
+bal_159.
+en_160. I must go back home and think.
+bal_160.
+en_161. You must send to me the telegram every day; and if there be cause I shall come again.
+bal_161.
+en_162. The disease--for not to be all well is a disease--interest me, and the sweet young dear, she interest me too.
+bal_162.
+en_163. She charm me, and for her, if not for you or disease, I come.’
+bal_163.
+en_164. “As I tell you, he would not say a word more, even when we were alone.
+bal_164.
+en_165. And so now, Art, you know all I know.
+bal_165.
+en_166. I shall keep stern watch.
+bal_166.
+en_167. I trust your poor father is rallying.
+bal_167.
+en_168. It must be a terrible thing to you, my dear old fellow, to be placed in such a position between two people who are both so dear to you.
+bal_168.
+en_169. I know your idea of duty to your father, and you are right to stick to it; but, if need be, I shall send you word to come at once to Lucy; so do not be over-anxious unless you hear from me.”
+bal_169.
+en_170. _Dr. Seward’s Diary._
+bal_170.
+en_171. _4 September._--Zoöphagous patient still keeps up our interest in him.
+bal_171.
+en_172. He had only one outburst and that was yesterday at an unusual time.
+bal_172.
+en_173. Just before the stroke of noon he began to grow restless.
+bal_173.
+en_174. The attendant knew the symptoms, and at once summoned aid.
+bal_174.
+en_175. Fortunately the men came at a run, and were just in time, for at the stroke of noon he became so violent that it took all their strength to hold him.
+bal_175.
+en_176. In about five minutes, however, he began to get more and more quiet, and finally sank into a sort of melancholy, in which state he has remained up to now.
+bal_176.
+en_177. The attendant tells me that his screams whilst in the paroxysm were really appalling; I found my hands full when I got in, attending to some of the other patients who were frightened by him.
+bal_177.
+en_178. Indeed, I can quite understand the effect, for the sounds disturbed even me, though I was some distance away.
+bal_178.
+en_179. It is now after the dinner-hour of the asylum, and as yet my patient sits in a corner brooding, with a dull, sullen, woe-begone look in his face, which seems rather to indicate than to show something directly.
+bal_179.
+en_180. I cannot quite understand it.
+bal_180.
+en_181. *
+bal_181.
+en_182. * *
+bal_182.
+en_183. * *
+bal_183.
+en_184. _
+bal_184.
+en_185. Later._--Another change in my patient.
+bal_185.
+en_186. At five o’clock I looked in on him, and found him seemingly as happy and contented as he used to be.
+bal_186.
+en_187. He was catching flies and eating them, and was keeping note of his capture by making nail-marks on the edge of the door between the ridges of padding.
+bal_187.
+en_188. When he saw me, he came over and apologised for his bad conduct, and asked me in a very humble, cringing way to be led back to his own room and to have his note-book again.
+bal_188.
+en_189. I thought it well to humour him: so he is back in his room with the window open.
+bal_189.
+en_190. He has the sugar of his tea spread out on the window-sill, and is reaping quite a harvest of flies.
+bal_190.
+en_191. He is not now eating them, but putting them into a box, as of old, and is already examining the corners of his room to find a spider.
+bal_191.
+en_192. I tried to get him to talk about the past few days, for any clue to his thoughts would be of immense help to me; but he would not rise.
+bal_192.
+en_193. For a moment or two he looked very sad, and said in a sort of far-away voice, as though saying it rather to himself than to me:-- “All over!
+bal_193.
+en_194. all over!
+bal_194.
+en_195. He has deserted me.
+bal_195.
+en_196. No hope for me now unless I do it for myself!”
+bal_196.
+en_197. Then suddenly turning to me in a resolute way, he said: “Doctor, won’t you be very good to me and let me have a little more sugar?
+bal_197.
+en_198. I think it would be good for me.”
+bal_198.
+en_199. “And the flies?”
+bal_199.
+en_200. I said.
+bal_200.
+en_201. “Yes!
+bal_201.
+en_202. The flies like it, too, and I like the flies; therefore I like it.”
+bal_202.
+en_203. And there are people who know so little as to think that madmen do not argue.
+bal_203.
+en_204. I procured him a double supply, and left him as happy a man as, I suppose, any in the world.
+bal_204.
+en_205. I wish I could fathom his mind.
+bal_205.
+en_206. *
+bal_206.
+en_207. * *
+bal_207.
+en_208. * *
+bal_208.
+en_209. _
+bal_209.
+en_210. Midnight._--Another change in him.
+bal_210.
+en_211. I had been to see Miss Westenra, whom I found much better, and had just returned, and was standing at our own gate looking at the sunset, when once more I heard him yelling.
+bal_211.
+en_212. As his room is on this side of the house, I could hear it better than in the morning.
+bal_212.
+en_213. It was a shock to me to turn from the wonderful smoky beauty of a sunset over London, with its lurid lights and inky shadows and all the marvellous tints that come on foul clouds even as on foul water, and to realise all the grim sternness of my own cold stone building, with its wealth of breathing misery, and my own desolate heart to endure it all.
+bal_213.
+en_214. I reached him just as the sun was going down, and from his window saw the red disc sink.
+bal_214.
+en_215. As it sank he became less and less frenzied; and just as it dipped he slid from the hands that held him, an inert mass, on the floor.
+bal_215.
+en_216. It is wonderful, however, what intellectual recuperative power lunatics have, for within a few minutes he stood up quite calmly and looked around him.
+bal_216.
+en_217. I signalled to the attendants not to hold him, for I was anxious to see what he would do.
+bal_217.
+en_218. He went straight over to the window and brushed out the crumbs of sugar; then he took his fly-box, and emptied it outside, and threw away the box; then he shut the window, and crossing over, sat down on his bed.
+bal_218.
+en_219. All this surprised me, so I asked him: “Are you not going to keep flies any more?”
+bal_219.
+en_220. “No,” said he; “I am sick of all that rubbish!”
+bal_220.
+en_221. He certainly is a wonderfully interesting study.
+bal_221.
+en_222. I wish I could get some glimpse of his mind or of the cause of his sudden passion.
+bal_222.
+en_223. Stop; there may be a clue after all, if we can find why to-day his paroxysms came on at high noon and at sunset.
+bal_223.
+en_224. Can it be that there is a malign influence of the sun at periods which affects certain natures--as at times the moon does others?
+bal_224.
+en_225. We shall see.
+bal_225.
+en_226. _
+bal_226.
+en_227. Telegram, Seward, London, to Van Helsing, Amsterdam._
+bal_227.
+en_228. “_4 September._--Patient still better to-day.”
+bal_228.
+en_229. _
+bal_229.
+en_230. Telegram, Seward, London, to Van Helsing, Amsterdam._
+bal_230.
+en_231. “_5 September._--Patient greatly improved.
+bal_231.
+en_232. Good appetite; sleeps naturally; good spirits; colour coming back.”
+bal_232.
+en_233. _
+bal_233.
+en_234. Telegram, Seward, London, to Van Helsing, Amsterdam._
+bal_234.
+en_235. “_6 September._--Terrible change for the worse.
+bal_235.
+en_236. Come at once; do not lose an hour.
+bal_236.
+en_237. I hold over telegram to Holmwood till have seen you.”
+bal_237.
+en_238. CHAPTER X _Letter, Dr. Seward to Hon.
+bal_238.
+en_239. Arthur Holmwood._
+bal_239.
+en_240. “_6 September.
+bal_240.
+en_241. _
+bal_241.
+en_242. “My dear Art,-- “My news to-day is not so good.
+bal_242.
+en_243. Lucy this morning had gone back a bit.
+bal_243.
+en_244. There is, however, one good thing which has arisen from it; Mrs. Westenra was naturally anxious concerning Lucy, and has consulted me professionally about her.
+bal_244.
+en_245. I took advantage of the opportunity, and told her that my old master, Van Helsing, the great specialist, was coming to stay with me, and that I would put her in his charge conjointly with myself; so now we can come and go without alarming her unduly, for a shock to her would mean sudden death, and this, in Lucy’s weak condition, might be disastrous to her.
+bal_245.
+en_246. We are hedged in with difficulties, all of us, my poor old fellow; but, please God, we shall come through them all right.
+bal_246.
+en_247. If any need I shall write, so that, if you do not hear from me, take it for granted that I am simply waiting for news.
+bal_247.
+en_248. In haste “Yours ever, “JOHN SEWARD.”
+bal_248.
+en_249. _Dr. Seward’s Diary._ _7
+bal_249.
+en_250. September._--The first thing Van Helsing said to me when we met at Liverpool Street was:--
+bal_250.
+en_251. “Have you said anything to our young friend the lover of her?”
+bal_251.
+en_252. “No,” I said.
+bal_252.
+en_253. “I waited till I had seen you, as I said in my telegram.
+bal_253.
+en_254. I wrote him a letter simply telling him that you were coming, as Miss Westenra was not so well, and that I should let him know if need be.”
+bal_254.
+en_255. “Right, my friend,” he said, “quite right!
+bal_255.
+en_256. Better he not know as yet; perhaps he shall never know.
+bal_256.
+en_257. I pray so; but if it be needed, then he shall know all.
+bal_257.
+en_258. And, my good friend John, let me caution you.
+bal_258.
+en_259. You deal with the madmen.
+bal_259.
+en_260. All men are mad in some way or the other; and inasmuch as you deal discreetly with your madmen, so deal with God’s madmen, too--the rest of the world.
+bal_260.
+en_261. You tell not your madmen what you do nor why you do it; you tell them not what you think.
+bal_261.
+en_262. So you shall keep knowledge in its place, where it may rest--where it may gather its kind around it and breed.
+bal_262.
+en_263. You and I shall keep as yet what we know here, and here.”
+bal_263.
+en_264. He touched me on the heart and on the forehead, and then touched himself the same way.
+bal_264.
+en_265. “I have for myself thoughts at the present.
+bal_265.
+en_266. Later I shall unfold to you.”
+bal_266.
+en_267. “Why not now?”
+bal_267.
+en_268. I asked.
+bal_268.
+en_269. “It may do some good; we may arrive at some decision.”
+bal_269.
+en_270. He stopped and looked at me, and said:-- “My friend John, when the corn is grown, even before it has ripened--while the milk of its mother-earth is in him, and the sunshine has not yet begun to paint him with his gold, the husbandman he pull the ear and rub him between his rough hands, and blow away the green chaff, and say to you: ‘Look!
+bal_270.
+en_271. he’s good corn; he will make good crop when the time comes.’”
+bal_271.
+en_272. I did not see the application, and told him so.
+bal_272.
+en_273. For reply he reached over and took my ear in his hand and pulled it playfully, as he used long ago to do at lectures, and said: “The good husbandman tell you so then because he knows, but not till then.
+bal_273.
+en_274. But you do not find the good husbandman dig up his planted corn to see if he grow; that is for the children who play at husbandry, and not for those who take it as of the work of their life.
+bal_274.
+en_275. See you now, friend John?
+bal_275.
+en_276. I have sown my corn, and Nature has her work to do in making it sprout; if he sprout at all, there’s some promise; and I wait till the ear begins to swell.”
+bal_276.
+en_277. He broke off, for he evidently saw that I understood.
+bal_277.
+en_278. Then he went on, and very gravely:-- “You were always a careful student, and your case-book was ever more full than the rest.
+bal_278.
+en_279. You were only student then; now you are master, and I trust that good habit have not fail.
+bal_279.
+en_280. Remember, my friend, that knowledge is stronger than memory, and we should not trust the weaker.
+bal_280.
+en_281. Even if you have not kept the good practise, let me tell you that this case of our dear miss is one that may be--mind, I say _may be_--of such interest to us and others that all the rest may not make him kick the beam, as your peoples say.
+bal_281.
+en_282. Take then good note of it.
+bal_282.
+en_283. Nothing is too small.
+bal_283.
+en_284. I counsel you, put down in record even your doubts and surmises.
+bal_284.
+en_285. Hereafter it may be of interest to you to see how true you guess.
+bal_285.
+en_286. We learn from failure, not from success!”
+bal_286.
+en_287. When I described Lucy’s symptoms--the same as before, but infinitely more marked--he looked very grave, but said nothing.
+bal_287.
+en_288. He took with him a bag in which were many instruments and drugs, “the ghastly paraphernalia of our beneficial trade,” as he once called, in one of his lectures, the equipment of a professor of the healing craft.
+bal_288.
+en_289. When we were shown in, Mrs. Westenra met us.
+bal_289.
+en_290. She was alarmed, but not nearly so much as I expected to find her.
+bal_290.
+en_291. Nature in one of her beneficent moods has ordained that even death has some antidote to its own terrors.
+bal_291.
+en_292. Here, in a case where any shock may prove fatal, matters are so ordered that, from some cause or other, the things not personal--even the terrible change in her daughter to whom she is so attached--do not seem to reach her.
+bal_292.
+en_293. It is something like the way Dame Nature gathers round a foreign body an envelope of some insensitive tissue which can protect from evil that which it would otherwise harm by contact.
+bal_293.
+en_294. If this be an ordered selfishness, then we should pause before we condemn any one for the vice of egoism, for there may be deeper root for its causes than we have knowledge of.
+bal_294.
+en_295. I used my knowledge of this phase of spiritual pathology, and laid down a rule that she should not be present with Lucy or think of her illness more than was absolutely required.
+bal_295.
+en_296. She assented readily, so readily that I saw again the hand of Nature fighting for life.
+bal_296.
+en_297. Van Helsing and I were shown up to Lucy’s room.
+bal_297.
+en_298. If I was shocked when I saw her yesterday, I was horrified when I saw her to-day.
+bal_298.
+en_299. She was ghastly, chalkily pale; the red seemed to have gone even from her lips and gums, and the bones of her face stood out prominently; her breathing was painful to see or hear.
+bal_299.
+en_300. Van Helsing’s face grew set as marble, and his eyebrows converged till they almost touched over his nose.
+bal_300.
+en_301. Lucy lay motionless, and did not seem to have strength to speak, so for a while we were all silent.
+bal_301.
+en_302. Then Van Helsing beckoned to me, and we went gently out of the room.
+bal_302.
+en_303. The instant we had closed the door he stepped quickly along the passage to the next door, which was open.
+bal_303.
+en_304. Then he pulled me quickly in with him and closed the door.
+bal_304.
+en_305. “My God!”
+bal_305.
+en_306. he said; “this is dreadful.
+bal_306.
+en_307. There is no time to be lost.
+bal_307.
+en_308. She will die for sheer want of blood to keep the heart’s action as it should be.
+bal_308.
+en_309. There must be transfusion of blood at once.
+bal_309.
+en_310. Is it you or me?”
+bal_310.
+en_311. “I am younger and stronger, Professor.
+bal_311.
+en_312. It must be me.”
+bal_312.
+en_313. “Then get ready at once.
+bal_313.
+en_314. I will bring up my bag.
+bal_314.
+en_315. I am prepared.”
+bal_315.
+en_316. I went downstairs with him, and as we were going there was a knock at the hall-door.
+bal_316.
+en_317. When we reached the hall the maid had just opened the door, and Arthur was stepping quickly in.
+bal_317.
+en_318. He rushed up to me, saying in an eager whisper:-- “Jack, I was so anxious.
+bal_318.
+en_319. I read between the lines of your letter, and have been in an agony.
+bal_319.
+en_320. The dad was better, so I ran down here to see for myself.
+bal_320.
+en_321. Is not that gentleman Dr. Van Helsing?
+bal_321.
+en_322. I am so thankful to you, sir, for coming.”
+bal_322.
+en_323. When first the Professor’s eye had lit upon him he had been angry at his interruption at such a time; but now, as he took in his stalwart proportions and recognised the strong young manhood which seemed to emanate from him, his eyes gleamed.
+bal_323.
+en_324. Without a pause he said to him gravely as he held out his hand:-- “Sir, you have come in time.
+bal_324.
+en_325. You are the lover of our dear miss.
+bal_325.
+en_326. She is bad, very, very bad.
+bal_326.
+en_327. Nay, my child, do not go like that.”
+bal_327.
+en_328. For he suddenly grew pale and sat down in a chair almost fainting.
+bal_328.
+en_329. “You are to help her.
+bal_329.
+en_330. You can do more than any that live, and your courage is your best help.”
+bal_330.
+en_331. “What can I do?” asked Arthur hoarsely.
+bal_331.
+en_332. “Tell me, and I shall do it.
+bal_332.
+en_333. My life is hers, and I would give the last drop of blood in my body for her.”
+bal_333.
+en_334. The Professor has a strongly humorous side, and I could from old knowledge detect a trace of its origin in his answer:--
+bal_334.
+en_335. “My young sir, I do not ask so much as that--not the last!”
+bal_335.
+en_336. “What shall I do?”
+bal_336.
+en_337. There was fire in his eyes, and his open nostril quivered with intent.
+bal_337.
+en_338. Van Helsing slapped him on the shoulder.
+bal_338.
+en_339. “Come!”
+bal_339.
+en_340. he said.
+bal_340.
+en_341. “You are a man, and it is a man we want.
+bal_341.
+en_342. You are better than me, better than my friend John.”
+bal_342.
+en_343. Arthur looked bewildered, and the Professor went on by explaining in a kindly way:-- “Young miss is bad, very bad.
+bal_343.
+en_344. She wants blood, and blood she must have or die.
+bal_344.
+en_345. My friend John and I have consulted; and we are about to perform what we call transfusion of blood--to transfer from full veins of one to the empty veins which pine for him.
+bal_345.
+en_346. John was to give his blood, as he is the more young and strong than me”--here Arthur took my hand and wrung it hard in silence--“but, now you are here, you are more good than us, old or young, who toil much in the world of thought.
+bal_346.
+en_347. Our nerves are not so calm and our blood not so bright than yours!”
+bal_347.
+en_348. Arthur turned to him and said:-- “If you only knew how gladly I would die for her you would understand----” He stopped, with a sort of choke in his voice.
+bal_348.
+en_349. “Good boy!” said Van Helsing.
+bal_349.
+en_350. “In the not-so-far-off you will be happy that you have done all for her you love.
+bal_350.
+en_351. Come now and be silent.
+bal_351.
+en_352. You shall kiss her once before it is done, but then you must go; and you must leave at my sign.
+bal_352.
+en_353. Say no word to Madame; you know how it is with her!
+bal_353.
+en_354. There must be no shock; any knowledge of this would be one.
+bal_354.
+en_355. Come!”
+bal_355.
+en_356. We all went up to Lucy’s room.
+bal_356.
+en_357. Arthur by direction remained outside.
+bal_357.
+en_358. Lucy turned her head and looked at us, but said nothing.
+bal_358.
+en_359. She was not asleep, but she was simply too weak to make the effort.
+bal_359.
+en_360. Her eyes spoke to us; that was all.
+bal_360.
+en_361. Van Helsing took some things from his bag and laid them on a little table out of sight.
+bal_361.
+en_362. Then he mixed a narcotic, and coming over to the bed, said cheerily:-- “Now, little miss, here is your medicine.
+bal_362.
+en_363. Drink it off, like a good child.
+bal_363.
+en_364. See, I lift you so that to swallow is easy.
+bal_364.
+en_365. Yes.”
+bal_365.
+en_366. She had made the effort with success.
+bal_366.
+en_367. It astonished me how long the drug took to act.
+bal_367.
+en_368. This, in fact, marked the extent of her weakness.
+bal_368.
+en_369. The time seemed endless until sleep began to flicker in her eyelids.
+bal_369.
+en_370. At last, however, the narcotic began to manifest its potency; and she fell into a deep sleep.
+bal_370.
+en_371. When the Professor was satisfied he called Arthur into the room, and bade him strip off his coat.
+bal_371.
+en_372. Then he added: “You may take that one little kiss whiles I bring over the table.
+bal_372.
+en_373. Friend John, help to me!”
+bal_373.
+en_374. So neither of us looked whilst he bent over her.
+bal_374.
+en_375. Van Helsing turning to me, said: “He is so young and strong and of blood so pure that we need not defibrinate
+bal_375.

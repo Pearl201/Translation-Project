@@ -1,0 +1,552 @@
+en_1. even took himself as an example when he mentioned certain things.
+bal_1.
+en_2. “Why, I myself am an instance of a man who had a strange belief.
+bal_2.
+en_3. Indeed, it was no wonder that my friends were alarmed, and insisted on my being put under control.
+bal_3.
+en_4. I used to fancy that life was a positive and perpetual entity, and that by consuming a multitude of live things, no matter how low in the scale of creation, one might indefinitely prolong life.
+bal_4.
+en_5. At times I held the belief so strongly that I actually tried to take human life.
+bal_5.
+en_6. The doctor here will bear me out that on one occasion I tried to kill him for the purpose of strengthening my vital powers by the assimilation with my own body of his life through the medium of his blood--relying, of course, upon the Scriptural phrase, ‘For the blood is the life.’
+bal_6.
+en_7. Though, indeed, the vendor of a certain nostrum has vulgarised the truism to the very point of contempt.
+bal_7.
+en_8. Isn’t that true, doctor?”
+bal_8.
+en_9. I nodded assent, for I was so amazed that I hardly knew what to either think or say; it was hard to imagine that I had seen him eat up his spiders and flies not five minutes before.
+bal_9.
+en_10. Looking at my watch, I saw that I should go to the station to meet Van Helsing, so I told Mrs. Harker that it was time to leave.
+bal_10.
+en_11. She came at once, after saying pleasantly to Mr. Renfield: “Good-bye, and I hope I may see you often, under auspices pleasanter to yourself,” to which, to my astonishment, he replied:-- “Good-bye, my dear.
+bal_11.
+en_12. I pray God I may never see your sweet face again.
+bal_12.
+en_13. May He bless and keep you!”
+bal_13.
+en_14. When I went to the station to meet Van Helsing I left the boys behind me.
+bal_14.
+en_15. Poor Art seemed more cheerful than he has been since Lucy first took ill, and Quincey is more like his own bright self than he has been for many a long day.
+bal_15.
+en_16. Van Helsing stepped from the carriage with the eager nimbleness of a boy.
+bal_16.
+en_17. He saw me at once, and rushed up to me, saying:-- “Ah, friend John, how goes all?
+bal_17.
+en_18. Well?
+bal_18.
+en_19. So!
+bal_19.
+en_20. I have been busy, for I come here to stay if need be.
+bal_20.
+en_21. All affairs are settled with me, and I have much to tell.
+bal_21.
+en_22. Madam Mina is with you?
+bal_22.
+en_23. Yes.
+bal_23.
+en_24. And her so fine husband?
+bal_24.
+en_25. And Arthur and my friend Quincey, they are with you, too?
+bal_25.
+en_26. Good!”
+bal_26.
+en_27. As I drove to the house I told him of what had passed, and of how my own diary had come to be of some use through Mrs. Harker’s suggestion; at which the Professor interrupted me:-- “Ah, that wonderful Madam Mina!
+bal_27.
+en_28. She has man’s brain--a brain that a man should have were he much gifted--and a woman’s heart.
+bal_28.
+en_29. The good God fashioned her for a purpose, believe me, when He made that so good combination.
+bal_29.
+en_30. Friend John, up to now fortune has made that woman of help to us; after to-night she must not have to do with this so terrible affair.
+bal_30.
+en_31. It is not good that she run a risk so great.
+bal_31.
+en_32. We men are determined--nay, are we not pledged?--to destroy this monster; but it is no part for a woman.
+bal_32.
+en_33. Even if she be not harmed, her heart may fail her in so much and so many horrors; and hereafter she may suffer--both in waking, from her nerves, and in sleep, from her dreams.
+bal_33.
+en_34. And, besides, she is young woman and not so long married; there may be other things to think of some time, if not now.
+bal_34.
+en_35. You tell me she has wrote all, then she must consult with us; but to-morrow she say good-bye to this work, and we go alone.”
+bal_35.
+en_36. I agreed heartily with him, and then I told him what we had found in his absence: that the house which Dracula had bought was the very next one to my own.
+bal_36.
+en_37. He was amazed, and a great concern seemed to come on him.
+bal_37.
+en_38. “Oh that we had known it before!”
+bal_38.
+en_39. he said, “for then we might have reached him in time to save poor Lucy.
+bal_39.
+en_40. However, ‘the milk that is spilt cries not out afterwards,’ as you say.
+bal_40.
+en_41. We shall not think of that, but go on our way to the end.”
+bal_41.
+en_42. Then he fell into a silence that lasted till we entered my own gateway.
+bal_42.
+en_43. Before we went to prepare for dinner he said to Mrs. Harker:--
+bal_43.
+en_44. “I am told, Madam Mina, by my friend John that you and your husband have put up in exact order all things that have been, up to this moment.”
+bal_44.
+en_45. “Not up to this moment, Professor,” she said impulsively, “but up to this morning.”
+bal_45.
+en_46. “But why not up to now?
+bal_46.
+en_47. We have seen hitherto how good light all the little things have made.
+bal_47.
+en_48. We have told our secrets, and yet no one who has told is the worse for it.”
+bal_48.
+en_49. Mrs. Harker began to blush, and taking a paper from her pockets, she said:-- “Dr. Van Helsing, will you read this, and tell me if it must go in.
+bal_49.
+en_50. It is my record of to-day.
+bal_50.
+en_51. I too have seen the need of putting down at present everything, however trivial; but there is little in this except what is personal.
+bal_51.
+en_52. Must it go in?”
+bal_52.
+en_53. The Professor read it over gravely, and handed it back, saying:-- “It need not go in if you do not wish it; but I pray that it may.
+bal_53.
+en_54. It can but make your husband love you the more, and all us, your friends, more honour you--as well as more esteem and love.”
+bal_54.
+en_55. She took it back with another blush and a bright smile.
+bal_55.
+en_56. And so now, up to this very hour, all the records we have are complete and in order.
+bal_56.
+en_57. The Professor took away one copy to study after dinner, and before our meeting, which is fixed for nine o’clock.
+bal_57.
+en_58. The rest of us have already read everything; so when we meet in the study we shall all be informed as to facts, and can arrange our plan of battle with this terrible and mysterious enemy.
+bal_58.
+en_59. _Mina Harker’s Journal._
+bal_59.
+en_60. _
+bal_60.
+en_61. 30 September._--When we met in Dr. Seward’s study two hours after dinner, which had been at six o’clock, we unconsciously formed a sort of board or committee.
+bal_61.
+en_62. Professor Van Helsing took the head of the table, to which Dr. Seward motioned him as he came into the room.
+bal_62.
+en_63. He made me sit next to him on his right, and asked me to act as secretary; Jonathan sat next to me.
+bal_63.
+en_64. Opposite us were Lord Godalming, Dr. Seward, and Mr. Morris--Lord Godalming being next the Professor, and Dr. Seward in the centre.
+bal_64.
+en_65. The Professor said:-- “I may, I suppose, take it that we are all acquainted with the facts that are in these papers.”
+bal_65.
+en_66. We all expressed assent, and he went on:-- “Then it were, I think good that I tell you something of the kind of enemy with which we have to deal.
+bal_66.
+en_67. I shall then make known to you something of the history of this man, which has been ascertained for me.
+bal_67.
+en_68. So we then can discuss how we shall act, and can take our measure according.
+bal_68.
+en_69. “There are such beings as vampires; some of us have evidence that they exist.
+bal_69.
+en_70. Even had we not the proof of our own unhappy experience, the teachings and the records of the past give proof enough for sane peoples.
+bal_70.
+en_71. I admit that at the first I was sceptic.
+bal_71.
+en_72. Were it not that through long years I have train myself to keep an open mind, I could not have believe until such time as that fact thunder on my ear.
+bal_72.
+en_73. ‘See!
+bal_73.
+en_74. see!
+bal_74.
+en_75. I prove; I prove.’
+bal_75.
+en_76. Alas!
+bal_76.
+en_77. Had I known at the first what now I know--nay, had I even guess at him--one so precious life had been spared to many of us who did love her.
+bal_77.
+en_78. But that is gone; and we must so work, that other poor souls perish not, whilst we can save.
+bal_78.
+en_79. The _nosferatu_ do not die like the bee when he sting once.
+bal_79.
+en_80. He is only stronger; and being stronger, have yet more power to work evil.
+bal_80.
+en_81. This vampire which is amongst us is of himself so strong in person as twenty men; he is of cunning more than mortal, for his cunning be the growth of ages; he have still the aids of necromancy, which is, as his etymology imply, the divination by the dead, and all the dead that he can come nigh to are for him at command; he is brute, and more than brute; he is devil in callous, and the heart of him is not; he can, within limitations, appear at will when, and where, and in any of the forms that are to him; he can, within his range, direct the elements; the storm, the fog, the thunder; he can command all the meaner things: the rat, and the owl, and the bat--the moth, and the fox, and the wolf; he can grow and become small; and he can at times vanish and come unknown.
+bal_81.
+en_82. How then are we to begin our strike to destroy him?
+bal_82.
+en_83. How shall we find his where; and having found it, how can we destroy?
+bal_83.
+en_84. My friends, this is much; it is a terrible task that we undertake, and there may be consequence to make the brave shudder.
+bal_84.
+en_85. For if we fail in this our fight he must surely win; and then where end we?
+bal_85.
+en_86. Life is nothings; I heed him not.
+bal_86.
+en_87. But to fail here, is not mere life or death.
+bal_87.
+en_88. It is that we become as him; that we henceforward become foul things of the night like him--without heart or conscience, preying on the bodies and the souls of those we love best.
+bal_88.
+en_89. To us for ever are the gates of heaven shut; for who shall open them to us again?
+bal_89.
+en_90. We go on for all time abhorred by all; a blot on the face of God’s sunshine; an arrow in the side of Him who died for man.
+bal_90.
+en_91. But we are face to face with duty; and in such case must we shrink?
+bal_91.
+en_92. For me, I say, no;
+bal_92.
+en_93. but then I am old, and life, with his sunshine, his fair places, his song of birds, his music and his love, lie far behind.
+bal_93.
+en_94. You others are young.
+bal_94.
+en_95. Some have seen sorrow; but there are fair days yet in store.
+bal_95.
+en_96. What say you?”
+bal_96.
+en_97. Whilst he was speaking, Jonathan had taken my hand.
+bal_97.
+en_98. I feared, oh so much, that the appalling nature of our danger was overcoming him when I saw his hand stretch out; but it was life to me to feel its touch--so strong, so self-reliant, so resolute.
+bal_98.
+en_99. A brave man’s hand can speak for itself; it does not even need a woman’s love to hear its music.
+bal_99.
+en_100. When the Professor had done speaking my husband looked in my eyes, and I in his; there was no need for speaking between us.
+bal_100.
+en_101. “I answer for Mina and myself,” he said.
+bal_101.
+en_102. “Count me in, Professor,” said Mr. Quincey Morris, laconically as usual.
+bal_102.
+en_103. “I am with you,” said Lord Godalming, “for Lucy’s sake, if for no other reason.”
+bal_103.
+en_104. Dr. Seward simply nodded.
+bal_104.
+en_105. The Professor stood up and, after laying his golden crucifix on the table, held out his hand on either side.
+bal_105.
+en_106. I took his right hand, and Lord Godalming his left; Jonathan held my right with his left and stretched across to Mr. Morris.
+bal_106.
+en_107. So as we all took hands our solemn compact was made.
+bal_107.
+en_108. I felt my heart icy cold, but it did not even occur to me to draw back.
+bal_108.
+en_109. We resumed our places, and Dr. Van Helsing went on with a sort of cheerfulness which showed that the serious work had begun.
+bal_109.
+en_110. It was to be taken as gravely, and in as businesslike a way, as any other transaction of life:-- “Well, you know what we have to contend against; but we, too, are not without strength.
+bal_110.
+en_111. We have on our side power of combination--a power denied to the vampire kind; we have sources of science; we are free to act and think; and the hours of the day and the night are ours equally.
+bal_111.
+en_112. In fact, so far as our powers extend, they are unfettered, and we are free to use them.
+bal_112.
+en_113. We have self-devotion in a cause, and an end to achieve which is not a selfish one.
+bal_113.
+en_114. These things are much.
+bal_114.
+en_115. “Now let us see how far the general powers arrayed against us are restrict, and how the individual cannot.
+bal_115.
+en_116. In fine, let us consider the limitations of the vampire in general, and of this one in particular.
+bal_116.
+en_117. “All we have to go upon are traditions and superstitions.
+bal_117.
+en_118. These do not at the first appear much, when the matter is one of life and death--nay of more than either life or death.
+bal_118.
+en_119. Yet must we be satisfied; in the first place because we have to be--no other means is at our control--and secondly, because, after all, these things--tradition and superstition--are everything.
+bal_119.
+en_120. Does not the belief in vampires rest for others--though not, alas!
+bal_120.
+en_121. for us--on them?
+bal_121.
+en_122. A year ago which of us would have received such a possibility, in the midst of our scientific, sceptical, matter-of-fact nineteenth century?
+bal_122.
+en_123. We even scouted a belief that we saw justified under our very eyes.
+bal_123.
+en_124. Take it, then, that the vampire, and the belief in his limitations and his cure, rest for the moment on the same base.
+bal_124.
+en_125. For, let me tell you, he is known everywhere that men have been.
+bal_125.
+en_126. In old Greece, in old Rome; he flourish in Germany all over, in France, in India, even in the Chernosese; and in China, so far from us in all ways, there even is he, and the peoples fear him at this day.
+bal_126.
+en_127. He have follow the wake of the berserker Icelander, the devil-begotten Hun, the Slav, the Saxon, the Magyar.
+bal_127.
+en_128. So far, then, we have all we may act upon; and let me tell you that very much of the beliefs are justified by what we have seen in our own so unhappy experience.
+bal_128.
+en_129. The vampire live on, and cannot die by mere passing of the time; he can flourish when that he can fatten on the blood of the living.
+bal_129.
+en_130. Even more, we have seen amongst us that he can even grow younger; that his vital faculties grow strenuous, and seem as though they refresh themselves when his special pabulum is plenty.
+bal_130.
+en_131. But he cannot flourish without this diet; he eat not as others.
+bal_131.
+en_132. Even friend Jonathan, who lived with him for weeks, did never see him to eat, never!
+bal_132.
+en_133. He throws no shadow; he make in the mirror no reflect, as again Jonathan observe.
+bal_133.
+en_134. He has the strength of many of his hand--witness again Jonathan when he shut the door against the wolfs, and when he help him from the diligence too.
+bal_134.
+en_135. He can transform himself to wolf, as we gather from the ship arrival in Whitby, when he tear open the dog; he can be as bat, as Madam Mina saw him on the window at Whitby, and as friend John saw him fly from this so near house, and as my friend Quincey saw him at the window of Miss Lucy.
+bal_135.
+en_136. He can come in mist which he create--that noble ship’s captain proved him of this; but, from what we know, the distance he can make this mist is limited, and it can only be round himself.
+bal_136.
+en_137. He come on moonlight rays as elemental dust--as again Jonathan saw those sisters in the castle of Dracula.
+bal_137.
+en_138. He become so small--we ourselves saw Miss Lucy, ere
+bal_138.
+en_139. she was at peace, slip through a hairbreadth space at the tomb door.
+bal_139.
+en_140. He can, when once he find his way, come out from anything or into anything, no matter how close it be bound or even fused up with fire--solder you call it.
+bal_140.
+en_141. He can see in the dark--no small power this, in a world which is one half shut from the light.
+bal_141.
+en_142. Ah, but hear me through.
+bal_142.
+en_143. He can do all these things, yet he is not free.
+bal_143.
+en_144. Nay; he is even more prisoner than the slave of the galley, than the madman in his cell.
+bal_144.
+en_145. He cannot go where he lists; he who is not of nature has yet to obey some of nature’s laws--why we know not.
+bal_145.
+en_146. He may not enter anywhere at the first, unless there be some one of the household who bid him to come; though afterwards he can come as he please.
+bal_146.
+en_147. His power ceases, as does that of all evil things, at the coming of the day.
+bal_147.
+en_148. Only at certain times can he have limited freedom.
+bal_148.
+en_149. If he be not at the place whither he is bound, he can only change himself at noon or at exact sunrise or sunset.
+bal_149.
+en_150. These things are we told, and in this record of ours we have proof by inference.
+bal_150.
+en_151. Thus, whereas he can do as he will within his limit, when he have his earth-home, his coffin-home, his hell-home, the place unhallowed, as we saw when he went to the grave of the suicide at Whitby; still at other time he can only change when the time come.
+bal_151.
+en_152. It is said, too, that he can only pass running water at the slack or the flood of the tide.
+bal_152.
+en_153. Then there are things which so afflict him that he has no power, as the garlic that we know of; and as for things sacred, as this symbol, my crucifix, that was amongst us even now when we resolve, to them he is nothing, but in their presence he take his place far off and silent with respect.
+bal_153.
+en_154. There are others, too, which I shall tell you of, lest in our seeking we may need them.
+bal_154.
+en_155. The branch of wild rose on his coffin keep him that he move not from it; a sacred bullet fired into the coffin kill him so that he be true dead; and as for the stake through him, we know already of its peace; or the cut-off head that giveth rest.
+bal_155.
+en_156. We have seen it with our eyes.
+bal_156.
+en_157. “Thus when we find the habitation of this man-that-was, we can confine him to his coffin and destroy him, if we obey what we know.
+bal_157.
+en_158. But he is clever.
+bal_158.
+en_159. I have asked my friend Arminius, of Buda-Pesth University, to make his record; and, from all the means that are, he tell me of what he has been.
+bal_159.
+en_160. He must, indeed, have been that Voivode Dracula who won his name against the Turk, over the great river on the very frontier of Turkey-land.
+bal_160.
+en_161. If it be so, then was he no common man; for in that time, and for centuries after, he was spoken of as the cleverest and the most cunning, as well as the bravest of the sons of the ‘land beyond the forest.’
+bal_161.
+en_162. That mighty brain and that iron resolution went with him to his grave, and are even now arrayed against us.
+bal_162.
+en_163. The Draculas were, says Arminius, a great and noble race, though now and again were scions who were held by their coevals to have had dealings with the Evil One.
+bal_163.
+en_164. They learned his secrets in the Scholomance, amongst the mountains over Lake Hermanstadt, where the devil claims the tenth scholar as his due.
+bal_164.
+en_165. In the records are such words as ‘stregoica’--witch, ‘ordog,’ and ‘pokol’--Satan and hell; and in one manuscript this very Dracula is spoken of as ‘wampyr,’ which we all understand too well.
+bal_165.
+en_166. There have been from the loins of this very one great men and good women, and their graves make sacred the earth where alone this foulness can dwell.
+bal_166.
+en_167. For it is not the least of its terrors that this evil thing is rooted deep in all good; in soil barren of holy memories it cannot rest.”
+bal_167.
+en_168. Whilst they were talking Mr. Morris was looking steadily at the window, and he now got up quietly, and went out of the room.
+bal_168.
+en_169. There was a little pause, and then the Professor went on:-- “And now we must settle what we do.
+bal_169.
+en_170. We have here much data, and we must proceed to lay out our campaign.
+bal_170.
+en_171. We know from the inquiry of Jonathan that from the castle to Whitby came fifty boxes of earth, all of which were delivered at Carfax; we also know that at least some of these boxes have been removed.
+bal_171.
+en_172. It seems to me, that our first step should be to ascertain whether all the rest remain in the house beyond that wall where we look to-day; or whether any more have been removed.
+bal_172.
+en_173. If the latter, we must trace----” Here we were interrupted in a very startling way.
+bal_173.
+en_174. Outside the house came the sound of a pistol-shot; the glass of the window was shattered with a bullet, which, ricochetting from the top of the embrasure, struck the far wall of the room.
+bal_174.
+en_175. I am afraid I am at heart a coward, for I shrieked out.
+bal_175.
+en_176. The men all jumped to their feet; Lord Godalming flew over to the window and threw up the sash.
+bal_176.
+en_177. As he did so we heard Mr. Morris’s voice without:-- “Sorry!
+bal_177.
+en_178. I fear I have alarmed you.
+bal_178.
+en_179. I shall come in and tell you about it.”
+bal_179.
+en_180. A minute later he came in and said:-- “It was an idiotic thing of me to do, and I ask your pardon, Mrs. Harker, most sincerely; I fear I must have frightened you terribly.
+bal_180.
+en_181. But the fact is that whilst the Professor was talking there came a big bat and sat on the window-sill.
+bal_181.
+en_182. I have got such a horror of the damned brutes from recent events that I cannot stand them, and I went out to have a shot, as I have been doing of late of evenings, whenever I have seen one.
+bal_182.
+en_183. You used to laugh at me for it then, Art.”
+bal_183.
+en_184. “Did you hit it?” asked Dr. Van Helsing.
+bal_184.
+en_185. “I don’t know; I fancy not, for it flew away into the wood.”
+bal_185.
+en_186. Without saying any more he took his seat, and the Professor began to resume his statement:-- “We must trace each of these boxes; and when we are ready, we must either capture or kill this monster in his lair; or we must, so to speak, sterilise the earth, so that no more he can seek safety in it.
+bal_186.
+en_187. Thus in the end we may find him in his form of man between the hours of noon and sunset, and so engage with him when he is at his most weak.
+bal_187.
+en_188. “And now for you, Madam Mina, this night is the end until all be well.
+bal_188.
+en_189. You are too precious to us to have such risk.
+bal_189.
+en_190. When we part to-night, you no more must question.
+bal_190.
+en_191. We shall tell you all in good time.
+bal_191.
+en_192. We are men and are able to bear; but you must be our star and our hope, and we shall act all the more free that you are not in the danger, such as we are.”
+bal_192.
+en_193. All the men, even Jonathan, seemed relieved; but it did not seem to me good that they should brave danger and, perhaps, lessen their safety--strength being the best safety--through care of me; but their minds were made up, and, though it was a bitter pill for me to swallow, I could say nothing, save to accept their chivalrous care of me.
+bal_193.
+en_194. Mr. Morris resumed the discussion:-- “As there is no time to lose, I vote we have a look at his house right now.
+bal_194.
+en_195. Time is everything with him; and swift action on our part may save another victim.”
+bal_195.
+en_196. I own that my heart began to fail me when the time for action came so close, but I did not say anything, for I had a greater fear that if I appeared as a drag or a hindrance to their work, they might even leave me out of their counsels altogether.
+bal_196.
+en_197. They have now gone off to Carfax, with means to get into the house.
+bal_197.
+en_198. Manlike, they had told me to go to bed and sleep; as if a woman can sleep when those she loves are in danger!
+bal_198.
+en_199. I shall lie down and pretend to sleep, lest Jonathan have added anxiety about me when he returns.
+bal_199.
+en_200. _Dr. Seward’s Diary.
+bal_200.
+en_201. _ _1
+bal_201.
+en_202. October, 4 a. m._--Just as we were about to leave the house, an urgent message was brought to me from Renfield to know if I would see him at once, as he had something of the utmost importance to say to me.
+bal_202.
+en_203. I told the messenger to say that I would attend to his wishes in the morning; I was busy just at the moment.
+bal_203.
+en_204. The attendant added:-- “He seems very importunate, sir.
+bal_204.
+en_205. I have never seen him so eager.
+bal_205.
+en_206. I don’t know but what, if you don’t see him soon, he will have one of his violent fits.”
+bal_206.
+en_207. I knew the man would not have said this without some cause, so I said: “All right; I’ll go now”; and I asked the others to wait a few minutes for me, as I had to go and see my “patient.”
+bal_207.
+en_208. “Take me with you, friend John,” said the Professor.
+bal_208.
+en_209. “His case in your diary interest me much, and it had bearing, too, now and again on _our_ case.
+bal_209.
+en_210. I should much like to see him, and especial when his mind is disturbed.”
+bal_210.
+en_211. “May I come also?” asked Lord Godalming.
+bal_211.
+en_212. “Me too?” said Quincey Morris.
+bal_212.
+en_213. “May I come?” said Harker.
+bal_213.
+en_214. I nodded, and we all went down the passage together.
+bal_214.
+en_215. We found him in a state of considerable excitement, but far more rational in his speech and manner than I had ever seen him.
+bal_215.
+en_216. There was an unusual understanding of himself, which was unlike anything I had ever met with in a lunatic; and he took it for granted that his reasons would prevail with others entirely sane.
+bal_216.
+en_217. We all four went into the room, but none of the others at first said anything.
+bal_217.
+en_218. His request was that I would at once release him from the asylum and send him home.
+bal_218.
+en_219. This he backed up with arguments regarding his complete recovery, and adduced his own existing sanity.
+bal_219.
+en_220. “I appeal to your friends,” he said, “they will, perhaps, not mind sitting in judgment on my case.
+bal_220.
+en_221. By the way, you have not introduced me.”
+bal_221.
+en_222. I was so much astonished, that the oddness of introducing a madman in an asylum did not strike me at the moment; and, besides, there was a certain dignity in the man’s manner, so much of the habit of equality, that I at once made the introduction: “Lord Godalming; Professor Van Helsing; Mr. Quincey Morris, of Texas; Mr. Renfield.”
+bal_222.
+en_223. He shook hands with each of them, saying in turn:-- “Lord Godalming, I had the honour of seconding your father at the Windham; I grieve to know, by your holding the title, that he is no more.
+bal_223.
+en_224. He was a man loved and honoured by all who knew him; and in his youth was, I have heard, the inventor of a burnt rum punch, much patronised on Derby night.
+bal_224.
+en_225. Mr. Morris, you should be proud of your great state.
+bal_225.
+en_226. Its reception into the Union was a precedent which may have far-reaching effects hereafter, when the Pole and the Tropics may hold alliance to the Stars and Stripes.
+bal_226.
+en_227. The power of Treaty may yet prove a vast engine of enlargement, when the Monroe doctrine takes its true place as a political fable.
+bal_227.
+en_228. What shall any man say of his pleasure at meeting Van Helsing?
+bal_228.
+en_229. Sir, I make no apology for dropping all forms of conventional prefix.
+bal_229.
+en_230. When an individual has revolutionised therapeutics by his discovery of the continuous evolution of brain-matter, conventional forms are unfitting, since they would seem to limit him to one of a class.
+bal_230.
+en_231. You, gentlemen, who by nationality, by heredity, or by the possession of natural gifts, are fitted to hold your respective places in the moving world, I take to witness that I am as sane as at least the majority of men who are in full possession of their liberties.
+bal_231.
+en_232. And I am sure that you, Dr. Seward, humanitarian and medico-jurist as well as scientist, will deem it a moral duty to deal with me as one to be considered as under exceptional circumstances.”
+bal_232.
+en_233. He made this last appeal with a courtly air of conviction which was not without its own charm.
+bal_233.
+en_234. I think we were all staggered.
+bal_234.
+en_235. For my own part, I was under the conviction, despite my knowledge of the man’s character and history, that his reason had been restored; and I felt under a strong impulse to tell him that I was satisfied as to his sanity, and would see about the necessary formalities for his release in the morning.
+bal_235.
+en_236. I thought it better to wait, however, before making so grave a statement, for of old I knew the sudden changes to which this particular patient was liable.
+bal_236.
+en_237. So I contented myself with making a general statement that he appeared to be improving very rapidly; that I would have a longer chat with him in the morning, and would then see what I could do in the direction of meeting his wishes.
+bal_237.
+en_238. This did not at all satisfy him, for he said quickly:-- “But I fear, Dr. Seward, that you hardly apprehend my wish.
+bal_238.
+en_239. I desire to go at once--here--now--this very hour--this very moment, if I may.
+bal_239.
+en_240. Time presses, and in our implied agreement with the old scytheman it is of the essence of the contract.
+bal_240.
+en_241. I am sure it is only necessary to put before so admirable a practitioner as Dr. Seward so simple, yet so momentous a wish, to ensure its fulfilment.”
+bal_241.
+en_242. He looked at me keenly, and seeing the negative in my face, turned to the others, and scrutinised them closely.
+bal_242.
+en_243. Not meeting any sufficient response, he went on:-- “Is it possible that I have erred in my supposition?”
+bal_243.
+en_244. “You have,” I said frankly, but at the same time, as I felt, brutally.
+bal_244.
+en_245. There was a considerable pause, and then he said slowly:-- “Then I suppose I must only shift my ground of request.
+bal_245.
+en_246. Let me ask for this concession--boon, privilege, what you will.
+bal_246.
+en_247. I am content to implore in such a case, not on personal grounds, but for the sake of others.
+bal_247.
+en_248. I am not at liberty to give you the whole of my reasons; but you may, I assure you, take it from me that they are good ones, sound and unselfish, and spring from the highest sense of duty.
+bal_248.
+en_249. Could you look, sir, into my heart, you would approve to the full the sentiments which animate me.
+bal_249.
+en_250. Nay, more, you would count me amongst the best and truest of your friends.”
+bal_250.
+en_251. Again he looked at us all keenly.
+bal_251.
+en_252. I had a growing conviction that this sudden change of his entire intellectual method was but yet another form or phase of his madness, and so determined to let him go on a little longer, knowing from experience that he would, like all lunatics, give himself away in the end.
+bal_252.
+en_253. Van Helsing was gazing at him with a look of utmost intensity, his bushy eyebrows almost meeting with the fixed concentration of his look.
+bal_253.
+en_254. He said to Renfield in a tone which did not surprise me at the time, but only when I thought of it afterwards--for it was as of one addressing an equal:-- “Can you not tell frankly your real reason for wishing to be free to-night?
+bal_254.
+en_255. I will undertake that if you will satisfy even me--a stranger, without prejudice, and with the habit of keeping an open mind--Dr. Seward will give you, at his own risk and on his own responsibility, the privilege you seek.”
+bal_255.
+en_256. He shook his head sadly, and with a look of poignant regret on his face.
+bal_256.
+en_257. The Professor went on:-- “Come, sir, bethink yourself.
+bal_257.
+en_258. You claim the privilege of reason in the highest degree, since you seek to impress us with your complete reasonableness.
+bal_258.
+en_259. You do this, whose sanity we have reason to doubt, since you are not yet released from medical treatment for this very defect.
+bal_259.
+en_260. If you will not help us in our effort to choose the wisest course, how can we perform the duty which you yourself put upon us?
+bal_260.
+en_261. Be wise, and help us; and if we can we shall aid you to achieve your wish.”
+bal_261.
+en_262. He still shook his head as he said:-- “Dr. Van Helsing, I have nothing to say.
+bal_262.
+en_263. Your argument is complete, and if I were free to speak I should not hesitate a moment; but I am not my own master in the matter.
+bal_263.
+en_264. I can only ask you to trust me.
+bal_264.
+en_265. If I am refused, the responsibility does not rest with me.”
+bal_265.
+en_266. I thought it was now time to end the scene, which was becoming too comically grave, so I went towards the door, simply saying:-- “Come, my friends, we have work to do.
+bal_266.
+en_267. Good-night.”
+bal_267.
+en_268. As, however, I got near the door, a new change came over the patient.
+bal_268.
+en_269. He moved towards me so quickly that for the moment I feared that he was about to make another homicidal attack.
+bal_269.
+en_270. My fears, however, were groundless, for he held up his two hands imploringly, and made his petition in a moving manner.
+bal_270.
+en_271. As he saw that the very excess of his emotion was militating against him, by restoring us more to our old relations, he became still more demonstrative.
+bal_271.
+en_272. I glanced at Van Helsing, and saw my conviction reflected in his eyes; so I became a little more fixed in my manner, if not more stern, and motioned to him that his efforts were unavailing.
+bal_272.
+en_273. I had previously seen something of the same constantly growing excitement in him when he had to make some request of which at the time he had thought much, such, for instance, as when he wanted a cat; and I was prepared to see the collapse into the same sullen acquiescence on this occasion.
+bal_273.
+en_274. My expectation was not realised, for, when he found that his appeal would not be successful, he got into quite a frantic condition.
+bal_274.
+en_275. He threw himself on his knees, and held up his hands, wringing them in plaintive supplication, and poured forth a torrent of entreaty, with the tears rolling down his cheeks, and his whole face and form expressive of the deepest emotion:-- “Let me entreat you, Dr. Seward, oh, let me implore you, to let me out of this house at once.
+bal_275.
+en_276. Send me away how you will
+bal_276.

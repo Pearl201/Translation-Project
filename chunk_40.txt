@@ -1,0 +1,632 @@
+en_1. evening, beautiful Soup!
+bal_1.
+en_2. Soup of the evening, beautiful Soup!
+bal_2.
+en_3. Beau—ootiful Soo—oop!
+bal_3.
+en_4. Beau—ootiful Soo—oop!
+bal_4.
+en_5. Soo—oop of the e—e—evening, Beautiful, beautiful Soup!
+bal_5.
+en_6. “Beautiful Soup!
+bal_6.
+en_7. Who cares for fish, Game, or any other dish?
+bal_7.
+en_8. Who would not give all else for two p ennyworth only of beautiful Soup?
+bal_8.
+en_9. Pennyworth only of beautiful Soup?
+bal_9.
+en_10. Beau—ootiful Soo—oop!
+bal_10.
+en_11. Beau—ootiful Soo—oop!
+bal_11.
+en_12. Soo—oop of the e—e—evening, Beautiful, beauti—FUL SOUP!”
+bal_12.
+en_13. “Chorus again!” cried the Gryphon, and the Mock Turtle had just begun to repeat it, when a cry of “The trial’s beginning!”
+bal_13.
+en_14. was heard in the distance.
+bal_14.
+en_15. “Come on!”
+bal_15.
+en_16. cried the Gryphon, and, taking Alice by the hand, it hurried off, without waiting for the end of the song.
+bal_16.
+en_17. “What trial is it?”
+bal_17.
+en_18. Alice panted as she ran; but the Gryphon only answered “Come on!” and ran the faster, while more and more faintly came, carried on the breeze that followed them, the melancholy words:— “Soo—oop of the e—e—evening, Beautiful, beautiful Soup!” CHAPTER XI.
+bal_18.
+en_19. Who Stole the Tarts?
+bal_19.
+en_20. The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them—all sorts of little birds and beasts, as well as the whole pack of cards: the Knave was standing before them, in chains, with a soldier on each side to guard him; and near the King was the White Rabbit, with a trumpet in one hand, and a scroll of parchment in the other.
+bal_20.
+en_21. In the very middle of the court was a table, with a large dish of tarts upon it: they looked so good, that it made Alice quite hungry to look at them—“I wish they’d get the trial done,” she thought, “and hand round the refreshments!”
+bal_21.
+en_22. But there seemed to be no chance of this, so she began looking at everything about her, to pass away the time.
+bal_22.
+en_23. Alice had never been in a court of justice before, but she had read about them in books, and she was quite pleased to find that she knew the name of nearly everything there.
+bal_23.
+en_24. “That’s the judge,” she said to herself, “because of his great wig.”
+bal_24.
+en_25. The judge, by the way, was the King; and as he wore his crown over the wig, (look at the frontispiece if you want to see how he did it,) he did not look at all comfortable, and it was certainly not becoming.
+bal_25.
+en_26. “And that’s the jury-box,” thought Alice, “and those twelve creatures,” (she was obliged to say “creatures,” you see, because some of them were animals, and some were birds,) “I suppose they are the jurors.”
+bal_26.
+en_27. She said this last word two or three times over to herself, being rather proud of it: for she thought, and rightly too, that very few little girls of her age knew the meaning of it at all.
+bal_27.
+en_28. However, “jury-men” would have done just as well.
+bal_28.
+en_29. The twelve jurors were all writing very busily on slates.
+bal_29.
+en_30. “What are they doing?”
+bal_30.
+en_31. Alice whispered to the Gryphon.
+bal_31.
+en_32. “They can’t have anything to put down yet, before the trial’s begun.”
+bal_32.
+en_33. “They’re putting down their names,” the Gryphon whispered in reply, “for fear they should forget them before the end of the trial.”
+bal_33.
+en_34. “Stupid things!”
+bal_34.
+en_35. Alice began in a loud, indignant voice, but she stopped hastily, for the White Rabbit cried out, “Silence in the court!” and the King put on his spectacles and looked anxiously round, to make out who was talking.
+bal_35.
+en_36. Alice could see, as well as if she were looking over their shoulders, that all the jurors were writing down “stupid things!”
+bal_36.
+en_37. on their slates, and she could even make out that one of them didn’t know how to spell “stupid,” and that he had to ask his neighbour to tell him.
+bal_37.
+en_38. “A nice muddle their slates’ll be in before the trial’s over!” thought Alice.
+bal_38.
+en_39. One of the jurors had a pencil that squeaked.
+bal_39.
+en_40. This of course, Alice could _not_ stand, and she went round the court and got behind him, and very soon found an opportunity of taking it away.
+bal_40.
+en_41. She did it so quickly that the poor little juror (it was Bill, the Lizard) could not make out at all what had become of it; so, after hunting all about for it, he was obliged to write with one finger for the rest of the day; and this was of very little use, as it left no mark on the slate.
+bal_41.
+en_42. “Herald, read the accusation!” said the King.
+bal_42.
+en_43. On this the White Rabbit blew three blasts on the trumpet, and then unrolled the parchment scroll, and read as follows:— “The Queen of Hearts, she made some tarts, All on a summer day: The Knave of Hearts, he stole those tarts, And took them quite away!”
+bal_43.
+en_44. “Consider your verdict,” the King said to the jury.
+bal_44.
+en_45. “Not yet, not yet!”
+bal_45.
+en_46. the Rabbit hastily interrupted.
+bal_46.
+en_47. “There’s a great deal to come before that!”
+bal_47.
+en_48. “Call the first witness,” said the King; and the White Rabbit blew three blasts on the trumpet, and called out, “First witness!”
+bal_48.
+en_49. The first witness was the Hatter.
+bal_49.
+en_50. He came in with a teacup in one hand and a piece of bread-and-butter in the other.
+bal_50.
+en_51. “I beg pardon, your Majesty,” he began, “for bringing these in: but I hadn’t quite finished my tea when I was sent for.”
+bal_51.
+en_52. “You ought to have finished,” said the King.
+bal_52.
+en_53. “When did you begin?”
+bal_53.
+en_54. The Hatter looked at the March Hare, who had followed him into the court, arm-in-arm with the Dormouse.
+bal_54.
+en_55. “Fourteenth of March, I _think_
+bal_55.
+en_56. it was,” he said.
+bal_56.
+en_57. “Fifteenth,” said the March Hare.
+bal_57.
+en_58. “Sixteenth,” added the Dormouse.
+bal_58.
+en_59. “Write that down,” the King said to the jury, and the jury eagerly wrote down all three dates on their slates, and then added them up, and reduced the answer to shillings and pence.
+bal_59.
+en_60. “Take off your hat,” the King said to the Hatter.
+bal_60.
+en_61. “It isn’t mine,” said the Hatter.
+bal_61.
+en_62. “_Stolen!_”
+bal_62.
+en_63. the King exclaimed, turning to the jury, who instantly made a memorandum of the fact.
+bal_63.
+en_64. “I keep them to sell,” the Hatter added as an explanation; “I’ve none of my own.
+bal_64.
+en_65. I’m a hatter.”
+bal_65.
+en_66. Here the Queen put on her spectacles, and began staring at the Hatter, who turned pale and fidgeted.
+bal_66.
+en_67. “Give your evidence,” said the King; “and don’t be nervous, or I’ll have you executed on the spot.”
+bal_67.
+en_68. This did not seem to encourage the witness at all: he kept shifting from one foot to the other, looking uneasily at the Queen, and in his confusion he bit a large piece out of his teacup instead of the bread-and-butter.
+bal_68.
+en_69. Just at this moment Alice felt a very curious sensation, which puzzled her a good deal until she made out what it was: she was beginning to grow larger again, and she thought at first she would get up and leave the court; but on second thoughts she decided to remain where she was as long as there was room for her.
+bal_69.
+en_70. “I wish you wouldn’t squeeze so,” said the Dormouse, who was sitting next to her.
+bal_70.
+en_71. “I can hardly breathe.”
+bal_71.
+en_72. “I can’t help it,” said Alice very meekly: “I’m growing.”
+bal_72.
+en_73. “You’ve no right to grow _here_,” said the Dormouse.
+bal_73.
+en_74. “Don’t talk nonsense,” said Alice more boldly: “you know you’re growing too.”
+bal_74.
+en_75. “Yes, but _I_ grow at a reasonable pace,” said the Dormouse: “not in that ridiculous fashion.”
+bal_75.
+en_76. And he got up very sulkily and crossed over to the other side of the court.
+bal_76.
+en_77. All this time the Queen had never left off staring at the Hatter, and, just as the Dormouse crossed the court, she said to one of the officers of the court, “Bring me the list of the singers in the last concert!” on which the wretched Hatter trembled so, that he shook both his shoes off.
+bal_77.
+en_78. “Give your evidence,” the King repeated angrily, “or I’ll have you executed, whether you’re nervous or not.”
+bal_78.
+en_79. “I’m a poor man, your Majesty,” the Hatter began, in a trembling voice, “—and I hadn’t begun my tea—not above a week or so—and what with the bread-and-butter getting so thin—and the twinkling of the tea—” “The twinkling of the _what?_” said the King.
+bal_79.
+en_80. “It _began_ with the tea,” the Hatter replied.
+bal_80.
+en_81. “Of course twinkling begins with a T!” said the King sharply.
+bal_81.
+en_82. “Do you take me for a dunce?
+bal_82.
+en_83. Go on!”
+bal_83.
+en_84. “I’m a poor man,” the Hatter went on, “and most things twinkled after that—only the March Hare said—” “I didn’t!”
+bal_84.
+en_85. the March Hare interrupted in a great hurry.
+bal_85.
+en_86. “You did!” said the Hatter.
+bal_86.
+en_87. “I deny it!” said the March Hare.
+bal_87.
+en_88. “He denies it,” said the King: “leave out that part.”
+bal_88.
+en_89. “Well, at any rate, the Dormouse said—” the Hatter went on, looking anxiously round to see if he would deny it too: but the Dormouse denied nothing, being fast asleep.
+bal_89.
+en_90. “After that,” continued the Hatter, “I cut some more bread-and-butter—” “But what did the Dormouse say?”
+bal_90.
+en_91. one of the jury asked.
+bal_91.
+en_92. “That I can’t remember,” said the Hatter.
+bal_92.
+en_93. “You _must_ remember,” remarked the King, “or I’ll have you executed.”
+bal_93.
+en_94. The miserable Hatter dropped his teacup and bread-and-butter, and went down on one knee.
+bal_94.
+en_95. “I’m a poor man, your Majesty,” he began.
+bal_95.
+en_96. “You’re a _very_ poor _speaker_,” said the King.
+bal_96.
+en_97. Here one of the guinea-pigs cheered, and was immediately suppressed by the officers of the court.
+bal_97.
+en_98. (As that is rather a hard word, I will just explain to you how it was done.
+bal_98.
+en_99. They had a large canvas bag, which tied up at the mouth with strings: into this they slipped the guinea-pig, head first, and then sat upon it.)
+bal_99.
+en_100. “I’m glad I’ve seen that done,” thought Alice.
+bal_100.
+en_101. “I’ve so often read in the newspapers, at the end of trials, “There was some attempts at applause, which was immediately suppressed by the officers of the court,” and I never understood what it meant till now.”
+bal_101.
+en_102. “If that’s all you know about it, you may stand down,” continued the King.
+bal_102.
+en_103. “I can’t go no lower,” said the Hatter: “I’m on the floor, as it is.”
+bal_103.
+en_104. “Then you may _sit_ down,” the King replied.
+bal_104.
+en_105. Here the other guinea-pig cheered, and was suppressed.
+bal_105.
+en_106. “Come, that finished the guinea-pigs!” thought Alice.
+bal_106.
+en_107. “Now we shall get on better.”
+bal_107.
+en_108. “I’d rather finish my tea,” said the Hatter, with an anxious look at the Queen, who was reading the list of singers.
+bal_108.
+en_109. “You may go,” said the King, and the Hatter hurriedly left the court, without even waiting to put his shoes on.
+bal_109.
+en_110. “—and just take his head off outside,” the Queen added to one of the officers: but the Hatter was out of sight before the officer could get to the door.
+bal_110.
+en_111. “Call the next witness!” said the King.
+bal_111.
+en_112. The next witness was the Duchess’s cook.
+bal_112.
+en_113. She carried the pepper-box in her hand, and Alice guessed who it was, even before she got into the court, by the way the people near the door began sneezing all at once.
+bal_113.
+en_114. “Give your evidence,” said the King.
+bal_114.
+en_115. “Shan’t,” said the cook.
+bal_115.
+en_116. The King looked anxiously at the White Rabbit, who said in a low voice, “Your Majesty must cross-examine _this_ witness.”
+bal_116.
+en_117. “Well, if I must, I must,” the King said, with a melancholy air, and, after folding his arms and frowning at the cook till his eyes were nearly out of sight, he said in a deep voice, “What are tarts made of?”
+bal_117.
+en_118. “Pepper, mostly,” said the cook.
+bal_118.
+en_119. “Treacle,” said a sleepy voice behind her.
+bal_119.
+en_120. “Collar that Dormouse,” the Queen shrieked out.
+bal_120.
+en_121. “Behead that Dormouse!
+bal_121.
+en_122. Turn that Dormouse out of court!
+bal_122.
+en_123. Suppress him!
+bal_123.
+en_124. Pinch him!
+bal_124.
+en_125. Off with his whiskers!”
+bal_125.
+en_126. For some minutes the whole court was in confusion, getting the Dormouse turned out, and, by the time they had settled down again, the cook had disappeared.
+bal_126.
+en_127. “Never mind!” said the King, with an air of great relief.
+bal_127.
+en_128. “Call the next witness.”
+bal_128.
+en_129. And he added in an undertone to the Queen, “Really, my dear, _you_ must cross-examine the next witness.
+bal_129.
+en_130. It quite makes my forehead ache!”
+bal_130.
+en_131. Alice watched the White Rabbit as he fumbled over the list, feeling very curious to see what the next witness would be like, “—for they haven’t got much evidence _yet_,” she said to herself.
+bal_131.
+en_132. Imagine her surprise, when the White Rabbit read out, at the top of his shrill little voice, the name “Alice!”
+bal_132.
+en_133. CHAPTER XII.
+bal_133.
+en_134. Alice’s Evidence “Here!” cried Alice, quite forgetting in the flurry of the moment how large she had grown in the last few minutes, and she jumped up in such a hurry that she tipped over the jury-box with the edge of her skirt, upsetting all the jurymen on to the heads of the crowd below, and there they lay sprawling about, reminding her very much of a globe of goldfish she had accidentally upset the week before.
+bal_134.
+en_135. “Oh, I _beg_ your pardon!”
+bal_135.
+en_136. she exclaimed in a tone of great dismay, and began picking them up again as quickly as she could, for the accident of the goldfish kept running in her head, and she had a vague sort of idea that they must be collected at once and put back into the jury-box, or they would die.
+bal_136.
+en_137. “The trial cannot proceed,” said the King in a very grave voice, “until all the jurymen are back in their proper places—_all_,” he repeated with great emphasis, looking hard at Alice as he said so.
+bal_137.
+en_138. Alice looked at the jury-box, and saw that, in her haste, she had put the Lizard in head downwards, and the poor little thing was waving its tail about in a melancholy way, being quite unable to move.
+bal_138.
+en_139. She soon got it out again, and put it right; “not that it signifies much,” she said to herself; “I should think it would be _quite_ as much use in the trial one way up as the other.”
+bal_139.
+en_140. As soon as the jury had a little recovered from the shock of being upset, and their slates and pencils had been found and handed back to them, they set to work very diligently to write out a history of the accident, all except the Lizard, who seemed too much overcome to do anything but sit with its mouth open, gazing up into the roof of the court.
+bal_140.
+en_141. “What do you know about this business?”
+bal_141.
+en_142. the King said to Alice.
+bal_142.
+en_143. “Nothing,” said Alice.
+bal_143.
+en_144. “Nothing _whatever?_” persisted the King.
+bal_144.
+en_145. “Nothing whatever,” said Alice.
+bal_145.
+en_146. “That’s very important,” the King said, turning to the jury.
+bal_146.
+en_147. They were just beginning to write this down on their slates, when the White Rabbit interrupted: “_Un_important, your Majesty means, of course,” he said in a very respectful tone, but frowning and making faces at him as he spoke.
+bal_147.
+en_148. “_Un_important, of course, I meant,” the King hastily said, and went on to himself in an undertone, “important—unimportant—unimportant—important—” as if he were trying which word sounded best.
+bal_148.
+en_149. Some of the jury wrote it down “important,” and some “unimportant.”
+bal_149.
+en_150. Alice could see this, as she was near enough to look over their slates; “but it doesn’t matter a bit,” she thought to herself.
+bal_150.
+en_151. At this moment the King, who had been for some time busily writing in his note-book, cackled out “Silence!” and read out from his book, “Rule Forty-two.
+bal_151.
+en_152. _
+bal_152.
+en_153. All persons more than a mile high to leave the court_.”
+bal_153.
+en_154. Everybody looked at Alice.
+bal_154.
+en_155. “_I’m_ not a mile high,” said Alice.
+bal_155.
+en_156. “You are,” said the King.
+bal_156.
+en_157. “Nearly two miles high,” added the Queen.
+bal_157.
+en_158. “Well, I shan’t go, at any rate,” said Alice: “besides, that’s not a regular rule: you invented it just now.”
+bal_158.
+en_159. “It’s the oldest rule in the book,” said the King.
+bal_159.
+en_160. “Then it ought to be Number One,” said Alice.
+bal_160.
+en_161. The King turned pale, and shut his note-book hastily.
+bal_161.
+en_162. “Consider your verdict,” he said to the jury, in a low, trembling voice.
+bal_162.
+en_163. “There’s more evidence to come yet, please your Majesty,” said the White Rabbit, jumping up in a great hurry; “this paper has just been picked up.”
+bal_163.
+en_164. “What’s in it?” said the Queen.
+bal_164.
+en_165. “I haven’t opened it yet,” said the White Rabbit, “but it seems to be a letter, written by the prisoner to—to somebody.”
+bal_165.
+en_166. “It must have been that,” said the King, “unless it was written to nobody, which isn’t usual, you know.”
+bal_166.
+en_167. “Who is it directed to?” said one of the jurymen.
+bal_167.
+en_168. “It isn’t directed at all,” said the White Rabbit; “in fact, there’s nothing written on the _outside_.”
+bal_168.
+en_169. He unfolded the paper as he spoke, and added “It isn’t a letter, after all: it’s a set of verses.”
+bal_169.
+en_170. “Are they in the prisoner’s handwriting?” asked another of the jurymen.
+bal_170.
+en_171. “No, they’re not,” said the White Rabbit, “and that’s the queerest thing about it.”
+bal_171.
+en_172. (The jury all looked puzzled.)
+bal_172.
+en_173. “He must have imitated somebody else’s hand,” said the King.
+bal_173.
+en_174. (The jury all brightened up again.)
+bal_174.
+en_175. “Please your Majesty,” said the Knave, “I didn’t write it, and they can’t prove I did: there’s no name signed at the end.”
+bal_175.
+en_176. “If you didn’t sign it,” said the King, “that only makes the matter worse.
+bal_176.
+en_177. You _must_ have meant some mischief, or else you’d have signed your name like an honest man.”
+bal_177.
+en_178. There was a general clapping of hands at this: it was the first really clever thing the King had said that day.
+bal_178.
+en_179. “That _proves_ his guilt,” said the Queen.
+bal_179.
+en_180. “It proves nothing of the sort!” said Alice.
+bal_180.
+en_181. “Why, you don’t even know what they’re about!”
+bal_181.
+en_182. “Read them,” said the King.
+bal_182.
+en_183. The White Rabbit put on his spectacles.
+bal_183.
+en_184. “Where shall I begin, please your Majesty?” he asked.
+bal_184.
+en_185. “Begin at the beginning,” the King said gravely, “and go on till you come to the end: then stop.”
+bal_185.
+en_186. These were the verses the White Rabbit read:— “They told me you had been to her, And mentioned me to him: She gave me a good character, But said I could not swim.
+bal_186.
+en_187. He sent them word I had not gone (We know it to be true): If she should push the matter on, What would become of you?
+bal_187.
+en_188. I gave her one, they gave him two, You gave us three or more; They all returned from him to you, Though they were mine before.
+bal_188.
+en_189. If I or she should chance to be Involved in this affair, He trusts to you to set them free, Exactly as we were.
+bal_189.
+en_190. My notion was that you had been (Before she had this fit)
+bal_190.
+en_191. An obstacle that came between Him, and ourselves, and it.
+bal_191.
+en_192. Don’t let him know she liked them best, For this must ever be A secret, kept from all the rest, Between yourself and me.”
+bal_192.
+en_193. “That’s the most important piece of evidence we’ve heard yet,” said the King, rubbing his hands; “so now let the jury—” “If any one of them can explain it,” said Alice, (she had grown so large in the last few minutes that she wasn’t a bit afraid of interrupting him,) “I’ll give him sixpence.
+bal_193.
+en_194. _
+bal_194.
+en_195. I_ don’t believe there’s an atom of meaning in it.”
+bal_195.
+en_196. The jury all wrote down on their slates, “_She_ doesn’t believe there’s an atom of meaning in it,” but none of them attempted to explain the paper.
+bal_196.
+en_197. “If there’s no meaning in it,” said the King, “that saves a world of trouble, you know, as we needn’t try to find any.
+bal_197.
+en_198. And yet I don’t know,” he went on, spreading out the verses on his knee, and looking at them with one eye; “I seem to see some meaning in them, after all.
+bal_198.
+en_199. “—_said I could not swim_—” you can’t swim, can you?” he added, turning to the Knave.
+bal_199.
+en_200. The Knave shook his head sadly.
+bal_200.
+en_201. “Do I look like it?” he said.
+bal_201.
+en_202. (Which he certainly did _not_, being made entirely of cardboard.)
+bal_202.
+en_203. “All right, so far,” said the King, and he went on muttering over the verses to himself: “‘_We know it to be true_—’ that’s the jury, of course—‘_I gave her one, they gave him two_—’ why, that must be what he did with the tarts, you know—” “But, it goes on ‘_they all returned from him to you_,’” said Alice.
+bal_203.
+en_204. “Why, there they are!” said the King triumphantly, pointing to the tarts on the table.
+bal_204.
+en_205. “Nothing can be clearer than _that_.
+bal_205.
+en_206. Then again—‘_before she had this fit_—’ you never had fits, my dear, I think?”
+bal_206.
+en_207. he said to the Queen.
+bal_207.
+en_208. “Never!” said the Queen furiously, throwing an inkstand at the Lizard as she spoke.
+bal_208.
+en_209. (The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted.)
+bal_209.
+en_210. “Then the words don’t _fit_ you,” said the King, looking round the court with a smile.
+bal_210.
+en_211. There was a dead silence.
+bal_211.
+en_212. “It’s a pun!”
+bal_212.
+en_213. the King added in an offended tone, and everybody laughed, “Let the jury consider their verdict,” the King said, for about the twentieth time that day.
+bal_213.
+en_214. “No, no!” said the Queen.
+bal_214.
+en_215. “Sentence first—verdict afterwards.”
+bal_215.
+en_216. “Stuff and nonsense!” said Alice loudly.
+bal_216.
+en_217. “The idea of having the sentence first!”
+bal_217.
+en_218. “Hold your tongue!” said the Queen, turning purple.
+bal_218.
+en_219. “I won’t!” said Alice.
+bal_219.
+en_220. “Off with her head!”
+bal_220.
+en_221. the Queen shouted at the top of her voice.
+bal_221.
+en_222. Nobody moved.
+bal_222.
+en_223. “Who cares for you?” said Alice, (she had grown to her full size by this time.)
+bal_223.
+en_224. “You’re nothing but a pack of cards!”
+bal_224.
+en_225. At this the whole pack rose up into the air, and came flying down upon her: she gave a little scream, half of fright and half of anger, and tried to beat them off, and found herself lying on the bank, with her head in the lap of her sister, who was gently brushing away some dead leaves that had fluttered down from the trees upon her face.
+bal_225.
+en_226. “Wake up, Alice dear!” said her sister; “Why, what a long sleep you’ve had!”
+bal_226.
+en_227. “Oh, I’ve had such a curious dream!” said Alice, and she told her sister, as well as she could remember them, all these strange Adventures of hers that you have just been reading about; and when she had finished, her sister kissed her, and said, “It _was_ a curious dream, dear, certainly: but now run in to your tea; it’s getting late.”
+bal_227.
+en_228. So Alice got up and ran off, thinking while she ran, as well she might, what a wonderful dream it had been.
+bal_228.
+en_229. But her sister sat still just as she left her, leaning her head on her hand, watching the setting sun, and thinking of little Alice and all her wonderful Adventures, till she too began dreaming after a fashion, and this was her dream:—
+bal_229.
+en_230. First, she dreamed of little Alice herself, and once again the tiny hands were clasped upon her knee, and the bright eager eyes were looking up into hers—she could hear the very tones of her voice, and see that queer little toss of her head to keep back the wandering hair that _would_ always get into her eyes—and still as she listened, or seemed to listen, the whole place around her became alive with the strange creatures of her little sister’s dream.
+bal_230.
+en_231. The long grass rustled at her feet as the White Rabbit hurried by—the frightened Mouse splashed his way through the neighbouring pool—she could hear the rattle of the teacups as the March Hare and his friends shared their never-ending meal, and the shrill voice of the Queen ordering off her unfortunate guests to execution—once more the pig-baby was sneezing on the Duchess’s knee, while plates and dishes crashed around it—once more the shriek of the Gryphon, the squeaking of the Lizard’s slate-pencil, and the choking of the suppressed guinea-pigs, filled the air, mixed up with the distant sobs of the miserable Mock Turtle.
+bal_231.
+en_232. So she sat on, with closed eyes, and half believed herself in Wonderland, though she knew she had but to open them again, and all would change to dull reality—the grass would be only rustling in the wind, and the pool rippling to the waving of the reeds—the rattling teacups would change to tinkling sheep-bells, and the Queen’s shrill cries to the voice of the shepherd boy—and the sneeze of the baby, the shriek of the Gryphon, and all the other queer noises, would change (she knew) to the confused clamour of the busy farm-yard—while the lowing of the cattle in the distance would take the place of the Mock Turtle’s heavy sobs.
+bal_232.
+en_233. Lastly, she pictured to herself how this same little sister of hers would, in the after-time, be herself a grown woman; and how she would keep, through all her riper years, the simple and loving heart of her childhood: and how she would gather about her other little children, and make _their_ eyes bright and eager with many a strange tale, perhaps even with the dream of Wonderland of long ago: and how she would feel with all their simple sorrows, and find a pleasure in all their simple joys, remembering her own child-life, and the happy summer days.
+bal_233.
+en_234. THE END *** END OF THE PROJECT GUTENBERG EBOOK 11 *** *** START OF THE PROJECT GUTENBERG EBOOK 16 *** Peter Pan
+bal_234.
+en_235. [PETER AND WENDY] by J. M. Barrie [James Matthew Barrie] A Millennium Fulcrum Edition produced in 1991 by Duncan Research.
+bal_235.
+en_236. Note that while a copyright was initially claimed for the labor involved in digitization, that copyright claim is not consistent with current copyright requirements.
+bal_236.
+en_237. This text, which matches the 1911 original publication, is in the public domain in the US.
+bal_237.
+en_238. Contents Chapter I. PETER BREAKS THROUGH Chapter II.
+bal_238.
+en_239. THE SHADOW Chapter III.
+bal_239.
+en_240. COME AWAY, COME AWAY!
+bal_240.
+en_241. Chapter IV.
+bal_241.
+en_242. THE FLIGHT Chapter V. THE ISLAND COME TRUE Chapter VI.
+bal_242.
+en_243. THE LITTLE HOUSE Chapter VII.
+bal_243.
+en_244. THE HOME UNDER THE GROUND Chapter VIII.
+bal_244.
+en_245. THE MERMAIDS’ LAGOON Chapter IX.
+bal_245.
+en_246. THE NEVER BIRD Chapter X. THE HAPPY HOME Chapter XI.
+bal_246.
+en_247. WENDY’S STORY Chapter XII.
+bal_247.
+en_248. THE CHILDREN ARE CARRIED OFF Chapter XIII.
+bal_248.
+en_249. DO YOU BELIEVE IN FAIRIES?
+bal_249.
+en_250. Chapter XIV.
+bal_250.
+en_251. THE PIRATE SHIP Chapter XV.
+bal_251.
+en_252. “HOOK OR ME THIS TIME” Chapter XVI.
+bal_252.
+en_253. THE RETURN HOME Chapter XVII.
+bal_253.
+en_254. WHEN WENDY GREW UP Chapter I. PETER BREAKS THROUGH All children, except one, grow up.
+bal_254.
+en_255. They soon know that they will grow up, and the way Wendy knew was this.
+bal_255.
+en_256. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother.
+bal_256.
+en_257. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, “Oh, why can’t you remain like this for ever!”
+bal_257.
+en_258. This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up.
+bal_258.
+en_259. You always know after you are two.
+bal_259.
+en_260. Two is the beginning of the end.
+bal_260.
+en_261. Of course they lived at 14, and until Wendy came her mother was the chief one.
+bal_261.
+en_262. She was a lovely lady, with a romantic mind and such a sweet mocking mouth.
+bal_262.
+en_263. Her romantic mind was like the tiny boxes, one within the other, that come from the puzzling East, however many you discover there is always one more; and her sweet mocking mouth had one kiss on it that Wendy could never get, though there it was, perfectly conspicuous in the right-hand corner.
+bal_263.
+en_264. The way Mr. Darling won her was this: the many gentlemen who had been boys when she was a girl discovered simultaneously that they loved her, and they all ran to her house to propose to her except Mr. Darling, who took a cab and nipped in first, and so he got her.
+bal_264.
+en_265. He got all of her, except the innermost box and the kiss.
+bal_265.
+en_266. He never knew about the box, and in time he gave up trying for the kiss.
+bal_266.
+en_267. Wendy thought Napoleon could have got it, but I can picture him trying, and then going off in a passion, slamming the door.
+bal_267.
+en_268. Mr. Darling used to boast to Wendy that her mother not only loved him but respected him.
+bal_268.
+en_269. He was one of those deep ones who know about stocks and shares.
+bal_269.
+en_270. Of course no one really knows, but he quite seemed to know, and he often said stocks were up and shares were down in a way that would have made any woman respect him.
+bal_270.
+en_271. Mrs. Darling was married in white, and at first she kept the books perfectly, almost gleefully, as if it were a game, not so much as a Brussels sprout was missing; but by and by whole cauliflowers dropped out, and instead of them there were pictures of babies without faces.
+bal_271.
+en_272. She drew them when she should have been totting up.
+bal_272.
+en_273. They were Mrs. Darling’s guesses.
+bal_273.
+en_274. Wendy came first, then John, then Michael.
+bal_274.
+en_275. For a week or two after Wendy came it was doubtful whether they would be able to keep her, as she was another mouth to feed.
+bal_275.
+en_276. Mr. Darling was frightfully proud of her, but he was very honourable, and he sat on the edge of Mrs. Darling’s bed, holding her hand and calculating expenses, while she looked at him imploringly.
+bal_276.
+en_277. She wanted to risk it, come what might, but that was not his way; his way was with a pencil and a piece of paper, and if she confused him with suggestions he had to begin at the beginning again.
+bal_277.
+en_278. “Now don’t interrupt,” he would beg of her.
+bal_278.
+en_279. “I have one pound seventeen here, and two and six at the office; I can cut off my coffee at the office, say ten shillings, making two nine and six, with your eighteen and three makes three nine seven, with five naught naught in my cheque-book makes eight nine seven—who is that moving?—eight nine seven, dot and carry seven—don’t speak, my own—and the pound you lent to that man who came to the door—quiet, child—dot and carry child—there, you’ve done it!—did
+bal_279.
+en_280. I say nine nine seven?
+bal_280.
+en_281. yes, I said nine nine seven; the question is, can we try it for a year on nine nine seven?”
+bal_281.
+en_282. “Of course we can, George,” she cried.
+bal_282.
+en_283. But she was prejudiced in Wendy’s favour, and he was really the grander character of the two.
+bal_283.
+en_284. “Remember mumps,” he warned her almost threateningly, and off he went again.
+bal_284.
+en_285. “Mumps one pound, that is what I have put down, but I daresay it will be more like thirty shillings—don’t speak—measles one five, German measles half a guinea, makes two fifteen six—don’t waggle your finger—whooping-cough, say fifteen shillings”—and so on it went, and it added up differently each time; but at last Wendy just got through, with mumps reduced to twelve six, and the two kinds of measles treated as one.
+bal_285.
+en_286. There was the same excitement over John, and Michael had even a narrower squeak; but both were kept, and soon, you might have seen the three of them going in a row to Miss Fulsom’s Kindergarten school, accompanied by their nurse.
+bal_286.
+en_287. Mrs. Darling loved to have everything just so, and Mr. Darling had a passion for being exactly like his neighbours; so, of course, they had a nurse.
+bal_287.
+en_288. As they were poor, owing to the amount of milk the children drank, this nurse was a prim Newfoundland dog, called Nana, who had belonged to no one in particular until the Darlings engaged her.
+bal_288.
+en_289. She had always thought children important, however, and the Darlings had become acquainted with her in Kensington Gardens, where she spent most of her spare time peeping into perambulators, and was much hated by careless nursemaids, whom she followed to their homes and complained of to their mistresses.
+bal_289.
+en_290. She proved to be quite a treasure of a nurse.
+bal_290.
+en_291. How thorough she was at bath-time, and up at any moment of the night if one of her charges made the slightest cry.
+bal_291.
+en_292. Of course her kennel was in the nursery.
+bal_292.
+en_293. She had a genius for knowing when a cough is a thing to have no patience with and when it needs stocking around your throat.
+bal_293.
+en_294. She believed to her last day in old-fashioned remedies like rhubarb leaf, and made sounds of contempt over all this new-fangled talk about germs, and so on.
+bal_294.
+en_295. It was a lesson in propriety to see her escorting the children to school, walking sedately by their side when they were well behaved, and butting them back into line if they strayed.
+bal_295.
+en_296. On John’s footer days she never once forgot his sweater, and she usually carried an umbrella in her mouth in case of rain.
+bal_296.
+en_297. There is a room in the basement of Miss Fulsom’s school where the nurses wait.
+bal_297.
+en_298. They sat on forms, while Nana lay on the floor, but that was the only difference.
+bal_298.
+en_299. They affected to ignore her as of an inferior social status to themselves, and she despised their light talk.
+bal_299.
+en_300. She resented visits to the nursery from Mrs. Darling’s friends, but if they did come she first whipped off Michael’s pinafore and put him into the one with blue braiding, and smoothed out Wendy and made a dash at John’s hair.
+bal_300.
+en_301. No nursery could possibly have been conducted more correctly, and Mr. Darling knew it, yet he sometimes wondered uneasily whether the neighbours talked.
+bal_301.
+en_302. He had his position in the city to consider.
+bal_302.
+en_303. Nana also troubled him in another way.
+bal_303.
+en_304. He had sometimes a feeling that she did not admire him.
+bal_304.
+en_305. “I know she admires you tremendously, George,” Mrs. Darling would assure him, and then she would sign to the children to be specially nice to father.
+bal_305.
+en_306. Lovely dances followed, in which the only other servant, Liza, was sometimes allowed to join.
+bal_306.
+en_307. Such a midget she looked in her long skirt and maid’s cap, though she had sworn, when engaged, that she would never see ten again.
+bal_307.
+en_308. The gaiety of those romps!
+bal_308.
+en_309. And gayest of all was Mrs. Darling, who would pirouette so wildly that all you could see of her was the kiss, and then if you had dashed at her you might have got it.
+bal_309.
+en_310. There never was a simpler happier family until the coming of Peter Pan.
+bal_310.
+en_311. Mrs. Darling first heard of Peter when she was tidying up her children’s minds.
+bal_311.
+en_312. It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning, repacking into their proper places the many articles that have wandered during the day.
+bal_312.
+en_313. If you could keep awake (but of course you can’t)
+bal_313.
+en_314. you would see your own mother doing this, and you would find it very interesting to watch her.
+bal_314.
+en_315. It is quite like tidying up drawers.
+bal_315.
+en_316. You would see her on her knees, I expect, lingering humorously over some of your contents, wondering where on earth you had picked this thing up, making discoveries sweet and not so sweet, pressing this to her cheek as if it were as nice as a kitten, and hurriedly
+bal_316.

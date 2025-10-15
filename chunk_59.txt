@@ -1,0 +1,650 @@
+en_1. teapot, and I’ve lit hup, you may scratch my ears for all you’re worth, and won’t git even a growl out of me.
+bal_1.
+en_2. Drive along with your questions.
+bal_2.
+en_3. I know what yer a-comin’ at, that ’ere escaped wolf.”
+bal_3.
+en_4. “Exactly.
+bal_4.
+en_5. I want you to give me your view of it.
+bal_5.
+en_6. Just tell me how it happened; and when I know the facts I’ll get you to say what you consider was the cause of it, and how you think the whole affair will end.”
+bal_6.
+en_7. “All right, guv’nor.
+bal_7.
+en_8. This ’ere is about the ’ole story.
+bal_8.
+en_9. That ’ere wolf what we called Bersicker was one of three grey ones that came from Norway to Jamrach’s, which we bought off him four years ago.
+bal_9.
+en_10. He was a nice well-behaved wolf, that never gave no trouble to talk of.
+bal_10.
+en_11. I’m more surprised at ’im for wantin’ to get out nor any other animile in the place.
+bal_11.
+en_12. But, there, you can’t trust wolves no more nor women.”
+bal_12.
+en_13. “Don’t you mind him, sir!” broke in Mrs. Tom, with a cheery laugh.
+bal_13.
+en_14. “’E’s got mindin’ the animiles so long that blest if he ain’t like a old wolf ’isself!
+bal_14.
+en_15. But there ain’t no ’arm in ’im.” “Well, sir, it was about two hours after feedin’ yesterday when I first hear my disturbance.
+bal_15.
+en_16. I was makin’ up a litter in the monkey-house for a young puma which is ill; but when I heard the yelpin’ and ’owlin’ I kem away straight.
+bal_16.
+en_17. There was Bersicker a-tearin’ like a mad thing at the bars as if he wanted to get out.
+bal_17.
+en_18. There wasn’t much people about that day, and close at hand was only one man, a tall, thin chap, with a ’ook nose and a pointed beard, with a few white hairs runnin’ through it.
+bal_18.
+en_19. He had a ’ard, cold look and red eyes, and I took a sort of mislike to him, for it seemed as if it was ’im as they was hirritated at.
+bal_19.
+en_20. He ’ad white kid gloves on ’is ’ands, and he pointed out the animiles to me and says: ‘Keeper, these wolves seem upset at something.’
+bal_20.
+en_21. “‘Maybe it’s you,’ says I, for I did not like the airs as he give ’isself.
+bal_21.
+en_22. He didn’t git angry, as I ’oped he would, but he smiled a kind of insolent smile, with a mouth full of white, sharp teeth.
+bal_22.
+en_23. ‘Oh no, they wouldn’t like me,’ ’e says.
+bal_23.
+en_24. “‘Ow yes, they would,’ says I, a-imitatin’ of him.
+bal_24.
+en_25. ‘They always likes a bone or two to clean their teeth on about tea-time, which you ’as a bagful.’
+bal_25.
+en_26. “Well, it was a odd thing, but when the animiles see us a-talkin’ they lay down, and when I went over to Bersicker he let me stroke his ears same as ever.
+bal_26.
+en_27. That there man kem over, and blessed
+bal_27.
+en_28. but if he didn’t put in his hand and stroke the old wolf’s ears too!
+bal_28.
+en_29. “‘Tyke care,’ says I. ‘Bersicker is quick.’
+bal_29.
+en_30. “‘Never mind,’ he says.
+bal_30.
+en_31. ‘I’m used to ’em!’
+bal_31.
+en_32. “‘Are you in the business yourself?’
+bal_32.
+en_33. I says, tyking off my ’at, for a man what trades in wolves, anceterer, is a good friend to keepers.
+bal_33.
+en_34. “‘No,’ says he, ‘not exactly in the business, but I ’ave made pets of several.’
+bal_34.
+en_35. And with that he lifts his ’at as perlite as a lord, and walks away.
+bal_35.
+en_36. Old Bersicker kep’ a-lookin’ arter ’im till ’e was out of sight, and then went and lay down in a corner and wouldn’t come hout the ’ole hevening.
+bal_36.
+en_37. Well, larst night, so soon as the moon was hup, the wolves here all began a-’owling.
+bal_37.
+en_38. There warn’t nothing for them to ’owl at.
+bal_38.
+en_39. There warn’t no one near, except some one that was evidently a-callin’ a dog somewheres out back of the gardings in the Park road.
+bal_39.
+en_40. Once or twice I went out to see that all was right, and it was, and then the ’owling stopped.
+bal_40.
+en_41. Just before twelve o’clock I just took a look round afore turnin’ in, an’, bust me, but when I kem opposite to old Bersicker’s cage I see the rails broken and twisted about and the cage empty.
+bal_41.
+en_42. And that’s all I know for certing.”
+bal_42.
+en_43. “Did any one else see anything?”
+bal_43.
+en_44. “One of our gard’ners was a-comin’ ’ome about that time from a ’armony, when he sees a big grey dog comin’ out through the garding ’edges.
+bal_44.
+en_45. At least, so he says, but I don’t give much for it myself, for if he did ’e never said a word about it to his missis when ’e got ’ome, and it was only after the escape of the wolf was made known, and we had been up all night-a-huntin’ of the Park for Bersicker, that he remembered seein’ anything.
+bal_45.
+en_46. My own belief was that the ’armony ’ad got into his ’ead.”
+bal_46.
+en_47. “Now, Mr. Bilder, can you account in any way for the escape of the wolf?”
+bal_47.
+en_48. “Well, sir,” he said, with a suspicious sort of modesty, “I think I can; but I don’t know as ’ow you’d be satisfied with the theory.”
+bal_48.
+en_49. “Certainly I shall.
+bal_49.
+en_50. If a man like you, who knows the animals from experience, can’t hazard a good guess at any rate, who is even to try?”
+bal_50.
+en_51. “Well then, sir, I accounts for it this way; it seems to me that ’ere wolf escaped--simply because he wanted to get out.”
+bal_51.
+en_52. From the hearty way that both Thomas and his wife laughed at the joke I could see that it had done service before, and that the whole explanation was simply an elaborate sell.
+bal_52.
+en_53. I couldn’t cope in badinage with the worthy Thomas, but I thought I knew a surer way to his heart, so I said:-- “Now, Mr. Bilder, we’ll consider that first half-sovereign worked off, and this brother of his is waiting to be claimed when you’ve told me what you think will happen.”
+bal_53.
+en_54. “Right y’are, sir,” he said briskly.
+bal_54.
+en_55. “Ye’ll excoose me, I know, for a-chaffin’ of ye, but the old woman here winked at me, which was as much as telling me to go on.”
+bal_55.
+en_56. “Well, I never!” said the old lady.
+bal_56.
+en_57. “My opinion is this: that ’ere wolf is a-’idin’ of, somewheres.
+bal_57.
+en_58. The gard’ner wot didn’t remember said he was a-gallopin’ northward faster than a horse could go; but I don’t believe him, for, yer see, sir, wolves don’t gallop no more nor dogs does, they not bein’ built that way.
+bal_58.
+en_59. Wolves is fine things in a storybook, and I dessay when they gets in packs and does be chivyin’ somethin’ that’s more afeared than they is they can make a devil of a noise and chop it up, whatever it is.
+bal_59.
+en_60. But, Lor’ bless you, in real life a wolf is only a low creature, not half so clever or bold as a good dog; and not half a quarter so much fight in ’im. This one ain’t been used to fightin’ or even to providin’ for hisself, and more like he’s somewhere round the Park a-’idin’ an’ a-shiverin’ of, and, if he thinks at all, wonderin’ where he is to get his breakfast from; or maybe he’s got down some area and is in a coal-cellar.
+bal_60.
+en_61. My eye, won’t some cook get a rum start when she sees his green eyes a-shining at her out of the dark!
+bal_61.
+en_62. If he can’t get food he’s bound to look for it, and mayhap he may chance to light on a butcher’s shop in time.
+bal_62.
+en_63. If he doesn’t, and some nursemaid goes a-walkin’ orf with a soldier, leavin’ of the hinfant in the perambulator--well, then I shouldn’t be surprised if the census is one babby the less.
+bal_63.
+en_64. That’s all.”
+bal_64.
+en_65. I was handing him the half-sovereign, when something came bobbing up against the window, and Mr. Bilder’s face doubled its natural length with surprise.
+bal_65.
+en_66. “God bless me!”
+bal_66.
+en_67. he said.
+bal_67.
+en_68. “If there ain’t old Bersicker come back by ’isself!”
+bal_68.
+en_69. He went to the door and opened it; a most unnecessary proceeding it seemed to me.
+bal_69.
+en_70. I have always thought that a wild animal never looks so well as when some obstacle of pronounced durability is between us; a personal experience has intensified rather than diminished that idea.
+bal_70.
+en_71. After all, however, there is nothing like custom, for neither Bilder nor his wife thought any more of the wolf than I should of a dog.
+bal_71.
+en_72. The animal itself was as peaceful and well-behaved as that father of all picture-wolves--Red Riding Hood’s quondam friend, whilst moving her confidence in masquerade.
+bal_72.
+en_73. The whole scene was an unutterable mixture of comedy and pathos.
+bal_73.
+en_74. The wicked wolf that for half a day had paralysed London and set all the children in the town shivering in their shoes, was there in a sort of penitent mood, and was received and petted like a sort of vulpine prodigal son.
+bal_74.
+en_75. Old Bilder examined him all over with most tender solicitude, and when he had finished with his penitent said:-- “There, I knew the poor old chap would get into some kind of trouble; didn’t I say it all along?
+bal_75.
+en_76. Here’s his head all cut and full of broken glass. ’
+bal_76.
+en_77. E’s been a-gettin’ over some bloomin’ wall or other.
+bal_77.
+en_78. It’s a shyme that people are allowed to top their walls with broken bottles.
+bal_78.
+en_79. This ’ere’s what comes of it.
+bal_79.
+en_80. Come along, Bersicker.”
+bal_80.
+en_81. He took the wolf and locked him up in a cage, with a piece of meat that satisfied, in quantity at any rate, the elementary conditions of the fatted calf, and went off to report.
+bal_81.
+en_82. I came off, too, to report the only exclusive information that is given to-day regarding the strange escapade at the Zoo.
+bal_82.
+en_83. _
+bal_83.
+en_84. Dr. Seward’s Diary.
+bal_84.
+en_85. _ _17 September._--I was engaged after dinner in my study posting up my books, which, through press of other work and the many visits to Lucy, had fallen sadly into arrear.
+bal_85.
+en_86. Suddenly the door was burst open, and in rushed my patient, with his face distorted with passion.
+bal_86.
+en_87. I was thunderstruck, for such a thing as a patient getting of his own accord into the Superintendent’s study is almost unknown.
+bal_87.
+en_88. Without an instant’s pause he made straight at me.
+bal_88.
+en_89. He had a dinner-knife in his hand, and, as I saw he was dangerous, I tried to keep the table between us.
+bal_89.
+en_90. He was too quick and too strong for me, however; for before I could get my balance he had struck at me and cut my left wrist rather severely.
+bal_90.
+en_91. Before he could strike again, however, I got in my right and he was sprawling on his back on the floor.
+bal_91.
+en_92. My wrist bled freely, and quite a little pool trickled on to the carpet.
+bal_92.
+en_93. I saw that my friend was not intent on further effort, and occupied myself binding up my wrist, keeping a wary eye on the prostrate figure all the time.
+bal_93.
+en_94. When the attendants rushed in, and we turned our attention to him, his employment positively sickened me.
+bal_94.
+en_95. He was lying on his belly on the floor licking up, like a dog, the blood which had fallen from my wounded wrist.
+bal_95.
+en_96. He was easily secured, and, to my surprise, went with the attendants quite placidly, simply repeating over and over again: “The blood is the life!
+bal_96.
+en_97. The blood is the life!”
+bal_97.
+en_98. I cannot afford to lose blood just at present; I have lost too much of late for my physical good, and then the prolonged strain of Lucy’s illness and its horrible phases is telling on me.
+bal_98.
+en_99. I am over-excited and weary, and I need rest, rest, rest.
+bal_99.
+en_100. Happily Van Helsing has not summoned me, so I need not forego my sleep; to-night I could not well do without it.
+bal_100.
+en_101. _
+bal_101.
+en_102. Telegram, Van Helsing, Antwerp, to Seward, Carfax._ (Sent to Carfax, Sussex, as no county given; delivered late by twenty-two hours.)
+bal_102.
+en_103. “_17 September._--Do not fail to be at Hillingham to-night.
+bal_103.
+en_104. If not watching all the time frequently, visit and see that flowers are as placed; very important; do not fail.
+bal_104.
+en_105. Shall be with you as soon as possible after arrival.”
+bal_105.
+en_106. _Dr. Seward’s Diary._
+bal_106.
+en_107. _18 September._--Just off for train to London.
+bal_107.
+en_108. The arrival of Van Helsing’s telegram filled me with dismay.
+bal_108.
+en_109. A whole night lost, and I know by bitter experience what may happen in a night.
+bal_109.
+en_110. Of course it is possible that all may be well, but what _may_ have happened?
+bal_110.
+en_111. Surely there is some horrible doom hanging over us that every possible accident should thwart us in all we try to do.
+bal_111.
+en_112. I shall take this cylinder with me, and then I can complete my entry on Lucy’s phonograph.
+bal_112.
+en_113. _
+bal_113.
+en_114. Memorandum left by Lucy Westenra._
+bal_114.
+en_115. _17 September.
+bal_115.
+en_116. Night._--I write this and leave it to be seen, so that no one may by any chance get into trouble through me.
+bal_116.
+en_117. This is an exact record of what took place to-night.
+bal_117.
+en_118. I feel I am dying of weakness, and have barely strength to write, but it must be done if I die in the doing.
+bal_118.
+en_119. I went to bed as usual, taking care that the flowers were placed as Dr. Van Helsing directed, and soon fell asleep.
+bal_119.
+en_120. I was waked by the flapping at the window, which had begun after that sleep-walking on the cliff at Whitby when Mina saved me, and which now I know so well.
+bal_120.
+en_121. I was not afraid, but I did wish that Dr. Seward was in the next room--as Dr. Van Helsing said he would be--so that I might have called him.
+bal_121.
+en_122. I tried to go to sleep, but could not.
+bal_122.
+en_123. Then there came to me the old fear of sleep, and I determined to keep awake.
+bal_123.
+en_124. Perversely sleep would try to come then when I did not want it; so, as I feared to be alone, I opened my door and called out: “Is there anybody there?”
+bal_124.
+en_125. There was no answer.
+bal_125.
+en_126. I was afraid to wake mother, and so closed my door again.
+bal_126.
+en_127. Then outside in the shrubbery I heard a sort of howl like a dog’s, but more fierce and deeper.
+bal_127.
+en_128. I went to the window and looked out, but could see nothing, except a big bat, which had evidently been buffeting its wings against the window.
+bal_128.
+en_129. So I went back to bed again, but determined not to go to sleep.
+bal_129.
+en_130. Presently the door opened, and mother looked in; seeing by my moving that I was not asleep, came in, and sat by me.
+bal_130.
+en_131. She said to me even more sweetly and softly than her wont:-- “I was uneasy about you, darling, and came in to see that you were all right.”
+bal_131.
+en_132. I feared she might catch cold sitting there, and asked her to come in and sleep with me, so she came into bed, and lay down beside me; she did not take off her dressing gown, for she said she would only stay a while and then go back to her own bed.
+bal_132.
+en_133. As she lay there in my arms, and I in hers, the flapping and buffeting came to the window again.
+bal_133.
+en_134. She was startled and a little frightened, and cried out: “What is that?”
+bal_134.
+en_135. I tried to pacify her, and at last succeeded, and she lay quiet; but I could hear her poor dear heart still beating terribly.
+bal_135.
+en_136. After a while there was the low howl again out in the shrubbery, and shortly after there was a crash at the window, and a lot of broken glass was hurled on the floor.
+bal_136.
+en_137. The window blind blew back with the wind that rushed in, and in the aperture of the broken panes there was the head of a great, gaunt grey wolf.
+bal_137.
+en_138. Mother cried out in a fright, and struggled up into a sitting posture, and clutched wildly at anything that would help her.
+bal_138.
+en_139. Amongst other things, she clutched the wreath of flowers that Dr. Van Helsing insisted on my wearing round my neck, and tore it away from me.
+bal_139.
+en_140. For a second or two she sat up, pointing at the wolf, and there was a strange and horrible gurgling in her throat; then she fell over--as if struck with lightning, and her head hit my forehead and made me dizzy for a moment or two.
+bal_140.
+en_141. The room and all round seemed to spin round.
+bal_141.
+en_142. I kept my eyes fixed on the window, but the wolf drew his head back, and a whole myriad of little specks seemed to come blowing in through the broken window, and wheeling and circling round like the pillar of dust that travellers describe when there is a simoon in the desert.
+bal_142.
+en_143. I tried to stir, but there was some spell upon me, and dear mother’s poor body, which seemed to grow cold already--for her dear heart had ceased to beat--weighed me down; and I remembered no more for a while.
+bal_143.
+en_144. The time did not seem long, but very, very awful, till I recovered consciousness again.
+bal_144.
+en_145. Somewhere near, a passing bell was tolling; the dogs all round the neighbourhood were howling; and in our shrubbery, seemingly just outside, a nightingale was singing.
+bal_145.
+en_146. I was dazed and stupid with pain and terror and weakness, but the sound of the nightingale seemed like the voice of my dead mother come back to comfort me.
+bal_146.
+en_147. The sounds seemed to have awakened the maids, too, for I could hear their bare feet pattering outside my door.
+bal_147.
+en_148. I called to them, and they came in, and when they saw what had happened, and what it was that lay over me on the bed, they screamed out.
+bal_148.
+en_149. The wind rushed in through the broken window, and the door slammed to.
+bal_149.
+en_150. They lifted off the body of my dear mother, and laid her, covered up with a sheet, on the bed after I had got up.
+bal_150.
+en_151. They were all so frightened and nervous that I directed them to go to the dining-room and have each a glass of wine.
+bal_151.
+en_152. The door flew open for an instant and closed again.
+bal_152.
+en_153. The maids shrieked, and then went in a body to the dining-room; and I laid what flowers I had on my dear mother’s breast.
+bal_153.
+en_154. When they were there I remembered what Dr. Van Helsing had told me, but I didn’t like to remove them, and, besides, I would have some of the servants to sit up with me now.
+bal_154.
+en_155. I was surprised that the maids did not come back.
+bal_155.
+en_156. I called them, but got no answer, so I went to the dining-room to look for them.
+bal_156.
+en_157. My heart sank when I saw what had happened.
+bal_157.
+en_158. They all four lay helpless on the floor, breathing heavily.
+bal_158.
+en_159. The decanter of sherry was on the table half full, but there was a queer, acrid smell about.
+bal_159.
+en_160. I was suspicious, and examined the decanter.
+bal_160.
+en_161. It smelt of laudanum, and looking on the sideboard, I found that the bottle which mother’s doctor uses for her--oh! did use--was empty.
+bal_161.
+en_162. What am I to do?
+bal_162.
+en_163. what am I to do?
+bal_163.
+en_164. I am back in the room with mother.
+bal_164.
+en_165. I cannot leave her, and I am alone, save for the sleeping servants, whom some one has drugged.
+bal_165.
+en_166. Alone with the dead!
+bal_166.
+en_167. I dare not go out, for I can hear the low howl of the wolf through the broken window.
+bal_167.
+en_168. The air seems full of specks, floating and circling in the draught from the window, and the lights burn blue and dim.
+bal_168.
+en_169. What am I to do?
+bal_169.
+en_170. God shield me from harm this night!
+bal_170.
+en_171. I shall hide this paper in my breast, where they shall find it when they come to lay me out.
+bal_171.
+en_172. My dear mother gone!
+bal_172.
+en_173. It is time that I go too.
+bal_173.
+en_174. Good-bye, dear Arthur, if I should not survive this night.
+bal_174.
+en_175. God keep you, dear, and God help me!
+bal_175.
+en_176. CHAPTER XII DR. SEWARD’S DIARY _18 September._--I drove at once to Hillingham and arrived early.
+bal_176.
+en_177. Keeping my cab at the gate, I went up the avenue alone.
+bal_177.
+en_178. I knocked gently and rang as quietly as possible, for I feared to disturb Lucy or her mother, and hoped to only bring a servant to the door.
+bal_178.
+en_179. After a while, finding no response, I knocked and rang again; still no answer.
+bal_179.
+en_180. I cursed the laziness of the servants that they should lie abed at such an hour--for it was now ten o’clock--and so rang and knocked again, but more impatiently, but still without response.
+bal_180.
+en_181. Hitherto I had blamed only the servants, but now a terrible fear began to assail me.
+bal_181.
+en_182. Was this desolation but another link in the chain of doom which seemed drawing tight around us?
+bal_182.
+en_183. Was it indeed a house of death to which I had come, too late?
+bal_183.
+en_184. I knew that minutes, even seconds of delay, might mean hours of danger to Lucy, if she had had again one of those frightful relapses; and I went round the house to try if I could find by chance an entry anywhere.
+bal_184.
+en_185. I could find no means of ingress.
+bal_185.
+en_186. Every window and door was fastened and locked, and I returned baffled to the porch.
+bal_186.
+en_187. As I did so, I heard the rapid pit-pat of a swiftly driven horse’s feet.
+bal_187.
+en_188. They stopped at the gate, and a few seconds later I met Van Helsing running up the avenue.
+bal_188.
+en_189. When he saw me, he gasped out:-- “Then it was you, and just arrived.
+bal_189.
+en_190. How is she?
+bal_190.
+en_191. Are we too late?
+bal_191.
+en_192. Did you not get my telegram?”
+bal_192.
+en_193. I answered as quickly and coherently as I could that I had only got his telegram early in the morning, and had not lost a minute in coming here, and that I could not make any one in the house hear me.
+bal_193.
+en_194. He paused and raised his hat as he said solemnly:-- “Then I fear we are too late.
+bal_194.
+en_195. God’s will be done!”
+bal_195.
+en_196. With his usual recuperative energy, he went on: “Come.
+bal_196.
+en_197. If there be no way open to get in, we must make one.
+bal_197.
+en_198. Time is all in all to us now.”
+bal_198.
+en_199. We went round to the back of the house, where there was a kitchen window.
+bal_199.
+en_200. The Professor took a small surgical saw from his case, and handing it to me, pointed to the iron bars which guarded the window.
+bal_200.
+en_201. I attacked them at once and had very soon cut through three of them.
+bal_201.
+en_202. Then with a long, thin knife we pushed back the fastening of the sashes and opened the window.
+bal_202.
+en_203. I helped the Professor in, and followed him.
+bal_203.
+en_204. There was no one in the kitchen or in the servants’ rooms, which were close at hand.
+bal_204.
+en_205. We tried all the rooms as we went along, and in the dining-room, dimly lit by rays of light through the shutters, found four servant-women lying on the floor.
+bal_205.
+en_206. There was no need to think them dead, for their stertorous breathing and the acrid smell of laudanum in the room left no doubt as to their condition.
+bal_206.
+en_207. Van Helsing and I looked at each other, and as we moved away he said: “We can attend to them later.”
+bal_207.
+en_208. Then we ascended to Lucy’s room.
+bal_208.
+en_209. For an instant or two we paused at the door to listen, but there was no sound that we could hear.
+bal_209.
+en_210. With white faces and trembling hands, we opened the door gently, and entered the room.
+bal_210.
+en_211. How shall I describe what we saw?
+bal_211.
+en_212. On the bed lay two women, Lucy and her mother.
+bal_212.
+en_213. The latter lay farthest in, and she was covered with a white sheet, the edge of which had been blown back by the draught through the broken window, showing the drawn, white face, with a look of terror fixed upon it.
+bal_213.
+en_214. By her side lay Lucy, with face white and still more drawn.
+bal_214.
+en_215. The flowers which had been round her neck we found upon her mother’s bosom, and her throat was bare, showing the two little wounds which we had noticed before, but looking horribly white and mangled.
+bal_215.
+en_216. Without a word the Professor bent over the bed, his head almost touching poor Lucy’s breast; then he gave a quick turn of his head, as of one who listens, and leaping to his feet, he cried out to me:-- “It is not yet too late!
+bal_216.
+en_217. Quick!
+bal_217.
+en_218. quick!
+bal_218.
+en_219. Bring the brandy!”
+bal_219.
+en_220. I flew downstairs and returned with it, taking care to smell and taste it, lest it, too, were drugged like the decanter of sherry which I found on the table.
+bal_220.
+en_221. The maids were still breathing, but more restlessly, and I fancied that the narcotic was wearing off.
+bal_221.
+en_222. I did not stay to make sure, but returned to Van Helsing.
+bal_222.
+en_223. He rubbed the brandy, as on another occasion, on her lips and gums and on her wrists and the palms of her hands.
+bal_223.
+en_224. He said to me:-- “I can do this, all that can be at the present.
+bal_224.
+en_225. You go wake those maids.
+bal_225.
+en_226. Flick them in the face with a wet towel, and flick them hard.
+bal_226.
+en_227. Make them get heat and fire and a warm bath.
+bal_227.
+en_228. This poor soul is nearly as cold as that beside her.
+bal_228.
+en_229. She will need be heated before we can do anything more.”
+bal_229.
+en_230. I went at once, and found little difficulty in waking three of the women.
+bal_230.
+en_231. The fourth was only a young girl, and the drug had evidently affected her more strongly, so I lifted her on the sofa and let her sleep.
+bal_231.
+en_232. The others were dazed at first, but as remembrance came back to them they cried and sobbed in a hysterical manner.
+bal_232.
+en_233. I was stern with them, however, and would not let them talk.
+bal_233.
+en_234. I told them that one life was bad enough to lose, and that if they delayed they would sacrifice Miss Lucy.
+bal_234.
+en_235. So, sobbing and crying, they went about their way, half clad as they were, and prepared fire and water.
+bal_235.
+en_236. Fortunately, the kitchen and boiler fires were still alive, and there was no lack of hot water.
+bal_236.
+en_237. We got a bath and carried Lucy out as she was and placed her in it.
+bal_237.
+en_238. Whilst we were busy chafing her limbs there was a knock at the hall door.
+bal_238.
+en_239. One of the maids ran off, hurried on some more clothes, and opened it.
+bal_239.
+en_240. Then she returned and whispered to us that there was a gentleman who had come with a message from Mr. Holmwood.
+bal_240.
+en_241. I bade her simply tell him that he must wait, for we could see no one now.
+bal_241.
+en_242. She went away with the message, and, engrossed with our work, I clean forgot all about him.
+bal_242.
+en_243. I never saw in all my experience the Professor work in such deadly earnest.
+bal_243.
+en_244. I knew--as he knew--that it was a stand-up fight with death, and in a pause told him so.
+bal_244.
+en_245. He answered me in a way that I did not understand, but with the sternest look that his face could wear:-- “If that were all, I would stop here where we are now, and let her fade away into peace, for I see no light in life over her horizon.”
+bal_245.
+en_246. He went on with his work with, if possible, renewed and more frenzied vigour.
+bal_246.
+en_247. Presently we both began to be conscious that the heat was beginning to be of some effect.
+bal_247.
+en_248. Lucy’s heart beat a trifle more audibly to the stethoscope, and her lungs had a perceptible movement.
+bal_248.
+en_249. Van Helsing’s face almost beamed, and as we lifted her from the bath and rolled her in a hot sheet to dry her he said to me:-- “The first gain is ours!
+bal_249.
+en_250. Check to the King!”
+bal_250.
+en_251. We took Lucy into another room, which had by now been prepared, and laid her in bed and forced a few drops of brandy down her throat.
+bal_251.
+en_252. I noticed that Van Helsing tied a soft silk handkerchief round her throat.
+bal_252.
+en_253. She was still unconscious, and was quite as bad as, if not worse than, we had ever seen her.
+bal_253.
+en_254. Van Helsing called in one of the women, and told her to stay with her and not to take her eyes off her till we returned, and then beckoned me out of the room.
+bal_254.
+en_255. “We must consult as to what is to be done,” he said as we descended the stairs.
+bal_255.
+en_256. In the hall he opened the dining-room door, and we passed in, he closing the door carefully behind him.
+bal_256.
+en_257. The shutters had been opened, but the blinds were already down, with that obedience to the etiquette of death which the British woman of the lower classes always rigidly observes.
+bal_257.
+en_258. The room was, therefore, dimly dark.
+bal_258.
+en_259. It was, however, light enough for our purposes.
+bal_259.
+en_260. Van Helsing’s sternness was somewhat relieved by a look of perplexity.
+bal_260.
+en_261. He was evidently torturing his mind about something, so I waited for an instant, and he spoke:-- “What are we to do now?
+bal_261.
+en_262. Where are we to turn for help?
+bal_262.
+en_263. We must have another transfusion of blood, and that soon, or that poor girl’s life won’t be worth an hour’s purchase.
+bal_263.
+en_264. You are exhausted already; I am exhausted too.
+bal_264.
+en_265. I fear to trust those women, even if they would have courage to submit.
+bal_265.
+en_266. What are we to do for some one who will open his veins for her?”
+bal_266.
+en_267. “What’s the matter with me, anyhow?”
+bal_267.
+en_268. The voice came from the sofa across the room, and its tones brought relief and joy to my heart, for they were those of Quincey Morris.
+bal_268.
+en_269. Van Helsing started angrily at the first sound, but his face softened and a glad look came into his eyes as I cried out: “Quincey Morris!” and rushed towards him with outstretched hands.
+bal_269.
+en_270. “What brought you here?”
+bal_270.
+en_271. I cried as our hands met.
+bal_271.
+en_272. “I guess Art is the cause.”
+bal_272.
+en_273. He handed me a telegram:-- “Have not heard from Seward for three days, and am terribly anxious.
+bal_273.
+en_274. Cannot leave.
+bal_274.
+en_275. Father still in same condition.
+bal_275.
+en_276. Send me word how Lucy is.
+bal_276.
+en_277. Do not delay.--HOLMWOOD.”
+bal_277.
+en_278. “I think I came just in the nick of time.
+bal_278.
+en_279. You know you have only to tell me what to do.”
+bal_279.
+en_280. Van Helsing strode forward, and took his hand, looking him straight in the eyes as he said:-- “A brave man’s blood is the best thing on this earth when a woman is in trouble.
+bal_280.
+en_281. You’re a man and no mistake.
+bal_281.
+en_282. Well, the devil may work against us for all he’s worth, but God sends us men when we want them.”
+bal_282.
+en_283. Once again we went through that ghastly operation.
+bal_283.
+en_284. I have not the heart to go through with the details.
+bal_284.
+en_285. Lucy had got a terrible shock and it told on her more than before, for though plenty of blood went into her veins, her body did not respond to the treatment as well as on the other occasions.
+bal_285.
+en_286. Her struggle back into life was something frightful to see and hear.
+bal_286.
+en_287. However, the action of both heart and lungs improved, and Van Helsing made a subcutaneous injection of morphia, as before, and with good effect.
+bal_287.
+en_288. Her faint became a profound slumber.
+bal_288.
+en_289. The Professor watched whilst I went downstairs with Quincey Morris, and sent one of the maids to pay off one of the cabmen who were waiting.
+bal_289.
+en_290. I left Quincey lying down after having a glass of wine, and told the cook to get ready a good breakfast.
+bal_290.
+en_291. Then a thought struck me, and I went back to the room where Lucy now was.
+bal_291.
+en_292. When I came softly in, I found Van Helsing with a sheet or two of note-paper in his hand.
+bal_292.
+en_293. He had evidently read it, and was thinking it over as he sat with his hand to his brow.
+bal_293.
+en_294. There was a look of grim satisfaction in his face, as of one who has had a doubt solved.
+bal_294.
+en_295. He handed me the paper saying only: “It dropped from Lucy’s breast when we carried her to the bath.”
+bal_295.
+en_296. When I had read it, I stood looking at the Professor, and after a pause asked him: “In God’s name, what does it all mean?
+bal_296.
+en_297. Was she, or is she, mad; or what sort of horrible danger is it?”
+bal_297.
+en_298. I was so bewildered that I did not know what to say more.
+bal_298.
+en_299. Van Helsing put out his hand and took the paper, saying:-- “Do not trouble about it now.
+bal_299.
+en_300. Forget it for the present.
+bal_300.
+en_301. You shall know and understand it all in good time; but it will be later.
+bal_301.
+en_302. And now what is it that you came to me to say?”
+bal_302.
+en_303. This brought me back to fact, and I was all myself again.
+bal_303.
+en_304. “I came to speak about the certificate of death.
+bal_304.
+en_305. If we do not act properly and wisely, there may be an inquest, and that paper would have to be produced.
+bal_305.
+en_306. I am in hopes that we need have no inquest, for if we had it would surely kill poor Lucy, if nothing else did.
+bal_306.
+en_307. I know, and you know, and the other doctor who attended her knows, that Mrs. Westenra had disease of the heart, and we can certify that she died of it.
+bal_307.
+en_308. Let us fill up the certificate at once, and I shall take it myself to the registrar and go on to the undertaker.”
+bal_308.
+en_309. “Good, oh my friend John!
+bal_309.
+en_310. Well thought of!
+bal_310.
+en_311. Truly Miss Lucy, if she be sad in the foes that beset her, is at least happy in the friends that love her.
+bal_311.
+en_312. One, two, three, all open their veins for her, besides one old man.
+bal_312.
+en_313. Ah yes, I know, friend John; I am not blind!
+bal_313.
+en_314. I love you all the more for it!
+bal_314.
+en_315. Now go.”
+bal_315.
+en_316. In the hall I met Quincey Morris, with a telegram for Arthur telling him that Mrs. Westenra was dead; that Lucy also had been ill, but was now going on better; and that Van Helsing and I were with her.
+bal_316.
+en_317. I told him where I was going, and he hurried me out, but as I was going said:-- “When you come back, Jack, may I have two words with you all to ourselves?”
+bal_317.
+en_318. I nodded in reply and went out.
+bal_318.
+en_319. I found no difficulty about the registration, and arranged with the local undertaker to come up in the evening to measure for the coffin and to make arrangements.
+bal_319.
+en_320. When I got back Quincey was waiting for me.
+bal_320.
+en_321. I told him I would see him as soon as I knew about Lucy, and went up to her room.
+bal_321.
+en_322. She was still sleeping, and the Professor seemingly had not moved from his seat at her side.
+bal_322.
+en_323. From his putting his finger to his lips, I gathered that he expected her to wake before long and was afraid of forestalling nature.
+bal_323.
+en_324. So I went down to Quincey and took him into the breakfast-room, where the blinds were not drawn down, and which was a little more cheerful, or rather less cheerless, than the other rooms.
+bal_324.
+en_325. When we were alone, he said to me:-- “Jack Seward, I don’t want to shove myself in anywhere where I’ve
+bal_325.

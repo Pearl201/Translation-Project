@@ -1,0 +1,568 @@
+en_1. and of late it has been shifting about pretty much.
+bal_1.
+en_2. For my part, I am inclined to believe it all Mr. Darcy’s, but you shall do as you choose.”
+bal_2.
+en_3. It was some time, however, before a smile could be extorted from Jane.
+bal_3.
+en_4. “I do not know when I have been more shocked,” said she.
+bal_4.
+en_5. “Wickham so very bad!
+bal_5.
+en_6. It is almost past belief.
+bal_6.
+en_7. And poor Mr. Darcy!
+bal_7.
+en_8. dear Lizzy, only consider what he must have suffered.
+bal_8.
+en_9. Such a disappointment!
+bal_9.
+en_10. and with the knowledge of your ill opinion too!
+bal_10.
+en_11. and having to relate such a thing of his sister!
+bal_11.
+en_12. It is really too distressing, I am sure you must feel it so.”
+bal_12.
+en_13. “Oh no, my regret and compassion are all done away by seeing you so full of both.
+bal_13.
+en_14. I know you will do him such ample justice, that I am growing every moment more unconcerned and indifferent.
+bal_14.
+en_15. Your profusion makes me saving; and if you lament over him much longer, my heart will be as light as a feather.”
+bal_15.
+en_16. “Poor Wickham!
+bal_16.
+en_17. there is such an expression of goodness in his countenance!
+bal_17.
+en_18. such an openness and gentleness in his manner.”
+bal_18.
+en_19. “There certainly was some great mismanagement in the education of those two young men.
+bal_19.
+en_20. One has got all the goodness, and the other all the appearance of it.”
+bal_20.
+en_21. “I never thought Mr. Darcy so deficient in the _appearance_ of it as you used to do.”
+bal_21.
+en_22. “And yet I meant to be uncommonly clever in taking so decided a dislike to him, without any reason.
+bal_22.
+en_23. It is such a spur to one’s genius, such an opening for wit, to have a dislike of that kind.
+bal_23.
+en_24. One may be continually abusive without saying anything just; but one cannot be always laughing at a man without now and then stumbling on something witty.”
+bal_24.
+en_25. “Lizzy, when you first read that letter, I am sure you could not treat the matter as you do now.”
+bal_25.
+en_26. “Indeed, I could not.
+bal_26.
+en_27. I was uncomfortable enough, I was very uncomfortable--I may say unhappy.
+bal_27.
+en_28. And with no one to speak to of what I felt, no Jane to comfort me, and say that I had not been so very weak, and vain, and nonsensical, as I knew I had!
+bal_28.
+en_29. Oh, how I wanted you!”
+bal_29.
+en_30. “How unfortunate that you should have used such very strong expressions in speaking of Wickham to Mr. Darcy, for now they _do_ appear wholly undeserved.”
+bal_30.
+en_31. “Certainly.
+bal_31.
+en_32. But the misfortune of speaking with bitterness is a most natural consequence of the prejudices I had been encouraging.
+bal_32.
+en_33. There is one point on which I want your advice.
+bal_33.
+en_34. I want to be told whether I ought, or ought not, to make our acquaintance in general understand Wickham’s character.”
+bal_34.
+en_35. Miss Bennet paused a little, and then replied, “Surely there can be no occasion for exposing him so dreadfully.
+bal_35.
+en_36. What is your own opinion?”
+bal_36.
+en_37. “That it ought not to be attempted.
+bal_37.
+en_38. Mr. Darcy has not authorized me to make his communication public.
+bal_38.
+en_39. On the contrary, every particular relative to his sister was meant to be kept as much as possible to myself; and if I endeavour to undeceive people as to the rest of his conduct, who will believe me?
+bal_39.
+en_40. The general prejudice against Mr. Darcy is so violent, that it would be the death of half the good people in Meryton, to attempt to place him in an amiable light.
+bal_40.
+en_41. I am not equal to it.
+bal_41.
+en_42. Wickham will soon be gone; and, therefore, it will not signify to anybody here what he really is.
+bal_42.
+en_43. Some time hence it will be all found out, and then we may laugh at their stupidity in not knowing it before.
+bal_43.
+en_44. At present I will say nothing about it.”
+bal_44.
+en_45. “You are quite right.
+bal_45.
+en_46. To have his errors made public might ruin him for ever.
+bal_46.
+en_47. He is now, perhaps, sorry for what he has done, and anxious to re-establish a character.
+bal_47.
+en_48. We must not make him desperate.”
+bal_48.
+en_49. The tumult of Elizabeth’s mind was allayed by this conversation.
+bal_49.
+en_50. She had got rid of two of the secrets which had weighed on her for a fortnight, and was certain of a willing listener in Jane, whenever she might wish to talk again of either.
+bal_50.
+en_51. But there was still something lurking behind, of which prudence forbade the disclosure.
+bal_51.
+en_52. She dared not relate the other half of Mr. Darcy’s letter, nor explain to her sister how sincerely she had been valued by his friend.
+bal_52.
+en_53. Here was knowledge in which no one could partake; and she was sensible that nothing less than a perfect understanding between the parties could justify her in throwing off this last encumbrance of mystery.
+bal_53.
+en_54. “And then,” said she, “if that very improbable event should ever take place, I shall merely be able to tell what Bingley may tell in a much more agreeable manner himself.
+bal_54.
+en_55. The liberty of communication cannot be mine till it has lost all its value!”
+bal_55.
+en_56. She was now, on being settled at home, at leisure to observe the real state of her sister’s spirits.
+bal_56.
+en_57. Jane was not happy.
+bal_57.
+en_58. She still cherished a very tender affection for Bingley.
+bal_58.
+en_59. Having never even fancied herself in love before, her regard had all the warmth of first attachment, and from her age and disposition, greater steadiness than first attachments often boast; and so fervently did she value his remembrance, and prefer him to every other man, that all her good sense, and all her attention to the feelings of her friends, were requisite to check the indulgence of those regrets which must have been injurious to her own health and their tranquillity.
+bal_59.
+en_60. “Well, Lizzy,” said Mrs. Bennet, one day, “what is your opinion _now_ of this sad business of Jane’s?
+bal_60.
+en_61. For my part, I am determined never to speak of it again to anybody.
+bal_61.
+en_62. I told my sister Philips so the other day.
+bal_62.
+en_63. But I cannot find out that Jane saw anything of him in London.
+bal_63.
+en_64. Well, he is a very undeserving young man--and I do not suppose there is the least chance in the world of her ever getting him now.
+bal_64.
+en_65. There is no talk of his coming to Netherfield again in the summer; and I have inquired of everybody, too, who is likely to know.”
+bal_65.
+en_66. [Illustration: “I am determined never to speak of it again” ]
+bal_66.
+en_67. “I do not believe that he will ever live at Netherfield any more.”
+bal_67.
+en_68. “Oh, well!
+bal_68.
+en_69. it is just as he chooses.
+bal_69.
+en_70. Nobody wants him to come; though I shall always say that he used my daughter extremely ill; and, if I was her, I would not have put up with it.
+bal_70.
+en_71. Well, my comfort is, I am sure Jane will die of a broken heart, and then he will be sorry for what he has done.”
+bal_71.
+en_72. But as Elizabeth could not receive comfort from any such expectation she made no answer.
+bal_72.
+en_73. “Well, Lizzy,” continued her mother, soon afterwards, “and so the Collinses live very comfortable, do they?
+bal_73.
+en_74. Well, well, I only hope it will last.
+bal_74.
+en_75. And what sort of table do they keep?
+bal_75.
+en_76. Charlotte is an excellent manager, I dare say.
+bal_76.
+en_77. If she is half as sharp as her mother, she is saving enough.
+bal_77.
+en_78. There is nothing extravagant in _their_ housekeeping, I dare say.”
+bal_78.
+en_79. “No, nothing at all.”
+bal_79.
+en_80. “A great deal of good management, depend upon it.
+bal_80.
+en_81. Yes, yes.
+bal_81.
+en_82. _
+bal_82.
+en_83. They_ will take care not to outrun their income.
+bal_83.
+en_84. _
+bal_84.
+en_85. They_ will never be distressed for money.
+bal_85.
+en_86. Well, much good may it do them!
+bal_86.
+en_87. And so, I suppose, they often talk of having Longbourn when your father is dead.
+bal_87.
+en_88. They look upon it quite as their own, I dare say, whenever that happens.”
+bal_88.
+en_89. “It was a subject which they could not mention before me.”
+bal_89.
+en_90. “No; it would have been strange if they had.
+bal_90.
+en_91. But I make no doubt they often talk of it between themselves.
+bal_91.
+en_92. Well, if they can be easy with an estate that is not lawfully their own, so much the better.
+bal_92.
+en_93. _
+bal_93.
+en_94. I_ should be ashamed of having one that was only entailed on me.”
+bal_94.
+en_95. [Illustration: “When Colonel Miller’s regiment went away”
+bal_95.
+en_96. [_Copyright 1894 by George Allen._]] CHAPTER XLI.
+bal_96.
+en_97. [Illustration] The first week of their return was soon gone.
+bal_97.
+en_98. The second began.
+bal_98.
+en_99. It was the last of the regiment’s stay in Meryton, and all the young ladies in the neighbourhood were drooping apace.
+bal_99.
+en_100. The dejection was almost universal.
+bal_100.
+en_101. The elder Miss Bennets alone were still able to eat, drink, and sleep, and pursue the usual course of their employments.
+bal_101.
+en_102. Very frequently were they reproached for this insensibility by Kitty and Lydia, whose own misery was extreme, and who could not comprehend such hard-heartedness in any of the family.
+bal_102.
+en_103. “Good Heaven!
+bal_103.
+en_104. What is to become of us?
+bal_104.
+en_105. What are we to do?” would they often exclaim in the bitterness of woe.
+bal_105.
+en_106. “How can you be smiling so, Lizzy?”
+bal_106.
+en_107. Their affectionate mother shared all their grief; she remembered what she had herself endured on a similar occasion five-and-twenty years ago.
+bal_107.
+en_108. “I am sure,” said she, “I cried for two days together when Colonel Miller’s regiment went away.
+bal_108.
+en_109. I thought I should have broke my heart.”
+bal_109.
+en_110. “I am sure I shall break _mine_,” said Lydia.
+bal_110.
+en_111. “If one could but go to Brighton!”
+bal_111.
+en_112. observed Mrs. Bennet.
+bal_112.
+en_113. “Oh yes!--if one could but go to Brighton!
+bal_113.
+en_114. But papa is so disagreeable.”
+bal_114.
+en_115. “A little sea-bathing would set me up for ever.”
+bal_115.
+en_116. “And my aunt Philips is sure it would do _me_ a great deal of good,” added Kitty.
+bal_116.
+en_117. Such were the kind of lamentations resounding perpetually through Longbourn House.
+bal_117.
+en_118. Elizabeth tried to be diverted by them; but all sense of pleasure was lost in shame.
+bal_118.
+en_119. She felt anew the justice of Mr. Darcy’s objections; and never had she before been so much disposed to pardon his interference in the views of his friend.
+bal_119.
+en_120. But the gloom of Lydia’s prospect was shortly cleared away; for she received an invitation from Mrs. Forster, the wife of the colonel of the regiment, to accompany her to Brighton.
+bal_120.
+en_121. This invaluable friend was a very young woman, and very lately married.
+bal_121.
+en_122. A resemblance in good-humour and good spirits had recommended her and Lydia to each other, and out of their _three_ months’ acquaintance they had been intimate _two_.
+bal_122.
+en_123. The rapture of Lydia on this occasion, her adoration of Mrs. Forster, the delight of Mrs. Bennet, and the mortification of Kitty, are scarcely to be described.
+bal_123.
+en_124. Wholly inattentive to her sister’s feelings, Lydia flew about the house in restless ecstasy, calling for everyone’s congratulations, and laughing and talking with more violence than ever; whilst the luckless Kitty continued in the parlour repining at her fate in terms as unreasonable as her accent was peevish.
+bal_124.
+en_125. “I cannot see why Mrs. Forster should not ask _me_ as well as Lydia,” said she, “though I am _not_ her particular friend.
+bal_125.
+en_126. I have just as much right to be asked as she has, and more too, for I am two years older.”
+bal_126.
+en_127. In vain did Elizabeth attempt to make her reasonable, and Jane to make her resigned.
+bal_127.
+en_128. As for Elizabeth herself, this invitation was so far from exciting in her the same feelings as in her mother and Lydia, that she considered it as the death-warrant of all possibility of common sense for the latter; and detestable as such a step must make her, were it known, she could not help secretly advising her father not to let her go.
+bal_128.
+en_129. She represented to him all the improprieties of Lydia’s general behaviour, the little advantage she could derive from the friendship of such a woman as Mrs. Forster, and the probability of her being yet more imprudent with such a companion at Brighton, where the temptations must be greater than at home.
+bal_129.
+en_130. He heard her attentively, and then said,-- “Lydia will never be easy till she has exposed herself in some public place or other, and we can never expect her to do it with so little expense or inconvenience to her family as under the present circumstances.”
+bal_130.
+en_131. “If you were aware,” said Elizabeth, “of the very great disadvantage to us all, which must arise from the public notice of Lydia’s unguarded and imprudent manner, nay, which has already arisen from it, I am sure you would judge differently in the affair.”
+bal_131.
+en_132. “Already arisen!”
+bal_132.
+en_133. repeated Mr. Bennet.
+bal_133.
+en_134. “What! has she frightened away some of your lovers?
+bal_134.
+en_135. Poor little Lizzy!
+bal_135.
+en_136. But do not be cast down.
+bal_136.
+en_137. Such squeamish youths as cannot bear to be connected with a little absurdity are not worth a regret.
+bal_137.
+en_138. Come, let me see the list of the pitiful fellows who have been kept aloof by Lydia’s folly.”
+bal_138.
+en_139. “Indeed, you are mistaken.
+bal_139.
+en_140. I have no such injuries to resent.
+bal_140.
+en_141. It is not of peculiar, but of general evils, which I am now complaining.
+bal_141.
+en_142. Our importance, our respectability in the world, must be affected by the wild volatility, the assurance and disdain of all restraint which mark Lydia’s character.
+bal_142.
+en_143. Excuse
+bal_143.
+en_144. me,--for I must speak plainly.
+bal_144.
+en_145. If you, my dear father, will not take the trouble of checking her exuberant spirits, and of teaching her that her present pursuits are not to be the business of her life, she will soon be beyond the reach of amendment.
+bal_145.
+en_146. Her character will be fixed; and she will, at sixteen, be the most determined flirt that ever made herself and her family ridiculous;--a flirt, too, in the worst and meanest degree of flirtation; without any attraction beyond youth and a tolerable person; and, from the ignorance and emptiness of her mind, wholly unable to ward off any portion of that universal contempt which her rage for admiration will excite.
+bal_146.
+en_147. In this danger Kitty is also comprehended.
+bal_147.
+en_148. She will follow wherever Lydia leads.
+bal_148.
+en_149. Vain, ignorant, idle, and absolutely uncontrolled!
+bal_149.
+en_150. Oh, my dear father, can you suppose it possible that they will not be censured and despised wherever they are known, and that their sisters will not be often involved in the disgrace?”
+bal_150.
+en_151. Mr. Bennet saw that her whole heart was in the subject; and, affectionately taking her hand, said, in reply,-- “Do not make yourself uneasy, my love.
+bal_151.
+en_152. Wherever you and Jane are known, you must be respected and valued; and you will not appear to less advantage for having a couple of--or I may say, three--very silly sisters.
+bal_152.
+en_153. We shall have no peace at Longbourn if Lydia does not go to Brighton.
+bal_153.
+en_154. Let her go, then.
+bal_154.
+en_155. Colonel Forster is a sensible man, and will keep her out of any real mischief; and she is luckily too poor to be an object of prey to anybody.
+bal_155.
+en_156. At Brighton she will be of less importance even as a common flirt than she has been here.
+bal_156.
+en_157. The officers will find women better worth their notice.
+bal_157.
+en_158. Let us hope, therefore, that her being there may teach her her own insignificance.
+bal_158.
+en_159. At any rate, she cannot grow many degrees worse, without authorizing us to lock her up for the rest of her life.”
+bal_159.
+en_160. With this answer Elizabeth was forced to be content; but her own opinion continued the same, and she left him disappointed and sorry.
+bal_160.
+en_161. It was not in her nature, however, to increase her vexations by dwelling on them.
+bal_161.
+en_162. She was confident of having performed her duty; and to fret over unavoidable evils, or augment them by anxiety, was no part of her disposition.
+bal_162.
+en_163. Had Lydia and her mother known the substance of her conference with her father, their indignation would hardly have found expression in their united volubility.
+bal_163.
+en_164. In Lydia’s imagination, a visit to Brighton comprised every possibility of earthly happiness.
+bal_164.
+en_165. She saw, with the creative eye of fancy, the streets of that gay bathing-place covered with officers.
+bal_165.
+en_166. She saw herself the object of attention to tens and to scores of them at present unknown.
+bal_166.
+en_167. She saw all the glories of the camp: its tents stretched forth in beauteous uniformity of lines, crowded with the young and the gay, and dazzling with scarlet; and, to complete the view, she saw herself seated beneath a tent, tenderly flirting with at least six officers at once.
+bal_167.
+en_168. [Illustration: “Tenderly flirting” [_Copyright 1894 by George Allen._]] Had she known that her sister sought to tear her from such prospects and such realities as these, what would have been her sensations?
+bal_168.
+en_169. They could have been understood only by her mother, who might have felt nearly the same.
+bal_169.
+en_170. Lydia’s going to Brighton was all that consoled her for the melancholy conviction of her husband’s never intending to go there himself.
+bal_170.
+en_171. But they were entirely ignorant of what had passed; and their raptures continued, with little intermission, to the very day of Lydia’s leaving home.
+bal_171.
+en_172. Elizabeth was now to see Mr. Wickham for the last time.
+bal_172.
+en_173. Having been frequently in company with him since her return, agitation was pretty well over; the agitations of former partiality entirely so.
+bal_173.
+en_174. She had even learnt to detect, in the very gentleness which had first delighted her, an affectation and a sameness to disgust and weary.
+bal_174.
+en_175. In his present behaviour to herself, moreover, she had a fresh source of displeasure; for the inclination he soon testified of renewing those attentions which had marked the early part of their acquaintance could only serve, after what had since passed, to provoke her.
+bal_175.
+en_176. She lost all concern for him in finding herself thus selected as the object of such idle and frivolous gallantry; and while she steadily repressed it, could not but feel the reproof contained in his believing, that however long, and for whatever cause, his attentions had been withdrawn, her vanity would be gratified, and her preference secured, at any time, by their renewal.
+bal_176.
+en_177. On the very last day of the regiment’s remaining in Meryton, he dined, with others of the officers, at Longbourn; and so little was Elizabeth disposed to part from him in good-humour, that, on his making some inquiry as to the manner in which her time had passed at Hunsford, she mentioned Colonel Fitzwilliam’s and Mr. Darcy’s having both spent three weeks at Rosings, and asked him if he were acquainted with the former.
+bal_177.
+en_178. He looked surprised, displeased, alarmed; but, with a moment’s recollection, and a returning smile, replied, that he had formerly seen him often; and, after observing that he was a very gentlemanlike man, asked her how she had liked him.
+bal_178.
+en_179. Her answer was warmly in his favour.
+bal_179.
+en_180. With an air of indifference, he soon afterwards added, “How long did you say that he was at Rosings?”
+bal_180.
+en_181. “Nearly three weeks.”
+bal_181.
+en_182. “And you saw him frequently?”
+bal_182.
+en_183. “Yes, almost every day.”
+bal_183.
+en_184. “His manners are very different from his cousin’s.”
+bal_184.
+en_185. “Yes, very different; but I think Mr. Darcy improves on acquaintance.”
+bal_185.
+en_186. “Indeed!” cried Wickham, with a look which did not escape her.
+bal_186.
+en_187. “And pray may I ask--” but checking himself, he added, in a gayer tone, “Is it in address that he improves?
+bal_187.
+en_188. Has he deigned to add aught of civility to his ordinary style?
+bal_188.
+en_189. for I dare not hope,” he continued, in a lower and more serious tone, “that he is improved in essentials.”
+bal_189.
+en_190. “Oh, no!” said Elizabeth.
+bal_190.
+en_191. “In essentials, I believe, he is very much what he ever was.”
+bal_191.
+en_192. While she spoke, Wickham looked as if scarcely knowing whether to rejoice over her words or to distrust their meaning.
+bal_192.
+en_193. There was a something in her countenance which made him listen with an apprehensive and anxious attention, while she added,-- “When I said that he improved on acquaintance, I did not mean that either his mind or manners were in a state of improvement; but that, from knowing him better, his disposition was better understood.”
+bal_193.
+en_194. Wickham’s alarm now appeared in a heightened complexion and agitated look; for a few minutes he was silent; till, shaking off his embarrassment, he turned to her again, and said in the gentlest of accents,-- “You, who so well know my feelings towards Mr. Darcy, will readily comprehend how sincerely I must rejoice that he is wise enough to assume even the _appearance_ of what is right.
+bal_194.
+en_195. His pride, in that direction, may be of service, if not to himself, to many others, for it must deter him from such foul misconduct as I have suffered by.
+bal_195.
+en_196. I only fear that the sort of cautiousness to which you, I imagine, have been alluding, is merely adopted on his visits to his aunt, of whose good opinion and judgment he stands much in awe.
+bal_196.
+en_197. His fear of her has always operated, I know, when they were together; and a good deal is to be imputed to his wish of forwarding the match with Miss de Bourgh, which I am certain he has very much at heart.”
+bal_197.
+en_198. Elizabeth could not repress a smile at this, but she answered only by a slight inclination of the head.
+bal_198.
+en_199. She saw that he wanted to engage her on the old subject of his grievances, and she was in no humour to indulge him.
+bal_199.
+en_200. The rest of the evening passed with the _appearance_, on his side, of usual cheerfulness, but with no further attempt to distinguish Elizabeth; and they parted at last with mutual civility, and possibly a mutual desire of never meeting again.
+bal_200.
+en_201. When the party broke up, Lydia returned with Mrs. Forster to Meryton, from whence they were to set out early the next morning.
+bal_201.
+en_202. The separation between her and her family was rather noisy than pathetic.
+bal_202.
+en_203. Kitty was the only one who shed tears; but she did weep from vexation and envy.
+bal_203.
+en_204. Mrs. Bennet was diffuse in her good wishes for the felicity of her daughter, and impressive in her injunctions that she would not miss the opportunity of enjoying herself as much as possible,--advice which there was every reason to believe would be attended to; and, in the clamorous happiness of Lydia herself in bidding farewell, the more gentle adieus of her sisters were uttered without being heard.
+bal_204.
+en_205. [Illustration: The arrival of the Gardiners ] CHAPTER XLII.
+bal_205.
+en_206. [Illustration] Had Elizabeth’s opinion been all drawn from her own family, she could not have formed a very pleasing picture of conjugal felicity or domestic comfort.
+bal_206.
+en_207. Her father, captivated by youth and beauty, and that appearance of good-humour which youth and beauty generally give, had married a woman whose weak understanding and illiberal mind had very early in their marriage put an end to all real affection for her.
+bal_207.
+en_208. Respect, esteem, and confidence had vanished for ever; and all his views of domestic happiness were overthrown.
+bal_208.
+en_209. But Mr. Bennet was not of a disposition to seek comfort for the disappointment which his own imprudence had brought on in any of those pleasures which too often console the unfortunate for their folly or their vice.
+bal_209.
+en_210. He was fond of the country and of books; and from these tastes had arisen his principal enjoyments.
+bal_210.
+en_211. To his wife he was very little otherwise indebted than as her ignorance and folly had contributed to his amusement.
+bal_211.
+en_212. This is not the sort of happiness which a man would in general wish to owe to his wife; but where other powers of entertainment are wanting, the true philosopher will derive benefit from such as are given.
+bal_212.
+en_213. Elizabeth, however, had never been blind to the impropriety of her father’s behaviour as a husband.
+bal_213.
+en_214. She had always seen it with pain; but respecting his abilities, and grateful for his affectionate treatment of herself, she endeavoured to forget what she could not overlook, and to banish from her thoughts that continual breach of conjugal obligation and decorum which, in exposing his wife to the contempt of her own children, was so highly reprehensible.
+bal_214.
+en_215. But she had never felt so strongly as now the disadvantages which must attend the children of so unsuitable a marriage, nor ever been so fully aware of the evils arising from so ill-judged a direction of talents--talents which, rightly used, might at least have preserved the respectability of his daughters, even if incapable of enlarging the mind of his wife.
+bal_215.
+en_216. When Elizabeth had rejoiced over Wickham’s departure, she found little other cause for satisfaction in the loss of the regiment.
+bal_216.
+en_217. Their parties abroad were less varied than before; and at home she had a mother and sister, whose constant repinings at the dulness of everything around them threw a real gloom over their domestic circle; and, though Kitty might in time regain her natural degree of sense, since the disturbers of her brain were removed, her other sister, from whose disposition greater evil might be apprehended, was likely to be hardened in all her folly and assurance, by a situation of such double danger as a watering-place and a camp.
+bal_217.
+en_218. Upon the whole, therefore, she found, what has been sometimes found before, that an event to which she had looked forward with impatient desire, did not, in taking place, bring all the satisfaction she had promised herself.
+bal_218.
+en_219. It was consequently necessary to name some other period for the commencement of actual felicity; to have some other point on which her wishes and hopes might be fixed, and by again enjoying the pleasure of anticipation, console herself for the present, and prepare for another disappointment.
+bal_219.
+en_220. Her tour to the Lakes was now the object of her happiest thoughts: it was her best consolation for all the uncomfortable hours which the discontentedness of her mother and Kitty made inevitable; and could she have included Jane in the scheme, every part of it would have been perfect.
+bal_220.
+en_221. “But it is fortunate,” thought she, “that I have something to wish for.
+bal_221.
+en_222. Were the whole arrangement complete, my disappointment would be certain.
+bal_222.
+en_223. But here, by carrying with me one ceaseless source of regret in my sister’s absence, I may reasonably hope to have all my expectations of pleasure realized.
+bal_223.
+en_224. A scheme of which every part promises delight can never be successful; and general disappointment is only warded off by the defence of some little peculiar vexation.”
+bal_224.
+en_225. When Lydia went away she promised to write very often and very minutely to her mother and Kitty; but her letters were always long expected, and always very short.
+bal_225.
+en_226. Those to her mother contained little else than that they were just returned from the library, where such and such officers had attended them, and where she had seen such beautiful ornaments as made her quite wild; that she had a new gown, or a new parasol, which she would have described more fully, but was obliged to leave off in a violent hurry, as Mrs. Forster called her, and they were going to the camp; and from her correspondence with her sister there was still less to be learnt, for her letters to Kitty, though rather longer, were much too full of lines under the words to be made public.
+bal_226.
+en_227. After the first fortnight or three weeks of her absence, health, good-humour, and cheerfulness began to reappear at Longbourn.
+bal_227.
+en_228. Everything wore a happier aspect.
+bal_228.
+en_229. The families who had been in town for the winter came back again, and summer finery and summer engagements arose.
+bal_229.
+en_230. Mrs. Bennet was restored to her usual querulous serenity; and by the middle of June Kitty was so much recovered as to be able to enter Meryton without tears,--an event of such happy promise as to make Elizabeth hope, that by the following Christmas she might be so tolerably reasonable as not to mention an officer above once a day, unless, by some cruel and malicious arrangement at the War Office, another regiment should be quartered in Meryton.
+bal_230.
+en_231. The time fixed for the beginning of their northern tour was now fast approaching; and a fortnight only was wanting of it, when a letter arrived from Mrs. Gardiner, which at once delayed its commencement and curtailed its extent.
+bal_231.
+en_232. Mr. Gardiner would be prevented by business from setting out till a fortnight later in July, and must be in London again within a month; and as that left too short a period for them to go so far, and see so much as they had proposed, or at least to see it with the leisure and comfort they had built on, they were obliged to give up the Lakes, and substitute a more contracted tour; and, according to the present plan, were to go no farther northward than Derbyshire.
+bal_232.
+en_233. In that county there was enough to be seen to occupy the chief of their three weeks; and to Mrs. Gardiner it had a peculiarly strong attraction.
+bal_233.
+en_234. The town where she had formerly passed some years of her life, and where they were now to spend a few days, was probably as great an object of her curiosity as all the celebrated beauties of Matlock, Chatsworth, Dovedale, or the Peak.
+bal_234.
+en_235. Elizabeth was excessively disappointed: she had set her heart on seeing the Lakes; and still thought there might have been time enough.
+bal_235.
+en_236. But it was her business to be satisfied--and certainly her temper to be happy; and all was soon right again.
+bal_236.
+en_237. With the mention of Derbyshire, there were many ideas connected.
+bal_237.
+en_238. It was impossible for her to see the word without thinking of Pemberley and its owner.
+bal_238.
+en_239. “But surely,” said she, “I may enter his county with impunity, and rob it of a few petrified spars, without his perceiving me.”
+bal_239.
+en_240. The period of expectation was now doubled.
+bal_240.
+en_241. Four weeks were to pass away before her uncle and aunt’s arrival.
+bal_241.
+en_242. But they did pass away, and
+bal_242.
+en_243. Mr. and Mrs. Gardiner, with their four children, did at length appear at Longbourn.
+bal_243.
+en_244. The children, two girls of six and eight years old, and two younger boys, were to be left under the particular care of their cousin Jane, who was the general favourite, and whose steady sense and sweetness of temper exactly adapted her for attending to them in every way--teaching them, playing with them, and loving them.
+bal_244.
+en_245. The Gardiners stayed only one night at Longbourn, and set off the next morning with Elizabeth in pursuit of novelty and amusement.
+bal_245.
+en_246. One enjoyment was certain--that of suitableness as companions; a suitableness which comprehended health and temper to bear inconveniences--cheerfulness to enhance every pleasure--and affection and intelligence, which might supply it among themselves if there were disappointments abroad.
+bal_246.
+en_247. It is not the object of this work to give a description of Derbyshire, nor of any of the remarkable places through which their route thither lay--Oxford, Blenheim, Warwick, Kenilworth, Birmingham, etc., are sufficiently known.
+bal_247.
+en_248. A small part of Derbyshire is all the present concern.
+bal_248.
+en_249. To the little town of Lambton, the scene of Mrs. Gardiner’s former residence, and where she had lately learned that some acquaintance still remained, they bent their steps, after having seen all the principal wonders of the country; and within five miles of Lambton, Elizabeth found, from her aunt, that Pemberley was situated.
+bal_249.
+en_250. It was not in their direct road; nor more than a mile or two out of it.
+bal_250.
+en_251. In talking over their route the evening before, Mrs. Gardiner expressed an inclination to see the place again.
+bal_251.
+en_252. Mr. Gardiner declared his willingness, and Elizabeth was applied to for her approbation.
+bal_252.
+en_253. “My love, should not you like to see a place of which you have heard so much?” said her aunt.
+bal_253.
+en_254. “A place, too, with which so many of your acquaintance are connected.
+bal_254.
+en_255. Wickham passed all his youth there, you know.”
+bal_255.
+en_256. Elizabeth was distressed.
+bal_256.
+en_257. She felt that she had no business at Pemberley, and was obliged to assume a disinclination for seeing it.
+bal_257.
+en_258. She must own that she was tired of great houses: after going over so many, she really had no pleasure in fine carpets or satin curtains.
+bal_258.
+en_259. Mrs. Gardiner abused her stupidity.
+bal_259.
+en_260. “If it were merely a fine house richly furnished,” said she, “I should not care about it myself; but the grounds are delightful.
+bal_260.
+en_261. They have some of the finest woods in the country.”
+bal_261.
+en_262. Elizabeth said no more; but her mind could not acquiesce.
+bal_262.
+en_263. The possibility of meeting Mr. Darcy, while viewing the place, instantly occurred.
+bal_263.
+en_264. It would be dreadful!
+bal_264.
+en_265. She blushed at the very idea; and thought it would be better to speak openly to her aunt, than to run such a risk.
+bal_265.
+en_266. But against this there were objections; and she finally resolved that it could be the last resource, if her private inquiries as to the absence of the family were unfavourably answered.
+bal_266.
+en_267. Accordingly, when she retired at night, she asked the chambermaid whether Pemberley were not a very fine place, what was the name of its proprietor, and, with no little alarm, whether the family were down for the summer?
+bal_267.
+en_268. A most welcome negative followed the last question; and her alarms being now removed, she was at leisure to feel a great deal of curiosity to see the house herself; and when the subject was revived the next morning, and she was again applied to, could readily answer, and with a proper air of indifference, that she had not really any dislike to the scheme.
+bal_268.
+en_269. To Pemberley, therefore, they were to go.
+bal_269.
+en_270. [Illustration: “Conjecturing as to the date” ] CHAPTER XLIII.
+bal_270.
+en_271. [Illustration] Elizabeth, as they drove along, watched for the first appearance of Pemberley Woods with some perturbation; and when at length they turned in at the lodge, her spirits were in a high flutter.
+bal_271.
+en_272. The park was very large, and contained great variety of ground.
+bal_272.
+en_273. They entered it in one of its lowest points, and drove for some time through a beautiful wood stretching over a wide extent.
+bal_273.
+en_274. Elizabeth’s mind was too full for conversation, but she saw and admired every remarkable spot and point of view.
+bal_274.
+en_275. They gradually ascended for half a mile, and then found themselves at the top of a considerable eminence, where the wood ceased, and the eye was instantly caught by Pemberley House, situated on the opposite side of the valley, into which the road with some abruptness wound.
+bal_275.
+en_276. It was a large, handsome stone building, standing well on rising ground, and backed by a ridge of high woody hills; and in front a stream of some natural importance was swelled into greater, but without any artificial appearance.
+bal_276.
+en_277. Its banks were neither formal nor falsely adorned.
+bal_277.
+en_278. Elizabeth was delighted.
+bal_278.
+en_279. She had never seen a place for which nature had done more, or where natural beauty had been so little counteracted by an awkward taste.
+bal_279.
+en_280. They were all of them warm in their admiration; and at that moment she felt that to be mistress of Pemberley might be something!
+bal_280.
+en_281. They descended the hill, crossed the bridge, and drove to the door; and, while examining the nearer aspect of the house, all her apprehension of meeting its owner returned.
+bal_281.
+en_282. She dreaded lest the chambermaid had been mistaken.
+bal_282.
+en_283. On applying to see the place, they were admitted into the hall; and Elizabeth, as they waited for the housekeeper, had leisure to wonder at her being where she was.
+bal_283.
+en_284. The housekeeper came; a respectable looking elderly woman, much less
+bal_284.

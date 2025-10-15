@@ -1,0 +1,486 @@
+en_1. and inspire me with human feelings when sunk in torpor.
+bal_1.
+en_2. She wept with me and for me.
+bal_2.
+en_3. When reason returned, she would remonstrate and endeavour to inspire me with resignation.
+bal_3.
+en_4. Ah!
+bal_4.
+en_5. It is well for the unfortunate to be resigned, but for the guilty there is no peace.
+bal_5.
+en_6. The agonies of remorse poison the luxury there is otherwise sometimes found in indulging the excess of grief.
+bal_6.
+en_7. Soon after my arrival my father spoke of my immediate marriage with Elizabeth.
+bal_7.
+en_8. I remained silent.
+bal_8.
+en_9. “Have you, then, some other attachment?”
+bal_9.
+en_10. “None on earth.
+bal_10.
+en_11. I love Elizabeth and look forward to our union with delight.
+bal_11.
+en_12. Let the day therefore be fixed; and on it I will consecrate myself, in life or death, to the happiness of my cousin.”
+bal_12.
+en_13. “My dear Victor, do not speak thus.
+bal_13.
+en_14. Heavy misfortunes have befallen us, but let us only cling closer to what remains and transfer our love for those whom we have lost to those who yet live.
+bal_14.
+en_15. Our circle will be small but bound close by the ties of affection and mutual misfortune.
+bal_15.
+en_16. And when time shall have softened your despair, new and dear objects of care will be born to replace those of whom we have been so cruelly deprived.”
+bal_16.
+en_17. Such were the lessons of my father.
+bal_17.
+en_18. But to me the remembrance of the threat returned; nor can you wonder that, omnipotent as the fiend had yet been in his deeds of blood, I should almost regard him as invincible, and that when he had pronounced the words “_I shall be with you on your wedding-night_,” I should regard the threatened fate as unavoidable.
+bal_18.
+en_19. But death was no evil to me if the loss of Elizabeth were balanced with it, and I therefore, with a contented and even cheerful countenance, agreed with my father that if my cousin would consent, the ceremony should take place in ten days, and thus put, as I imagined, the seal to my fate.
+bal_19.
+en_20. Great God!
+bal_20.
+en_21. If for one instant I had thought what might be the hellish intention of my fiendish adversary, I would rather have banished myself for ever from my native country and wandered a friendless outcast over the earth than have consented to this miserable marriage.
+bal_21.
+en_22. But, as if possessed of magic powers, the monster had blinded me to his real intentions; and when I thought that I had prepared only my own death, I hastened that of a far dearer victim.
+bal_22.
+en_23. As the period fixed for our marriage drew nearer, whether from cowardice or a prophetic feeling, I felt my heart sink within me.
+bal_23.
+en_24. But I concealed my feelings by an appearance of hilarity that brought smiles and joy to the countenance of my father, but hardly deceived the ever-watchful and nicer eye of Elizabeth.
+bal_24.
+en_25. She looked forward to our union with placid contentment, not unmingled with a little fear, which past misfortunes had impressed, that what now appeared certain and tangible happiness might soon dissipate into an airy dream and leave no trace but deep and everlasting regret.
+bal_25.
+en_26. Preparations were made for the event, congratulatory visits were received, and all wore a smiling appearance.
+bal_26.
+en_27. I shut up, as well as I could, in my own heart the anxiety that preyed there and entered with seeming earnestness into the plans of my father, although they might only serve as the decorations of my tragedy.
+bal_27.
+en_28. Through my father’s exertions a part of the inheritance of Elizabeth had been restored to her by the Austrian government.
+bal_28.
+en_29. A small possession on the shores of Como belonged to her.
+bal_29.
+en_30. It was agreed that, immediately after our union, we should proceed to Villa Lavenza and spend our first days of happiness beside the beautiful lake near which it stood.
+bal_30.
+en_31. In the meantime I took every precaution to defend my person in case the fiend should openly attack me.
+bal_31.
+en_32. I carried pistols and a dagger constantly about me and was ever on the watch to prevent artifice, and by these means gained a greater degree of tranquillity.
+bal_32.
+en_33. Indeed, as the period approached, the threat appeared more as a delusion, not to be regarded as worthy to disturb my peace, while the happiness I hoped for in my marriage wore a greater appearance of certainty as the day fixed for its solemnisation drew nearer
+bal_33.
+en_34. and I heard it continually spoken of as an occurrence which no accident could possibly prevent.
+bal_34.
+en_35. Elizabeth seemed happy; my tranquil demeanour contributed greatly to calm her mind.
+bal_35.
+en_36. But on the day that was to fulfil my wishes and my destiny, she was melancholy, and a presentiment of evil pervaded her; and perhaps also she thought of the dreadful secret which I had promised to reveal to her on the following day.
+bal_36.
+en_37. My father was in the meantime overjoyed, and, in the bustle of preparation, only recognised in the melancholy of his niece the diffidence of a bride.
+bal_37.
+en_38. After the ceremony was performed a large party assembled at my father’s, but it was agreed that Elizabeth and I should commence our journey by water, sleeping that night at Evian and continuing our voyage on the following day.
+bal_38.
+en_39. The day was fair, the wind favourable; all smiled on our nuptial embarkation.
+bal_39.
+en_40. Those were the last moments of my life during which I enjoyed the feeling of happiness.
+bal_40.
+en_41. We passed rapidly along; the sun was hot, but we were sheltered from its rays by a kind of canopy while we enjoyed the beauty of the scene, sometimes on one side of the lake, where we saw Mont Salêve, the pleasant banks of Montalègre, and at a distance, surmounting all, the beautiful Mont Blanc, and the assemblage of snowy mountains that in vain endeavour to emulate her; sometimes coasting the opposite banks, we saw the mighty Jura opposing its dark side to the ambition that would quit its native country, and an almost insurmountable barrier to the invader who should wish to enslave it.
+bal_41.
+en_42. I took the hand of Elizabeth.
+bal_42.
+en_43. “You are sorrowful, my love.
+bal_43.
+en_44. Ah!
+bal_44.
+en_45. If you knew what I have suffered and what I may yet endure, you would endeavour to let me taste the quiet and freedom from despair that this one day at least permits me to enjoy.”
+bal_45.
+en_46. “Be happy, my dear Victor,” replied Elizabeth; “there is, I hope, nothing to distress you; and be assured that if a lively joy is not painted in my face, my heart is contented.
+bal_46.
+en_47. Something whispers to me not to depend too much on the prospect that is opened before us, but I will not listen to such a sinister voice.
+bal_47.
+en_48. Observe how fast we move along and how the clouds, which sometimes obscure and sometimes rise above the dome of Mont Blanc, render this scene of beauty still more interesting.
+bal_48.
+en_49. Look also at the innumerable fish that are swimming in the clear waters, where we can distinguish every pebble that lies at the bottom.
+bal_49.
+en_50. What a divine day!
+bal_50.
+en_51. How happy and serene all nature appears!”
+bal_51.
+en_52. Thus Elizabeth endeavoured to divert her thoughts and mine from all reflection upon melancholy subjects.
+bal_52.
+en_53. But her temper was fluctuating; joy for a few instants shone in her eyes, but it continually gave place to distraction and reverie.
+bal_53.
+en_54. The sun sank lower in the heavens; we passed the river Drance and observed its path through the chasms of the higher and the glens of the lower hills.
+bal_54.
+en_55. The Alps here come closer to the lake, and we approached the amphitheatre of mountains which forms its eastern boundary.
+bal_55.
+en_56. The spire of Evian shone under the woods that surrounded it and the range of mountain above mountain by which it was overhung.
+bal_56.
+en_57. The wind, which had hitherto carried us along with amazing rapidity, sank at sunset to a light breeze; the soft air just ruffled the water and caused a pleasant motion among the trees as we approached the shore, from which it wafted the most delightful scent of flowers and hay.
+bal_57.
+en_58. The sun sank beneath the horizon as we landed, and as I touched the shore I felt those cares and fears revive which soon were to clasp me and cling to me for ever.
+bal_58.
+en_59. Chapter 23
+bal_59.
+en_60. It was eight o’clock when we landed; we walked for a short time on the shore, enjoying the transitory light, and then retired to the inn and contemplated the lovely scene of waters, woods, and mountains, obscured in darkness, yet still displaying their black outlines.
+bal_60.
+en_61. The wind, which had fallen in the south, now rose with great violence in the west.
+bal_61.
+en_62. The moon had reached her summit in the heavens and was beginning to descend; the clouds swept across it swifter than the flight of the vulture and dimmed her rays, while the lake reflected the scene of the busy heavens, rendered still busier by the restless waves that were beginning to rise.
+bal_62.
+en_63. Suddenly a heavy storm of rain descended.
+bal_63.
+en_64. I had been calm during the day, but so soon as night obscured the shapes of objects, a thousand fears arose in my mind.
+bal_64.
+en_65. I was anxious and watchful, while my right hand grasped a pistol which was hidden in my bosom; every sound terrified me, but I resolved that I would sell my life dearly and not shrink from the conflict until my own life or that of my adversary was extinguished.
+bal_65.
+en_66. Elizabeth observed my agitation for some time in timid and fearful silence, but there was something in my glance which communicated terror to her, and trembling, she asked, “What is it that agitates you, my dear Victor?
+bal_66.
+en_67. What is it you fear?”
+bal_67.
+en_68. “Oh! Peace, peace, my love,” replied I; “this night, and all will be safe; but this night is dreadful, very dreadful.”
+bal_68.
+en_69. I passed an hour in this state of mind, when suddenly I reflected how fearful the combat which I momentarily expected would be to my wife, and I earnestly entreated her to retire, resolving not to join her until I had obtained some knowledge as to the situation of my enemy.
+bal_69.
+en_70. She left me, and I continued some time walking up and down the passages of the house and inspecting every corner that might afford a retreat to my adversary.
+bal_70.
+en_71. But I discovered no trace of him and was beginning to conjecture that some fortunate chance had intervened to prevent the execution of his menaces when suddenly I heard a shrill and dreadful scream.
+bal_71.
+en_72. It came from the room into which Elizabeth had retired.
+bal_72.
+en_73. As I heard it, the whole truth rushed into my mind, my arms dropped, the motion of every muscle and fibre was suspended; I could feel the blood trickling in my veins and tingling in the extremities of my limbs.
+bal_73.
+en_74. This state lasted but for an instant; the scream was repeated, and I rushed into the room.
+bal_74.
+en_75. Great God!
+bal_75.
+en_76. Why did I not then expire!
+bal_76.
+en_77. Why am I here to relate the destruction of the best hope and the purest creature on earth?
+bal_77.
+en_78. She was there, lifeless and inanimate, thrown across the bed, her head hanging down and her pale and distorted features half covered by her hair.
+bal_78.
+en_79. Everywhere I turn I see the same figure—her bloodless arms and relaxed form flung by the murderer on its bridal bier.
+bal_79.
+en_80. Could I behold this and live?
+bal_80.
+en_81. Alas!
+bal_81.
+en_82. Life is obstinate and clings closest where it is most hated.
+bal_82.
+en_83. For a moment only did I lose recollection; I fell senseless on the ground.
+bal_83.
+en_84. When I recovered I found myself surrounded by the people of the inn; their countenances expressed a breathless terror, but the horror of others appeared only as a mockery, a shadow of the feelings that oppressed me.
+bal_84.
+en_85. I escaped from them to the room where lay the body of Elizabeth, my love, my wife, so lately living, so dear, so worthy.
+bal_85.
+en_86. She had been moved from the posture in which I had first beheld her, and now, as she lay, her head upon her arm and a handkerchief thrown across her face and neck, I might have supposed her asleep.
+bal_86.
+en_87. I rushed towards her and embraced her with ardour, but the deadly languor and coldness of the limbs told me that what I now held in my arms had ceased to be the Elizabeth whom I had loved and cherished.
+bal_87.
+en_88. The murderous mark of the fiend’s grasp was on her neck, and the breath had ceased to issue from her lips.
+bal_88.
+en_89. While I still hung over her in the agony of despair, I happened to look up.
+bal_89.
+en_90. The windows of the room had before been darkened, and I felt a kind of panic on seeing the pale yellow light of the moon illuminate the chamber.
+bal_90.
+en_91. The shutters had been thrown back, and with a sensation of horror not to be described, I saw at the open window a figure the most hideous and abhorred.
+bal_91.
+en_92. A grin was on the face of the monster; he seemed to jeer, as with his fiendish finger he pointed towards the corpse of my wife.
+bal_92.
+en_93. I rushed towards the window, and drawing a pistol from my bosom, fired; but he eluded me, leaped from his station, and running with the swiftness of lightning, plunged into the lake.
+bal_93.
+en_94. The report of the pistol brought a crowd into the room.
+bal_94.
+en_95. I pointed to the spot where he had disappeared, and we followed the track with boats; nets were cast, but in vain.
+bal_95.
+en_96. After passing several hours, we returned hopeless, most of my companions believing it to have been a form conjured up by my fancy.
+bal_96.
+en_97. After having landed, they proceeded to search the country, parties going in different directions among the woods and vines.
+bal_97.
+en_98. I attempted to accompany them and proceeded a short distance from the house, but my head whirled round, my steps were like those of a drunken man, I fell at last in a state of utter exhaustion; a film covered my eyes, and my skin was parched with the heat of fever.
+bal_98.
+en_99. In this state I was carried back and placed on a bed, hardly conscious of what had happened; my eyes wandered round the room as if to seek something that I had lost.
+bal_99.
+en_100. After an interval I arose, and as if by instinct, crawled into the room where the corpse of my beloved lay.
+bal_100.
+en_101. There were women weeping around; I hung over it and joined my sad tears to theirs; all this time no distinct idea presented itself to my mind, but my thoughts rambled to various subjects, reflecting confusedly on my misfortunes and their cause.
+bal_101.
+en_102. I was bewildered, in a cloud of wonder and horror.
+bal_102.
+en_103. The death of William, the execution of Justine, the murder of Clerval, and lastly of my wife; even at that moment I knew not that my only remaining friends were safe from the malignity of the fiend; my father even now might be writhing under his grasp, and Ernest might be dead at his feet.
+bal_103.
+en_104. This idea made me shudder and recalled me to action.
+bal_104.
+en_105. I started up and resolved to return to Geneva with all possible speed.
+bal_105.
+en_106. There were no horses to be procured, and I must return by the lake; but the wind was unfavourable, and the rain fell in torrents.
+bal_106.
+en_107. However, it was hardly morning, and I might reasonably hope to arrive by night.
+bal_107.
+en_108. I hired men to row and took an oar myself, for I had always experienced relief from mental torment in bodily exercise.
+bal_108.
+en_109. But the overflowing misery I now felt, and the excess of agitation that I endured rendered me incapable of any exertion.
+bal_109.
+en_110. I threw down the oar, and leaning my head upon my hands, gave way to every gloomy idea that arose.
+bal_110.
+en_111. If I looked up, I saw scenes which were familiar to me in my happier time and which I had contemplated but the day before in the company of her who was now but a shadow and a recollection.
+bal_111.
+en_112. Tears streamed from my eyes.
+bal_112.
+en_113. The rain had ceased for a moment, and I saw the fish play in the waters as they had done a few hours before; they had then been observed by Elizabeth.
+bal_113.
+en_114. Nothing is so painful to the human mind as a great and sudden change.
+bal_114.
+en_115. The sun might shine or the clouds might lower, but nothing could appear to me as it had done the day before.
+bal_115.
+en_116. A fiend had snatched from me every hope of future happiness; no creature had ever been so miserable as I was; so frightful an event is single in the history of man.
+bal_116.
+en_117. But why should I dwell upon the incidents that followed this last overwhelming event?
+bal_117.
+en_118. Mine has been a tale of horrors; I have reached their _acme_, and what I must now relate can but be tedious to you.
+bal_118.
+en_119. Know that, one by one, my friends were snatched away; I was left desolate.
+bal_119.
+en_120. My own strength is exhausted, and I must tell, in a few words, what remains of my hideous narration.
+bal_120.
+en_121. I arrived at Geneva.
+bal_121.
+en_122. My father and Ernest yet lived, but the former sunk under the tidings that I bore.
+bal_122.
+en_123. I see him now, excellent and venerable old man!
+bal_123.
+en_124. His eyes wandered in vacancy, for they had lost their charm and their delight—his Elizabeth, his more than daughter, whom he doted on with all that affection which a man feels, who in the decline of life, having few affections, clings more earnestly to those that remain.
+bal_124.
+en_125. Cursed, cursed be the fiend that brought misery on his grey hairs and doomed him to waste in wretchedness!
+bal_125.
+en_126. He could not live under the horrors that were accumulated around him; the springs of existence suddenly gave way; he was unable to rise from his bed, and in a few days he died in my arms.
+bal_126.
+en_127. What then became of me?
+bal_127.
+en_128. I know not; I lost sensation, and chains and darkness were the only objects that pressed upon me.
+bal_128.
+en_129. Sometimes, indeed, I dreamt that I wandered in flowery meadows and pleasant vales with the friends of my youth, but I awoke and found myself in a dungeon.
+bal_129.
+en_130. Melancholy followed, but by degrees I gained a clear conception of my miseries and situation and was then released from my prison.
+bal_130.
+en_131. For they had called me mad, and during many months, as I understood, a solitary cell had been my habitation.
+bal_131.
+en_132. Liberty, however, had been a useless gift to me, had I not, as I awakened to reason, at the same time awakened to revenge.
+bal_132.
+en_133. As the memory of past misfortunes pressed upon me, I began to reflect on their cause—the monster whom I had created, the miserable dæmon whom I had sent abroad into the world for my destruction.
+bal_133.
+en_134. I was possessed by a maddening rage when I thought of him, and desired and ardently prayed that I might have him within my grasp to wreak a great and signal revenge on his cursed head.
+bal_134.
+en_135. Nor did my hate long confine itself to useless wishes; I began to reflect on the best means of securing him; and for this purpose, about a month after my release, I repaired to a criminal judge in the town and told him that I had an accusation to make, that I knew the destroyer of my family, and that I required him to exert his whole authority for the apprehension of the murderer.
+bal_135.
+en_136. The magistrate listened to me with attention and kindness.
+bal_136.
+en_137. “Be assured, sir,” said he, “no pains or exertions on my part shall be spared to discover the villain.”
+bal_137.
+en_138. “I thank you,” replied I; “listen, therefore, to the deposition that I have to make.
+bal_138.
+en_139. It is indeed a tale so strange that I should fear you would not credit it were there not something in truth which, however wonderful, forces conviction.
+bal_139.
+en_140. The story is too connected to be mistaken for a dream, and I have no motive for falsehood.”
+bal_140.
+en_141. My manner as I thus addressed him was impressive but calm; I had formed in my own heart a resolution to pursue my destroyer to death, and this purpose quieted my agony and for an interval reconciled me to life.
+bal_141.
+en_142. I now related my history briefly but with firmness and precision, marking the dates with accuracy and never deviating into invective or exclamation.
+bal_142.
+en_143. The magistrate appeared at first perfectly incredulous, but as I continued he became more attentive and interested; I saw him sometimes shudder with horror; at others a lively surprise, unmingled with disbelief, was painted on his countenance.
+bal_143.
+en_144. When I had concluded my narration, I said, “This is the being whom I accuse and for whose seizure and punishment I call upon you to exert your whole power.
+bal_144.
+en_145. It is your duty as a magistrate, and I believe and hope that your feelings as a man will not revolt from the execution of those functions on this occasion.”
+bal_145.
+en_146. This address caused a considerable change in the physiognomy of my own auditor.
+bal_146.
+en_147. He had heard my story with that half kind of belief that is given to a tale of spirits and supernatural events; but when he was called upon to act officially in consequence, the whole tide of his incredulity returned.
+bal_147.
+en_148. He, however, answered mildly, “I would willingly afford you every aid in your pursuit, but the creature of whom you speak appears to have powers which would put all my exertions to defiance.
+bal_148.
+en_149. Who can follow an animal which can traverse the sea of ice and inhabit caves and dens where no man would venture to intrude?
+bal_149.
+en_150. Besides, some months have elapsed since the commission of his crimes, and no one can conjecture to what place he has wandered or what region he may now inhabit.”
+bal_150.
+en_151. “I do not doubt that he hovers near the spot which I inhabit, and if he has indeed taken refuge in the Alps, he may be hunted like the chamois and destroyed as a beast of prey.
+bal_151.
+en_152. But I perceive your thoughts; you do not credit my narrative and do not intend to pursue my enemy with the punishment which is his desert.”
+bal_152.
+en_153. As I spoke, rage sparkled in my eyes; the magistrate was intimidated.
+bal_153.
+en_154. “You are mistaken,” said he.
+bal_154.
+en_155. “I will exert myself, and if it is in my power to seize the monster, be assured that he shall suffer punishment proportionate to his crimes.
+bal_155.
+en_156. But I fear, from what you have yourself described to be his properties, that this will prove impracticable; and thus, while every proper measure is pursued, you should make up your mind to disappointment.”
+bal_156.
+en_157. “That cannot be; but all that I can say will be of little avail.
+bal_157.
+en_158. My revenge is of no moment to you; yet, while I allow it to be a vice, I confess that it is the devouring and only passion of my soul.
+bal_158.
+en_159. My rage is unspeakable when I reflect that the murderer, whom I have turned loose upon society, still exists.
+bal_159.
+en_160. You refuse my just demand; I have but one resource, and I devote myself, either in my life or death, to his destruction.”
+bal_160.
+en_161. I trembled with excess of agitation as I said this; there was a frenzy in my manner, and something, I doubt not, of that haughty fierceness which the martyrs of old are said to have possessed.
+bal_161.
+en_162. But to a Genevan magistrate, whose mind was occupied by far other ideas than those of devotion and heroism, this elevation of mind had much the appearance of madness.
+bal_162.
+en_163. He endeavoured to soothe me as a nurse does a child and reverted to my tale as the effects of delirium.
+bal_163.
+en_164. “Man,” I cried, “how ignorant art thou in thy pride of wisdom!
+bal_164.
+en_165. Cease; you know not what it is you say.”
+bal_165.
+en_166. I broke from the house angry and disturbed and retired to meditate on some other mode of action.
+bal_166.
+en_167. Chapter 24
+bal_167.
+en_168. My present situation was one in which all voluntary thought was swallowed up and lost.
+bal_168.
+en_169. I was hurried away by fury; revenge alone endowed me with strength and composure; it moulded my feelings and allowed me to be calculating and calm at periods when otherwise delirium or death would have been my portion.
+bal_169.
+en_170. My first resolution was to quit Geneva for ever; my country, which, when I was happy and beloved, was dear to me, now, in my adversity, became hateful.
+bal_170.
+en_171. I provided myself with a sum of money, together with a few jewels which had belonged to my mother, and departed.
+bal_171.
+en_172. And now my wanderings began which are to cease but with life.
+bal_172.
+en_173. I have traversed a vast portion of the earth and have endured all the hardships which travellers in deserts and barbarous countries are wont to meet.
+bal_173.
+en_174. How I have lived I hardly know; many times have I stretched my failing limbs upon the sandy plain and prayed for death.
+bal_174.
+en_175. But revenge kept me alive; I dared not die and leave my adversary in being.
+bal_175.
+en_176. When I quitted Geneva my first labour was to gain some clue by which I might trace the steps of my fiendish enemy.
+bal_176.
+en_177. But my plan was unsettled, and I wandered many hours round the confines of the town, uncertain what path I should pursue.
+bal_177.
+en_178. As night approached I found myself at the entrance of the cemetery where William, Elizabeth, and my father reposed.
+bal_178.
+en_179. I entered it and approached the tomb which marked their graves.
+bal_179.
+en_180. Everything was silent except the leaves of the trees, which were gently agitated by the wind; the night was nearly dark, and the scene would have been solemn and affecting even to an uninterested observer.
+bal_180.
+en_181. The spirits of the departed seemed to flit around and to cast a shadow, which was felt but not seen, around the head of the mourner.
+bal_181.
+en_182. The deep grief which this scene had at first excited quickly gave way to rage and despair.
+bal_182.
+en_183. They were dead, and I lived; their murderer also lived, and to destroy him I must drag out my weary existence.
+bal_183.
+en_184. I knelt on the grass and kissed the earth and with quivering lips exclaimed, “By the sacred earth on which I kneel, by the shades that wander near me, by the deep and eternal grief that I feel, I swear; and by thee, O Night, and the spirits that preside over thee, to pursue the dæmon who caused this misery, until he or I shall perish in mortal conflict.
+bal_184.
+en_185. For this purpose I will preserve my life; to execute this dear revenge will I again behold the sun and tread the green herbage of earth, which otherwise should vanish from my eyes for ever.
+bal_185.
+en_186. And I call on you, spirits of the dead, and on you, wandering ministers of vengeance, to aid and conduct me in my work.
+bal_186.
+en_187. Let the cursed and hellish monster drink deep of agony; let him feel the despair that now torments me.”
+bal_187.
+en_188. I had begun my adjuration with solemnity and an awe which almost assured me that the shades of my murdered friends heard and approved my devotion, but the furies possessed me as I concluded, and rage choked my utterance.
+bal_188.
+en_189. I was answered through the stillness of night by a loud and fiendish laugh.
+bal_189.
+en_190. It rang on my ears long and heavily; the mountains re-echoed it, and I felt as if all hell surrounded me with mockery and laughter.
+bal_190.
+en_191. Surely in that moment I should have been possessed by frenzy and have destroyed my miserable existence but that my vow was heard and that I was reserved for vengeance.
+bal_191.
+en_192. The laughter died away, when a well-known and abhorred voice, apparently close to my ear, addressed me in an audible whisper, “I am satisfied, miserable wretch!
+bal_192.
+en_193. You have determined to live, and I am satisfied.”
+bal_193.
+en_194. I darted towards the spot from which the sound proceeded, but the devil eluded my grasp.
+bal_194.
+en_195. Suddenly the broad disk of the moon arose and shone full upon his ghastly and distorted shape as he fled with more than mortal speed.
+bal_195.
+en_196. I pursued him, and for many months this has been my task.
+bal_196.
+en_197. Guided by a slight clue, I followed the windings of the Rhone, but vainly.
+bal_197.
+en_198. The blue Mediterranean appeared, and by a strange chance, I saw the fiend enter by night and hide himself in a vessel bound for the Black Sea.
+bal_198.
+en_199. I took my passage in the same ship, but he escaped, I know not how.
+bal_199.
+en_200. Amidst the wilds of Tartary and Russia, although he still evaded me, I have ever followed in his track.
+bal_200.
+en_201. Sometimes the peasants, scared by this horrid apparition, informed me of his path; sometimes he himself, who feared that if I lost all trace of him I should despair and die, left some mark to guide me.
+bal_201.
+en_202. The snows descended on my head, and I saw the print of his huge step on the white plain.
+bal_202.
+en_203. To you first entering on life, to whom care is new and agony unknown, how can you understand what I have felt and still feel?
+bal_203.
+en_204. Cold, want, and fatigue were the least pains which I was destined to endure; I was cursed by some devil and carried about with me my eternal hell; yet still a spirit of good followed and directed my steps and when I most murmured would suddenly extricate me from seemingly insurmountable difficulties.
+bal_204.
+en_205. Sometimes, when nature, overcome by hunger, sank under the exhaustion, a repast was prepared for me in the desert that restored and inspirited me.
+bal_205.
+en_206. The fare was, indeed, coarse, such as the peasants of the country ate, but I will not doubt that it was set there by the spirits that I had invoked to aid me.
+bal_206.
+en_207. Often, when all was dry, the heavens cloudless, and I was parched by thirst, a slight cloud would bedim the sky, shed the few drops that revived me, and vanish.
+bal_207.
+en_208. I followed, when I could, the courses of the rivers; but the dæmon generally avoided these, as it was here that the population of the country chiefly collected.
+bal_208.
+en_209. In other places human beings were seldom seen, and I generally subsisted on the wild animals that crossed my path.
+bal_209.
+en_210. I had money with me and gained the friendship of the villagers by distributing it; or I brought with me some food that I had killed, which, after taking a small part, I always presented to those who had provided me with fire and utensils for cooking.
+bal_210.
+en_211. My life, as it passed thus, was indeed hateful to me, and it was during sleep alone that I could taste joy.
+bal_211.
+en_212. O blessed sleep!
+bal_212.
+en_213. Often, when most miserable, I sank to repose, and my dreams lulled me even to rapture.
+bal_213.
+en_214. The spirits that guarded me had provided these moments, or rather hours, of happiness that I might retain strength to fulfil my pilgrimage.
+bal_214.
+en_215. Deprived of this respite, I should have sunk under my hardships.
+bal_215.
+en_216. During the day I was sustained and inspirited by the hope of night, for in sleep I saw my friends, my wife, and my beloved country; again I saw the benevolent countenance of my father, heard the silver tones of my Elizabeth’s voice, and beheld Clerval enjoying health and youth.
+bal_216.
+en_217. Often, when wearied by a toilsome march, I persuaded myself that I was dreaming until night should come and that I should then enjoy reality in the arms of my dearest friends.
+bal_217.
+en_218. What agonising fondness did I feel for them!
+bal_218.
+en_219. How did I cling to their dear forms, as sometimes they haunted even my waking hours, and persuade myself that they still lived!
+bal_219.
+en_220. At such moments vengeance, that burned within me, died in my heart, and I pursued my path towards the destruction of the dæmon more as a task enjoined by heaven, as the mechanical impulse of some power of which I was unconscious, than as the ardent desire of my soul.
+bal_220.
+en_221. What his feelings were whom I pursued I cannot know.
+bal_221.
+en_222. Sometimes, indeed, he left marks in writing on the barks of the trees or cut in stone that guided me and instigated my fury.
+bal_222.
+en_223. “My reign is not yet over”—these words were legible in one of these inscriptions—“you live, and my power is complete.
+bal_223.
+en_224. Follow me; I seek the everlasting ices of the north, where you will feel the misery of cold and frost, to which I am impassive.
+bal_224.
+en_225. You will find near this place, if you follow not too tardily, a dead hare; eat and be refreshed.
+bal_225.
+en_226. Come on, my enemy; we have yet to wrestle for our lives, but many hard and miserable hours must you endure until that period shall arrive.”
+bal_226.
+en_227. Scoffing devil!
+bal_227.
+en_228. Again do I vow vengeance; again do I devote thee, miserable fiend, to torture and death.
+bal_228.
+en_229. Never will I give up my search until he or I perish; and then with what ecstasy shall I join my Elizabeth and my departed friends, who even now prepare for me the reward of my tedious toil and horrible pilgrimage!
+bal_229.
+en_230. As I still pursued my journey to the northward, the snows thickened and the cold increased in a degree almost too severe to support.
+bal_230.
+en_231. The peasants were shut up in their hovels, and only a few of the most hardy ventured forth to seize the animals whom starvation had forced from their hiding-places to seek for prey.
+bal_231.
+en_232. The rivers were covered with ice, and no fish could be procured; and thus I was cut off from my chief article of maintenance.
+bal_232.
+en_233. The triumph of my enemy increased with the difficulty of my labours.
+bal_233.
+en_234. One inscription that he left was in these words: “Prepare!
+bal_234.
+en_235. Your toils only begin; wrap yourself in furs and provide food, for we shall soon enter upon a journey where your sufferings will satisfy my everlasting hatred.”
+bal_235.
+en_236. My courage and perseverance were invigorated by these scoffing words; I resolved not to fail in my purpose, and calling on Heaven to support me, I continued with unabated fervour to traverse immense deserts, until the ocean appeared at a distance and formed the utmost boundary of the horizon.
+bal_236.
+en_237. Oh!
+bal_237.
+en_238. How unlike it was to the blue seasons of the south!
+bal_238.
+en_239. Covered with ice, it was only to be distinguished from land by its superior wildness and ruggedness.
+bal_239.
+en_240. The Greeks wept for joy when they beheld the Mediterranean from the hills of Asia, and hailed with rapture the boundary of their toils.
+bal_240.
+en_241. I did not weep, but I knelt down and with a full heart thanked my guiding spirit for conducting me in safety to the place where I hoped, notwithstanding my adversary’s gibe, to meet and grapple with him.
+bal_241.
+en_242. Some weeks before this period I had procured a sledge and dogs and thus traversed the snows with inconceivable speed.
+bal_242.
+en_243. I know not whether the fiend possessed the same advantages, but I found that, as before I had daily lost ground in the
+bal_243.

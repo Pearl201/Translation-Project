@@ -1,0 +1,584 @@
+en_1. the quay there is a Salvation Army meeting in a back street.
+bal_1.
+en_2. Neither of the bands hears the other, but up here I hear and see them both.
+bal_2.
+en_3. I wonder where Jonathan is and if he is thinking of me!
+bal_3.
+en_4. I wish he were here.
+bal_4.
+en_5. _Dr. Seward’s Diary.
+bal_5.
+en_6. _ _5 June._--The case of Renfield grows more interesting the more I get to understand the man.
+bal_6.
+en_7. He has certain qualities very largely developed; selfishness, secrecy, and purpose.
+bal_7.
+en_8. I wish I could get at what is the object of the latter.
+bal_8.
+en_9. He seems to have some settled scheme of his own, but what it is I do not yet know.
+bal_9.
+en_10. His redeeming quality is a love of animals, though, indeed, he has such curious turns in it that I sometimes imagine he is only abnormally cruel.
+bal_10.
+en_11. His pets are of odd sorts.
+bal_11.
+en_12. Just now his hobby is catching flies.
+bal_12.
+en_13. He has at present such a quantity that I have had myself to expostulate.
+bal_13.
+en_14. To my astonishment, he did not break out into a fury, as I expected, but took the matter in simple seriousness.
+bal_14.
+en_15. He thought for a moment, and then said: “May I have three days?
+bal_15.
+en_16. I shall clear them away.”
+bal_16.
+en_17. Of course, I said that would do.
+bal_17.
+en_18. I must watch him.
+bal_18.
+en_19. *
+bal_19.
+en_20. * *
+bal_20.
+en_21. * *
+bal_21.
+en_22. _18
+bal_22.
+en_23. June._--He has turned his mind now to spiders, and has got several very big fellows in a box.
+bal_23.
+en_24. He keeps feeding them with his flies, and the number of the latter is becoming sensibly diminished, although he has used half his food in attracting more flies from outside to his room.
+bal_24.
+en_25. *
+bal_25.
+en_26. * *
+bal_26.
+en_27. * *
+bal_27.
+en_28. _1
+bal_28.
+en_29. July._--His spiders are now becoming as great a nuisance as his flies, and to-day I told him that he must get rid of them.
+bal_29.
+en_30. He looked very sad at this, so I said that he must clear out some of them, at all events.
+bal_30.
+en_31. He cheerfully acquiesced in this, and I gave him the same time as before for reduction.
+bal_31.
+en_32. He disgusted me much while with him, for when a horrid blow-fly, bloated with some carrion food, buzzed into the room, he caught it, held it exultantly for a few moments between his finger and thumb, and, before I knew what he was going to do, put it in his mouth and ate it.
+bal_32.
+en_33. I scolded him for it, but he argued quietly that it was very good and very wholesome; that it was life, strong life, and gave life to him.
+bal_33.
+en_34. This gave me an idea, or the rudiment of one.
+bal_34.
+en_35. I must watch how he gets rid of his spiders.
+bal_35.
+en_36. He has evidently some deep problem in his mind, for he keeps a little note-book in which he is always jotting down something.
+bal_36.
+en_37. Whole pages of it are filled with masses of figures, generally single numbers added up in batches, and then the totals added in batches again, as though he were “focussing” some account, as the auditors put it.
+bal_37.
+en_38. *
+bal_38.
+en_39. * *
+bal_39.
+en_40. * *
+bal_40.
+en_41. _8
+bal_41.
+en_42. July._--There is a method in his madness, and the rudimentary idea in my mind is growing.
+bal_42.
+en_43. It will be a whole idea soon, and then, oh, unconscious cerebration!
+bal_43.
+en_44. you will have to give the wall to your conscious brother.
+bal_44.
+en_45. I kept away from my friend for a few days, so that I might notice if there were any change.
+bal_45.
+en_46. Things remain as they were except that he has parted with some of his pets and got a new one.
+bal_46.
+en_47. He has managed to get a sparrow, and has already partially tamed it.
+bal_47.
+en_48. His means of taming is simple, for already the spiders have diminished.
+bal_48.
+en_49. Those that do remain, however, are well fed, for he still brings in the flies by tempting them with his food.
+bal_49.
+en_50. *
+bal_50.
+en_51. * *
+bal_51.
+en_52. * * _19
+bal_52.
+en_53. July._--We are progressing.
+bal_53.
+en_54. My friend has now a whole colony of sparrows, and his flies and spiders are almost obliterated.
+bal_54.
+en_55. When I came in he ran to me and said he wanted to ask me a great favour--a very, very great favour; and as he spoke he fawned on me like a dog.
+bal_55.
+en_56. I asked him what it was, and he said, with a sort of rapture in his voice and bearing:-- “A kitten, a nice little, sleek playful kitten, that I can play with, and teach, and feed--and feed--and feed!”
+bal_56.
+en_57. I was not unprepared for this request, for I had noticed how his pets went on increasing in size and vivacity, but I did not care that his pretty family of tame sparrows should be wiped out in the same manner as the flies and the spiders; so I said I would see about it, and asked him if he would not rather have a cat than a kitten.
+bal_57.
+en_58. His eagerness betrayed him as he answered:-- “Oh, yes, I would like a cat!
+bal_58.
+en_59. I only asked for a kitten lest you should refuse me a cat.
+bal_59.
+en_60. No one would refuse me a kitten, would they?”
+bal_60.
+en_61. I shook my head, and said that at present I feared it would not be possible, but that I would see about it.
+bal_61.
+en_62. His face fell, and I could see a warning of danger in it, for there was a sudden fierce, sidelong look which meant killing.
+bal_62.
+en_63. The man is an undeveloped homicidal maniac.
+bal_63.
+en_64. I shall test him with his present craving and see how it will work out; then I shall know more.
+bal_64.
+en_65. *
+bal_65.
+en_66. * *
+bal_66.
+en_67. * *
+bal_67.
+en_68. _10
+bal_68.
+en_69. p. m._--I have visited him again and found him sitting in a corner brooding.
+bal_69.
+en_70. When I came in he threw himself on his knees before me and implored me to let him have a cat; that his salvation depended upon it.
+bal_70.
+en_71. I was firm, however, and told him that he could not have it, whereupon he went without a word, and sat down, gnawing his fingers, in the corner where I had found him.
+bal_71.
+en_72. I shall see him in the morning early.
+bal_72.
+en_73. *
+bal_73.
+en_74. * *
+bal_74.
+en_75. * * _20 July._--Visited Renfield very early, before the attendant went his rounds.
+bal_75.
+en_76. Found him up and humming a tune.
+bal_76.
+en_77. He was spreading out his sugar, which he had saved, in the window, and was manifestly beginning his fly-catching again; and beginning it cheerfully and with a good grace.
+bal_77.
+en_78. I looked around for his birds, and not seeing them, asked him where they were.
+bal_78.
+en_79. He replied, without turning round, that they had all flown away.
+bal_79.
+en_80. There were a few feathers about the room and on his pillow a drop of blood.
+bal_80.
+en_81. I said nothing, but went and told the keeper to report to me if there were anything odd about him during the day.
+bal_81.
+en_82. *
+bal_82.
+en_83. * *
+bal_83.
+en_84. * * _11 a. m._--The attendant has just been to me to say that Renfield has been very sick and has disgorged a whole lot of feathers.
+bal_84.
+en_85. “My belief is, doctor,” he said, “that he has eaten his birds, and that he just took and ate them raw!”
+bal_85.
+en_86. * *
+bal_86.
+en_87. * *
+bal_87.
+en_88. * _11
+bal_88.
+en_89. p. m._--I gave Renfield a strong opiate to-night, enough to make even him sleep, and took away his pocket-book to look at it.
+bal_89.
+en_90. The thought that has been buzzing about my brain lately is complete, and the theory proved.
+bal_90.
+en_91. My homicidal maniac is of a peculiar kind.
+bal_91.
+en_92. I shall have to invent a new classification for him, and call him a zoöphagous (life-eating) maniac; what he desires is to absorb as many lives as he can, and he has laid himself out to achieve it in a cumulative way.
+bal_92.
+en_93. He gave many flies to one spider and many spiders to one bird, and then wanted a cat to eat the many birds.
+bal_93.
+en_94. What would have been his later steps?
+bal_94.
+en_95. It would almost be worth while to complete the experiment.
+bal_95.
+en_96. It might be done if there were only a sufficient cause.
+bal_96.
+en_97. Men sneered at vivisection, and yet look at its results to-day!
+bal_97.
+en_98. Why not advance science in its most difficult and vital aspect--the knowledge of the brain?
+bal_98.
+en_99. Had I even the secret of one such mind--did I hold the key to the fancy of even one lunatic--I might advance my own branch of science to a pitch compared with which Burdon-Sanderson’s physiology or Ferrier’s brain-knowledge would be as nothing.
+bal_99.
+en_100. If only there were a sufficient cause!
+bal_100.
+en_101. I must not think too much of this, or I may be tempted; a good cause might turn the scale with me, for may not I too be of an exceptional brain, congenitally?
+bal_101.
+en_102. How well the man reasoned; lunatics always do within their own scope.
+bal_102.
+en_103. I wonder at how many lives he values a man, or if at only one.
+bal_103.
+en_104. He has closed the account most accurately, and to-day begun a new record.
+bal_104.
+en_105. How many of us begin a new record with each day of our lives?
+bal_105.
+en_106. To me it seems only yesterday that my whole life ended with my new hope, and that truly I began a new record.
+bal_106.
+en_107. So it will be until the Great Recorder sums me up and closes my ledger account with a balance to profit or loss.
+bal_107.
+en_108. Oh, Lucy, Lucy, I cannot be angry with you, nor can I be angry with my friend whose happiness is yours; but I must only wait on hopeless and work.
+bal_108.
+en_109. Work!
+bal_109.
+en_110. work!
+bal_110.
+en_111. If I only could have as strong a cause as my poor mad friend there--a good, unselfish cause to make me work--that would be indeed happiness.
+bal_111.
+en_112. _
+bal_112.
+en_113. Mina Murray’s Journal._ _26
+bal_113.
+en_114. July._--I am anxious, and it soothes me to express myself here; it is like whispering to one’s self and listening at the same time.
+bal_114.
+en_115. And there is also something about the shorthand symbols that makes it different from writing.
+bal_115.
+en_116. I am unhappy about Lucy and about Jonathan.
+bal_116.
+en_117. I had not heard from Jonathan for some time, and was very concerned; but yesterday dear Mr. Hawkins, who is always so kind, sent me a letter from him.
+bal_117.
+en_118. I had written asking him if he had heard, and he said the enclosed had just been received.
+bal_118.
+en_119. It is only a line dated from Castle Dracula, and says that he is just starting for home.
+bal_119.
+en_120. That is not like Jonathan; I do not understand it, and it makes me uneasy.
+bal_120.
+en_121. Then, too, Lucy, although she is so well, has lately taken to her old habit of walking in her sleep.
+bal_121.
+en_122. Her mother has spoken to me about it, and we have decided that I am to lock the door of our room every night.
+bal_122.
+en_123. Mrs. Westenra has got an idea that sleep-walkers always go out on roofs of houses and along the edges of cliffs and then get suddenly wakened and fall over with a despairing cry that echoes all over the place.
+bal_123.
+en_124. Poor dear, she is naturally anxious about Lucy, and she tells me that her husband, Lucy’s father, had the same habit; that he would get up in the night and dress himself and go out, if he were not stopped.
+bal_124.
+en_125. Lucy is to be married in the autumn, and she is already planning out her dresses and how her house is to be arranged.
+bal_125.
+en_126. I sympathise with her, for I do the same, only Jonathan and I will start in life in a very simple way, and shall have to try to make both ends meet.
+bal_126.
+en_127. Mr. Holmwood--he is the Hon.
+bal_127.
+en_128. Arthur Holmwood, only son of Lord Godalming--is coming up here very shortly--as soon as he can leave town, for his father is not very well, and I think dear Lucy is counting the moments till he comes.
+bal_128.
+en_129. She wants to take him up to the seat on the churchyard cliff and show him the beauty of Whitby.
+bal_129.
+en_130. I daresay it is the waiting which disturbs her; she will be all right when he arrives.
+bal_130.
+en_131. *
+bal_131.
+en_132. * *
+bal_132.
+en_133. * * _27
+bal_133.
+en_134. July._--No news from Jonathan.
+bal_134.
+en_135. I am getting quite uneasy about him, though why I should I do not know; but I do wish that he would write, if it were only a single line.
+bal_135.
+en_136. Lucy walks more than ever, and each night I am awakened by her moving about the room.
+bal_136.
+en_137. Fortunately, the weather is so hot that she cannot get cold; but still the anxiety and the perpetually being wakened is beginning to tell on me, and I am getting nervous and wakeful myself.
+bal_137.
+en_138. Thank God, Lucy’s health keeps up.
+bal_138.
+en_139. Mr. Holmwood has been suddenly called to Ring to see his father, who has been taken seriously ill.
+bal_139.
+en_140. Lucy frets at the postponement of seeing him, but it does not touch her looks; she is a trifle stouter, and her cheeks are a lovely rose-pink.
+bal_140.
+en_141. She has lost that anæmic look which she had.
+bal_141.
+en_142. I pray it will all last.
+bal_142.
+en_143. *
+bal_143.
+en_144. * *
+bal_144.
+en_145. * *
+bal_145.
+en_146. _3
+bal_146.
+en_147. August._--Another week gone, and no news from Jonathan, not even to Mr. Hawkins, from whom I have heard.
+bal_147.
+en_148. Oh, I do hope he is not ill.
+bal_148.
+en_149. He surely would have written.
+bal_149.
+en_150. I look at that last letter of his, but somehow it does not satisfy me.
+bal_150.
+en_151. It does not read like him, and yet it is his writing.
+bal_151.
+en_152. There is no mistake of that.
+bal_152.
+en_153. Lucy has not walked much in her sleep the last week, but there is an odd concentration about her which I do not understand; even in her sleep she seems to be watching me.
+bal_153.
+en_154. She tries the door, and finding it locked, goes about the room searching for the key.
+bal_154.
+en_155. _6
+bal_155.
+en_156. August._--Another three days, and no news.
+bal_156.
+en_157. This suspense is getting dreadful.
+bal_157.
+en_158. If I only knew where to write to or where to go to, I should feel easier; but no one has heard a word of Jonathan since that last letter.
+bal_158.
+en_159. I must only pray to God for patience.
+bal_159.
+en_160. Lucy is more excitable than ever, but is otherwise well.
+bal_160.
+en_161. Last night was very threatening, and the fishermen say that we are in for a storm.
+bal_161.
+en_162. I must try to watch it and learn the weather signs.
+bal_162.
+en_163. To-day is a grey day, and the sun as I write is hidden in thick clouds, high over Kettleness.
+bal_163.
+en_164. Everything is grey--except the green grass, which seems like emerald amongst it; grey earthy rock; grey clouds, tinged with the sunburst at the far edge, hang over the grey sea, into which the sand-points stretch like grey fingers.
+bal_164.
+en_165. The sea is tumbling in over the shallows and the sandy flats with a roar, muffled in the sea-mists drifting inland.
+bal_165.
+en_166. The horizon is lost in a grey mist.
+bal_166.
+en_167. All is vastness; the clouds are piled up like giant rocks, and there is a “brool” over the sea that sounds like some presage of doom.
+bal_167.
+en_168. Dark figures are on the beach here and there, sometimes half shrouded in the mist, and seem “men like trees walking.”
+bal_168.
+en_169. The fishing-boats are racing for home, and rise and dip in the ground swell as they sweep into the harbour, bending to the scuppers.
+bal_169.
+en_170. Here comes old Mr. Swales.
+bal_170.
+en_171. He is making straight for me, and I can see, by the way he lifts his hat, that he wants to talk....
+bal_171.
+en_172. I have been quite touched by the change in the poor old man.
+bal_172.
+en_173. When he sat down beside me, he said in a very gentle way:--
+bal_173.
+en_174. “I want to say something to you, miss.”
+bal_174.
+en_175. I could see he was not at ease, so I took his poor old wrinkled hand in mine and asked him to speak fully; so he said, leaving his hand in mine:-- “I’m afraid, my deary, that I must have shocked you by all the wicked things I’ve been sayin’ about the dead, and such like, for weeks past; but I didn’t mean them, and I want ye to remember that when I’m gone.
+bal_175.
+en_176. We aud folks that be daffled, and with one foot abaft the krok-hooal, don’t altogether like to think of it, and we don’t want to feel scart of it; an’ that’s why I’ve took to makin’ light of it, so that I’d cheer up my own heart a bit.
+bal_176.
+en_177. But, Lord love ye, miss, I ain’t afraid of dyin’, not a bit; only I don’t want to die if I can help it.
+bal_177.
+en_178. My time must be nigh at hand now, for I be aud, and a hundred years is too much for any man to expect; and I’m so nigh it that the Aud Man is already whettin’ his scythe.
+bal_178.
+en_179. Ye see, I can’t get out o’ the habit of caffin’ about it all at once; the chafts will wag as they be used to.
+bal_179.
+en_180. Some day soon the Angel of Death will sound his trumpet for me.
+bal_180.
+en_181. But don’t ye dooal an’ greet, my deary!”--for he saw that I was crying--“if he should come this very night I’d not refuse to answer his call.
+bal_181.
+en_182. For life be, after all, only a waitin’ for somethin’ else than what we’re doin’; and death be all that we can rightly depend on.
+bal_182.
+en_183. But I’m content, for it’s comin’ to me, my deary, and comin’ quick.
+bal_183.
+en_184. It may be comin’ while we be lookin’ and wonderin’.
+bal_184.
+en_185. Maybe it’s in that wind out over the sea that’s bringin’ with it loss and wreck, and sore distress, and sad hearts.
+bal_185.
+en_186. Look!
+bal_186.
+en_187. look!”
+bal_187.
+en_188. he cried suddenly.
+bal_188.
+en_189. “There’s something in that wind and in the hoast beyont that sounds, and looks, and tastes, and smells like death.
+bal_189.
+en_190. It’s in the air; I feel it comin’.
+bal_190.
+en_191. Lord, make me answer cheerful when my call comes!”
+bal_191.
+en_192. He held up his arms devoutly, and raised his hat.
+bal_192.
+en_193. His mouth moved as though he were praying.
+bal_193.
+en_194. After a few minutes’ silence, he got up, shook hands with me, and blessed me, and said good-bye, and hobbled off.
+bal_194.
+en_195. It all touched me, and upset me very much.
+bal_195.
+en_196. I was glad when the coastguard came along, with his spy-glass under his arm.
+bal_196.
+en_197. He stopped to talk with me, as he always does, but all the time kept looking at a strange ship.
+bal_197.
+en_198. “I can’t make her out,” he said; “she’s a Russian, by the look of her; but she’s knocking about in the queerest way.
+bal_198.
+en_199. She doesn’t know her mind a bit; she seems to see the storm coming, but can’t decide whether to run up north in the open, or to put in here.
+bal_199.
+en_200. Look there again!
+bal_200.
+en_201. She is steered mighty strangely, for she doesn’t mind the hand on the wheel; changes about with every puff of wind.
+bal_201.
+en_202. We’ll hear more of her before this time to-morrow.”
+bal_202.
+en_203. CHAPTER VII CUTTING FROM “THE DAILYGRAPH,” 8 AUGUST (_Pasted in Mina Murray’s Journal._)
+bal_203.
+en_204. From a Correspondent. _
+bal_204.
+en_205. Whitby_.
+bal_205.
+en_206. One of the greatest and suddenest storms on record has just been experienced here, with results both strange and unique.
+bal_206.
+en_207. The weather had been somewhat sultry, but not to any degree uncommon in the month of August.
+bal_207.
+en_208. Saturday evening was as fine as was ever known, and the great body of holiday-makers laid out yesterday for visits to Mulgrave Woods, Robin Hood’s Bay, Rig Mill, Runswick, Staithes, and the various trips in the neighbourhood of Whitby.
+bal_208.
+en_209. The steamers _Emma_ and _Scarborough_ made trips up and down the coast, and there was an unusual amount of “tripping” both to and from Whitby.
+bal_209.
+en_210. The day was unusually fine till the afternoon, when some of the gossips who frequent the East Cliff churchyard, and from that commanding eminence watch the wide sweep of sea visible to the north and east, called attention to a sudden show of “mares’-tails” high in the sky to the north-west.
+bal_210.
+en_211. The wind was then blowing from the south-west in the mild degree which in barometrical language is ranked “No. 2: light breeze.”
+bal_211.
+en_212. The coastguard on duty at once made report, and one old fisherman, who for more than half a century has kept watch on weather signs from the East Cliff, foretold in an emphatic manner the coming of a sudden storm.
+bal_212.
+en_213. The approach of sunset was so very beautiful, so grand in its masses of splendidly-coloured clouds, that there was quite an assemblage on the walk along the cliff in the old churchyard to enjoy the beauty.
+bal_213.
+en_214. Before the sun dipped below the black mass of Kettleness, standing boldly athwart the western sky, its downward way was marked by myriad clouds of every sunset-colour--flame, purple, pink, green, violet, and all the tints of gold; with here and there masses not large, but of seemingly absolute blackness, in all sorts of shapes, as well outlined as colossal silhouettes.
+bal_214.
+en_215. The experience was not lost on the painters, and doubtless some of the sketches of the “Prelude to the Great Storm” will grace the R. A. and R. I. walls in May next.
+bal_215.
+en_216. More than one captain made up his mind then and there that his “cobble” or his “mule,” as they term the different classes of boats, would remain in the harbour till the storm had passed.
+bal_216.
+en_217. The wind fell away entirely during the evening, and at midnight there was a dead calm, a sultry heat, and that prevailing intensity which, on the approach of thunder, affects persons of a sensitive nature.
+bal_217.
+en_218. There were but few lights in sight at sea, for even the coasting steamers, which usually “hug” the shore so closely, kept well to seaward, and but few fishing-boats were in sight.
+bal_218.
+en_219. The only sail noticeable was a foreign schooner with all sails set, which was seemingly going westwards.
+bal_219.
+en_220. The foolhardiness or ignorance of her officers was a prolific theme for comment whilst she remained in sight, and efforts were made to signal her to reduce sail in face of her danger.
+bal_220.
+en_221. Before the night shut down she was seen with sails idly flapping as she gently rolled on the undulating swell of the sea, “As idle as a painted ship upon a painted ocean.”
+bal_221.
+en_222. Shortly before ten o’clock the stillness of the air grew quite oppressive, and the silence was so marked that the bleating of a sheep inland or the barking of a dog in the town was distinctly heard, and the band on the pier, with its lively French air, was like a discord in the great harmony of nature’s silence.
+bal_222.
+en_223. A little after midnight came a strange sound from over the sea, and high overhead the air began to carry a strange, faint, hollow booming.
+bal_223.
+en_224. Then without warning the tempest broke.
+bal_224.
+en_225. With a rapidity which, at the time, seemed incredible, and even afterwards is impossible to realize, the whole aspect of nature at once became convulsed.
+bal_225.
+en_226. The waves rose in growing fury, each overtopping its fellow, till in a very few minutes the lately glassy sea was like a roaring and devouring monster.
+bal_226.
+en_227. White-crested waves beat madly on the level sands and rushed up the shelving cliffs; others broke over the piers, and with their spume swept the lanthorns of the lighthouses which rise from the end of either pier of Whitby Harbour.
+bal_227.
+en_228. The wind roared like thunder, and blew with such force that it was with difficulty that even strong men kept their feet, or clung with grim clasp to the iron stanchions.
+bal_228.
+en_229. It was found necessary to clear the entire piers from the mass of onlookers, or else the fatalities of the night would have been increased manifold.
+bal_229.
+en_230. To add to the difficulties and dangers of the time, masses of sea-fog came drifting inland--white, wet clouds, which swept by in ghostly fashion, so dank and damp and cold that it needed but little effort of imagination to think that the spirits of those lost at sea were touching their living brethren with the clammy hands of death, and many a one shuddered as the wreaths of sea-mist swept by.
+bal_230.
+en_231. At times the mist cleared, and the sea for some distance could be seen in the glare of the lightning, which now came thick and fast, followed by such sudden peals of thunder that the whole sky overhead seemed trembling under the shock of the footsteps of the storm.
+bal_231.
+en_232. Some of the scenes thus revealed were of immeasurable grandeur and of absorbing interest--the sea, running mountains high, threw skywards with each wave mighty masses of white foam, which the tempest seemed to snatch at and whirl away into space; here and there a fishing-boat, with a rag of sail, running madly for shelter before the blast; now and again the white wings of a storm-tossed sea-bird.
+bal_232.
+en_233. On the summit of the East Cliff the new searchlight was ready for experiment, but had not yet been tried.
+bal_233.
+en_234. The officers in charge of it got it into working order, and in the pauses of the inrushing mist swept with it the surface of the sea.
+bal_234.
+en_235. Once or twice its service was most effective, as when a fishing-boat, with gunwale under water, rushed into the harbour, able, by the guidance of the sheltering light, to avoid the danger of dashing against the piers.
+bal_235.
+en_236. As each boat achieved the safety of the port there was a shout of joy from the mass of people on shore, a shout which for a moment seemed to cleave the gale and was then swept away in its rush.
+bal_236.
+en_237. Before long the searchlight discovered some distance away a schooner with all sails set, apparently the same vessel which had been noticed earlier in the evening.
+bal_237.
+en_238. The wind had by this time backed to the east, and there was a shudder amongst the watchers on the cliff as they realized the terrible danger in which she now was.
+bal_238.
+en_239. Between her and the port lay the great flat reef on which so many good ships have from time to time suffered, and, with the wind blowing from its present quarter, it would be quite impossible that she should fetch the entrance of the harbour.
+bal_239.
+en_240. It was now nearly the hour of high tide, but the waves were so great that in their troughs the shallows of the shore were almost visible, and the schooner, with all sails set, was rushing with such speed that, in the words of one old salt, “she must fetch up somewhere, if it was only in hell.”
+bal_240.
+en_241. Then came another rush of sea-fog, greater than any hitherto--a mass of dank mist, which seemed to close on all things like a grey pall, and left available to men only the organ of hearing, for the roar of the tempest, and the crash of the thunder, and the booming of the mighty billows came through the damp oblivion even louder than before.
+bal_241.
+en_242. The rays of the searchlight were kept fixed on the harbour mouth across the East Pier, where the shock was expected, and men waited breathless.
+bal_242.
+en_243. The wind suddenly shifted to the north-east, and the remnant of the sea-fog melted in the blast; and then, _mirabile dictu_, between the piers, leaping from wave to wave as it rushed at headlong speed, swept the strange schooner before the blast, with all sail set, and gained the safety of the harbour.
+bal_243.
+en_244. The searchlight followed her, and a shudder ran through all who saw her, for lashed to the helm was a corpse, with drooping head, which swung horribly to and fro at each motion of the ship.
+bal_244.
+en_245. No other form could be seen on deck at all.
+bal_245.
+en_246. A great awe came on all as they realised that the ship, as if by a miracle, had found the harbour, unsteered save by the hand of a dead man!
+bal_246.
+en_247. However, all took place more quickly than it takes to write these words.
+bal_247.
+en_248. The schooner paused not, but rushing across the harbour, pitched herself on that accumulation of sand and gravel washed by many tides and many storms into the south-east corner of the pier jutting under the East Cliff, known locally as Tate Hill Pier.
+bal_248.
+en_249. There was of course a considerable concussion as the vessel drove up on the sand heap.
+bal_249.
+en_250. Every spar, rope, and stay was strained, and some of the “top-hammer” came crashing down.
+bal_250.
+en_251. But, strangest of all, the very instant the shore was touched, an immense dog sprang up on deck from below, as if shot up by the concussion, and running forward, jumped from the bow on the sand.
+bal_251.
+en_252. Making straight for the steep cliff, where the churchyard hangs over the laneway to the East Pier so steeply that some of the flat tombstones--“thruff-steans” or “through-stones,” as they call them in the Whitby vernacular--actually project over where the sustaining cliff has fallen away, it disappeared in the darkness, which seemed intensified just beyond the focus of the searchlight.
+bal_252.
+en_253. It so happened that there was no one at the moment on Tate Hill Pier, as all those whose houses are in close proximity were either in bed or were out on the heights above.
+bal_253.
+en_254. Thus the coastguard on duty on the eastern side of the harbour, who at once ran down to the little pier, was the first to climb on board.
+bal_254.
+en_255. The men working the searchlight, after scouring the entrance of the harbour without seeing anything, then turned the light on the derelict and kept it there.
+bal_255.
+en_256. The coastguard ran aft, and when he came beside the wheel, bent over to examine it, and recoiled at once as though under some sudden emotion.
+bal_256.
+en_257. This seemed to pique general curiosity, and quite a number of people began to run.
+bal_257.
+en_258. It is a good way round from the West Cliff by the Drawbridge to Tate Hill Pier, but your correspondent is a fairly good runner, and came well ahead of the crowd.
+bal_258.
+en_259. When I arrived, however, I found already assembled on the pier a crowd, whom the coastguard and police refused to allow to come on board.
+bal_259.
+en_260. By the courtesy of the chief boatman, I was, as your correspondent, permitted to climb on deck, and was one of a small group who saw the dead seaman whilst actually lashed to the wheel.
+bal_260.
+en_261. It was no wonder that the coastguard was surprised, or even awed, for not often can such a sight have been seen.
+bal_261.
+en_262. The man was simply fastened by his hands, tied one over the other, to a spoke of the wheel.
+bal_262.
+en_263. Between the inner hand and the wood was a crucifix, the set of beads on which it was fastened being around both wrists and wheel, and all kept fast by the binding cords.
+bal_263.
+en_264. The poor fellow may have been seated at one time, but the flapping and buffeting of the sails had worked through the rudder of the wheel and dragged him to and fro, so that the cords with which he was tied had cut the flesh to the bone.
+bal_264.
+en_265. Accurate note was made of the state of things, and a doctor--Surgeon J. M. Caffyn, of 33, East Elliot Place--who came immediately after me, declared, after making examination, that the man must have been dead for quite two days.
+bal_265.
+en_266. In his pocket was a bottle, carefully corked, empty save for a little roll of paper, which proved to be the addendum to the log.
+bal_266.
+en_267. The coastguard said the man must have tied up his own hands, fastening the knots with his teeth.
+bal_267.
+en_268. The fact that a coastguard was the first on board may save some complications, later on, in the Admiralty Court; for coastguards cannot claim the salvage which is the right of the first civilian entering on a derelict.
+bal_268.
+en_269. Already, however, the legal tongues are wagging, and one young law student is loudly asserting that the rights of the owner are already completely sacrificed, his property being held in contravention of the statutes of mortmain, since the tiller, as emblemship, if not proof, of delegated possession, is held in a _dead hand_.
+bal_269.
+en_270. It is needless to say that the dead steersman has been reverently removed from the place where he held his honourable watch and ward till death--a steadfastness as noble as that of the young Casabianca--and placed in the mortuary to await inquest.
+bal_270.
+en_271. Already the sudden storm is passing, and its fierceness is abating; crowds are scattering homeward, and the sky is beginning to redden over the Yorkshire wolds.
+bal_271.
+en_272. I shall send, in time for your next issue, further details of the derelict ship which found her way so miraculously into harbour in the storm.
+bal_272.
+en_273. _
+bal_273.
+en_274. Whitby_ _9
+bal_274.
+en_275. August._--The sequel to the strange arrival of the derelict in the storm last night is almost more startling than the thing itself.
+bal_275.
+en_276. It turns out that the schooner is a Russian from Varna, and is called the _Demeter_.
+bal_276.
+en_277. She is almost entirely in ballast of silver sand, with only a small amount of cargo--a number of great wooden boxes filled with mould.
+bal_277.
+en_278. This cargo was consigned to a Whitby solicitor, Mr. S. F. Billington, of 7, The Crescent, who this morning went aboard and formally took possession of the goods consigned to him.
+bal_278.
+en_279. The Russian consul, too, acting for the charter-party, took formal possession of the ship, and paid all harbour dues, etc.
+bal_279.
+en_280. Nothing is talked about here to-day except the strange coincidence; the officials of the Board of Trade have been most exacting in seeing that every compliance has been made with existing regulations.
+bal_280.
+en_281. As the matter is to be a “nine days’ wonder,” they are evidently determined that there shall be no cause of after complaint.
+bal_281.
+en_282. A good deal of interest was abroad concerning the dog which landed when the ship struck, and more than a few of the members of the S. P. C. A., which is very strong in Whitby, have tried to befriend the animal.
+bal_282.
+en_283. To the general disappointment, however, it was not to be found; it seems to have disappeared entirely from the town.
+bal_283.
+en_284. It may be that it was frightened and made its way on to the moors, where it is still hiding in terror.
+bal_284.
+en_285. There are some who look with dread on such a possibility, lest later on it should in itself become a danger, for it is evidently a fierce brute.
+bal_285.
+en_286. Early this morning a large dog, a half-bred mastiff belonging to a coal merchant close to Tate Hill Pier, was found dead in the roadway opposite to its master’s yard.
+bal_286.
+en_287. It had been fighting, and manifestly had had a savage opponent, for its throat was torn away, and its belly was slit open as if with a savage claw.
+bal_287.
+en_288. *
+bal_288.
+en_289. * *
+bal_289.
+en_290. * *
+bal_290.
+en_291. _Later._--By the kindness of the Board of Trade inspector, I have been permitted to look over the log-book of the _Demeter_, which was in order up to within three days, but contained nothing of special interest except as to facts of missing men.
+bal_291.
+en_292. The greatest interest, however, is with regard to the paper found in the bottle, which was to-day produced at the inquest; and a more strange narrative than the two between them unfold it has not been my
+bal_292.

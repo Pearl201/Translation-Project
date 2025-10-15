@@ -1,0 +1,514 @@
+en_1. The sun rose gently over the mountains, bringing light to the valley.
+bal_1. 
+en_2. Children played beside the river while their mothers washed clothes.
+bal_2. 
+en_3. The old man told stories about his youth and the sea he once sailed.
+bal_3. 
+en_4. In the market, people bargained for fruit, spices, and colorful cloth.
+bal_4. 
+en_5. She wrote a letter to her brother who lived in another city.
+bal_5. 
+en_6. The wind carried the scent of flowers through the narrow streets.
+bal_6. 
+en_7. A teacher explained the lesson patiently to every student in the class.
+bal_7. 
+en_8. The farmer looked at his field and prayed for rain.
+bal_8. 
+en_9. Birds gathered on the roof before flying away to the forest.
+bal_9. 
+en_10. She smiled as she remembered the songs of her childhood.
+bal_10. 
+en_11. The traveler rested under a tree after walking all day.
+bal_11. 
+en_12. They built their houses near the sea to feel the cool breeze.
+bal_12. 
+en_13. At night, the stars shone like silver above the silent desert.
+bal_13. 
+en_14. Walt Whitman has somewhere a fine and just distinction between “loving by allowance” and “loving with personal love.”
+bal_14.
+en_15. This distinction applies to books as well as to men and women; and in the case of the not very numerous authors who are the objects of the personal affection, it brings a curious consequence with it.
+bal_15.
+en_16. There is much more difference as to their best work than in the case of those others who are loved “by allowance” by convention, and because it is felt to be the right and proper thing to love them.
+bal_16.
+en_17. And in the sect--fairly large and yet unusually choice--of Austenians or Janites, there would probably be found partisans of the claim to primacy of almost every one of the novels.
+bal_17.
+en_18. To some the delightful freshness and humour of_ Northanger Abbey, _its completeness, finish, and_ entrain, _obscure the undoubted critical facts that its scale is small, and its scheme, after all, that of burlesque or parody, a kind in which the first rank is reached with difficulty._
+bal_18.
+en_19. Persuasion, _relatively faint in tone, and not enthralling in interest, has devotees who exalt above all the others its exquisite delicacy and keeping.
+bal_19.
+en_20. The catastrophe of_ Mansfield Park _is admittedly theatrical, the hero and heroine are insipid, and the author has almost wickedly destroyed all romantic interest by expressly admitting that Edmund only took Fanny because Mary shocked him, and that Fanny might very likely have taken Crawford if he had been a little more assiduous; yet the matchless rehearsal-scenes and the characters of Mrs. Norris and others have secured, I believe, a considerable party for it._
+bal_20.
+en_21. Sense and Sensibility _has perhaps the fewest out-and-out admirers; but it does not want them._
+bal_21.
+en_22. _
+bal_22.
+en_23. I suppose, however, that the majority of at least competent votes would, all things considered, be divided between_ Emma _and the present book; and perhaps the vulgar verdict (if indeed a fondness for Miss Austen be not of itself a patent of exemption from any possible charge of vulgarity) would go for_ Emma.
+bal_23.
+en_24. _
+bal_24.
+en_25. It is the larger, the more varied, the more popular; the author had by the time of its composition seen rather more of the world, and had improved her general, though not her most peculiar and characteristic dialogue; such figures as Miss Bates, as the Eltons, cannot but unite the suffrages of everybody.
+bal_25.
+en_26. On the other hand, I, for my part, declare for_ Pride and Prejudice _unhesitatingly.
+bal_26.
+en_27. It seems to me the most perfect, the most characteristic, the most eminently quintessential of its author’s works; and for this contention in such narrow space as is permitted to me, I propose here to show cause._ _
+bal_27.
+en_28. In the first place, the book (it may be barely necessary to remind the reader) was in its first shape written very early, somewhere about 1796, when Miss Austen was barely twenty-one; though it was revised and finished at Chawton some fifteen years later, and was not published till 1813, only four years before her death.
+bal_28.
+en_29. I do not know whether, in this combination of the fresh and vigorous projection of youth, and the critical revision of middle life, there may be traced the distinct superiority in point of construction, which, as it seems to me, it possesses over all the others.
+bal_29.
+en_30. The plot, though not elaborate, is almost regular enough for Fielding; hardly a character, hardly an incident could be retrenched without loss to the story.
+bal_30.
+en_31. The elopement of Lydia and Wickham is not, like that of Crawford and Mrs. Rushworth, a_ coup de théâtre; _it connects itself in the strictest way with the course of the story earlier, and brings about the denouement with complete propriety.
+bal_31.
+en_32. All the minor passages--the loves of Jane and Bingley, the advent of Mr. Collins, the visit to Hunsford, the Derbyshire tour--fit in after the same unostentatious, but masterly fashion.
+bal_32.
+en_33. There is no attempt at the hide-and-seek, in-and-out business, which in the transactions between Frank Churchill and Jane Fairfax contributes no doubt a good deal to the intrigue of_ Emma, _but contributes it in a fashion which I do not think the best feature of that otherwise admirable book.
+bal_33.
+en_34. Although Miss Austen always liked something of the misunderstanding kind, which afforded her opportunities for the display of the peculiar and incomparable talent to be noticed presently, she has been satisfied here with the perfectly natural occasions provided by the false account of Darcy’s conduct given by Wickham, and by the awkwardness (arising with equal naturalness) from the gradual transformation of Elizabeth’s own feelings from positive aversion to actual love.
+bal_34.
+en_35. I do not know whether the all-grasping hand of the playwright has ever been laid upon_ Pride and Prejudice; _
+bal_35.
+en_36. and I dare say that, if it were, the situations would prove not startling or garish enough for the footlights, the character-scheme too subtle and delicate for pit and gallery.
+bal_36.
+en_37. But if the attempt were made, it would certainly not be hampered by any of those loosenesses of construction, which, sometimes disguised by the conveniences of which the novelist can avail himself, appear at once on the stage._
+bal_37.
+en_38. _
+bal_38.
+en_39. I think, however, though the thought will doubtless seem heretical to more than one school of critics, that construction is not the highest merit, the choicest gift, of the novelist.
+bal_39.
+en_40. It sets off his other gifts and graces most advantageously to the critical eye; and the want of it will sometimes mar those graces--appreciably, though not quite consciously--to eyes by no means ultra-critical.
+bal_40.
+en_41. But a very badly-built novel which excelled in pathetic or humorous character, or which displayed consummate command of dialogue--perhaps the rarest of all faculties--would be an infinitely better thing than a faultless plot acted and told by puppets with pebbles in their mouths.
+bal_41.
+en_42. And despite the ability which Miss Austen has shown in working out the story, I for one should put_ Pride and Prejudice _far lower if it did not contain what seem to me the very masterpieces of Miss Austen’s humour and of her faculty of character-creation--masterpieces who may indeed admit John Thorpe, the Eltons, Mrs. Norris, and one or two others to their company, but who, in one instance certainly, and perhaps in others, are still superior to them.
+bal_42.
+en_43. _ _
+bal_43.
+en_44. The characteristics of Miss Austen’s humour are so subtle and delicate that they are, perhaps, at all times easier to apprehend than to express, and at any particular time likely to be differently apprehended by different persons.
+bal_44.
+en_45. To me this humour seems to possess a greater affinity, on the whole, to that of Addison than to any other of the numerous species of this great British genus.
+bal_45.
+en_46. The differences of scheme, of time, of subject, of literary convention, are, of course, obvious enough; the difference of sex does not, perhaps, count for much, for there was a distinctly feminine element in “Mr. Spectator,” and in Jane Austen’s genius there was, though nothing mannish, much that was masculine.
+bal_46.
+en_47. But the likeness of quality consists in a great number of common subdivisions of quality--demureness, extreme minuteness of touch, avoidance of loud tones and glaring effects.
+bal_47.
+en_48. Also there is in both a certain not inhuman or unamiable cruelty.
+bal_48.
+en_49. It is the custom with those who judge grossly to contrast the good nature of Addison with the savagery of Swift, the mildness of Miss Austen with the boisterousness of Fielding and Smollett, even with the ferocious practical jokes that her immediate predecessor, Miss Burney, allowed without very much protest.
+bal_49.
+en_50. Yet, both in Mr. Addison and in Miss Austen there is, though a restrained and well-mannered, an insatiable and ruthless delight in roasting and cutting up a fool.
+bal_50.
+en_51. A man in the early eighteenth century, of course, could push this taste further than a lady in the early nineteenth; and no doubt Miss Austen’s principles, as well as her heart, would have shrunk from such things as the letter from the unfortunate husband in the_ Spectator, _who describes, with all the gusto and all the innocence in the world, how his wife and his friend induce him to play at blind-man’s-buff.
+bal_51.
+en_52. But another_ Spectator _letter--that of the damsel of fourteen who wishes to marry Mr. Shapely, and assures her selected Mentor that “he admires your_
+bal_52.
+en_53. Spectators _mightily”--might have been written by a rather more ladylike and intelligent Lydia Bennet in the days of Lydia’s great-grandmother; while, on the other hand, some (I think unreasonably) have found “cynicism” in touches of Miss Austen’s own, such as her satire of Mrs. Musgrove’s self-deceiving regrets over her son.
+bal_53.
+en_54. But this word “cynical” is one of the most misused in the English language, especially when, by a glaring and gratuitous falsification of its original sense, it is applied, not to rough and snarling invective, but to gentle and oblique satire.
+bal_54.
+en_55. If cynicism means the perception of “the other side,” the sense of “the accepted hells beneath,” the consciousness that motives are nearly always mixed, and that to seem is not identical with to be--if this be cynicism, then every man and woman who is not a fool, who does not care to live in a fool’s paradise, who has knowledge of nature and the world and life, is a cynic.
+bal_55.
+en_56. And in that sense Miss Austen certainly was one.
+bal_56.
+en_57. She may even have been one in the further sense that, like her own Mr. Bennet, she took an epicurean delight in dissecting, in displaying, in setting at work her fools and her mean persons.
+bal_57.
+en_58. I think she did take this delight, and I do not think at all the worse of her for it as a woman, while she was immensely the better for it as an artist._ _
+bal_58.
+en_59. In respect of her art generally, Mr. Goldwin Smith has truly observed that “metaphor has been exhausted in depicting the perfection of it, combined with the narrowness of her field;” and he has justly added that we need not go beyond her own comparison to the art of a miniature painter.
+bal_59.
+en_60. To make this latter observation quite exact we must not use the term miniature in its restricted sense, and must think rather of Memling at one end of the history of painting and Meissonier at the other, than of Cosway or any of his kind.
+bal_60.
+en_61. And I am not so certain that I should myself use the word “narrow” in connection with her.
+bal_61.
+en_62. If her world is a microcosm, the cosmic quality of it is at least as eminent as the littleness.
+bal_62.
+en_63. She does not touch what she did not feel herself called to paint; I am not so sure that she could not have painted what she did not feel herself called to touch.
+bal_63.
+en_64. It is at least remarkable that in two very short periods of writing--one of about three years, and another of not much more than five--she executed six capital works, and has not left a single failure.
+bal_64.
+en_65. It is possible that the romantic paste in her composition was defective: we must always remember that hardly anybody born in her decade--that of the eighteenth-century seventies--independently exhibited the full romantic quality.
+bal_65.
+en_66. Even Scott required hill and mountain and ballad, even Coleridge metaphysics and German to enable them to chip the classical shell.
+bal_66.
+en_67. Miss Austen was an English girl, brought up in a country retirement, at the time when ladies went back into the house if there was a white frost which might pierce their kid shoes, when a sudden cold was the subject of the gravest fears, when their studies, their ways, their conduct were subject to all those fantastic limits and restrictions against which Mary Wollstonecraft protested with better general sense than particular taste or judgment.
+bal_67.
+en_68. Miss Austen, too, drew back when the white frost touched her shoes; but I think she would have made a pretty good journey even in a black one._ _
+bal_68.
+en_69. For if her knowledge was not very extended, she knew two things which only genius knows.
+bal_69.
+en_70. The one was humanity, and the other was art.
+bal_70.
+en_71. On the first head she could not make a mistake; her men, though limited, are true, and her women are, in the old sense, “absolute.”
+bal_71.
+en_72. As to art, if she has never tried idealism, her realism is real to a degree which makes the false realism of our own day look merely dead-alive.
+bal_72.
+en_73. Take almost any Frenchman, except the late M. de Maupassant, and watch him laboriously piling up strokes in the hope of giving a complete impression.
+bal_73.
+en_74. You get none; you are lucky if, discarding two-thirds of what he gives, you can shape a real impression out of the rest.
+bal_74.
+en_75. But with Miss Austen the myriad, trivial, unforced strokes build up the picture like magic.
+bal_75.
+en_76. Nothing is false; nothing is superfluous.
+bal_76.
+en_77. When (to take the present book only)
+bal_77.
+en_78. Mr. Collins changed his mind from Jane to Elizabeth “while Mrs. Bennet was stirring the fire” (and we know_ how _Mrs. Bennet would have stirred the fire), when Mr. Darcy “brought his coffee-cup back_ himself,” _the touch in each case is like that of Swift--“taller by the breadth of my nail”--which impressed the half-reluctant Thackeray with just and outspoken admiration.
+bal_78.
+en_79. Indeed, fantastic as it may seem, I should put Miss Austen as near to Swift in some ways, as I have put her to Addison in others._ _
+bal_79.
+en_80. This Swiftian quality appears in the present novel as it appears nowhere else in the character of the immortal, the ineffable Mr. Collins.
+bal_80.
+en_81. Mr. Collins is really_ great; _far greater than anything Addison ever did, almost great enough for Fielding or for Swift himself.
+bal_81.
+en_82. It has been said that no one ever was like him.
+bal_82.
+en_83. But in the first place,_ he _was like him; he is there--alive, imperishable, more real than hundreds of prime ministers and archbishops, of “metals, semi-metals, and distinguished philosophers.”
+bal_83.
+en_84. In the second place, it is rash, I think, to conclude that an actual Mr. Collins was impossible or non-existent at the end of the eighteenth century.
+bal_84.
+en_85. It is very interesting that we possess, in this same gallery, what may be called a spoiled first draught, or an unsuccessful study of him, in John Dashwood.
+bal_85.
+en_86. The formality, the under-breeding, the meanness, are there; but the portrait is only half alive, and is felt to be even a little unnatural.
+bal_86.
+en_87. Mr. Collins is perfectly natural, and perfectly alive.
+bal_87.
+en_88. In fact, for all the “miniature,” there is something gigantic in the way in which a certain side, and more than one, of humanity, and especially eighteenth-century humanity, its Philistinism, its well-meaning but hide-bound morality, its formal pettiness, its grovelling respect for rank, its materialism, its selfishness, receives exhibition.
+bal_88.
+en_89. I will not admit that one speech or one action of this inestimable man is incapable of being reconciled with reality, and I should not wonder if many of these words and actions are historically true._
+bal_89.
+en_90. _
+bal_90.
+en_91. But the greatness of Mr. Collins could not have been so satisfactorily exhibited if his creatress had not adjusted so artfully to him the figures of Mr. Bennet and of Lady Catherine de Bourgh.
+bal_91.
+en_92. The latter, like Mr. Collins himself, has been charged with exaggeration.
+bal_92.
+en_93. There is, perhaps, a very faint shade of colour for the charge; but it seems to me very faint indeed.
+bal_93.
+en_94. Even now I do not think that it would be impossible to find persons, especially female persons, not necessarily of noble birth, as overbearing, as self-centred, as neglectful of good manners, as Lady Catherine.
+bal_94.
+en_95. A hundred years ago, an earl’s daughter, the Lady Powerful (if not exactly Bountiful) of an out-of-the-way country parish, rich, long out of marital authority, and so forth, had opportunities of developing these agreeable characteristics which seldom present themselves now.
+bal_95.
+en_96. As for Mr. Bennet, Miss Austen, and Mr. Darcy, and even Miss Elizabeth herself, were, I am inclined to think, rather hard on him for the “impropriety” of his conduct.
+bal_96.
+en_97. His wife was evidently, and must always have been, a quite irreclaimable fool; and unless he had shot her or himself there was no way out of it for a man of sense and spirit but the ironic.
+bal_97.
+en_98. From no other point of view is he open to any reproach, except for an excusable and not unnatural helplessness at the crisis of the elopement, and his utterances are the most acutely delightful in the consciously humorous kind--in the kind that we laugh with, not at--that even Miss Austen has put into the mouth of any of her characters.
+bal_98.
+en_99. It is difficult to know whether he is most agreeable when talking to his wife, or when putting Mr. Collins through his paces; but the general sense of the world has probably been right in preferring to the first rank his consolation to the former when she maunders over the entail, “My dear, do not give way to such gloomy thoughts.
+bal_99.
+en_100. Let us hope for better things.
+bal_100.
+en_101. Let us flatter ourselves that_
+bal_101.
+en_102. I _may be the survivor;” and his inquiry to his colossal cousin as to the compliments which Mr. Collins has just related as made by himself to Lady Catherine, “May I ask whether these pleasing attentions proceed from the impulse of the moment, or are the result of previous study?”
+bal_102.
+en_103. These are the things which give Miss Austen’s readers the pleasant shocks, the delightful thrills, which are felt by the readers of Swift, of Fielding, and we may here add, of Thackeray, as they are felt by the readers of no other English author of fiction outside of these four._ _
+bal_103.
+en_104. The goodness of the minor characters in_ Pride and Prejudice _has been already alluded to, and it makes a detailed dwelling on their beauties difficult in any space, and impossible in this.
+bal_104.
+en_105. Mrs. Bennet we have glanced at, and it is not easy to say whether she is more exquisitely amusing or more horribly true.
+bal_105.
+en_106. Much the same may be said of Kitty and Lydia; but it is not every author, even of genius, who would have differentiated with such unerring skill the effects of folly and vulgarity of intellect and disposition working upon the common weaknesses of woman at such different ages.
+bal_106.
+en_107. With Mary, Miss Austen has taken rather less pains, though she has been even more unkind to her; not merely in the text, but, as we learn from those interesting traditional appendices which Mr. Austen Leigh has given us, in dooming her privately to marry “one of Mr. Philips’s clerks.”
+bal_107.
+en_108. The habits of first copying and then retailing moral sentiments, of playing and singing too long in public, are, no doubt, grievous and criminal; but perhaps poor Mary was rather the scapegoat of the sins of blue stockings in that Fordyce-belectured generation.
+bal_108.
+en_109. It is at any rate difficult not to extend to her a share of the respect and affection (affection and respect of a peculiar kind; doubtless), with which one regards Mr. Collins, when she draws the moral of Lydia’s fall.
+bal_109.
+en_110. I sometimes wish that the exigencies of the story had permitted Miss Austen to unite these personages, and thus at once achieve a notable mating and soothe poor Mrs. Bennet’s anguish over the entail._ _
+bal_110.
+en_111. The Bingleys and the Gardiners and the Lucases, Miss Darcy and Miss de Bourgh, Jane, Wickham, and the rest, must pass without special comment, further than the remark that Charlotte Lucas (her egregious papa, though delightful, is just a little on the thither side of the line between comedy and farce) is a wonderfully clever study in drab of one kind, and that Wickham (though something of Miss Austen’s hesitation of touch in dealing with young men appears) is a not much less notable sketch in drab of another.
+bal_111.
+en_112. Only genius could have made Charlotte what she is, yet not disagreeable; Wickham what he is, without investing him either with a cheap Don Juanish attractiveness or a disgusting rascality.
+bal_112.
+en_113. But the hero and the heroine are not tints to be dismissed.
+bal_113.
+en_114. _ _
+bal_114.
+en_115. Darcy has always seemed to me by far the best and most interesting of Miss Austen’s heroes; the only possible competitor being Henry Tilney, whose part is so slight and simple that it hardly enters into comparison.
+bal_115.
+en_116. It has sometimes, I believe, been urged that his pride is unnatural at first in its expression and later in its yielding, while his falling in love at all is not extremely probable.
+bal_116.
+en_117. Here again I cannot go with the objectors.
+bal_117.
+en_118. Darcy’s own account of the way in which his pride had been pampered, is perfectly rational and sufficient; and nothing could be, psychologically speaking, a_ causa verior _for its sudden restoration to healthy conditions than the shock of Elizabeth’s scornful refusal acting on a nature_
+bal_118.
+en_119. ex hypothesi _generous.
+bal_119.
+en_120. Nothing in even our author is finer and more delicately touched than the change of his demeanour at the sudden meeting in the grounds of Pemberley.
+bal_120.
+en_121. Had he been a bad prig or a bad coxcomb, he might have been still smarting under his rejection, or suspicious that the girl had come husband-hunting.
+bal_121.
+en_122. His being neither is exactly consistent with the probable feelings of a man spoilt in the common sense, but not really injured in disposition, and thoroughly in love.
+bal_122.
+en_123. As for his being in love, Elizabeth has given as just an exposition of the causes of that phenomenon as Darcy has of the conditions of his unregenerate state, only she has of course not counted in what was due to her own personal charm._
+bal_123.
+en_124. _
+bal_124.
+en_125. The secret of that charm many men and not a few women, from Miss Austen herself downwards, have felt, and like most charms it is a thing rather to be felt than to be explained.
+bal_125.
+en_126. Elizabeth of course belongs to the_ allegro _or_ allegra _division of the army of Venus.
+bal_126.
+en_127. Miss Austen was always provokingly chary of description in regard to her beauties; and except the fine eyes, and a hint or two that she had at any rate sometimes a bright complexion, and was not very tall, we hear nothing about her looks.
+bal_127.
+en_128. But her chief difference from other heroines of the lively type seems to lie first in her being distinctly clever--almost strong-minded, in the better sense of that objectionable word--and secondly in her being entirely destitute of ill-nature for all her propensity to tease and the sharpness of her tongue.
+bal_128.
+en_129. Elizabeth can give at least as good as she gets when she is attacked; but she never “scratches,” and she never attacks first.
+bal_129.
+en_130. Some of the merest obsoletenesses of phrase and manner give one or two of her early speeches a slight pertness, but that is nothing, and when she comes to serious business, as in the great proposal scene with Darcy (which is, as it should be, the climax of the interest of the book), and in the final ladies’ battle with Lady Catherine, she is unexceptionable.
+bal_130.
+en_131. Then too she is a perfectly natural girl.
+bal_131.
+en_132. She does not disguise from herself or anybody that she resents Darcy’s first ill-mannered personality with as personal a feeling.
+bal_132.
+en_133. (By the way, the reproach that the ill-manners of this speech are overdone is certainly unjust; for things of the same kind, expressed no doubt less stiltedly but more coarsely, might have been heard in more than one ball-room during this very year from persons who ought to have been no worse bred than Darcy.)
+bal_133.
+en_134. And she lets the injury done to Jane and the contempt shown to the rest of her family aggravate this resentment in the healthiest way in the world.
+bal_134.
+en_135. _ _
+bal_135.
+en_136. Still, all this does not explain her charm, which, taking beauty as a common form of all heroines, may perhaps consist in the addition to her playfulness, her wit, her affectionate and natural disposition, of a certain fearlessness very uncommon in heroines of her type and age.
+bal_136.
+en_137. Nearly all of them would have been in speechless awe of the magnificent Darcy; nearly all of them would have palpitated and fluttered at the idea of proposals, even naughty ones, from the fascinating Wickham.
+bal_137.
+en_138. Elizabeth, with nothing offensive, nothing_ viraginous, _nothing of the “New Woman” about her, has by nature what the best modern (not “new”) women have by education and experience, a perfect freedom from the idea that all men may bully her if they choose, and that most will away with her if they can.
+bal_138.
+en_139. Though not in the least “impudent and mannish grown,” she has no mere sensibility, no nasty niceness about her.
+bal_139.
+en_140. The form of passion common and likely to seem natural in Miss Austen’s day was so invariably connected with the display of one or the other, or both of these qualities, that she has not made Elizabeth outwardly passionate.
+bal_140.
+en_141. But I, at least, have not the slightest doubt that she would have married Darcy just as willingly without Pemberley as with it, and anybody who can read between lines will not find the lovers’ conversations in the final chapters so frigid as they might have looked to the Della Cruscans of their own day, and perhaps do look to the Della Cruscans of this._
+bal_141.
+en_142. _
+bal_142.
+en_143. And, after all, what is the good of seeking for the reason of charm?--it is there.
+bal_143.
+en_144. There were better sense in the sad mechanic exercise of determining the reason of its absence where it is not.
+bal_144.
+en_145. In the novels of the last hundred years there are vast numbers of young ladies with whom it might be a pleasure to fall in love; there are at least five with whom, as it seems to me, no man of taste and spirit can help doing so.
+bal_145.
+en_146. Their names are, in chronological order, Elizabeth Bennet, Diana Vernon, Argemone Lavington, Beatrix Esmond, and Barbara Grant.
+bal_146.
+en_147. I should have been most in love with Beatrix and Argemone; I should, I think, for mere occasional companionship, have preferred Diana and Barbara.
+bal_147.
+en_148. But to live with and to marry, I do not know that any one of the four can come into competition with Elizabeth._ _
+bal_148.
+en_149. The author of this book dedicated his work to his closest friend.
+bal_149. 
+en_150. This page marks the beginning of a new section in the story.
+bal_150. 
+en_151. The artist’s drawings show life in the old village.]
+bal_151. 
+en_152. Each picture is placed carefully with a title that tells its meaning.
+bal_152. 
+en_153. Chapter One: The traveler arrived and looked around the quiet valley.
+bal_153. 
+en_154. Mr. and Mrs. Karim arrived early, hoping their new neighbors would welcome them with kindness and tea.
+bal_154. 
+en_155. The next morning began with a soft rain, and the hills were covered in silver mist.
+bal_155. 
+en_156. Inside the house, the children gathered near the fire while their father read an old story aloud.
+bal_156. 
+en_157. As the day ended, a traveler knocked on the door, seeking rest and a little food before continuing his journey.
+bal_157. 
+en_158. The woman of the house welcomed him warmly, offering bread and milk with a gentle smile.
+bal_158. 
+en_159. That night, under the quiet stars, he dreamed of distant lands and the family he had left behind.
+bal_159. 
+en_160. The fire burned brighter as they added more wood, filling the room with gentle warmth.
+bal_160.
+en_161. Outside, the wind whispered through the trees and carried the smell of rain.
+bal_161. 
+en_162. The next chapter began with the sound of footsteps approaching the old gate.
+bal_162. 
+en_163. The sky cleared slowly, and the first rays of sunlight touched the distant fields.
+bal_163. 
+en_164. The following morning, a letter arrived that changed the mood of the entire house.
+bal_164. 
+en_165. Everyone gathered in the hall to hear the message and share their thoughts.
+bal_165. 
+en_166. Later that week, the neighbors came to visit, bringing news and laughter.
+bal_166. 
+en_167. One guest said proudly that he never read stories, yet he listened with great interest.
+bal_167. 
+en_168. The evening ended with songs and tea, as the stars appeared above the hills.
+bal_168. 
+en_169. The next morning, preparations began for another long journey across the plains.
+bal_169. 
+en_170. They packed their belongings carefully, hoping for fair weather and safe roads ahead.
+bal_170. 
+en_171. The officers of the town welcomed their friend warmly and shared memories of old times.
+bal_171. 
+en_172. The sun was high when the travelers reached the edge of the village.
+bal_172. 
+en_173. That evening marked a turning point in their journey through the valley.
+bal_173. 
+en_174. They entered the dining room together, speaking softly about the road ahead.
+bal_174. 
+en_175. After breakfast, they walked back through the garden, enjoying the smell of wet grass.
+bal_175. 
+en_176. The sound of birds followed them as they prepared to leave the house.
+bal_176. 
+en_177. His words were filled with love and honesty, though she feared he might be mistaken.
+bal_177. 
+en_178. The next chapter opened with a letter that changed everything between them.
+bal_178. 
+en_179. Days passed quietly, and hope slowly returned to their hearts.
+bal_179. 
+en_180. A new morning began with soft light, carrying the promise of peace and renewal.
+bal_180. 
+en_181. She spoke kindly to everyone, even to those who had once offended her.
+bal_181. 
+en_182. On the stairs and at the door, voices echoed as guests arrived one by one.
+bal_182. 
+en_183. In conversation, she thanked Lady Catherine for her wisdom and generosity.
+bal_183. 
+en_184. He never failed to inform his friends of every journey and joyful event.
+bal_184. 
+en_185. The gentlemen who traveled with him shared his calm spirit and quiet strength.
+bal_185. 
+en_186. The story continued with new meetings, unspoken words, and the hope of return.
+bal_186. 
+en_187. “Escorted by their maternal aunt” “Upon glancing upward”
+bal_187.
+en_188. “Hearing her name spoken”
+bal_188.
+en_189. “Encountering one another in town” “His final bow of farewell” “Fitzwilliam” “The nobility of his sentiments” “They had neglected to send word” “What a snug fit we make!”
+bal_189.
+en_190. “A letter arrived most unexpectedly”
+bal_190.
+en_191. “I vow never to mention it henceforth”
+bal_191.
+en_192. “When the colonel’s battalion departed” “Playfully exchanging glances” The Gardiners’ arrival “Speculating upon the day”
+bal_192.
+en_193. “She found herself lost in reverie”
+bal_193.
+en_194. “To win the goodwill of everyone” “Walking beside the stream”
+bal_194.
+en_195. “There is not a moment to spare”
+bal_195.
+en_196. “The first warm sign of their welcome”
+bal_196.
+en_197. The Post “To whom I have disclosed the matter”
+bal_197.
+en_198. “Her thoughts returned incessantly to Pemberley”
+bal_198.
+en_199. “But perhaps you’d care to peruse it” “The catty elderly matrons” “With a fond and gentle smile” “I’m certain she paid no heed” “Mr. Darcy at his side” “Jane chanced to turn about” “Mrs. Long and her two nieces” “Lizzy, my love, I must speak with you”
+bal_199.
+en_200. “After a brief inspection” “But now the truth emerges” “The interference of his aunt” “Too overcome to speak” “The deferential politeness”
+bal_200.
+en_201. “All misunderstandings at last dissolved”
+bal_201.
+en_202. “Thus concluded a tale of prejudice subdued and pride redeemed, beneath the quiet benediction of mutual esteem.”
+bal_202.
+en_203. It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.
+bal_203.
+en_204. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters.
+bal_204.
+en_205. “My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?”
+bal_205.
+en_206. Mr. Bennet replied that he had not.
+bal_206.
+en_207. “But it is,” returned she; “for Mrs. Long has just been here, and she told me all about it.”
+bal_207.
+en_208. Mr. Bennet made no answer.
+bal_208.
+en_209. “Do not you want to know who has taken it?” cried his wife, impatiently.
+bal_209.
+en_210. “_You_ want to tell me, and I have no objection to hearing it.”
+bal_210.
+en_211. “A gentleman viewed the estate with evident approval”
+bal_211.
+en_212. This was invitation enough.
+bal_212.
+en_213. “Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.”
+bal_213.
+en_214. “What is his name?”
+bal_214.
+en_215. “His name is Bingley.”
+bal_215.
+en_216. “Is he married or single?”
+bal_216.
+en_217. “Oh, single, my dear, to be sure!
+bal_217.
+en_218. A single man of large fortune; four or five thousand a year.
+bal_218.
+en_219. What a fine thing for our girls!”
+bal_219.
+en_220. “How so?
+bal_220.
+en_221. how can it affect them?”
+bal_221.
+en_222. “My dear Mr. Bennet,” replied his wife, “how can you be so tiresome?
+bal_222.
+en_223. You must know that I am thinking of his marrying one of them.”
+bal_223.
+en_224. “Is that his design in settling here?”
+bal_224.
+en_225. “Design?
+bal_225.
+en_226. Nonsense, how can you talk so!
+bal_226.
+en_227. But it is very likely that he _may_ fall in love with one of them, and therefore you must visit him as soon as he comes.”
+bal_227.
+en_228. “I see no occasion for that.
+bal_228.
+en_229. You and the girls may go--or you may send them by themselves, which perhaps will be still better; for as you are as handsome as any of them, Mr. Bingley might like you the best of the party.”
+bal_229.
+en_230. “My dear, you flatter me.
+bal_230.
+en_231. I certainly _have_ had my share of beauty, but I do not pretend to be anything extraordinary now.
+bal_231.
+en_232. When a woman has five grown-up daughters, she ought to give over thinking of her own beauty.”
+bal_232.
+en_233. “In such cases, a woman has not often much beauty to think of.”
+bal_233.
+en_234. “But, my dear, you must indeed go and see Mr. Bingley when he comes into the neighbourhood.”
+bal_234.
+en_235. “It is more than I engage for, I assure you.”
+bal_235.
+en_236. “But consider your daughters.
+bal_236.
+en_237. Only think what an establishment it would be for one of them.
+bal_237.
+en_238. Sir William and Lady Lucas are determined to go, merely on that account; for in general, you know, they visit no new comers.
+bal_238.
+en_239. Indeed you must go, for it will be impossible for _us_ to visit him, if you do not.”
+bal_239.
+en_240. “You are over scrupulous, surely.
+bal_240.
+en_241. I dare say Mr. Bingley will be very glad to see you; and I will send a few lines by you to assure him of my hearty consent to his marrying whichever he chooses of the girls--though I must throw in a good word for my little Lizzy.”
+bal_241.
+en_242. “I desire you will do no such thing.
+bal_242.
+en_243. Lizzy is not a bit better than the others: and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia.
+bal_243.
+en_244. But you are always giving _her_ the preference.”
+bal_244.
+en_245. “They have none of them much to recommend them,” replied he: “they are all silly and ignorant like other girls; but Lizzy has something more of quickness than her sisters.”
+bal_245.
+en_246. “Mr. Bennet, how can you abuse your own children in such a way?
+bal_246.
+en_247. You take delight in vexing me.
+bal_247.
+en_248. You have no compassion on my poor nerves.”
+bal_248.
+en_249. “You mistake me, my dear.
+bal_249.
+en_250. I have a high respect for your nerves.
+bal_250.
+en_251. They are my old friends.
+bal_251.
+en_252. I have heard you mention them with consideration these twenty years at least.”
+bal_252.
+en_253. “Ah, you do not know what I suffer.”
+bal_253.
+en_254. “But I hope you will get over it, and live to see many young men of four thousand a year come into the neighbourhood.”
+bal_254.
+en_255. “It will be no use to us, if twenty such should come, since you will not visit them.”
+bal_255.
+en_256. “Depend upon it, my dear, that when there are twenty, I will visit them all.”
+bal_256.
+en_257. Mr. Bennet was so odd a mixture of quick parts, sarcastic humour, reserve, and caprice, that the experience of three-and-twenty years
+bal_257.

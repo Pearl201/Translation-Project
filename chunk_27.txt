@@ -1,0 +1,578 @@
+en_1. the wretchedness of my desolated home; the reality came on me as a new, and a not less terrible, disaster.
+bal_1.
+en_2. I tried to calm Ernest; I enquired more minutely concerning my father, and here I named my cousin.
+bal_2.
+en_3. “She most of all,” said Ernest, “requires consolation; she accused herself of having caused the death of my brother, and that made her very wretched.
+bal_3.
+en_4. But since the murderer has been discovered—” “The murderer discovered!
+bal_4.
+en_5. Good God!
+bal_5.
+en_6. how can that be?
+bal_6.
+en_7. who could attempt to pursue him?
+bal_7.
+en_8. It is impossible; one might as well try to overtake the winds, or confine a mountain-stream with a straw.
+bal_8.
+en_9. I saw him too; he was free last night!”
+bal_9.
+en_10. “I do not know what you mean,” replied my brother, in accents of wonder, “but to us the discovery we have made completes our misery.
+bal_10.
+en_11. No one would believe it at first; and even now Elizabeth will not be convinced, notwithstanding all the evidence.
+bal_11.
+en_12. Indeed, who would credit that Justine Moritz, who was so amiable, and fond of all the family, could suddenly become so capable of so frightful, so appalling a crime?”
+bal_12.
+en_13. “Justine Moritz!
+bal_13.
+en_14. Poor, poor girl, is she the accused?
+bal_14.
+en_15. But it is wrongfully; every one knows that; no one believes it, surely, Ernest?”
+bal_15.
+en_16. “No one did at first; but several circumstances came out, that have almost forced conviction upon us; and her own behaviour has been so confused, as to add to the evidence of facts a weight that, I fear, leaves no hope for doubt.
+bal_16.
+en_17. But she will be tried today, and you will then hear all.”
+bal_17.
+en_18. He then related that, the morning on which the murder of poor William had been discovered, Justine had been taken ill, and confined to her bed for several days.
+bal_18.
+en_19. During this interval, one of the servants, happening to examine the apparel she had worn on the night of the murder, had discovered in her pocket the picture of my mother, which had been judged to be the temptation of the murderer.
+bal_19.
+en_20. The servant instantly showed it to one of the others, who, without saying a word to any of the family, went to a magistrate; and, upon their deposition, Justine was apprehended.
+bal_20.
+en_21. On being charged with the fact, the poor girl confirmed the suspicion in a great measure by her extreme confusion of manner.
+bal_21.
+en_22. This was a strange tale, but it did not shake my faith; and I replied earnestly, “You are all mistaken; I know the murderer.
+bal_22.
+en_23. Justine, poor, good Justine, is innocent.”
+bal_23.
+en_24. At that instant my father entered.
+bal_24.
+en_25. I saw unhappiness deeply impressed on his countenance, but he endeavoured to welcome me cheerfully; and, after we had exchanged our mournful greeting, would have introduced some other topic than that of our disaster, had not Ernest exclaimed, “Good God, papa!
+bal_25.
+en_26. Victor says that he knows who was the murderer of poor William.”
+bal_26.
+en_27. “We do also, unfortunately,” replied my father, “for indeed I had rather have been for ever ignorant than have discovered so much depravity and ungratitude in one I valued so highly.”
+bal_27.
+en_28. “My dear father, you are mistaken; Justine is innocent.”
+bal_28.
+en_29. “If she is, God forbid that she should suffer as guilty.
+bal_29.
+en_30. She is to be tried today, and I hope, I sincerely hope, that she will be acquitted.”
+bal_30.
+en_31. This speech calmed me.
+bal_31.
+en_32. I was firmly convinced in my own mind that Justine, and indeed every human being, was guiltless of this murder.
+bal_32.
+en_33. I had no fear, therefore, that any circumstantial evidence could be brought forward strong enough to convict her.
+bal_33.
+en_34. My tale was not one to announce publicly; its astounding horror would be looked upon as madness by the vulgar.
+bal_34.
+en_35. Did any one indeed exist, except I, the creator, who would believe, unless his senses convinced him, in the existence of the living monument of presumption and rash ignorance which I had let loose upon the world?
+bal_35.
+en_36. We were soon joined by Elizabeth.
+bal_36.
+en_37. Time had altered her since I last beheld her; it had endowed her with loveliness surpassing the beauty of her childish years.
+bal_37.
+en_38. There was the same candour, the same vivacity, but it was allied to an expression more full of sensibility and intellect.
+bal_38.
+en_39. She welcomed me with the greatest affection.
+bal_39.
+en_40. “Your arrival, my dear cousin,” said she, “fills me with hope.
+bal_40.
+en_41. You perhaps will find some means to justify my poor guiltless Justine.
+bal_41.
+en_42. Alas!
+bal_42.
+en_43. who is safe, if she be convicted of crime?
+bal_43.
+en_44. I rely on her innocence as certainly as I do upon my own.
+bal_44.
+en_45. Our misfortune is doubly hard to us; we have not only lost that lovely darling boy, but this poor girl, whom I sincerely love, is to be torn away by even a worse fate.
+bal_45.
+en_46. If she is condemned, I never shall know joy more.
+bal_46.
+en_47. But she will not, I am sure she will not; and then I shall be happy again, even after the sad death of my little William.”
+bal_47.
+en_48. “She is innocent, my Elizabeth,” said I, “and that shall be proved; fear nothing, but let your spirits be cheered by the assurance of her acquittal.”
+bal_48.
+en_49. “How kind and generous you are!
+bal_49.
+en_50. every one else believes in her guilt, and that made me wretched, for I knew that it was impossible: and to see every one else prejudiced in so deadly a manner rendered me hopeless and despairing.”
+bal_50.
+en_51. She wept.
+bal_51.
+en_52. “Dearest niece,” said my father, “dry your tears.
+bal_52.
+en_53. If she is, as you believe, innocent, rely on the justice of our laws, and the activity with which I shall prevent the slightest shadow of partiality.”
+bal_53.
+en_54. Chapter 8
+bal_54.
+en_55. We passed a few sad hours until eleven o’clock, when the trial was to commence.
+bal_55.
+en_56. My father and the rest of the family being obliged to attend as witnesses, I accompanied them to the court.
+bal_56.
+en_57. During the whole of this wretched mockery of justice I suffered living torture.
+bal_57.
+en_58. It was to be decided whether the result of my curiosity and lawless devices would cause the death of two of my fellow beings: one a smiling babe full of innocence and joy, the other far more dreadfully murdered, with every aggravation of infamy that could make the murder memorable in horror.
+bal_58.
+en_59. Justine also was a girl of merit and possessed qualities which promised to render her life happy; now all was to be obliterated in an ignominious grave, and I the cause!
+bal_59.
+en_60. A thousand times rather would I have confessed myself guilty of the crime ascribed to Justine, but I was absent when it was committed, and such a declaration would have been considered as the ravings of a madman and would not have exculpated her who suffered through me.
+bal_60.
+en_61. The appearance of Justine was calm.
+bal_61.
+en_62. She was dressed in mourning, and her countenance, always engaging, was rendered, by the solemnity of her feelings, exquisitely beautiful.
+bal_62.
+en_63. Yet she appeared confident in innocence and did not tremble, although gazed on and execrated by thousands, for all the kindness which her beauty might otherwise have excited was obliterated in the minds of the spectators by the imagination of the enormity she was supposed to have committed.
+bal_63.
+en_64. She was tranquil, yet her tranquillity was evidently constrained; and as her confusion had before been adduced as a proof of her guilt, she worked up her mind to an appearance of courage.
+bal_64.
+en_65. When she entered the court she threw her eyes round it and quickly discovered where we were seated.
+bal_65.
+en_66. A tear seemed to dim her eye when she saw us, but she quickly recovered herself, and a look of sorrowful affection seemed to attest her utter guiltlessness.
+bal_66.
+en_67. The trial began, and after the advocate against her had stated the charge, several witnesses were called.
+bal_67.
+en_68. Several strange facts combined against her, which might have staggered anyone who had not such proof of her innocence as I had.
+bal_68.
+en_69. She had been out the whole of the night on which the murder had been committed and towards morning had been perceived by a market-woman not far from the spot where the body of the murdered child had been afterwards found.
+bal_69.
+en_70. The woman asked her what she did there, but she looked very strangely and only returned a confused and unintelligible answer.
+bal_70.
+en_71. She returned to the house about eight o’clock, and when one inquired where she had passed the night, she replied that she had been looking for the child and demanded earnestly if anything had been heard concerning him.
+bal_71.
+en_72. When shown the body, she fell into violent hysterics and kept her bed for several days.
+bal_72.
+en_73. The picture was then produced which the servant had found in her pocket; and when Elizabeth, in a faltering voice, proved that it was the same which, an hour before the child had been missed, she had placed round his neck, a murmur of horror and indignation filled the court.
+bal_73.
+en_74. Justine was called on for her defence.
+bal_74.
+en_75. As the trial had proceeded, her countenance had altered.
+bal_75.
+en_76. Surprise, horror, and misery were strongly expressed.
+bal_76.
+en_77. Sometimes she struggled with her tears, but when she was desired to plead, she collected her powers and spoke in an audible although variable voice.
+bal_77.
+en_78. “God knows,” she said, “how entirely I am innocent.
+bal_78.
+en_79. But I do not pretend that my protestations should acquit me; I rest my innocence on a plain and simple explanation of the facts which have been adduced against me, and I hope the character I have always borne will incline my judges to a favourable interpretation where any circumstance appears doubtful or suspicious.”
+bal_79.
+en_80. She then related that, by the permission of Elizabeth, she had passed the evening of the night on which the murder had been committed at the house of an aunt at Chêne, a village situated at about a league from Geneva.
+bal_80.
+en_81. On her return, at about nine o’clock, she met a man who asked her if she had seen anything of the child who was lost.
+bal_81.
+en_82. She was alarmed by this account and passed several hours in looking for him, when the gates of Geneva were shut, and she was forced to remain several hours of the night in a barn belonging to a cottage, being unwilling to call up the inhabitants, to whom she was well known.
+bal_82.
+en_83. Most of the night she spent here watching; towards morning she believed that she slept for a few minutes; some steps disturbed her, and she awoke.
+bal_83.
+en_84. It was dawn, and she quitted her asylum, that she might again endeavour to find my brother.
+bal_84.
+en_85. If she had gone near the spot where his body lay, it was without her knowledge.
+bal_85.
+en_86. That she had been bewildered when questioned by the market-woman was not surprising, since she had passed a sleepless night and the fate of poor William was yet uncertain.
+bal_86.
+en_87. Concerning the picture she could give no account.
+bal_87.
+en_88. “I know,” continued the unhappy victim, “how heavily and fatally this one circumstance weighs against me, but I have no power of explaining it; and when I have expressed my utter ignorance, I am only left to conjecture concerning the probabilities by which it might have been placed in my pocket.
+bal_88.
+en_89. But here also I am checked.
+bal_89.
+en_90. I believe that I have no enemy on earth, and none surely would have been so wicked as to destroy me wantonly.
+bal_90.
+en_91. Did the murderer place it there?
+bal_91.
+en_92. I know of no opportunity afforded him for so doing; or, if I had, why should he have stolen the jewel, to part with it again so soon?
+bal_92.
+en_93. “I commit my cause to the justice of my judges, yet I see no room for hope.
+bal_93.
+en_94. I beg permission to have a few witnesses examined concerning my character, and if their testimony shall not overweigh my supposed guilt, I must be condemned, although I would pledge my salvation on my innocence.”
+bal_94.
+en_95. Several witnesses were called who had known her for many years, and they spoke well of her; but fear and hatred of the crime of which they supposed her guilty rendered them timorous and unwilling to come forward.
+bal_95.
+en_96. Elizabeth saw even this last resource, her excellent dispositions and irreproachable conduct, about to fail the accused, when, although violently agitated, she desired permission to address the court.
+bal_96.
+en_97. “I am,” said she, “the cousin of the unhappy child who was murdered, or rather his sister, for I was educated by and have lived with his parents ever since and even long before his birth.
+bal_97.
+en_98. It may therefore be judged indecent in me to come forward on this occasion, but when I see a fellow creature about to perish through the cowardice of her pretended friends, I wish to be allowed to speak, that I may say what I know of her character.
+bal_98.
+en_99. I am well acquainted with the accused.
+bal_99.
+en_100. I have lived in the same house with her, at one time for five and at another for nearly two years.
+bal_100.
+en_101. During all that period she appeared to me the most amiable and benevolent of human creatures.
+bal_101.
+en_102. She nursed Madame Frankenstein, my aunt, in her last illness, with the greatest affection and care and afterwards attended her own mother during a tedious illness, in a manner that excited the admiration of all who knew her, after which she again lived in my uncle’s house, where she was beloved by all the family.
+bal_102.
+en_103. She was warmly attached to the child who is now dead and acted towards him like a most affectionate mother.
+bal_103.
+en_104. For my own part, I do not hesitate to say that, notwithstanding all the evidence produced against her, I believe and rely on her perfect innocence.
+bal_104.
+en_105. She had no temptation for such an action; as to the bauble on which the chief proof rests, if she had earnestly desired it, I should have willingly given it to her, so much do I esteem and value her.”
+bal_105.
+en_106. A murmur of approbation followed Elizabeth’s simple and powerful appeal, but it was excited by her generous interference, and not in favour of poor Justine, on whom the public indignation was turned with renewed violence, charging her with the blackest ingratitude.
+bal_106.
+en_107. She herself wept as Elizabeth spoke, but she did not answer.
+bal_107.
+en_108. My own agitation and anguish was extreme during the whole trial.
+bal_108.
+en_109. I believed in her innocence; I knew it.
+bal_109.
+en_110. Could the dæmon who had (I did not for a minute doubt) murdered my brother also in his hellish sport have betrayed the innocent to death and ignominy?
+bal_110.
+en_111. I could not sustain the horror of my situation, and when I perceived that the popular voice and the countenances of the judges had already condemned my unhappy victim, I rushed out of the court in agony.
+bal_111.
+en_112. The tortures of the accused did not equal mine; she was sustained by innocence, but the fangs of remorse tore my bosom and would not forgo their hold.
+bal_112.
+en_113. I passed a night of unmingled wretchedness.
+bal_113.
+en_114. In the morning I went to the court; my lips and throat were parched.
+bal_114.
+en_115. I dared not ask the fatal question, but I was known, and the officer guessed the cause of my visit.
+bal_115.
+en_116. The ballots had been thrown; they were all black, and Justine was condemned.
+bal_116.
+en_117. I cannot pretend to describe what I then felt.
+bal_117.
+en_118. I had before experienced sensations of horror, and I have endeavoured to bestow upon them adequate expressions, but words cannot convey an idea of the heart-sickening despair that I then endured.
+bal_118.
+en_119. The person to whom I addressed myself added that Justine had already confessed her guilt.
+bal_119.
+en_120. “That evidence,” he observed, “was hardly required in so glaring a case, but I am glad of it, and, indeed, none of our judges like to condemn a criminal upon circumstantial evidence, be it ever so decisive.”
+bal_120.
+en_121. This was strange and unexpected intelligence; what could it mean?
+bal_121.
+en_122. Had my eyes deceived me?
+bal_122.
+en_123. And was I really as mad as the whole world would believe me to be if I disclosed the object of my suspicions?
+bal_123.
+en_124. I hastened to return home, and Elizabeth eagerly demanded the result.
+bal_124.
+en_125. “My cousin,” replied I, “it is decided as you may have expected; all judges had rather that ten innocent should suffer than that one guilty should escape.
+bal_125.
+en_126. But she has confessed.”
+bal_126.
+en_127. This was a dire blow to poor Elizabeth, who had relied with firmness upon Justine’s innocence.
+bal_127.
+en_128. “Alas!” said she.
+bal_128.
+en_129. “How shall I ever again believe in human goodness?
+bal_129.
+en_130. Justine, whom I loved and esteemed as my sister, how could she put on those smiles of innocence only to betray?
+bal_130.
+en_131. Her mild eyes seemed incapable of any severity or guile, and yet she has committed a murder.”
+bal_131.
+en_132. Soon after we heard that the poor victim had expressed a desire to see my cousin.
+bal_132.
+en_133. My father wished her not to go but said that he left it to her own judgment and feelings to decide.
+bal_133.
+en_134. “Yes,” said Elizabeth, “I will go, although she is guilty; and you, Victor, shall accompany me; I cannot go alone.”
+bal_134.
+en_135. The idea of this visit was torture to me, yet I could not refuse.
+bal_135.
+en_136. We entered the gloomy prison chamber and beheld Justine sitting on some straw at the farther end; her hands were manacled, and her head rested on her knees.
+bal_136.
+en_137. She rose on seeing us enter, and when we were left alone with her, she threw herself at the feet of Elizabeth, weeping bitterly.
+bal_137.
+en_138. My cousin wept also.
+bal_138.
+en_139. “Oh, Justine!” said she.
+bal_139.
+en_140. “Why did you rob me of my last consolation?
+bal_140.
+en_141. I relied on your innocence, and although I was then very wretched, I was not so miserable as I am now.”
+bal_141.
+en_142. “And do you also believe that I am so very, very wicked?
+bal_142.
+en_143. Do you also join with my enemies to crush me, to condemn me as a murderer?”
+bal_143.
+en_144. Her voice was suffocated with sobs.
+bal_144.
+en_145. “Rise, my poor girl,” said Elizabeth; “why do you kneel, if you are innocent?
+bal_145.
+en_146. I am not one of your enemies, I believed you guiltless, notwithstanding every evidence, until I heard that you had yourself declared your guilt.
+bal_146.
+en_147. That report, you say, is false; and be assured, dear Justine, that nothing can shake my confidence in you for a moment, but your own confession.”
+bal_147.
+en_148. “I did confess, but I confessed a lie.
+bal_148.
+en_149. I confessed, that I might obtain absolution; but now that falsehood lies heavier at my heart than all my other sins.
+bal_149.
+en_150. The God of heaven forgive me!
+bal_150.
+en_151. Ever since I was condemned, my confessor has besieged me; he threatened and menaced, until I almost began to think that I was the monster that he said I was.
+bal_151.
+en_152. He threatened excommunication and hell fire in my last moments if I continued obdurate.
+bal_152.
+en_153. Dear lady, I had none to support me; all looked on me as a wretch doomed to ignominy and perdition.
+bal_153.
+en_154. What could I do?
+bal_154.
+en_155. In an evil hour I subscribed to a lie; and now only am I truly miserable.”
+bal_155.
+en_156. She paused, weeping, and then continued, “I thought with horror, my sweet lady, that you should believe your Justine, whom your blessed aunt had so highly honoured, and whom you loved, was a creature capable of a crime which none but the devil himself could have perpetrated.
+bal_156.
+en_157. Dear William! dearest blessed child!
+bal_157.
+en_158. I soon shall see you again in heaven, where we shall all be happy; and that consoles me, going as I am to suffer ignominy and death.”
+bal_158.
+en_159. “Oh, Justine!
+bal_159.
+en_160. Forgive me for having for one moment distrusted you.
+bal_160.
+en_161. Why did you confess?
+bal_161.
+en_162. But do not mourn, dear girl.
+bal_162.
+en_163. Do not fear.
+bal_163.
+en_164. I will proclaim, I will prove your innocence.
+bal_164.
+en_165. I will melt the stony hearts of your enemies by my tears and prayers.
+bal_165.
+en_166. You shall not die!
+bal_166.
+en_167. You, my playfellow, my companion, my sister, perish on the scaffold!
+bal_167.
+en_168. No!
+bal_168.
+en_169. No!
+bal_169.
+en_170. I never could survive so horrible a misfortune.”
+bal_170.
+en_171. Justine shook her head mournfully.
+bal_171.
+en_172. “I do not fear to die,” she said; “that pang is past.
+bal_172.
+en_173. God raises my weakness and gives me courage to endure the worst.
+bal_173.
+en_174. I leave a sad and bitter world; and if you remember me and think of me as of one unjustly condemned, I am resigned to the fate awaiting me.
+bal_174.
+en_175. Learn from me, dear lady, to submit in patience to the will of heaven!”
+bal_175.
+en_176. During this conversation I had retired to a corner of the prison room, where I could conceal the horrid anguish that possessed me.
+bal_176.
+en_177. Despair!
+bal_177.
+en_178. Who dared talk of that?
+bal_178.
+en_179. The poor victim, who on the morrow was to pass the awful boundary between life and death, felt not, as I did, such deep and bitter agony.
+bal_179.
+en_180. I gnashed my teeth and ground them together, uttering a groan that came from my inmost soul.
+bal_180.
+en_181. Justine started.
+bal_181.
+en_182. When she saw who it was, she approached me and said, “Dear sir, you are very kind to visit me; you, I hope, do not believe that I am guilty?”
+bal_182.
+en_183. I could not answer.
+bal_183.
+en_184. “No, Justine,” said Elizabeth; “he is more convinced of your innocence than I was, for even when he heard that you had confessed, he did not credit it.”
+bal_184.
+en_185. “I truly thank him.
+bal_185.
+en_186. In these last moments I feel the sincerest gratitude towards those who think of me with kindness.
+bal_186.
+en_187. How sweet is the affection of others to such a wretch as I am!
+bal_187.
+en_188. It removes more than half my misfortune, and I feel as if I could die in peace now that my innocence is acknowledged by you, dear lady, and your cousin.”
+bal_188.
+en_189. Thus the poor sufferer tried to comfort others and herself.
+bal_189.
+en_190. She indeed gained the resignation she desired.
+bal_190.
+en_191. But I, the true murderer, felt the never-dying worm alive in my bosom, which allowed of no hope or consolation.
+bal_191.
+en_192. Elizabeth also wept and was unhappy, but hers also was the misery of innocence, which, like a cloud that passes over the fair moon, for a while hides but cannot tarnish its brightness.
+bal_192.
+en_193. Anguish and despair had penetrated into the core of my heart; I bore a hell within me which nothing could extinguish.
+bal_193.
+en_194. We stayed several hours with Justine, and it was with great difficulty that Elizabeth could tear herself away.
+bal_194.
+en_195. “I wish,” cried she, “that I were to die with you; I cannot live in this world of misery.”
+bal_195.
+en_196. Justine assumed an air of cheerfulness, while she with difficulty repressed her bitter tears.
+bal_196.
+en_197. She embraced Elizabeth and said in a voice of half-suppressed emotion, “Farewell, sweet lady, dearest Elizabeth, my beloved and only friend; may heaven, in its bounty, bless and preserve you; may this be the last misfortune that you will ever suffer!
+bal_197.
+en_198. Live, and be happy, and make others so.”
+bal_198.
+en_199. And on the morrow Justine died.
+bal_199.
+en_200. Elizabeth’s heart-rending eloquence failed to move the judges from their settled conviction in the criminality of the saintly sufferer.
+bal_200.
+en_201. My passionate and indignant appeals were lost upon them.
+bal_201.
+en_202. And when I received their cold answers and heard the harsh, unfeeling reasoning of these men, my purposed avowal died away on my lips.
+bal_202.
+en_203. Thus I might proclaim myself a madman, but not revoke the sentence passed upon my wretched victim.
+bal_203.
+en_204. She perished on the scaffold as a murderess!
+bal_204.
+en_205. From the tortures of my own heart, I turned to contemplate the deep and voiceless grief of my Elizabeth.
+bal_205.
+en_206. This also was my doing!
+bal_206.
+en_207. And my father’s woe, and the desolation of that late so smiling home all was the work of my thrice-accursed hands!
+bal_207.
+en_208. Ye weep, unhappy ones, but these are not your last tears!
+bal_208.
+en_209. Again shall you raise the funeral wail, and the sound of your lamentations shall again and again be heard!
+bal_209.
+en_210. Frankenstein, your son, your kinsman, your early, much-loved friend; he who would spend each vital drop of blood for your sakes, who has no thought nor sense of joy except as it is mirrored also in your dear countenances, who would fill the air with blessings and spend his life in serving you—he bids you weep, to shed countless tears; happy beyond his hopes, if thus inexorable fate be satisfied, and if the destruction pause before the peace of the grave have succeeded to your sad torments!
+bal_210.
+en_211. Thus spoke my prophetic soul, as, torn by remorse, horror, and despair, I beheld those I loved spend vain sorrow upon the graves of William and Justine, the first hapless victims to my unhallowed arts.
+bal_211.
+en_212. Chapter 9 Nothing is more painful to the human mind than, after the feelings have been worked up by a quick succession of events, the dead calmness of inaction and certainty which follows and deprives the soul both of hope and fear.
+bal_212.
+en_213. Justine died, she rested, and I was alive.
+bal_213.
+en_214. The blood flowed freely in my veins, but a weight of despair and remorse pressed on my heart which nothing could remove.
+bal_214.
+en_215. Sleep fled from my eyes; I wandered like an evil spirit, for I had committed deeds of mischief beyond description horrible, and more, much more (I persuaded myself) was yet behind.
+bal_215.
+en_216. Yet my heart overflowed with kindness and the love of virtue.
+bal_216.
+en_217. I had begun life with benevolent intentions and thirsted for the moment when I should put them in practice and make myself useful to my fellow beings.
+bal_217.
+en_218. Now all was blasted; instead of that serenity of conscience which allowed me to look back upon the past with self-satisfaction, and from thence to gather promise of new hopes, I was seized by remorse and the sense of guilt, which hurried me away to a hell of intense tortures such as no language can describe.
+bal_218.
+en_219. This state of mind preyed upon my health, which had perhaps never entirely recovered from the first shock it had sustained.
+bal_219.
+en_220. I shunned the face of man; all sound of joy or complacency was torture to me; solitude was my only consolation—deep, dark, deathlike solitude.
+bal_220.
+en_221. My father observed with pain the alteration perceptible in my disposition and habits and endeavoured by arguments deduced from the feelings of his serene conscience and guiltless life to inspire me with fortitude and awaken in me the courage to dispel the dark cloud which brooded over me.
+bal_221.
+en_222. “Do you think, Victor,” said he, “that I do not suffer also?
+bal_222.
+en_223. No one could love a child more than I loved your brother”—tears came into his eyes as he spoke—“but is it not a duty to the survivors that we should refrain from augmenting their unhappiness by an appearance of immoderate grief?
+bal_223.
+en_224. It is also a duty owed to yourself, for excessive sorrow prevents improvement or enjoyment, or even the discharge of daily usefulness, without which no man is fit for society.”
+bal_224.
+en_225. This advice, although good, was totally inapplicable to my case; I should have been the first to hide my grief and console my friends if remorse had not mingled its bitterness, and terror its alarm, with my other sensations.
+bal_225.
+en_226. Now I could only answer my father with a look of despair and endeavour to hide myself from his view.
+bal_226.
+en_227. About this time we retired to our house at Belrive.
+bal_227.
+en_228. This change was particularly agreeable to me.
+bal_228.
+en_229. The shutting of the gates regularly at ten o’clock and the impossibility of remaining on the lake after that hour had rendered our residence within the walls of Geneva very irksome to me.
+bal_229.
+en_230. I was now free.
+bal_230.
+en_231. Often, after the rest of the family had retired for the night, I took the boat and passed many hours upon the water.
+bal_231.
+en_232. Sometimes, with my sails set, I was carried by the wind; and sometimes, after rowing into the middle of the lake, I left the boat to pursue its own course and gave way to my own miserable reflections.
+bal_232.
+en_233. I was often tempted, when all was at peace around me, and I the only unquiet thing that wandered restless in a scene so beautiful and heavenly—if I except some bat, or the frogs, whose harsh and interrupted croaking was heard only when I approached the shore—often, I say, I was tempted to plunge into the silent lake, that the waters might close over me and my calamities for ever.
+bal_233.
+en_234. But I was restrained, when I thought of the heroic and suffering Elizabeth, whom I tenderly loved, and whose existence was bound up in mine.
+bal_234.
+en_235. I thought also of my father and surviving brother; should I by my base desertion leave them exposed and unprotected to the malice of the fiend whom I had let loose among them?
+bal_235.
+en_236. At these moments I wept bitterly and wished that peace would revisit my mind only that I might afford them consolation and happiness.
+bal_236.
+en_237. But that could not be.
+bal_237.
+en_238. Remorse extinguished every hope.
+bal_238.
+en_239. I had been the author of unalterable evils, and I lived in daily fear lest the monster whom I had created should perpetrate some new wickedness.
+bal_239.
+en_240. I had an obscure feeling that all was not over and that he would still commit some signal crime, which by its enormity should almost efface the recollection of the past.
+bal_240.
+en_241. There was always scope for fear so long as anything I loved remained behind.
+bal_241.
+en_242. My abhorrence of this fiend cannot be conceived.
+bal_242.
+en_243. When I thought of him I gnashed my teeth, my eyes became inflamed, and I ardently wished to extinguish that life which I had so thoughtlessly bestowed.
+bal_243.
+en_244. When I reflected on his crimes and malice, my hatred and revenge burst all bounds of moderation.
+bal_244.
+en_245. I would have made a pilgrimage to the highest peak of the Andes, could I, when there, have precipitated him to their base.
+bal_245.
+en_246. I wished to see him again, that I might wreak the utmost extent of abhorrence on his head and avenge the deaths of William and Justine.
+bal_246.
+en_247. Our house was the house of mourning.
+bal_247.
+en_248. My father’s health was deeply shaken by the horror of the recent events.
+bal_248.
+en_249. Elizabeth was sad and desponding; she no longer took delight in her ordinary occupations; all pleasure seemed to her sacrilege toward the dead; eternal woe and tears she then thought was the just tribute she should pay to innocence so blasted and destroyed.
+bal_249.
+en_250. She was no longer that happy creature who in earlier youth wandered with me on the banks of the lake and talked with ecstasy of our future prospects.
+bal_250.
+en_251. The first of those sorrows which are sent to wean us from the earth had visited her, and its dimming influence quenched her dearest smiles.
+bal_251.
+en_252. “When I reflect, my dear cousin,” said she, “on the miserable death of Justine Moritz, I no longer see the world and its works as they before appeared to me.
+bal_252.
+en_253. Before, I looked upon the accounts of vice and injustice that I read in books or heard from others as tales of ancient days or imaginary evils; at least they were remote and more familiar to reason than to the imagination; but now misery has come home, and men appear to me as monsters thirsting for each other’s blood.
+bal_253.
+en_254. Yet I am certainly unjust.
+bal_254.
+en_255. Everybody believed that poor girl to be guilty; and if she could have committed the crime for which she suffered, assuredly she would have been the most depraved of human creatures.
+bal_255.
+en_256. For the sake of a few jewels, to have murdered the son of her benefactor and friend, a child whom she had nursed from its birth, and appeared to love as if it had been her own!
+bal_256.
+en_257. I could not consent to the death of any human being, but certainly I should have thought such a creature unfit to remain in the society of men.
+bal_257.
+en_258. But she was innocent.
+bal_258.
+en_259. I know, I feel she was innocent; you are of the same opinion, and that confirms me.
+bal_259.
+en_260. Alas!
+bal_260.
+en_261. Victor, when falsehood can look so like the truth, who can assure themselves of certain happiness?
+bal_261.
+en_262. I feel as if I were walking on the edge of a precipice, towards which thousands are crowding and endeavouring to plunge me into the abyss.
+bal_262.
+en_263. William and Justine were assassinated, and the murderer escapes; he walks about the world free, and perhaps respected.
+bal_263.
+en_264. But even if I were condemned to suffer on the scaffold for the same crimes, I would not change places with such a wretch.”
+bal_264.
+en_265. I listened to this discourse with the extremest agony.
+bal_265.
+en_266. I, not in deed, but in effect, was the true murderer.
+bal_266.
+en_267. Elizabeth read my anguish in my countenance, and kindly taking my hand, said, “My dearest friend, you must calm yourself.
+bal_267.
+en_268. These events have affected me, God knows how deeply; but I am not so wretched as you are.
+bal_268.
+en_269. There is an expression of despair, and sometimes of revenge, in your countenance that makes me tremble.
+bal_269.
+en_270. Dear Victor, banish these dark passions.
+bal_270.
+en_271. Remember the friends around you, who centre all their hopes in you.
+bal_271.
+en_272. Have we lost the power of rendering you happy?
+bal_272.
+en_273. Ah!
+bal_273.
+en_274. While we love, while we are true to each other, here in this land of peace and beauty, your native country, we may reap every tranquil blessing—what can disturb our peace?”
+bal_274.
+en_275. And could not such words from her whom I fondly prized before every other gift of fortune suffice to chase away the fiend that lurked in my heart?
+bal_275.
+en_276. Even as she spoke I drew near to her, as if in terror, lest at that very moment the destroyer had been near to rob me of her.
+bal_276.
+en_277. Thus not the tenderness of friendship, nor the beauty of earth, nor of heaven, could redeem my soul from woe; the very accents of love were ineffectual.
+bal_277.
+en_278. I was encompassed by a cloud which no beneficial influence could penetrate.
+bal_278.
+en_279. The wounded deer dragging its fainting limbs to some untrodden brake, there to gaze upon the arrow which had pierced it, and to die, was but a type of me.
+bal_279.
+en_280. Sometimes I could cope with the sullen despair that overwhelmed me, but sometimes the whirlwind passions of my soul drove me to seek, by bodily exercise and by change of place, some relief from my intolerable sensations.
+bal_280.
+en_281. It was during an access of this kind that I suddenly left my home, and bending my steps towards the near Alpine valleys, sought in the magnificence, the eternity of such scenes, to forget myself and my ephemeral, because human, sorrows.
+bal_281.
+en_282. My wanderings were directed towards the valley of Chamounix.
+bal_282.
+en_283. I had visited it frequently during my boyhood.
+bal_283.
+en_284. Six years had passed since then: _I_ was a wreck, but nought had changed in those savage and enduring scenes.
+bal_284.
+en_285. I performed the first part of my journey on horseback.
+bal_285.
+en_286. I afterwards hired a mule, as the more sure-footed and least liable to receive injury on these rugged roads.
+bal_286.
+en_287. The weather was fine; it was about the middle of the month of August, nearly two months after the death of Justine, that miserable epoch from which I dated all my woe.
+bal_287.
+en_288. The weight upon my spirit was sensibly lightened as I plunged yet deeper in the ravine of Arve.
+bal_288.
+en_289. The immense mountains and precipices that overhung
+bal_289.

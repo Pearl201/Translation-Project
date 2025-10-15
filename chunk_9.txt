@@ -1,0 +1,614 @@
+en_1. for _her_, and live to see her take my place in it!”
+bal_1.
+en_2. “My dear, do not give way to such gloomy thoughts.
+bal_2.
+en_3. Let us hope for better things.
+bal_3.
+en_4. Let us flatter ourselves that _
+bal_4.
+en_5. I_ may be the survivor.”
+bal_5.
+en_6. This was not very consoling to Mrs. Bennet; and, therefore, instead of making any answer, she went on as before.
+bal_6.
+en_7. “I cannot bear to think that they should have all this estate.
+bal_7.
+en_8. If it was not for the entail, I should not mind it.”
+bal_8.
+en_9. “What should not you mind?”
+bal_9.
+en_10. “I should not mind anything at all.”
+bal_10.
+en_11. “Let us be thankful that you are preserved from a state of such insensibility.”
+bal_11.
+en_12. “I never can be thankful, Mr. Bennet, for anything about the entail.
+bal_12.
+en_13. How anyone could have the conscience to entail away an estate from one’s own daughters I cannot understand; and all for the sake of Mr. Collins, too!
+bal_13.
+en_14. Why should he have it more than anybody else?”
+bal_14.
+en_15. “I leave it to yourself to determine,” said Mr. Bennet.
+bal_15.
+en_16. “Frost glazed the windowpanes at dawn”
+bal_16.
+en_17. “A letter arrived from town” Miss Bingley’s letter arrived, and put an end to doubt.
+bal_17.
+en_18. The very first sentence conveyed the assurance of their being all settled in London for the winter, and concluded with her brother’s regret at not having had time to pay his respects to his friends in Hertfordshire before he left the country.
+bal_18.
+en_19. Hope was over, entirely over; and when Jane could attend to the rest of the letter, she found little, except the professed affection of the writer, that could give her any comfort.
+bal_19.
+en_20. Miss Darcy’s praise occupied the chief of it.
+bal_20.
+en_21. Her many attractions were again dwelt on; and Caroline boasted joyfully of their increasing intimacy, and ventured to predict the accomplishment of the wishes which had been unfolded in her former letter.
+bal_21.
+en_22. She wrote also with great pleasure of her brother’s being an inmate of Mr. Darcy’s house, and mentioned with raptures some plans of the latter with regard to new furniture.
+bal_22.
+en_23. Elizabeth, to whom Jane very soon communicated the chief of all this, heard it in silent indignation.
+bal_23.
+en_24. Her heart was divided between concern for her sister and resentment against all others.
+bal_24.
+en_25. To Caroline’s assertion of her brother’s being partial to Miss Darcy, she paid no credit.
+bal_25.
+en_26. That he was really fond of Jane, she doubted no more than she had ever done; and much as she had always been disposed to like him, she could not think without anger, hardly without contempt, on that easiness of temper, that want of proper resolution, which now made him the slave of his designing friends, and led him to sacrifice his own happiness to the caprice of their inclinations.
+bal_26.
+en_27. Had his own happiness, however, been the only sacrifice, he might have been allowed to sport with it in whatever manner he thought best; but her sister’s was involved in it, as she thought he must be sensible himself.
+bal_27.
+en_28. It was a subject, in short, on which reflection would be long indulged, and must be unavailing.
+bal_28.
+en_29. She could think of nothing else; and yet, whether Bingley’s regard had really died away, or were suppressed by his friends’ interference; whether he had been aware of Jane’s attachment, or whether it had escaped his observation; whichever were the case, though her opinion of him must be materially affected by the difference, her sister’s situation remained the same, her peace equally wounded.
+bal_29.
+en_30. A day or two passed before Jane had courage to speak of her feelings to Elizabeth; but at last, on Mrs. Bennet’s leaving them together, after a longer irritation than usual about Netherfield and its master, she could not help saying,-- “O that my dear mother had more command over herself!
+bal_30.
+en_31. she can have no idea of the pain she gives me by her continual reflections on him.
+bal_31.
+en_32. But I will not repine.
+bal_32.
+en_33. It cannot last long.
+bal_33.
+en_34. He will be forgot, and we shall all be as we were before.”
+bal_34.
+en_35. Elizabeth looked at her sister with incredulous solicitude, but said nothing.
+bal_35.
+en_36. “You doubt me,” cried Jane, slightly colouring; “indeed, you have no reason.
+bal_36.
+en_37. He may live in my memory as the most amiable man of my acquaintance but that is all.
+bal_37.
+en_38. I have nothing either to hope or fear, and nothing to reproach him with.
+bal_38.
+en_39. Thank God I have not _that_ pain.
+bal_39.
+en_40. A little time, therefore--I shall certainly try to get the better----” With a stronger voice she soon added, “I have this comfort immediately, that it has not been more than an error of fancy on my side, and that it has done no harm to anyone but myself.”
+bal_40.
+en_41. “My dear Jane,” exclaimed Elizabeth, “you are too good.
+bal_41.
+en_42. Your sweetness and disinterestedness are really angelic; I do not know what to say to you.
+bal_42.
+en_43. I feel as if I had never done you justice, or loved you as you deserve.”
+bal_43.
+en_44. Miss Bennet eagerly disclaimed all extraordinary merit, and threw back the praise on her sister’s warm affection.
+bal_44.
+en_45. “Nay,” said Elizabeth, “this is not fair.
+bal_45.
+en_46. _
+bal_46.
+en_47. You_ wish to think all the world respectable, and are hurt if I speak ill of anybody.
+bal_47.
+en_48. _
+bal_48.
+en_49. I_ only want to think _you_ perfect, and you set yourself against it.
+bal_49.
+en_50. Do not be afraid of my running into any excess, of my encroaching on your privilege of universal good-will.
+bal_50.
+en_51. You need not.
+bal_51.
+en_52. There are few people whom I really love, and still fewer of whom I think well.
+bal_52.
+en_53. The more I see of the world the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of either merit or sense.
+bal_53.
+en_54. I have met with two instances lately: one I will not mention, the other is Charlotte’s marriage.
+bal_54.
+en_55. It is unaccountable!
+bal_55.
+en_56. in every view it is unaccountable!”
+bal_56.
+en_57. “My dear Lizzy, do not give way to such feelings as these.
+bal_57.
+en_58. They will ruin your happiness.
+bal_58.
+en_59. You do not make allowance enough for difference of situation and temper.
+bal_59.
+en_60. Consider Mr. Collins’s respectability, and Charlotte’s prudent, steady character.
+bal_60.
+en_61. Remember that she is one of a large family; that as to fortune it is a most eligible match; and be ready to believe, for everybody’s sake, that she may feel something like regard and esteem for our cousin.”
+bal_61.
+en_62. “To oblige you, I would try to believe almost anything, but no one else could be benefited by such a belief as this; for were I persuaded that Charlotte had any regard for him, I should only think worse of her understanding than I now do of her heart.
+bal_62.
+en_63. My dear Jane, Mr. Collins is a conceited, pompous, narrow-minded, silly man: you know he is, as well as I do; and you must feel, as well as I do, that the woman who marries him cannot have a proper way of thinking.
+bal_63.
+en_64. You shall not defend her, though it is Charlotte Lucas.
+bal_64.
+en_65. You shall not, for the sake of one individual, change the meaning of principle and integrity, nor endeavour to persuade yourself or me, that selfishness is prudence, and insensibility of danger security for happiness.”
+bal_65.
+en_66. “I must think your language too strong in speaking of both,” replied Jane; “and I hope you will be convinced of it, by seeing them happy together.
+bal_66.
+en_67. But enough of this.
+bal_67.
+en_68. You alluded to something else.
+bal_68.
+en_69. You mentioned _two_ instances.
+bal_69.
+en_70. I cannot misunderstand you, but I entreat you, dear Lizzy, not to pain me by thinking _that person_ to blame, and saying your opinion of him is sunk.
+bal_70.
+en_71. We must not be so ready to fancy ourselves intentionally injured.
+bal_71.
+en_72. We must not expect a lively young man to be always so guarded and circumspect.
+bal_72.
+en_73. It is very often nothing but our own vanity that deceives us.
+bal_73.
+en_74. Women fancy admiration means more than it does.”
+bal_74.
+en_75. “And men take care that they should.”
+bal_75.
+en_76. “If it is designedly done, they cannot be justified; but I have no idea of there being so much design in the world as some persons imagine.”
+bal_76.
+en_77. “I am far from attributing any part of Mr. Bingley’s conduct to design,” said Elizabeth; “but, without scheming to do wrong, or to make others unhappy, there may be error and there may be misery.
+bal_77.
+en_78. Thoughtlessness, want of attention to other people’s feelings, and want of resolution, will do the business.”
+bal_78.
+en_79. “And do you impute it to either of those?”
+bal_79.
+en_80. “Yes; to the last.
+bal_80.
+en_81. But if I go on I shall displease you by saying what I think of persons you esteem.
+bal_81.
+en_82. Stop me, whilst you can.”
+bal_82.
+en_83. “You persist, then, in supposing his sisters influence him?”
+bal_83.
+en_84. “Yes, in conjunction with his friend.”
+bal_84.
+en_85. “I cannot believe it.
+bal_85.
+en_86. Why should they try to influence him?
+bal_86.
+en_87. They can only wish his happiness; and if he is attached to me no other woman can secure it.”
+bal_87.
+en_88. “Your first position is false.
+bal_88.
+en_89. They may wish many things besides his happiness: they may wish his increase of wealth and consequence; they may wish him to marry a girl who has all the importance of money, great connections, and pride.”
+bal_89.
+en_90. “Beyond a doubt they do wish him to choose Miss Darcy,” replied Jane; “but this may be from better feelings than you are supposing.
+bal_90.
+en_91. They have known her much longer than they have known me; no wonder if they love her better.
+bal_91.
+en_92. But, whatever may be their own wishes, it is very unlikely they should have opposed their brother’s.
+bal_92.
+en_93. What sister would think herself at liberty to do it, unless there were something very objectionable?
+bal_93.
+en_94. If they believed him attached to me they would not try to part us; if he were so, they could not succeed.
+bal_94.
+en_95. By supposing such an affection, you make everybody acting unnaturally and wrong, and me most unhappy.
+bal_95.
+en_96. Do not distress me by the idea.
+bal_96.
+en_97. I am not ashamed of having been mistaken--or, at least, it is slight, it is nothing in comparison of what I should feel in thinking ill of him or his sisters.
+bal_97.
+en_98. Let me take it in the best light, in the light in which it may be understood.”
+bal_98.
+en_99. Elizabeth could not oppose such a wish; and from this time Mr. Bingley’s name was scarcely ever mentioned between them.
+bal_99.
+en_100. Mrs. Bennet still continued to wonder and repine at his returning no more; and though a day seldom passed in which Elizabeth did not account for it clearly, there seemed little chance of her ever considering it with less perplexity.
+bal_100.
+en_101. Her daughter endeavoured to convince her of what she did not believe herself, that his attentions to Jane had been merely the effect of a common and transient liking, which ceased when he saw her no more; but though the probability of the statement was admitted at the time, she had the same story to repeat every day.
+bal_101.
+en_102. Mrs. Bennet’s best comfort was, that Mr. Bingley must be down again in the summer.
+bal_102.
+en_103. Mr. Bennet treated the matter differently.
+bal_103.
+en_104. “So, Lizzy,” said he, one day, “your sister is crossed in love, I find.
+bal_104.
+en_105. I congratulate her.
+bal_105.
+en_106. Next to being married, a girl likes to be crossed in love a little now and then.
+bal_106.
+en_107. It is something to think of, and gives her a sort of distinction among her companions.
+bal_107.
+en_108. When is your turn to come?
+bal_108.
+en_109. You will hardly bear to be long outdone by Jane.
+bal_109.
+en_110. Now is your time.
+bal_110.
+en_111. Here are officers enough at Meryton to disappoint all the young ladies in the country.
+bal_111.
+en_112. Let Wickham be your man.
+bal_112.
+en_113. He is a pleasant fellow, and would jilt you creditably.”
+bal_113.
+en_114. “Thank you, sir, but a less agreeable man would satisfy me.
+bal_114.
+en_115. We must not all expect Jane’s good fortune.”
+bal_115.
+en_116. “True,” said Mr. Bennet; “but it is a comfort to think that, whatever of that kind may befall you, you have an affectionate mother who will always make the most of it.”
+bal_116.
+en_117. Mr. Wickham’s society was of material service in dispelling the gloom which the late perverse occurrences had thrown on many of the Longbourn family.
+bal_117.
+en_118. They saw him often, and to his other recommendations was now added that of general unreserve.
+bal_118.
+en_119. The whole of what Elizabeth had already heard, his claims on Mr. Darcy, and all that he had suffered from him, was now openly acknowledged and publicly canvassed; and everybody was pleased to think how much they had always disliked Mr. Darcy before they had known anything of the matter.
+bal_119.
+en_120. Miss Bennet was the only creature who could suppose there might be any extenuating circumstances in the case unknown to the society of Hertfordshire: her mild and steady candour always pleaded for allowances, and urged the possibility of mistakes; but by everybody else Mr. Darcy was condemned as the worst of men.
+bal_120.
+en_121. “Gossip hummed through every parlour”
+bal_121.
+en_122. “His trunk stood packed by the door” After a week spent in professions of love and schemes of felicity, Mr. Collins was called from his amiable Charlotte by the arrival of Saturday.
+bal_122.
+en_123. The pain of separation, however, might be alleviated on his side by preparations for the reception of his bride, as he had reason to hope, that shortly after his next return into Hertfordshire, the day would be fixed that was to make him the happiest of men.
+bal_123.
+en_124. He took leave of his relations at Longbourn with as much solemnity as before; wished his fair cousins health and happiness again, and promised their father another letter of thanks.
+bal_124.
+en_125. On the following Monday, Mrs. Bennet had the pleasure of receiving her brother and his wife, who came, as usual, to spend the Christmas at Longbourn.
+bal_125.
+en_126. Mr. Gardiner was a sensible, gentlemanlike man, greatly superior to his sister, as well by nature as education.
+bal_126.
+en_127. The Netherfield ladies would have had difficulty in believing that a man who lived by trade, and within view of his own warehouses, could have been so well-bred and agreeable.
+bal_127.
+en_128. Mrs. Gardiner, who was several years younger than Mrs. Bennet and Mrs. Philips, was an amiable, intelligent, elegant woman, and a great favourite with her Longbourn nieces.
+bal_128.
+en_129. Between the two eldest and herself especially, there subsisted a very particular regard.
+bal_129.
+en_130. They had frequently been staying with her in town.
+bal_130.
+en_131. The first part of Mrs. Gardiner’s business, on her arrival, was to distribute her presents and describe the newest fashions.
+bal_131.
+en_132. When this was done, she had a less active part to play.
+bal_132.
+en_133. It became her turn to listen.
+bal_133.
+en_134. Mrs. Bennet had many grievances to relate, and much to complain of.
+bal_134.
+en_135. They had all been very ill-used since she last saw her sister.
+bal_135.
+en_136. Two of her girls had been on the point of marriage, and after all there was nothing in it.
+bal_136.
+en_137. “I do not blame Jane,” she continued, “for Jane would have got Mr. Bingley if she could.
+bal_137.
+en_138. But, Lizzy!
+bal_138.
+en_139. Oh, sister!
+bal_139.
+en_140. it is very hard to think that she might have been Mr. Collins’s wife by this time, had not it been for her own perverseness.
+bal_140.
+en_141. He made her an offer in this very room, and she refused him.
+bal_141.
+en_142. The consequence of it is, that Lady Lucas will have a daughter married before I have, and that Longbourn estate is just as much entailed as ever.
+bal_142.
+en_143. The Lucases are very artful people, indeed, sister.
+bal_143.
+en_144. They are all for what they can get.
+bal_144.
+en_145. I am sorry to say it of them, but so it is.
+bal_145.
+en_146. It makes me very nervous and poorly, to be thwarted so in my own family, and to have neighbours who think of themselves before anybody else.
+bal_146.
+en_147. However, your coming just at this time is the greatest of comforts, and I am very glad to hear what you tell us of long sleeves.”
+bal_147.
+en_148. Mrs. Gardiner, to whom the chief of this news had been given before, in the course of Jane and Elizabeth’s correspondence with her, made her sister a slight answer, and, in compassion to her nieces, turned the conversation.
+bal_148.
+en_149. When alone with Elizabeth afterwards, she spoke more on the subject.
+bal_149.
+en_150. “It seems likely to have been a desirable match for Jane,” said she.
+bal_150.
+en_151. “I am sorry it went off.
+bal_151.
+en_152. But these things happen so often!
+bal_152.
+en_153. A young man, such as you describe Mr. Bingley, so easily falls in love with a pretty girl for a few weeks, and, when accident separates them, so easily forgets her, that these sort of inconstancies are very frequent.”
+bal_153.
+en_154. “He had slighted more than one”
+bal_154.
+en_155. “Her tone held gentle irony” “An excellent consolation in its way,” said Elizabeth; “but it will not do for us.
+bal_155.
+en_156. We do not suffer by accident.
+bal_156.
+en_157. It does not often happen that the interference of friends will persuade a young man of independent fortune to think no more of a girl whom he was violently in love with only a few days before.”
+bal_157.
+en_158. “But that expression of ‘violently in love’ is so hackneyed, so doubtful, so indefinite, that it gives me very little idea.
+bal_158.
+en_159. It is as often applied to feelings which arise only from a half hour’s acquaintance, as to a real, strong attachment.
+bal_159.
+en_160. Pray, how _violent was_ Mr. Bingley’s love?”
+bal_160.
+en_161. “I never saw a more promising inclination; he was growing quite inattentive to other people, and wholly engrossed by her.
+bal_161.
+en_162. Every time they met, it was more decided and remarkable.
+bal_162.
+en_163. At his own ball he offended two or three young ladies by not asking them to dance; and I spoke to him twice myself without receiving an answer.
+bal_163.
+en_164. Could there be finer symptoms?
+bal_164.
+en_165. Is not general incivility the very essence of love?”
+bal_165.
+en_166. “Oh, yes!
+bal_166.
+en_167. of that kind of love which I suppose him to have felt.
+bal_167.
+en_168. Poor Jane!
+bal_168.
+en_169. I am sorry for her, because, with her disposition, she may not get over it immediately.
+bal_169.
+en_170. It had better have happened to _you_, Lizzy; you would have laughed yourself out of it sooner.
+bal_170.
+en_171. But do you think she would be prevailed on to go back with us?
+bal_171.
+en_172. Change of scene might be of service--and perhaps a little relief from home may be as useful as anything.”
+bal_172.
+en_173. Elizabeth was exceedingly pleased with this proposal, and felt persuaded of her sister’s ready acquiescence.
+bal_173.
+en_174. “I hope,” added Mrs. Gardiner, “that no consideration with regard to this young man will influence her.
+bal_174.
+en_175. We live in so different a part of town, all our connections are so different, and, as you well know, we go out so little, that it is very improbable they should meet at all, unless he really comes to see her.”
+bal_175.
+en_176. “And _that_ is quite impossible; for he is now in the custody of his friend, and Mr. Darcy would no more suffer him to call on Jane in such a part of London!
+bal_176.
+en_177. My dear aunt, how could you think of it?
+bal_177.
+en_178. Mr. Darcy may, perhaps, have _heard_ of such a place as Gracechurch Street, but he would hardly think a month’s ablution enough to cleanse him from its impurities, were he once to enter it; and, depend upon it, Mr. Bingley never stirs without him.”
+bal_178.
+en_179. “So much the better.
+bal_179.
+en_180. I hope they will not meet at all.
+bal_180.
+en_181. But does not Jane correspond with his sister?
+bal_181.
+en_182. _
+bal_182.
+en_183. She_ will not be able to help calling.”
+bal_183.
+en_184. “She will drop the acquaintance entirely.”
+bal_184.
+en_185. But, in spite of the certainty in which Elizabeth affected to place this point, as well as the still more interesting one of Bingley’s being withheld from seeing Jane, she felt a solicitude on the subject which convinced her, on examination, that she did not consider it entirely hopeless.
+bal_185.
+en_186. It was possible, and sometimes she thought it probable, that his affection might be re-animated, and the influence of his friends successfully combated by the more natural influence of Jane’s attractions.
+bal_186.
+en_187. Miss Bennet accepted her aunt’s invitation with pleasure; and the Bingleys were no otherwise in her thoughts at the same time than as she hoped, by Caroline’s not living in the same house with her brother, she might occasionally spend a morning with her, without any danger of seeing him.
+bal_187.
+en_188. The Gardiners stayed a week at Longbourn; and what with the Philipses, the Lucases, and the officers, there was not a day without its engagement.
+bal_188.
+en_189. Mrs. Bennet had so carefully provided for the entertainment of her brother and sister, that they did not once sit down to a family dinner.
+bal_189.
+en_190. When the engagement was for home, some of the officers always made part of it, of which officers Mr. Wickham was sure to be one; and on these occasions Mrs. Gardiner, rendered suspicious by Elizabeth’s warm commendation of him, narrowly observed them both.
+bal_190.
+en_191. Without supposing them, from what she saw, to be very seriously in love, their preference of each other was plain enough to make her a little uneasy; and she resolved to speak to Elizabeth on the subject before she left Hertfordshire, and represent to her the imprudence of encouraging such an attachment.
+bal_191.
+en_192. To Mrs. Gardiner, Wickham had one means of affording pleasure, unconnected with his general powers.
+bal_192.
+en_193. About ten or a dozen years ago, before her marriage, she had spent a considerable time in that very part of Derbyshire to which he belonged.
+bal_193.
+en_194. They had, therefore, many acquaintance in common; and, though Wickham had been little there since the death of Darcy’s father, five years before, it was yet in his power to give her fresher intelligence of her former friends than she had been in the way of procuring.
+bal_194.
+en_195. Mrs. Gardiner had seen Pemberley, and known the late Mr. Darcy by character perfectly well.
+bal_195.
+en_196. Here, consequently, was an inexhaustible subject of discourse.
+bal_196.
+en_197. In comparing her recollection of Pemberley with the minute description which Wickham could give, and in bestowing her tribute of praise on the character of its late possessor, she was delighting both him and herself.
+bal_197.
+en_198. On being made acquainted with the present Mr. Darcy’s treatment of him, she tried to remember something of that gentleman’s reputed disposition, when quite a lad, which might agree with it; and was confident, at last, that she recollected having heard Mr. Fitzwilliam Darcy formerly spoken of as a very proud, ill-natured boy.
+bal_198.
+en_199. “She leaned in with sisterly concern”
+bal_199.
+en_200. “The morning sun warmed the garden path”
+bal_200.
+en_201. “A quiet moment at last arrived” Mrs. Gardiner’s caution to Elizabeth was punctually and kindly given on the first favourable opportunity of speaking to her alone: after honestly telling her what she thought, she thus went on:— “You are too sensible a girl, Lizzy, to fall in love merely because you are warned against it; and, therefore, I am not afraid of speaking openly.
+bal_201.
+en_202. Seriously, I would have you be on your guard.
+bal_202.
+en_203. Do not involve yourself, or endeavour to involve him, in an affection which the want of fortune would make so very imprudent.”
+bal_203.
+en_204. I have nothing to say against _him_: he is a most interesting young man; and if he had the fortune he ought to have, I should think you could not do better.
+bal_204.
+en_205. But as it is--you must not let your fancy run away with you.
+bal_205.
+en_206. You have sense, and we all expect you to use it.
+bal_206.
+en_207. Your father would depend on _your_ resolution and good conduct, I am sure.
+bal_207.
+en_208. You must not disappoint your father.”
+bal_208.
+en_209. “My dear aunt, this is being serious indeed.”
+bal_209.
+en_210. “Yes, and I hope to engage you to be serious likewise.”
+bal_210.
+en_211. “Well, then, you need not be under any alarm.
+bal_211.
+en_212. I will take care of myself, and of Mr. Wickham too.
+bal_212.
+en_213. He shall not be in love with me, if I can prevent it.”
+bal_213.
+en_214. “Elizabeth, you are not serious now.”
+bal_214.
+en_215. “I beg your pardon.
+bal_215.
+en_216. I will try again.
+bal_216.
+en_217. At present I am not in love with Mr. Wickham; no, I certainly am not.
+bal_217.
+en_218. But he is, beyond all comparison, the most agreeable man I ever saw--and if he becomes really attached to me--I believe it will be better that he should not.
+bal_218.
+en_219. I see the imprudence of it.
+bal_219.
+en_220. Oh, _that_ abominable Mr. Darcy!
+bal_220.
+en_221. My father’s opinion of me does me the greatest honour; and I should be miserable to forfeit it.
+bal_221.
+en_222. My father, however, is partial to Mr. Wickham.
+bal_222.
+en_223. In short, my dear aunt, I should be very sorry to be the means of making any of you unhappy; but since we see, every day, that where there is affection young people are seldom withheld, by immediate want of fortune, from entering into engagements with each other, how can I promise to be wiser than so many of my fellow-creatures, if I am tempted, or how am I even to know that it would be wiser to resist?
+bal_223.
+en_224. All that I can promise you, therefore, is not to be in a hurry.
+bal_224.
+en_225. I will not be in a hurry to believe myself his first object.
+bal_225.
+en_226. When I am in company with him, I will not be wishing.
+bal_226.
+en_227. In short, I will do my best.”
+bal_227.
+en_228. “Perhaps it will be as well if you discourage his coming here so very often.
+bal_228.
+en_229. At least you should not _remind_ your mother of inviting him.”
+bal_229.
+en_230. “As I did the other day,” said Elizabeth, with a conscious smile; “very true, it will be wise in me to refrain from _that_.
+bal_230.
+en_231. But do not imagine that he is always here so often.
+bal_231.
+en_232. It is on your account that he has been so frequently invited this week.
+bal_232.
+en_233. You know my mother’s ideas as to the necessity of constant company for her friends.
+bal_233.
+en_234. But really, and upon my honour, I will try to do what I think to be wisest; and now I hope you are satisfied.”
+bal_234.
+en_235. Her aunt assured her that she was; and Elizabeth, having thanked her for the kindness of her hints, they parted,--a wonderful instance of advice being given on such a point without being resented.
+bal_235.
+en_236. Mr. Collins returned into Hertfordshire soon after it had been quitted by the Gardiners and Jane; but, as he took up his abode with the Lucases, his arrival was no great inconvenience to Mrs. Bennet.
+bal_236.
+en_237. His marriage was now fast approaching; and she was at length so far resigned as to think it inevitable, and even repeatedly to say, in an ill-natured tone, that she “_wished_ they might be happy.”
+bal_237.
+en_238. Thursday was to be the wedding-day, and on Wednesday Miss Lucas paid her farewell visit; and when she rose to take leave, Elizabeth, ashamed of her mother’s ungracious and reluctant good wishes, and sincerely affected herself, accompanied her out of the room.
+bal_238.
+en_239. As they went down stairs together, Charlotte said,--
+bal_239.
+en_240. “I shall depend on hearing from you very often, Eliza.”
+bal_240.
+en_241. “_That_ you certainly shall.”
+bal_241.
+en_242. “And I have another favour to ask.
+bal_242.
+en_243. Will you come and see me?”
+bal_243.
+en_244. “We shall often meet, I hope, in Hertfordshire.”
+bal_244.
+en_245. “I am not likely to leave Kent for some time.
+bal_245.
+en_246. Promise me, therefore, to come to Hunsford.”
+bal_246.
+en_247. Elizabeth could not refuse, though she foresaw little pleasure in the visit.
+bal_247.
+en_248. “My father and Maria are to come to me in March,” added Charlotte, “and I hope you will consent to be of the party.
+bal_248.
+en_249. Indeed, Eliza, you will be as welcome to me as either of them.”
+bal_249.
+en_250. The wedding took place: the bride and bridegroom set off for Kent from the church door, and everybody had as much to say or to hear on the subject as usual.
+bal_250.
+en_251. Elizabeth soon heard from her friend, and their correspondence was as regular and frequent as it ever had been: that it should be equally unreserved was impossible.
+bal_251.
+en_252. Elizabeth could never address her without feeling that all the comfort of intimacy was over; and, though determined not to slacken as a correspondent, it was for the sake of what had been rather than what was.
+bal_252.
+en_253. Charlotte’s first letters were received with a good deal of eagerness: there could not but be curiosity to know how she would speak of her new home, how she would like Lady Catherine, and how happy she would dare pronounce herself to be; though, when the letters were read, Elizabeth felt that Charlotte expressed herself on every point exactly as she might have foreseen.
+bal_253.
+en_254. She wrote cheerfully, seemed surrounded with comforts, and mentioned nothing which she could not praise.
+bal_254.
+en_255. The house, furniture, neighbourhood, and roads, were all to her taste, and Lady Catherine’s behaviour was most friendly and obliging.
+bal_255.
+en_256. It was Mr. Collins’s picture of Hunsford and Rosings rationally softened; and Elizabeth perceived that she must wait for her own visit there, to know the rest.
+bal_256.
+en_257. Jane had already written a few lines to her sister, to announce their safe arrival in London; and when she wrote again, Elizabeth hoped it would be in her power to say something of the Bingleys.
+bal_257.
+en_258. Her impatience for this second letter was as well rewarded as impatience generally is.
+bal_258.
+en_259. Jane had been a week in town, without either seeing or hearing from Caroline.
+bal_259.
+en_260. She accounted for it, however, by supposing that her last letter to her friend from Longbourn had by some accident been lost.
+bal_260.
+en_261. “My aunt,” she continued, “is going to-morrow into that part of the town, and I shall take the opportunity of calling in Grosvenor Street.”
+bal_261.
+en_262. She wrote again when the visit was paid, and she had seen Miss Bingley.
+bal_262.
+en_263. “I did not think Caroline in spirits,” were her words, “but she was very glad to see me, and reproached me for giving her no notice of my coming to London.
+bal_263.
+en_264. I was right, therefore; my last letter had never reached her.
+bal_264.
+en_265. I inquired after their brother, of course.
+bal_265.
+en_266. He was well, but so much engaged with Mr. Darcy that they scarcely ever saw him.
+bal_266.
+en_267. I found that Miss Darcy was expected to dinner: I wish I could see her.
+bal_267.
+en_268. My visit was not long, as Caroline and Mrs. Hurst were going out.
+bal_268.
+en_269. I dare say I shall soon see them here.”
+bal_269.
+en_270. Elizabeth shook her head over this letter.
+bal_270.
+en_271. It convinced her that accident only could discover to Mr. Bingley her sister’s being in town.
+bal_271.
+en_272. Four weeks passed away, and Jane saw nothing of him.
+bal_272.
+en_273. She endeavoured to persuade herself that she did not regret it; but she could no longer be blind to Miss Bingley’s inattention.
+bal_273.
+en_274. After waiting at home every morning for a fortnight, and inventing every evening a fresh excuse for her, the visitor did at last appear; but the shortness of her stay, and, yet more, the alteration of her manner, would allow Jane to deceive herself no longer.
+bal_274.
+en_275. The letter which she wrote on this occasion to her sister will prove what she felt:-- “My dearest Lizzy will, I am sure, be incapable of triumphing in her better judgment, at my expense, when I confess myself to have been entirely deceived in Miss Bingley’s regard for me.
+bal_275.
+en_276. But, my dear sister, though the event has proved you right, do not think me obstinate if I still assert that, considering what her behaviour was, my confidence was as natural as your suspicion.
+bal_276.
+en_277. I do not at all comprehend her reason for wishing to be intimate with me; but, if the same circumstances were to happen again, I am sure I should be deceived again.
+bal_277.
+en_278. Caroline did not return my visit till yesterday; and not a note, not a line, did I receive in the meantime.
+bal_278.
+en_279. When she did come, it was very evident that she had no pleasure in it; she made a slight, formal apology for not calling before, said not a word of wishing to see me again, and was, in every respect, so altered a creature, that when she went away I was perfectly resolved to continue the acquaintance no longer.
+bal_279.
+en_280. I pity, though I cannot help blaming, her.
+bal_280.
+en_281. She was very wrong in singling me out as she did; I can safely say, that every advance to intimacy began on her side.
+bal_281.
+en_282. But I pity her, because she must feel that she has been acting wrong, and because I am very sure that anxiety for her brother is the cause of it.
+bal_282.
+en_283. I need not explain myself farther; and though _
+bal_283.
+en_284. we_ know this anxiety to be quite needless, yet if she feels it, it will easily account for her behaviour to me; and so deservedly dear as he is to his sister, whatever anxiety she may feel on his behalf is natural and amiable.
+bal_284.
+en_285. I cannot but wonder, however, at her having any such fears now, because if he had at all cared about me, we must have met long, long ago.
+bal_285.
+en_286. He knows of my being in town, I am certain, from something she said herself; and yet it would seem, by her manner of talking, as if she wanted to persuade herself that he is really partial to Miss Darcy.
+bal_286.
+en_287. I cannot understand it.
+bal_287.
+en_288. If I were not afraid of judging harshly, I should be almost tempted to say, that there is a strong appearance of duplicity in all this.
+bal_288.
+en_289. I will endeavour to banish every painful thought, and think only of what will make me happy, your affection, and the invariable kindness of my dear uncle and aunt.
+bal_289.
+en_290. Let me hear from you very soon.
+bal_290.
+en_291. Miss Bingley said something of his never returning to Netherfield again, of giving up the house, but not with any certainty.
+bal_291.
+en_292. We had better not mention it.
+bal_292.
+en_293. I am extremely glad that you have such pleasant accounts from our friends at Hunsford.
+bal_293.
+en_294. Pray go to see them, with Sir William and Maria.
+bal_294.
+en_295. I am sure you will be very comfortable there.
+bal_295.
+en_296. “Yours, etc.”
+bal_296.
+en_297. This letter gave Elizabeth some pain; but her spirits returned, as she considered that Jane would no longer be duped, by the sister at least.
+bal_297.
+en_298. All expectation from the brother was now absolutely over.
+bal_298.
+en_299. She would not even wish for any renewal of his attentions.
+bal_299.
+en_300. His character sunk on every review of it; and, as a punishment for him, as well as a possible advantage to Jane, she seriously hoped he might really soon marry Mr. Darcy’s sister, as, by Wickham’s account, she would make him abundantly regret what he had thrown away.
+bal_300.
+en_301. Mrs. Gardiner about this time reminded Elizabeth of her promise concerning that gentleman, and required information; and Elizabeth had such to send as might rather give contentment to her aunt than to herself.
+bal_301.
+en_302. His apparent partiality had subsided, his attentions were over, he was the admirer of some one else.
+bal_302.
+en_303. Elizabeth was watchful enough to see it all, but she could see it and write of it without material pain.
+bal_303.
+en_304. Her heart had been but slightly touched, and her vanity was satisfied with believing that _
+bal_304.
+en_305. she_ would have been his only choice, had fortune permitted it.
+bal_305.
+en_306. The sudden acquisition of ten thousand pounds was the most remarkable charm of the young lady to whom he was now rendering himself agreeable; but Elizabeth, less clear-sighted perhaps in this case than in Charlotte’s, did not quarrel with him for his wish of independence.
+bal_306.
+en_307. Nothing, on the contrary, could be more natural; and, while able to suppose that it cost him a few struggles to relinquish her, she was ready to allow it a wise and desirable measure for both,
+bal_307.

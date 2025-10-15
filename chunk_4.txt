@@ -1,0 +1,640 @@
+en_1. “Indeed, I think there is not a more pleasant place in the world than our own home,” said Jane, with her usual gentleness.
+bal_1.
+en_2. “I did not know before,” continued Bingley, immediately, “that you were a studier of character.
+bal_2.
+en_3. It must be an amusing study.”
+bal_3.
+en_4. “Yes; but intricate characters are the _most_ amusing.
+bal_4.
+en_5. They have at least that advantage.”
+bal_5.
+en_6. “The country,” said Darcy, “can in general supply but few subjects for such a study.
+bal_6.
+en_7. In a country neighbourhood you move in a very confined and unvarying society.”
+bal_7.
+en_8. “But people themselves alter so much, that there is something new to be observed in them for ever.”
+bal_8.
+en_9. “Yes, indeed,” cried Mrs. Bennet, offended by his manner of mentioning a country neighbourhood.
+bal_9.
+en_10. “I assure you there is quite as much of _that_ going on in the country as in town.”
+bal_10.
+en_11. Everybody was surprised; and Darcy, after looking at her for a moment, turned silently away.
+bal_11.
+en_12. Mrs. Bennet, who fancied she had gained a complete victory over him, continued her triumph,-- “I cannot see that London has any great advantage over the country, for my part, except the shops and public places.
+bal_12.
+en_13. The country is a vast deal pleasanter, is not it, Mr. Bingley?”
+bal_13.
+en_14. “When I am in the country,” he replied, “I never wish to leave it; and when I am in town, it is pretty much the same.
+bal_14.
+en_15. They have each their advantages, and I can be equally happy in either.”
+bal_15.
+en_16. “Ay, that is because you have the right disposition.
+bal_16.
+en_17. But that gentleman,” looking at Darcy, “seemed to think the country was nothing at all.”
+bal_17.
+en_18. “Indeed, mamma, you are mistaken,” said Elizabeth, blushing for her mother.
+bal_18.
+en_19. “You quite mistook Mr. Darcy.
+bal_19.
+en_20. He only meant that there was not such a variety of people to be met with in the country as in town, which you must acknowledge to be true.”
+bal_20.
+en_21. “Certainly, my dear, nobody said there were; but as to not meeting with many people in this neighbourhood, I believe there are few neighbourhoods larger.
+bal_21.
+en_22. I know we dine with four-and-twenty families.”
+bal_22.
+en_23. Nothing but concern for Elizabeth could enable Bingley to keep his countenance.
+bal_23.
+en_24. His sister was less delicate, and directed her eye towards Mr. Darcy with a very expressive smile.
+bal_24.
+en_25. Elizabeth, for the sake of saying something that might turn her mother’s thoughts, now asked her if Charlotte Lucas had been at Longbourn since _her_ coming away.
+bal_25.
+en_26. “Yes, she called yesterday with her father.
+bal_26.
+en_27. “What an agreeable man Sir William is, Mr. Bingley! He possesses such warmth and politeness in his manner.”
+bal_27.
+en_28. “He is so much the man of fashion, with a grace that seems entirely his own.”
+bal_28.
+en_29. “He is so genteel and so easy that one cannot help but feel perfectly at ease in his company.”
+bal_29.
+en_30. “He has always something pleasant and obliging to say to everybody he meets.”
+bal_30.
+en_31. “Truly, his civility never fails to leave a most favourable impression.”
+bal_31.
+en_32. That_ is my idea of good breeding; and those persons who fancy themselves very important and never open their mouths quite mistake the matter.”
+bal_32.
+en_33. “Did Charlotte dine with you?”
+bal_33.
+en_34. “No, she would go home.
+bal_34.
+en_35. I fancy she was wanted about the mince-pies.
+bal_35.
+en_36. For my part, Mr. Bingley, _I_ always keep servants that can do their own work; _my_ daughters are brought up differently.
+bal_36.
+en_37. But everybody is to judge for themselves, and the Lucases are a very good sort of girls, I assure you.
+bal_37.
+en_38. It is a pity they are not handsome!
+bal_38.
+en_39. Not that _
+bal_39.
+en_40. I_ think Charlotte so _very_ plain; but then she is our particular friend.”
+bal_40.
+en_41. “She seems a very pleasant young woman,” said Bingley.
+bal_41.
+en_42. “Oh dear, yes; but you must own she is very plain.
+bal_42.
+en_43. Lady Lucas herself has often said so, and envied me Jane’s beauty.
+bal_43.
+en_44. I do not like to boast of my own child; but to be sure, Jane--one does not often see anybody better looking.
+bal_44.
+en_45. It is what everybody says.
+bal_45.
+en_46. I do not trust my own partiality.
+bal_46.
+en_47. When she was only fifteen there was a gentleman at my brother Gardiner’s in town so much in love with her, that my sister-in-law was sure he would make her an offer before we came away.
+bal_47.
+en_48. But, however, he did not.
+bal_48.
+en_49. Perhaps he thought her too young.
+bal_49.
+en_50. However, he wrote some verses on her, and very pretty they were.”
+bal_50.
+en_51. “And so ended his affection,” said Elizabeth, impatiently.
+bal_51.
+en_52. “There has been many a one, I fancy, overcome in the same way.
+bal_52.
+en_53. I wonder who first discovered the efficacy of poetry in driving away love!”
+bal_53.
+en_54. “I have been used to consider poetry as the _food_ of love,” said Darcy.
+bal_54.
+en_55. “Of a fine, stout, healthy love it may.
+bal_55.
+en_56. Everything nourishes what is strong already.
+bal_56.
+en_57. But if it be only a slight, thin sort of inclination, I am convinced that one good sonnet will starve it entirely away.”
+bal_57.
+en_58. Darcy only smiled; and the general pause which ensued made Elizabeth tremble lest her mother should be exposing herself again.
+bal_58.
+en_59. She longed to speak, but could think of nothing to say; and after a short silence Mrs. Bennet began repeating her thanks to Mr. Bingley for his kindness to Jane, with an apology for troubling him also with Lizzy.
+bal_59.
+en_60. Mr. Bingley was unaffectedly civil in his answer, and forced his younger sister to be civil also, and say what the occasion required.
+bal_60.
+en_61. She performed her part, indeed, without much graciousness, but Mrs. Bennet was satisfied, and soon afterwards ordered her carriage.
+bal_61.
+en_62. Upon this signal, the youngest of her daughters put herself forward.
+bal_62.
+en_63. The two girls had been whispering to each other during the whole visit; and the result of it was, that the youngest should tax Mr. Bingley with having promised on his first coming into the country to give a ball at Netherfield.
+bal_63.
+en_64. Lydia was a stout, well-grown girl of fifteen, with a fine complexion and good-humoured countenance; a favourite with her mother, whose affection had brought her into public at an early age.
+bal_64.
+en_65. She had high animal spirits, and a sort of natural self-consequence, which the attentions of the officers, to whom her uncle’s good dinners and her own easy manners recommended her, had increased into assurance.
+bal_65.
+en_66. She was very equal, therefore, to address Mr. Bingley on the subject of the ball, and abruptly reminded him of his promise; adding, that it would be the most shameful thing in the world if he did not keep it.
+bal_66.
+en_67. His answer to this sudden attack was delightful to her mother’s ear.
+bal_67.
+en_68. “I am perfectly ready, I assure you, to keep my engagement; and, when your sister is recovered, you shall, if you please, name the very day of the ball.
+bal_68.
+en_69. But you would not wish to be dancing while she is ill?”
+bal_69.
+en_70. Lydia declared herself satisfied.
+bal_70.
+en_71. “Oh yes—it would be much better to wait till Jane was well; and by that time, most likely, Captain Carter would be at Meryton again.”
+bal_71.
+en_72. “And when you have given your ball,” she added, “I shall insist on their giving one also.”
+bal_72.
+en_73. “I shall tell Colonel Forster it will be quite a shame if he does not.”
+bal_73.
+en_74. Mrs. Bennet and her daughters then departed, and Elizabeth returned instantly to Jane, leaving her own and her relations’ behaviour to the remarks of the two ladies and Mr. Darcy; the latter of whom, however, could not be prevailed on to join in their censure of her, in spite of all Miss Bingley’s witticisms on fine eyes.
+bal_74.
+en_75. “Rain tapped softly at the windowpanes” “The fire burned low in the grate” The day passed much as the day before had done.
+bal_75.
+en_76. Mrs. Hurst and Miss Bingley had spent some hours of the morning with the invalid, who continued, though slowly, to mend; and, in the evening, Elizabeth joined their party in the drawing-room.
+bal_76.
+en_77. The loo table, however, did not appear.
+bal_77.
+en_78. Mr. Darcy was writing, and Miss Bingley, seated near him, was watching the progress of his letter, and repeatedly calling off his attention by messages to his sister.
+bal_78.
+en_79. Mr. Hurst and Mr. Bingley were at piquet, and Mrs. Hurst was observing their game.
+bal_79.
+en_80. Elizabeth took up some needlework, and was sufficiently amused in attending to what passed between Darcy and his companion.
+bal_80.
+en_81. The perpetual commendations of the lady either on his hand-writing, or on the evenness of his lines, or on the length of his letter, with the perfect unconcern with which her praises were received, formed a curious dialogue, and was exactly in unison with her opinion of each.
+bal_81.
+en_82. “How delighted Miss Darcy will be to receive such a letter!”
+bal_82.
+en_83. He made no answer.
+bal_83.
+en_84. “You write uncommonly fast.”
+bal_84.
+en_85. “You are mistaken.
+bal_85.
+en_86. I write rather slowly.”
+bal_86.
+en_87. “How many letters you must have occasion to write in the course of a year!
+bal_87.
+en_88. Letters of business, too!
+bal_88.
+en_89. How odious I should think them!”
+bal_89.
+en_90. “It is fortunate, then, that they fall to my lot instead of to yours.”
+bal_90.
+en_91. “Pray tell your sister that I long to see her.”
+bal_91.
+en_92. “I have already told her so once, by your desire.”
+bal_92.
+en_93. “I am afraid you do not like your pen.
+bal_93.
+en_94. Let me mend it for you.
+bal_94.
+en_95. I mend pens remarkably well.”
+bal_95.
+en_96. “Thank you--but I always mend my own.”
+bal_96.
+en_97. “How can you contrive to write so even?”
+bal_97.
+en_98. He was silent.
+bal_98.
+en_99. “Tell your sister I am delighted to hear of her improvement on the harp, and pray let her know that I am quite in raptures with her beautiful little design for a table, and I think it infinitely superior to Miss Grantley’s.”
+bal_99.
+en_100. “Will you give me leave to defer your raptures till I write again?
+bal_100.
+en_101. At present I have not room to do them justice.”
+bal_101.
+en_102. “Oh, it is of no consequence.
+bal_102.
+en_103. I shall see her in January.
+bal_103.
+en_104. But do you always write such charming long letters to her, Mr. Darcy?”
+bal_104.
+en_105. “They are generally long; but whether always charming, it is not for me to determine.”
+bal_105.
+en_106. “It is a rule with me, that a person who can write a long letter with ease cannot write ill.”
+bal_106.
+en_107. “That will not do for a compliment to Darcy, Caroline,” cried her brother, “because he does _not_ write with ease.
+bal_107.
+en_108. He studies too much for words of four syllables.
+bal_108.
+en_109. Do not you, Darcy?”
+bal_109.
+en_110. “My style of writing is very different from yours.”
+bal_110.
+en_111. “Oh,” cried Miss Bingley, “Charles writes in the most careless way imaginable.
+bal_111.
+en_112. He leaves out half his words, and blots the rest.”
+bal_112.
+en_113. “My ideas flow so rapidly that I have not time to express them; by which means my letters sometimes convey no ideas at all to my correspondents.”
+bal_113.
+en_114. “Your humility, Mr. Bingley,” said Elizabeth, “must disarm reproof.”
+bal_114.
+en_115. “Nothing is more deceitful,” said Darcy, “than the appearance of humility.
+bal_115.
+en_116. It is often only carelessness of opinion, and sometimes an indirect boast.”
+bal_116.
+en_117. “And which of the two do you call _my_ little recent piece of modesty?”
+bal_117.
+en_118. “The indirect boast; for you are really proud of your defects in writing, because you consider them as proceeding from a rapidity of thought and carelessness of execution, which, if not estimable, you think at least highly interesting.
+bal_118.
+en_119. The power of doing anything with quickness is always much prized by the possessor, and often without any attention to the imperfection of the performance.
+bal_119.
+en_120. When you told Mrs. Bennet this morning, that if you ever resolved on quitting Netherfield you should be gone in five minutes, you meant it to be a sort of panegyric, of compliment to yourself; and yet what is there so very laudable in a precipitance which must leave very necessary business undone, and can be of no real advantage to yourself or anyone else?”
+bal_120.
+en_121. “Nay,” cried Bingley, “this is too much, to remember at night all the foolish things that were said in the morning.
+bal_121.
+en_122. And yet, upon my honour, I believed what I said of myself to be true, and I believe it at this moment.
+bal_122.
+en_123. At least, therefore, I did not assume the character of needless precipitance merely to show off before the ladies.”
+bal_123.
+en_124. “I daresay you believed it; but I am by no means convinced that you would be gone with such celerity.
+bal_124.
+en_125. Your conduct would be quite as dependent on chance as that of any man I know; and if, as you were mounting your horse, a friend were to say, ‘Bingley, you had better stay till next week,’ you would probably do it--you would probably not go--and, at another word, might stay a month.”
+bal_125.
+en_126. “You have only proved by this,” cried Elizabeth, “that Mr. Bingley did not do justice to his own disposition.
+bal_126.
+en_127. You have shown him off now much more than he did himself.”
+bal_127.
+en_128. “I am exceedingly gratified,” said Bingley, “by your converting what my friend says into a compliment on the sweetness of my temper.
+bal_128.
+en_129. But I am afraid you are giving it a turn which that gentleman did by no means intend; for he would certainly think the better of me if, under such a circumstance, I were to give a flat denial, and ride off as fast as I could.”
+bal_129.
+en_130. “Would Mr. Darcy then consider the rashness of your original intention as atoned for by your obstinacy in adhering to it?”
+bal_130.
+en_131. “Upon my word, I cannot exactly explain the matter--Darcy must speak for himself.”
+bal_131.
+en_132. “You expect me to account for opinions which you choose to call mine, but which I have never acknowledged.
+bal_132.
+en_133. Allowing the case, however, to stand according to your representation, you must remember, Miss Bennet, that the friend who is supposed to desire his return to the house, and the delay of his plan, has merely desired it, asked it without offering one argument in favour of its propriety.”
+bal_133.
+en_134. “To yield readily--easily--to the _persuasion_ of a friend is no merit with you.”
+bal_134.
+en_135. “To yield without conviction is no compliment to the understanding of either.”
+bal_135.
+en_136. “You appear to me, Mr. Darcy, to allow nothing for the influence of friendship and affection.
+bal_136.
+en_137. A regard for the requester would often make one readily yield to a request, without waiting for arguments to reason one into it.
+bal_137.
+en_138. I am not particularly speaking of such a case as you have supposed about Mr. Bingley.
+bal_138.
+en_139. We may as well wait, perhaps, till the circumstance occurs, before we discuss the discretion of his behaviour thereupon.
+bal_139.
+en_140. But in general and ordinary cases, between friend and friend, where one of them is desired by the other to change a resolution of no very great moment, should you think ill of that person for complying with the desire, without waiting to be argued into it?”
+bal_140.
+en_141. “Will it not be advisable, before we proceed on this subject, to arrange with rather more precision the degree of importance which is to appertain to this request, as well as the degree of intimacy subsisting between the parties?”
+bal_141.
+en_142. “By all means,” cried Bingley; “let us hear all the particulars, not forgetting their comparative height and size, for that will have more weight in the argument, Miss Bennet, than you may be aware of.
+bal_142.
+en_143. I assure you that if Darcy were not such a great tall fellow, in comparison with myself, I should not pay him half so much deference.
+bal_143.
+en_144. I declare I do not know a more awful object than Darcy on particular occasions, and in particular places; at his own house especially, and of a Sunday evening, when he has nothing to do.”
+bal_144.
+en_145. Mr. Darcy smiled; but Elizabeth thought she could perceive that he was rather offended, and therefore checked her laugh.
+bal_145.
+en_146. Miss Bingley warmly resented the indignity he had received, in an expostulation with her brother for talking such nonsense.
+bal_146.
+en_147. “I see your design, Bingley,” said his friend.
+bal_147.
+en_148. “You dislike an argument, and want to silence this.”
+bal_148.
+en_149. “Perhaps I do.
+bal_149.
+en_150. Arguments are too much like disputes.
+bal_150.
+en_151. If you and Miss Bennet will defer yours till I am out of the room, I shall be very thankful; and then you may say whatever you like of me.”
+bal_151.
+en_152. “What you ask,” said Elizabeth, “is no sacrifice on my side; and Mr. Darcy had much better finish his letter.”
+bal_152.
+en_153. Mr. Darcy took her advice, and did finish his letter.
+bal_153.
+en_154. When that business was over, he applied to Miss Bingley and Elizabeth for the indulgence of some music.
+bal_154.
+en_155. Miss Bingley moved with alacrity to the pianoforte, and after a polite request that Elizabeth would lead the way, which the other as politely and more earnestly negatived, she seated herself.
+bal_155.
+en_156. Mrs. Hurst sang with her sister; and while they were thus employed, Elizabeth could not help observing, as she turned over some music-books that lay on the instrument, how frequently Mr. Darcy’s eyes were fixed on her.
+bal_156.
+en_157. She hardly knew how to suppose that she could be an object of admiration to so great a man, and yet that he should look at her because he disliked her was still more strange.
+bal_157.
+en_158. She could only imagine, however, at last, that she drew his notice because there was something about her more wrong and reprehensible, according to his ideas of right, than in any other person present.
+bal_158.
+en_159. The supposition did not pain her.
+bal_159.
+en_160. She liked him too little to care for his approbation.
+bal_160.
+en_161. After playing some Italian songs, Miss Bingley varied the charm by a lively Scotch air; and soon afterwards Mr. Darcy, drawing near Elizabeth, said to her,-- “Do you not feel a great inclination, Miss Bennet, to seize such an opportunity of dancing a reel?”
+bal_161.
+en_162. She smiled, but made no answer.
+bal_162.
+en_163. He repeated the question, with some surprise at her silence.
+bal_163.
+en_164. “Oh,” said she, “I heard you before; but I could not immediately determine what to say in reply.
+bal_164.
+en_165. You wanted me, I know, to say ‘Yes,’ that you might have the pleasure of despising my taste; but I always delight in overthrowing those kind of schemes, and cheating a person of their premeditated contempt.
+bal_165.
+en_166. I have, therefore, made up my mind to tell you that I do not want to dance a reel at all; and now despise me if you dare.”
+bal_166.
+en_167. “Indeed I do not dare.”
+bal_167.
+en_168. Elizabeth, having rather expected to affront him, was amazed at his gallantry; but there was a mixture of sweetness and archness in her manner which made it difficult for her to affront anybody, and Darcy had never been so bewitched by any woman as he was by her.
+bal_168.
+en_169. He really believed that, were it not for the inferiority of her connections, he should be in some danger.
+bal_169.
+en_170. Miss Bingley saw, or suspected, enough to be jealous; and her great anxiety for the recovery of her dear friend Jane received some assistance from her desire of getting rid of Elizabeth.
+bal_170.
+en_171. She often tried to provoke Darcy into disliking her guest, by talking of their supposed marriage, and planning his happiness in such an alliance.
+bal_171.
+en_172. “I hope,” said she, as they were walking together in the shrubbery the next day, “you will give your mother-in-law a few hints, when this desirable event takes place, as to the advantage of holding her tongue; and if you can compass it, to cure the younger girls of running after the officers.
+bal_172.
+en_173. And, if I may mention so delicate a subject, endeavour to check that little something, bordering on conceit and impertinence, which your lady possesses.”
+bal_173.
+en_174. “She waved him back with gentle insistence”
+bal_174.
+en_175. “His tone carried a hint of irony” “Have you anything else to propose for my domestic felicity?”
+bal_175.
+en_176. “Oh yes.”
+bal_176.
+en_177. Do let the portraits of your uncle and aunt Philips be placed in the gallery at Pemberley.
+bal_177.
+en_178. Put them next to your great-uncle the judge.
+bal_178.
+en_179. They are in the same profession, you know, only in different lines.
+bal_179.
+en_180. As for your Elizabeth’s picture, you must not attempt to have it taken, for what painter could do justice to those beautiful eyes?”
+bal_180.
+en_181. “It would not be easy, indeed, to catch their expression; but their colour and shape, and the eyelashes, so remarkably fine, might be copied.”
+bal_181.
+en_182. At that moment they were met from another walk by Mrs. Hurst and Elizabeth herself.
+bal_182.
+en_183. “I did not know that you intended to walk,” said Miss Bingley, in some confusion, lest they had been overheard.
+bal_183.
+en_184. “You used us abominably ill,” answered Mrs. Hurst, “running away without telling us that you were coming out.”
+bal_184.
+en_185. Then taking the disengaged arm of Mr. Darcy, she left Elizabeth to walk by herself.
+bal_185.
+en_186. The path just admitted three.
+bal_186.
+en_187. Mr. Darcy felt their rudeness, and immediately said,-- “This walk is not wide enough for our party.
+bal_187.
+en_188. We had better go into the avenue.”
+bal_188.
+en_189. But Elizabeth, who had not the least inclination to remain with them, laughingly answered,-- “No, no; stay where you are.
+bal_189.
+en_190. You are charmingly grouped, and appear to uncommon advantage.
+bal_190.
+en_191. The picturesque would be spoilt by admitting a fourth.
+bal_191.
+en_192. Good-bye.”
+bal_192.
+en_193. She then ran gaily off, rejoicing, as she rambled about, in the hope of being at home again in a day or two.
+bal_193.
+en_194. Jane was already so much recovered as to intend leaving her room for a couple of hours that evening.
+bal_194.
+en_195. “Logs crackled in the hearth anew”
+bal_195.
+en_196. “The evening promised quiet conviviality”
+bal_196.
+en_197. “Shadows lengthened across the parlour floor” When the ladies removed after dinner Elizabeth ran up to her sister, and seeing her well guarded from cold, attended her into the drawing-room, where she was welcomed by her two friends with many professions of pleasure; and Elizabeth had never seen them so agreeable as they were during the hour which passed before the gentlemen appeared.
+bal_197.
+en_198. Their powers of conversation were considerable.
+bal_198.
+en_199. They could describe an entertainment with accuracy, relate an anecdote with humour, and laugh at their acquaintance with spirit.
+bal_199.
+en_200. But when the gentlemen entered, Jane was no longer the first object; Miss Bingley’s eyes were instantly turned towards Darcy, and she had something to say to him before he had advanced many steps.
+bal_200.
+en_201. He addressed himself directly to Miss Bennet with a polite congratulation; Mr. Hurst also made her a slight bow, and said he was “very glad;” but diffuseness and warmth remained for Bingley’s salutation.
+bal_201.
+en_202. He was full of joy and attention.
+bal_202.
+en_203. The first half hour was spent in piling up the fire, lest she should suffer from the change of room; and she removed, at his desire, to the other side of the fireplace, that she might be farther from the door.
+bal_203.
+en_204. He then sat down by her, and talked scarcely to anyone else.
+bal_204.
+en_205. Elizabeth, at work in the opposite corner, saw it all with great delight.
+bal_205.
+en_206. When tea was over Mr. Hurst reminded his sister-in-law of the card-table--but in vain.
+bal_206.
+en_207. She had obtained private intelligence that Mr. Darcy did not wish for cards, and Mr. Hurst soon found even his open petition rejected.
+bal_207.
+en_208. She assured him that no one intended to play, and the silence of the whole party on the subject seemed to justify her.
+bal_208.
+en_209. Mr. Hurst had, therefore, nothing to do but to stretch himself on one of the sofas and go to sleep.
+bal_209.
+en_210. Darcy took up a book.
+bal_210.
+en_211. Miss Bingley did the same; and Mrs. Hurst, principally occupied in playing with her bracelets and rings, joined now and then in her brother’s conversation with Miss Bennet.
+bal_211.
+en_212. Miss Bingley’s attention was quite as much engaged in watching Mr. Darcy’s progress through _his_ book, as in reading her own; and she was perpetually either making some inquiry, or looking at his page.
+bal_212.
+en_213. She could not win him, however, to any conversation; he merely answered her question and read on.
+bal_213.
+en_214. At length, quite exhausted by the attempt to be amused with her own book, which she had only chosen because it was the second volume of his, she gave a great yawn and said, “How pleasant it is to spend an evening in this way!
+bal_214.
+en_215. I declare, after all, there is no enjoyment like reading!
+bal_215.
+en_216. How much sooner one tires of anything than of a book!
+bal_216.
+en_217. When I have a house of my own, I shall be miserable if I have not an excellent library.”
+bal_217.
+en_218. No one made any reply.
+bal_218.
+en_219. She then yawned again, threw aside her book, and cast her eyes round the room in quest of some amusement; when, hearing her brother mentioning a ball to Miss Bennet, she turned suddenly towards him and said,-- “By the bye Charles, are you really serious in meditating a dance at Netherfield?
+bal_219.
+en_220. I would advise you, before you determine on it, to consult the wishes of the present party; I am much mistaken if there are not some among us to whom a ball would be rather a punishment than a pleasure.”
+bal_220.
+en_221. “If you mean Darcy,” cried her brother, “he may go to bed, if he chooses, before it begins; but as for the ball, it is quite a settled thing, and as soon as Nicholls has made white soup enough I shall send round my cards.”
+bal_221.
+en_222. “I should like balls infinitely better,” she replied, “if they were carried on in a different manner; but there is something insufferably tedious in the usual process of such a meeting.
+bal_222.
+en_223. It would surely be much more rational if conversation instead of dancing made the order of the day.”
+bal_223.
+en_224. “Much more rational, my dear Caroline, I dare say; but it would not be near so much like a ball.”
+bal_224.
+en_225. Miss Bingley made no answer, and soon afterwards got up and walked about the room.
+bal_225.
+en_226. Her figure was elegant, and she walked well; but Darcy, at whom it was all aimed, was still inflexibly studious.
+bal_226.
+en_227. In the desperation of her feelings, she resolved on one effort more; and, turning to Elizabeth, said,-- “Miss Eliza Bennet, let me persuade you to follow my example, and take a turn about the room.
+bal_227.
+en_228. I assure you it is very refreshing after sitting so long in one attitude.”
+bal_228.
+en_229. Elizabeth was surprised, but agreed to it immediately.
+bal_229.
+en_230. Miss Bingley succeeded no less in the real object of her civility: Mr. Darcy looked up.
+bal_230.
+en_231. He was as much awake to the novelty of attention in that quarter as Elizabeth herself could be, and unconsciously closed his book.
+bal_231.
+en_232. He was directly invited to join their party, but he declined it, observing that he could imagine but two motives for their choosing to walk up and down the room together, with either of which motives his joining them would interfere.
+bal_232.
+en_233. What could he mean?
+bal_233.
+en_234. She was dying to know what could be his meaning--and asked Elizabeth whether she could at all understand him.
+bal_234.
+en_235. “Not at all,” was her answer; “but, depend upon it, he means to be severe on us, and our surest way of disappointing him will be to ask nothing about it.”
+bal_235.
+en_236. Miss Bingley, however, was incapable of disappointing Mr. Darcy in anything, and persevered, therefore, in requiring an explanation of his two motives.
+bal_236.
+en_237. “I have not the smallest objection to explaining them,” said he, as soon as she allowed him to speak.
+bal_237.
+en_238. “You either choose this method of passing the evening because you are in each other’s confidence, and have secret affairs to discuss, or because you are conscious that your figures appear to the greatest advantage in walking: if the first, I should be completely in your way; and if the second, I can admire you much better as I sit by the fire.”
+bal_238.
+en_239. “Oh, shocking!”
+bal_239.
+en_240. cried Miss Bingley.
+bal_240.
+en_241. “I never heard anything so abominable.
+bal_241.
+en_242. How shall we punish him for such a speech?”
+bal_242.
+en_243. “Nothing so easy, if you have but the inclination,” said Elizabeth.
+bal_243.
+en_244. “We can all plague and punish one another.
+bal_244.
+en_245. Tease him--laugh at him.
+bal_245.
+en_246. Intimate as you are, you must know how it is to be done.”
+bal_246.
+en_247. “But upon my honour I do _not_.
+bal_247.
+en_248. I do assure you that my intimacy has not yet taught me _that_.
+bal_248.
+en_249. Tease calmness of temper and presence of mind!
+bal_249.
+en_250. No, no; I feel he may defy us there.
+bal_250.
+en_251. And as to laughter, we will not expose ourselves, if you please, by attempting to laugh without a subject.
+bal_251.
+en_252. Mr. Darcy may hug himself.”
+bal_252.
+en_253. “Mr. Darcy is not to be laughed at!” cried Elizabeth.
+bal_253.
+en_254. “That is an uncommon advantage, and uncommon I hope it will continue, for it would be a great loss to _me_ to have many such acquaintance.
+bal_254.
+en_255. I dearly love a laugh.”
+bal_255.
+en_256. “Miss Bingley,” said he, “has given me credit for more than can be.
+bal_256.
+en_257. The wisest and best of men,--nay, the wisest and best of their actions,--may be rendered ridiculous by a person whose first object in life is a joke.”
+bal_257.
+en_258. “Certainly,” replied Elizabeth, “there are such people, but I hope I am not one of _them_.
+bal_258.
+en_259. I hope I never ridicule what is wise or good.
+bal_259.
+en_260. Follies and nonsense, whims and inconsistencies, _do_ divert me, I own, and I laugh at them whenever I can.
+bal_260.
+en_261. But these, I suppose, are precisely what you are without.”
+bal_261.
+en_262. “Perhaps that is not possible for anyone.
+bal_262.
+en_263. But it has been the study of my life to avoid those weaknesses which often expose a strong understanding to ridicule.”
+bal_263.
+en_264. “Such as vanity and pride.”
+bal_264.
+en_265. “Yes, vanity is a weakness indeed.
+bal_265.
+en_266. But pride--where there is a real superiority of mind--pride will be always under good regulation.”
+bal_266.
+en_267. Elizabeth turned away to hide a smile.
+bal_267.
+en_268. “Your examination of Mr. Darcy is over, I presume,” said Miss Bingley; “and pray what is the result?”
+bal_268.
+en_269. “I am perfectly convinced by it that Mr. Darcy has no defect.
+bal_269.
+en_270. He owns it himself without disguise.”
+bal_270.
+en_271. “No,” said Darcy, “I have made no such pretension.
+bal_271.
+en_272. I have faults enough, but they are not, I hope, of understanding.
+bal_272.
+en_273. My temper I dare not vouch for.
+bal_273.
+en_274. It is, I believe, too little yielding; certainly too little for the convenience of the world.
+bal_274.
+en_275. I cannot forget the follies and vices of others so soon as I ought, nor their offences against myself.
+bal_275.
+en_276. My feelings are not puffed about with every attempt to move them.
+bal_276.
+en_277. My temper would perhaps be called resentful.
+bal_277.
+en_278. My good opinion once lost is lost for ever.”
+bal_278.
+en_279. “_That_ is a failing, indeed!” cried Elizabeth.
+bal_279.
+en_280. “Implacable resentment _is_ a shade in a character.
+bal_280.
+en_281. But you have chosen your fault well.
+bal_281.
+en_282. I really cannot _laugh_ at it.
+bal_282.
+en_283. You are safe from me.”
+bal_283.
+en_284. “There is, I believe, in every disposition a tendency to some particular evil, a natural defect, which not even the best education can overcome.”
+bal_284.
+en_285. “And _your_ defect is a propensity to hate everybody.”
+bal_285.
+en_286. “And yours,” he replied, with a smile, “is wilfully to misunderstand them.”
+bal_286.
+en_287. “Do let us have a little music,” cried Miss Bingley, tired of a conversation in which she had no share.
+bal_287.
+en_288. “Louisa, you will not mind my waking Mr. Hurst.”
+bal_288.
+en_289. Her sister made not the smallest objection, and the pianoforte was opened; and Darcy, after a few moments’ recollection, was not sorry for it.
+bal_289.
+en_290. He began to feel the danger of paying Elizabeth too much attention.
+bal_290.
+en_291. “Dawn broke soft over Hertfordshire fields”
+bal_291.
+en_292. “A quiet resolve settled between them” In consequence of an agreement between the sisters, Elizabeth wrote the next morning to her mother, to beg that the carriage might be sent for them in the course of the day.
+bal_292.
+en_293. But Mrs. Bennet, who had calculated on her daughters remaining at Netherfield till the following Tuesday, which would exactly finish Jane’s week, could not bring herself to receive them with pleasure before.
+bal_293.
+en_294. Her answer, therefore, was not propitious, at least not to Elizabeth’s wishes, for she was impatient to get home.
+bal_294.
+en_295. Mrs. Bennet sent them word that they could not possibly have the carriage before Tuesday; and in her postscript it was added, that if Mr. Bingley and his sister pressed them to stay longer, she could spare them very well.
+bal_295.
+en_296. Against staying longer, however, Elizabeth was positively resolved--nor did she much expect it would be asked; and fearful, on the contrary, of being considered as intruding themselves needlessly long, she urged Jane to borrow Mr. Bingley’s carriage immediately, and at length it was settled that their original design of leaving Netherfield that morning should be mentioned, and the request made.
+bal_296.
+en_297. The communication excited many professions of concern; and enough was said of wishing them to stay at least till the following day to work on Jane; and till the morrow their going was deferred.
+bal_297.
+en_298. Miss Bingley was then sorry that she had proposed the delay; for her jealousy and dislike of one sister much exceeded her affection for the other.
+bal_298.
+en_299. The master of the house heard with real sorrow that they were to go so soon, and repeatedly tried to persuade Miss Bennet that it would not be safe for her--that she was not enough recovered; but Jane was firm where she felt herself to be right.
+bal_299.
+en_300. To Mr. Darcy it was welcome intelligence: Elizabeth had been at Netherfield long enough.
+bal_300.
+en_301. She attracted him more than he liked; and Miss Bingley was uncivil to _her_ and more teasing than usual to himself.
+bal_301.
+en_302. He wisely resolved to be particularly careful that no sign of admiration should _now_ escape him--nothing that could elevate her with the hope of influencing his felicity; sensible that, if such an idea had been suggested, his behaviour during the last day must have material weight in confirming or crushing it.
+bal_302.
+en_303. Steady to his purpose, he scarcely spoke ten words to her through the whole of Saturday: and though they were at one time left by themselves for half an hour, he adhered most conscientiously to his book, and would not even look at her.
+bal_303.
+en_304. On Sunday, after morning service, the separation, so agreeable to almost all, took place.
+bal_304.
+en_305. Miss Bingley’s civility to Elizabeth increased at last very rapidly, as well as her affection for Jane; and when they parted, after assuring the latter of the pleasure it would always give her to see her either at Longbourn or Netherfield, and embracing her most tenderly, she even shook hands with the former.
+bal_305.
+en_306. Elizabeth took leave of the whole party in the liveliest spirits.
+bal_306.
+en_307. They were not welcomed home very cordially by their mother.
+bal_307.
+en_308. Mrs. Bennet wondered at their coming, and thought them very wrong to give so much trouble, and was sure Jane would have caught cold again.
+bal_308.
+en_309. But their father, though very laconic in his expressions of pleasure, was really glad to see them; he had felt their importance in the family circle.
+bal_309.
+en_310. The evening conversation, when they were all assembled, had lost much of its animation, and almost all its sense, by the absence of Jane and Elizabeth.
+bal_310.
+en_311. They found Mary, as usual, deep in the study of thorough bass and human nature; and had some new extracts to admire and some new observations of threadbare morality to listen to.
+bal_311.
+en_312. Catherine and Lydia had information for them of a different sort.
+bal_312.
+en_313. Much had been done, and much had been said in the regiment since the preceding Wednesday; several of the officers had dined lately with their uncle; a private had been flogged; and it had actually been hinted that Colonel Forster was going to be married.
+bal_313.
+en_314. “Morning light filled the breakfast parlour”
+bal_314.
+en_315. “Teacups clinked as silence hung briefly” “I hope, my dear,” said Mr. Bennet to his wife, as they were at breakfast the next morning, “that you have ordered a good dinner to-day, because I have reason to expect an addition to our family party.”
+bal_315.
+en_316. “Who do you mean, my dear?
+bal_316.
+en_317. I know of nobody that is coming, I am sure, unless Charlotte Lucas should happen to call in; and I hope _my_ dinners are good enough for her.
+bal_317.
+en_318. I do not believe she often sees such at home.”
+bal_318.
+en_319. “The person of whom I speak is a gentleman and a stranger.”
+bal_319.
+en_320. Mrs. Bennet’s eyes sparkled.
+bal_320.
